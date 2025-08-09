@@ -21,7 +21,7 @@ export default function BasicGrammar() {
   return (
     <div>
       <h3 className="text-xl font-medium mb-2">Basic Grammar</h3>
-      <p>{texts[l]}</p>
+      <h6>{texts[l]}</h6>
     </div>
   );
 }
