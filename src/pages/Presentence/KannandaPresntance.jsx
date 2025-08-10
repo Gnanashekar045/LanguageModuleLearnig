@@ -4,11 +4,14 @@ import verbsKannadaScript from "../data/verbsKannadaScript.json";
 export default function KannandaPresntance() {
   const [search, setSearch] = useState("");
 
-  const filteredVerbs = verbsKannadaScript.filter(
-    (item) =>
-      item.verb.toLowerCase().includes(search.toLowerCase()) ||
-      item.meaning.includes(search)
-  );
+  const filteredVerbs = verbsKannadaScript.filter((item) => {
+    const verb = (item.verb || "").toLowerCase();
+    const meaning = item.meaning || "";
+    return (
+      verb.includes(search.toLowerCase()) ||
+      meaning.includes(search)
+    );
+  });
 
   return (
     <div className="max-w-4xl mx-auto p-6 bg-white shadow-lg rounded-lg">
@@ -36,13 +39,13 @@ export default function KannandaPresntance() {
               className="border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow"
             >
               <h2 className="text-xl font-semibold text-purple-600 mb-1">
-                {item.verb}
+                {item.verb || "—"}
               </h2>
               <p className="text-sm text-gray-500 mb-3">
-                {item.meaning}
+                {item.meaning || "No meaning available"}
               </p>
               <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-gray-700">
-                {item.forms.map((form, i) => (
+                {(item.forms || []).map((form, i) => (
                   <li key={i} className="bg-gray-50 p-2 rounded">
                     {form}
                   </li>

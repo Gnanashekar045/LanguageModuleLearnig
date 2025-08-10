@@ -1,10 +1,10 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import EnglishPresentence from "../Presentence.jsx/EnglishPresentence";
-import HindiPresentation from "../Presentence.jsx/HindiPresentation";
-import TeluguPresentance from "../Presentence.jsx/TeluguPresentance";
-import TamilPresentance from "../Presentence.jsx/TamilPresentance";
-import KannandaPresntance from "../Presentence.jsx/KannandaPresntance";
+import EnglishPresentence from "../Presentence/EnglishPresentence";
+import HindiPresentation from "../Presentence/HindiPresentation";
+import TeluguPresentance from "../Presentence/TeluguPresentance";
+import TamilPresentance from "../Presentence/TamilPresentance";
+import KannandaPresntance from "../Presentence/KannandaPresntance";
 
 const texts = {
   english: <EnglishPresentence/>,

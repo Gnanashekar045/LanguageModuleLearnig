@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 const topics = [
   { label: "Basic Grammar", slug: "basic-grammar" },
   { label: "Present Tense", slug: "present-tense" },
+  { label: "Present Continuous", slug: "PresentContinuous-tense" },
   { label: "Past Tense", slug: "past-tense" },
   { label: "Future Tense", slug: "future-tense" },
 ];

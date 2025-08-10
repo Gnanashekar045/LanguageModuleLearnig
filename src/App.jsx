@@ -9,6 +9,8 @@ import BasicGrammar from "./pages/topics/BasicGrammar";
 import PastTense from "./pages/topics/PastTense";
 import PresentTense from "./pages/topics/PresentTense";
 import FutureTense from "./pages/topics/FutureTense";
+import PresentContinuous from "./pages/topics/PresentContinuous";
+
 
 export default function App() {
   return (
@@ -23,6 +25,7 @@ export default function App() {
             <Route index element={<Navigate to="basic-grammar" replace />} />
             <Route path="basic-grammar" element={<BasicGrammar />} />
             <Route path="present-tense" element={<PresentTense />} />
+            <Route path="PresentContinuous-tense" element={<PresentContinuous />} />
             <Route path="past-tense" element={<PastTense />} />
             <Route path="future-tense" element={<FutureTense />} />
           </Route>
