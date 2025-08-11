@@ -1,10 +1,10 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import EnglishGrammar from "../Grammer/EnglishGrammar";
-import HindiGrammar from "../Grammer/HindiGrammar";
-import TeluguGrammar from "../Grammer/TeluguGrammar";
-import TamilGrammar from "../Grammer/TamilGrammar";
-import KannadaGrammar from "../Grammer/KannadaGrammar";
+import EnglishGrammar from "../BasicGrammer/EnglishGrammar";
+import HindiGrammar from "../BasicGrammer/HindiGrammar";
+import TeluguGrammar from "../BasicGrammer/TeluguGrammar";
+import TamilGrammar from "../BasicGrammer/TamilGrammar";
+import KannadaGrammar from "../BasicGrammer/KannadaGrammar";
 
 const texts = {
   english: <EnglishGrammar/>,
