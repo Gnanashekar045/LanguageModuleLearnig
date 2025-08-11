@@ -1,6 +1,1788 @@
 [
   {
-    "verb": "Do / ಮಾಡು",
+    "verb": "Abash / ಗಾಬರಿಗೊಳಿಸು",
+    "forms": [
+      "I abash / ನಾನು ಗಾಬರಿಗೊಳಿಸುತ್ತೇನೆ",
+      "You abash / ನೀನು ಗಾಬರಿಗೊಳಿಸುತ್ತೀಯ",
+      "We abash / ನಾವು ಗಾಬರಿಗೊಳಿಸುತ್ತೇವೆ",
+      "They abash / ಅವರು ಗಾಬರಿಗೊಳಿಸುತ್ತಾರೆ",
+      "He abashes / ಅವನು ಗಾಬರಿಗೊಳಿಸುತ್ತಾನೆ",
+      "She abashes / ಅವಳು ಗಾಬರಿಗೊಳಿಸುತ್ತಾಳೆ",
+      "It abashes / ಅದು ಗಾಬರಿಗೊಳಿಸುತ್ತದೆ",
+      "John abashes / ಜಾನ್ ಗಾಬರಿಗೊಳಿಸುತ್ತಾನೆ",
+      "My sister abashes / ನನ್ನ ಸಹೋದರಿ ಗಾಬರಿಗೊಳಿಸುತ್ತಾಳೆ",
+      "The dog abashes / ನಾಯಿ ಗಾಬರಿಗೊಳಿಸುತ್ತದೆ",
+      "People abash / ಜನರು ಗಾಬರಿಗೊಳಿಸುತ್ತಾರೆ",
+      "Children abash / ಮಕ್ಕಳು ಗಾಬರಿಗೊಳಿಸುತ್ತಾರೆ",
+      "Someone abashes / ಯಾರೋ ಗಾಬರಿಗೊಳಿಸುತ್ತಾರೆ",
+      "Nobody abashes / ಯಾರೂ ಗಾಬರಿಗೊಳಿಸುವುದಿಲ್ಲ",
+      "Everybody abashes / ಎಲ್ಲರೂ ಗಾಬರಿಗೊಳಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Abate / ಕಡಿಮೆಯಾಗು",
+    "forms": [
+      "I abate / ನಾನು ಕಡಿಮೆಯಾಗುತ್ತೇನೆ",
+      "You abate / ನೀನು ಕಡಿಮೆಯಾಗುತ್ತೀಯ",
+      "We abate / ನಾವು ಕಡಿಮೆಯಾಗುತ್ತೇವೆ",
+      "They abate / ಅವರು ಕಡಿಮೆಯಾಗುತ್ತಾರೆ",
+      "He abates / ಅವನು ಕಡಿಮೆಯಾಗುತ್ತಾನೆ",
+      "She abates / ಅವಳು ಕಡಿಮೆಯಾಗುತ್ತಾಳೆ",
+      "It abates / ಅದು ಕಡಿಮೆಯಾಗುತ್ತದೆ",
+      "John abates / ಜಾನ್ ಕಡಿಮೆಯಾಗುತ್ತಾನೆ",
+      "My sister abates / ನನ್ನ ಸಹೋದರಿ ಕಡಿಮೆಯಾಗುತ್ತಾಳೆ",
+      "The dog abates / ನಾಯಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ",
+      "People abate / ಜನರು ಕಡಿಮೆಯಾಗುತ್ತಾರೆ",
+      "Children abate / ಮಕ್ಕಳು ಕಡಿಮೆಯಾಗುತ್ತಾರೆ",
+      "Someone abates / ಯಾರೋ ಕಡಿಮೆಯಾಗುತ್ತಾರೆ",
+      "Nobody abates / ಯಾರೂ ಕಡಿಮೆಯಾಗುವುದಿಲ್ಲ",
+      "Everybody abates / ಎಲ್ಲರೂ ಕಡಿಮೆಯಾಗುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Abide / ತಾಳು",
+    "forms": [
+      "I abide / ನಾನು ತಾಳುತ್ತೇನೆ",
+      "You abide / ನೀನು ತಾಳುತ್ತೀಯ",
+      "We abide / ನಾವು ತಾಳುತ್ತೇವೆ",
+      "They abide / ಅವರು ತಾಳುತ್ತಾರೆ",
+      "He abides / ಅವನು ತಾಳುತ್ತಾನೆ",
+      "She abides / ಅವಳು ತಾಳುತ್ತಾಳೆ",
+      "It abides / ಅದು ತಾಳುತ್ತದೆ",
+      "John abides / ಜಾನ್ ತಾಳುತ್ತಾನೆ",
+      "My sister abides / ನನ್ನ ಸಹೋದರಿ ತಾಳುತ್ತಾಳೆ",
+      "The dog abides / ನಾಯಿ ತಾಳುತ್ತದೆ",
+      "People abide / ಜನರು ತಾಳುತ್ತಾರೆ",
+      "Children abide / ಮಕ್ಕಳು ತಾಳುತ್ತಾರೆ",
+      "Someone abides / ಯಾರೋ ತಾಳುತ್ತಾರೆ",
+      "Nobody abides / ಯಾರೂ ತಾಳುವುದಿಲ್ಲ",
+      "Everybody abides / ಎಲ್ಲರೂ ತಾಳುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Absorb / ಹೀರಿಕೊಳ್ಳು",
+    "forms": [
+      "I absorb / ನಾನು ಹೀರಿಕೊಳ್ಳುತ್ತೇನೆ",
+      "You absorb / ನೀನು ಹೀರಿಕೊಳ್ಳುತ್ತೀಯ",
+      "We absorb / ನಾವು ಹೀರಿಕೊಳ್ಳುತ್ತೇವೆ",
+      "They absorb / ಅವರು ಹೀರಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "He absorbs / ಅವನು ಹೀರಿಕೊಳ್ಳುತ್ತಾನೆ",
+      "She absorbs / ಅವಳು ಹೀರಿಕೊಳ್ಳುತ್ತಾಳೆ",
+      "It absorbs / ಅದು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ",
+      "John absorbs / ಜಾನ್ ಹೀರಿಕೊಳ್ಳುತ್ತಾನೆ",
+      "My sister absorbs / ನನ್ನ ಸಹೋದರಿ ಹೀರಿಕೊಳ್ಳುತ್ತಾಳೆ",
+      "The dog absorbs / ನಾಯಿ ಹೀರಿಕೊಳ್ಳುತ್ತದೆ",
+      "People absorb / ಜನರು ಹೀರಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "Children absorb / ಮಕ್ಕಳು ಹೀರಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "Someone absorbs / ಯಾರೋ ಹೀರಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "Nobody absorbs / ಯಾರೂ ಹೀರಿಕೊಳ್ಳುವುದಿಲ್ಲ",
+      "Everybody absorbs / ಎಲ್ಲರೂ ಹೀರಿಕೊಳ್ಳುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Accept / ಸ್ವೀಕರಿಸು",
+    "forms": [
+      "I accept / ನಾನು ಸ್ವೀಕರಿಸುತ್ತೇನೆ",
+      "You accept / ನೀನು ಸ್ವೀಕರಿಸುತ್ತೀಯ",
+      "We accept / ನಾವು ಸ್ವೀಕರಿಸುತ್ತೇವೆ",
+      "They accept / ಅವರು ಸ್ವೀಕರಿಸುತ್ತಾರೆ",
+      "He accepts / ಅವನು ಸ್ವೀಕರಿಸುತ್ತಾನೆ",
+      "She accepts / ಅವಳು ಸ್ವೀಕರಿಸುತ್ತಾಳೆ",
+      "It accepts / ಅದು ಸ್ವೀಕರಿಸುತ್ತದೆ",
+      "John accepts / ಜಾನ್ ಸ್ವೀಕರಿಸುತ್ತಾನೆ",
+      "My sister accepts / ನನ್ನ ಸಹೋದರಿ ಸ್ವೀಕರಿಸುತ್ತಾಳೆ",
+      "The dog accepts / ನಾಯಿ ಸ್ವೀಕರಿಸುತ್ತದೆ",
+      "People accept / ಜನರು ಸ್ವೀಕರಿಸುತ್ತಾರೆ",
+      "Children accept / ಮಕ್ಕಳು ಸ್ವೀಕರಿಸುತ್ತಾರೆ",
+      "Someone accepts / ಯಾರೋ ಸ್ವೀಕರಿಸುತ್ತಾರೆ",
+      "Nobody accepts / ಯಾರೂ ಸ್ವೀಕರಿಸುವುದಿಲ್ಲ",
+      "Everybody accepts / ಎಲ್ಲರೂ ಸ್ವೀಕರಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Accompany / ಸಂಗಡ ಹೋಗು",
+    "forms": [
+      "I accompany / ನಾನು ಸಂಗಡ ಹೋಗುತ್ತೇನೆ",
+      "You accompany / ನೀನು ಸಂಗಡ ಹೋಗುತ್ತೀಯ",
+      "We accompany / ನಾವು ಸಂಗಡ ಹೋಗುತ್ತೇವೆ",
+      "They accompany / ಅವರು ಸಂಗಡ ಹೋಗುತ್ತಾರೆ",
+      "He accompanies / ಅವನು ಸಂಗಡ ಹೋಗುತ್ತಾನೆ",
+      "She accompanies / ಅವಳು ಸಂಗಡ ಹೋಗುತ್ತಾಳೆ",
+      "It accompanies / ಅದು ಸಂಗಡ ಹೋಗುತ್ತದೆ",
+      "John accompanies / ಜಾನ್ ಸಂಗಡ ಹೋಗುತ್ತಾನೆ",
+      "My sister accompanies / ನನ್ನ ಸಹೋದರಿ ಸಂಗಡ ಹೋಗುತ್ತಾಳೆ",
+      "The dog accompanies / ನಾಯಿ ಸಂಗಡ ಹೋಗುತ್ತದೆ",
+      "People accompany / ಜನರು ಸಂಗಡ ಹೋಗುತ್ತಾರೆ",
+      "Children accompany / ಮಕ್ಕಳು ಸಂಗಡ ಹೋಗುತ್ತಾರೆ",
+      "Someone accompanies / ಯಾರೋ ಸಂಗಡ ಹೋಗುತ್ತಾರೆ",
+      "Nobody accompanies / ಯಾರೂ ಸಂಗಡ ಹೋಗುವುದಿಲ್ಲ",
+      "Everybody accompanies / ಎಲ್ಲರೂ ಸಂಗಡ ಹೋಗುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Ache / ನೋವು",
+    "forms": [
+      "I ache / ನಾನು ನೋವು ಅನುಭವಿಸುತ್ತೇನೆ",
+      "You ache / ನೀನು ನೋವು ಅನುಭವಿಸುತ್ತೀಯ",
+      "We ache / ನಾವು ನೋವು ಅನುಭವಿಸುತ್ತೇವೆ",
+      "They ache / ಅವರು ನೋವು ಅನುಭವಿಸುತ್ತಾರೆ",
+      "He aches / ಅವನು ನೋವು ಅನುಭವಿಸುತ್ತಾನೆ",
+      "She aches / ಅವಳು ನೋವು ಅನುಭವಿಸುತ್ತಾಳೆ",
+      "It aches / ಅದು ನೋವು ಅನುಭವಿಸುತ್ತದೆ",
+      "John aches / ಜಾನ್ ನೋವು ಅನುಭವಿಸುತ್ತಾನೆ",
+      "My sister aches / ನನ್ನ ಸಹೋದರಿ ನೋವು ಅನುಭವಿಸುತ್ತಾಳೆ",
+      "The dog aches / ನಾಯಿ ನೋವು ಅನುಭವಿಸುತ್ತದೆ",
+      "People ache / ಜನರು ನೋವು ಅನುಭವಿಸುತ್ತಾರೆ",
+      "Children ache / ಮಕ್ಕಳು ನೋವು ಅನುಭವಿಸುತ್ತಾರೆ",
+      "Someone aches / ಯಾರೋ ನೋವು ಅನುಭವಿಸುತ್ತಾರೆ",
+      "Nobody aches / ಯಾರೂ ನೋವು ಅನುಭವಿಸುವುದಿಲ್ಲ",
+      "Everybody aches / ಎಲ್ಲರೂ ನೋವು ಅನುಭವಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Achieve / ಸಾಧಿಸು",
+    "forms": [
+      "I achieve / ನಾನು ಸಾಧಿಸುತ್ತೇನೆ",
+      "You achieve / ನೀನು ಸಾಧಿಸುತ್ತೀಯ",
+      "We achieve / ನಾವು ಸಾಧಿಸುತ್ತೇವೆ",
+      "They achieve / ಅವರು ಸಾಧಿಸುತ್ತಾರೆ",
+      "He achieves / ಅವನು ಸಾಧಿಸುತ್ತಾನೆ",
+      "She achieves / ಅವಳು ಸಾಧಿಸುತ್ತಾಳೆ",
+      "It achieves / ಅದು ಸಾಧಿಸುತ್ತದೆ",
+      "John achieves / ಜಾನ್ ಸಾಧಿಸುತ್ತಾನೆ",
+      "My sister achieves / ನನ್ನ ಸಹೋದರಿ ಸಾಧಿಸುತ್ತಾಳೆ",
+      "The dog achieves / ನಾಯಿ ಸಾಧಿಸುತ್ತದೆ",
+      "People achieve / ಜನರು ಸಾಧಿಸುತ್ತಾರೆ",
+      "Children achieve / ಮಕ್ಕಳು ಸಾಧಿಸುತ್ತಾರೆ",
+      "Someone achieves / ಯಾರೋ ಸಾಧಿಸುತ್ತಾರೆ",
+      "Nobody achieves / ಯಾರೂ ಸಾಧಿಸುವುದಿಲ್ಲ",
+      "Everybody achieves / ಎಲ್ಲರೂ ಸಾಧಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Acquire / ಪಡೆ",
+    "forms": [
+      "I acquire / ನಾನು ಪಡೆಯುತ್ತೇನೆ",
+      "You acquire / ನೀನು ಪಡೆಯುತ್ತೀಯ",
+      "We acquire / ನಾವು ಪಡೆಯುತ್ತೇವೆ",
+      "They acquire / ಅವರು ಪಡೆಯುತ್ತಾರೆ",
+      "He acquires / ಅವನು ಪಡೆಯುತ್ತಾನೆ",
+      "She acquires / ಅವಳು ಪಡೆಯುತ್ತಾಳೆ",
+      "It acquires / ಅದು ಪಡೆಯುತ್ತದೆ",
+      "John acquires / ಜಾನ್ ಪಡೆಯುತ್ತಾನೆ",
+      "My sister acquires / ನನ್ನ ಸಹೋದರಿ ಪಡೆಯುತ್ತಾಳೆ",
+      "The dog acquires / ನಾಯಿ ಪಡೆಯುತ್ತದೆ",
+      "People acquire / ಜನರು ಪಡೆಯುತ್ತಾರೆ",
+      "Children acquire / ಮಕ್ಕಳು ಪಡೆಯುತ್ತಾರೆ",
+      "Someone acquires / ಯಾರೋ ಪಡೆಯುತ್ತಾರೆ",
+      "Nobody acquires / ಯಾರೂ ಪಡೆಯುವುದಿಲ್ಲ",
+      "Everybody acquires / ಎಲ್ಲರೂ ಪಡೆಯುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Act / ನಟಿಸು",
+    "forms": [
+      "I act / ನಾನು ನಟಿಸುತ್ತೇನೆ",
+      "You act / ನೀನು ನಟಿಸುತ್ತೀಯ",
+      "We act / ನಾವು ನಟಿಸುತ್ತೇವೆ",
+      "They act / ಅವರು ನಟಿಸುತ್ತಾರೆ",
+      "He acts / ಅವನು ನಟಿಸುತ್ತಾನೆ",
+      "She acts / ಅವಳು ನಟಿಸುತ್ತಾಳೆ",
+      "It acts / ಅದು ನಟಿಸುತ್ತದೆ",
+      "John acts / ಜಾನ್ ನಟಿಸುತ್ತಾನೆ",
+      "My sister acts / ನನ್ನ ಸಹೋದರಿ ನಟಿಸುತ್ತಾಳೆ",
+      "The dog acts / ನಾಯಿ ನಟಿಸುತ್ತದೆ",
+      "People act / ಜನರು ನಟಿಸುತ್ತಾರೆ",
+      "Children act / ಮಕ್ಕಳು ನಟಿಸುತ್ತಾರೆ",
+      "Someone acts / ಯಾರೋ ನಟಿಸುತ್ತಾರೆ",
+      "Nobody acts / ಯಾರೂ ನಟಿಸುವುದಿಲ್ಲ",
+      "Everybody acts / ಎಲ್ಲರೂ ನಟಿಸುತ್ತಾರೆ"
+    ]
+  },
+
+  {
+    "verb": "Add / ಸೇರಿಸು",
+    "forms": [
+      "I add / ನಾನು ಸೇರಿಸುತ್ತೇನೆ",
+      "You add / ನೀನು ಸೇರಿಸುತ್ತೀಯ",
+      "We add / ನಾವು ಸೇರಿಸುತ್ತೇವೆ",
+      "They add / ಅವರು ಸೇರಿಸುತ್ತಾರೆ",
+      "He adds / ಅವನು ಸೇರಿಸುತ್ತಾನೆ",
+      "She adds / ಅವಳು ಸೇರಿಸುತ್ತಾಳೆ",
+      "It adds / ಅದು ಸೇರಿಸುತ್ತದೆ",
+      "John adds / ಜಾನ್ ಸೇರಿಸುತ್ತಾನೆ",
+      "My sister adds / ನನ್ನ ಸಹೋದರಿ ಸೇರಿಸುತ್ತಾಳೆ",
+      "The dog adds / ನಾಯಿ ಸೇರಿಸುತ್ತದೆ",
+      "People add / ಜನರು ಸೇರಿಸುತ್ತಾರೆ",
+      "Children add / ಮಕ್ಕಳು ಸೇರಿಸುತ್ತಾರೆ",
+      "Someone adds / ಯಾರೋ ಸೇರಿಸುತ್ತಾರೆ",
+      "Nobody adds / ಯಾರೂ ಸೇರಿಸುವುದಿಲ್ಲ",
+      "Everybody adds / ಎಲ್ಲರೂ ಸೇರಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Address / ವಿಳಾಸ ಬರೆ / ಚರ್ಚಿಸು",
+    "forms": [
+      "I address / ನಾನು ವಿಳಾಸ ಬರೆಯುತ್ತೇನೆ / ಚರ್ಚಿಸುತ್ತೇನೆ",
+      "You address / ನೀನು ವಿಳಾಸ ಬರೆಯುತ್ತೀಯ / ಚರ್ಚಿಸುತ್ತೀಯ",
+      "We address / ನಾವು ವಿಳಾಸ ಬರೆಯುತ್ತೇವೆ / ಚರ್ಚಿಸುತ್ತೇವೆ",
+      "They address / ಅವರು ವಿಳಾಸ ಬರೆಯುತ್ತಾರೆ / ಚರ್ಚಿಸುತ್ತಾರೆ",
+      "He addresses / ಅವನು ವಿಳಾಸ ಬರೆಯುತ್ತಾನೆ / ಚರ್ಚಿಸುತ್ತಾನೆ",
+      "She addresses / ಅವಳು ವಿಳಾಸ ಬರೆಯುತ್ತಾಳೆ / ಚರ್ಚಿಸುತ್ತಾಳೆ",
+      "It addresses / ಅದು ವಿಳಾಸ ಬರೆಯುತ್ತದೆ / ಚರ್ಚಿಸುತ್ತದೆ",
+      "John addresses / ಜಾನ್ ವಿಳಾಸ ಬರೆಯುತ್ತಾನೆ / ಚರ್ಚಿಸುತ್ತಾನೆ",
+      "My sister addresses / ನನ್ನ ಸಹೋದರಿ ವಿಳಾಸ ಬರೆಯುತ್ತಾಳೆ / ಚರ್ಚಿಸುತ್ತಾಳೆ",
+      "The dog addresses / ನಾಯಿ ವಿಳಾಸ ಬರೆಯುತ್ತದೆ / ಚರ್ಚಿಸುತ್ತದೆ",
+      "People address / ಜನರು ವಿಳಾಸ ಬರೆಯುತ್ತಾರೆ / ಚರ್ಚಿಸುತ್ತಾರೆ",
+      "Children address / ಮಕ್ಕಳು ವಿಳಾಸ ಬರೆಯುತ್ತಾರೆ / ಚರ್ಚಿಸುತ್ತಾರೆ",
+      "Someone addresses / ಯಾರೋ ವಿಳಾಸ ಬರೆಯುತ್ತಾರೆ / ಚರ್ಚಿಸುತ್ತಾರೆ",
+      "Nobody addresses / ಯಾರೂ ವಿಳಾಸ ಬರೆಯುವುದಿಲ್ಲ / ಚರ್ಚಿಸುವುದಿಲ್ಲ",
+      "Everybody addresses / ಎಲ್ಲರೂ ವಿಳಾಸ ಬರೆಯುತ್ತಾರೆ / ಚರ್ಚಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Adjust / ಹೊಂದಿಸು",
+    "forms": [
+      "I adjust / ನಾನು ಹೊಂದಿಸುತ್ತೇನೆ",
+      "You adjust / ನೀನು ಹೊಂದಿಸುತ್ತೀಯ",
+      "We adjust / ನಾವು ಹೊಂದಿಸುತ್ತೇವೆ",
+      "They adjust / ಅವರು ಹೊಂದಿಸುತ್ತಾರೆ",
+      "He adjusts / ಅವನು ಹೊಂದಿಸುತ್ತಾನೆ",
+      "She adjusts / ಅವಳು ಹೊಂದಿಸುತ್ತಾಳೆ",
+      "It adjusts / ಅದು ಹೊಂದಿಸುತ್ತದೆ",
+      "John adjusts / ಜಾನ್ ಹೊಂದಿಸುತ್ತಾನೆ",
+      "My sister adjusts / ನನ್ನ ಸಹೋದರಿ ಹೊಂದಿಸುತ್ತಾಳೆ",
+      "The dog adjusts / ನಾಯಿ ಹೊಂದಿಸುತ್ತದೆ",
+      "People adjust / ಜನರು ಹೊಂದಿಸುತ್ತಾರೆ",
+      "Children adjust / ಮಕ್ಕಳು ಹೊಂದಿಸುತ್ತಾರೆ",
+      "Someone adjusts / ಯಾರೋ ಹೊಂದಿಸುತ್ತಾರೆ",
+      "Nobody adjusts / ಯಾರೂ ಹೊಂದಿಸುವುದಿಲ್ಲ",
+      "Everybody adjusts / ಎಲ್ಲರೂ ಹೊಂದಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Admire / ಮೆಚ್ಚು",
+    "forms": [
+      "I admire / ನಾನು ಮೆಚ್ಚುತ್ತೇನೆ",
+      "You admire / ನೀನು ಮೆಚ್ಚುತ್ತೀಯ",
+      "We admire / ನಾವು ಮೆಚ್ಚುತ್ತೇವೆ",
+      "They admire / ಅವರು ಮೆಚ್ಚುತ್ತಾರೆ",
+      "He admires / ಅವನು ಮೆಚ್ಚುತ್ತಾನೆ",
+      "She admires / ಅವಳು ಮೆಚ್ಚುತ್ತಾಳೆ",
+      "It admires / ಅದು ಮೆಚ್ಚುತ್ತದೆ",
+      "John admires / ಜಾನ್ ಮೆಚ್ಚುತ್ತಾನೆ",
+      "My sister admires / ನನ್ನ ಸಹೋದರಿ ಮೆಚ್ಚುತ್ತಾಳೆ",
+      "The dog admires / ನಾಯಿ ಮೆಚ್ಚುತ್ತದೆ",
+      "People admire / ಜನರು ಮೆಚ್ಚುತ್ತಾರೆ",
+      "Children admire / ಮಕ್ಕಳು ಮೆಚ್ಚುತ್ತಾರೆ",
+      "Someone admires / ಯಾರೋ ಮೆಚ್ಚುತ್ತಾರೆ",
+      "Nobody admires / ಯಾರೂ ಮೆಚ್ಚುವುದಿಲ್ಲ",
+      "Everybody admires / ಎಲ್ಲರೂ ಮೆಚ್ಚುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Admit / ಒಪ್ಪಿಕೊಳ್ಳು",
+    "forms": [
+      "I admit / ನಾನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತೇನೆ",
+      "You admit / ನೀನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತೀಯ",
+      "We admit / ನಾವು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತೇವೆ",
+      "They admit / ಅವರು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "He admits / ಅವನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾನೆ",
+      "She admits / ಅವಳು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾಳೆ",
+      "It admits / ಅದು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತದೆ",
+      "John admits / ಜಾನ್ ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾನೆ",
+      "My sister admits / ನನ್ನ ಸಹೋದರಿ ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾಳೆ",
+      "The dog admits / ನಾಯಿ ಒಪ್ಪಿಕೊಳ್ಳುತ್ತದೆ",
+      "People admit / ಜನರು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "Children admit / ಮಕ್ಕಳು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "Someone admits / ಯಾರೋ ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "Nobody admits / ಯಾರೂ ಒಪ್ಪಿಕೊಳ್ಳುವುದಿಲ್ಲ",
+      "Everybody admits / ಎಲ್ಲರೂ ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Advise / ಸಲಹೆ ನೀಡು",
+    "forms": [
+      "I advise / ನಾನು ಸಲಹೆ ನೀಡುತ್ತೇನೆ",
+      "You advise / ನೀನು ಸಲಹೆ ನೀಡುತ್ತೀಯ",
+      "We advise / ನಾವು ಸಲಹೆ ನೀಡುತ್ತೇವೆ",
+      "They advise / ಅವರು ಸಲಹೆ ನೀಡುತ್ತಾರೆ",
+      "He advises / ಅವನು ಸಲಹೆ ನೀಡುತ್ತಾನೆ",
+      "She advises / ಅವಳು ಸಲಹೆ ನೀಡುತ್ತಾಳೆ",
+      "It advises / ಅದು ಸಲಹೆ ನೀಡುತ್ತದೆ",
+      "John advises / ಜಾನ್ ಸಲಹೆ ನೀಡುತ್ತಾನೆ",
+      "My sister advises / ನನ್ನ ಸಹೋದರಿ ಸಲಹೆ ನೀಡುತ್ತಾಳೆ",
+      "The dog advises / ನಾಯಿ ಸಲಹೆ ನೀಡುತ್ತದೆ",
+      "People advise / ಜನರು ಸಲಹೆ ನೀಡುತ್ತಾರೆ",
+      "Children advise / ಮಕ್ಕಳು ಸಲಹೆ ನೀಡುತ್ತಾರೆ",
+      "Someone advises / ಯಾರೋ ಸಲಹೆ ನೀಡುತ್ತಾರೆ",
+      "Nobody advises / ಯಾರೂ ಸಲಹೆ ನೀಡುವುದಿಲ್ಲ",
+      "Everybody advises / ಎಲ್ಲರೂ ಸಲಹೆ ನೀಡುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Afford / ಶಕ್ತಿ ಹೊಂದು",
+    "forms": [
+      "I afford / ನಾನು ಶಕ್ತಿ ಹೊಂದುತ್ತೇನೆ",
+      "You afford / ನೀನು ಶಕ್ತಿ ಹೊಂದುತ್ತೀಯ",
+      "We afford / ನಾವು ಶಕ್ತಿ ಹೊಂದುತ್ತೇವೆ",
+      "They afford / ಅವರು ಶಕ್ತಿ ಹೊಂದುತ್ತಾರೆ",
+      "He affords / ಅವನು ಶಕ್ತಿ ಹೊಂದುತ್ತಾನೆ",
+      "She affords / ಅವಳು ಶಕ್ತಿ ಹೊಂದುತ್ತಾಳೆ",
+      "It affords / ಅದು ಶಕ್ತಿ ಹೊಂದುತ್ತದೆ",
+      "John affords / ಜಾನ್ ಶಕ್ತಿ ಹೊಂದುತ್ತಾನೆ",
+      "My sister affords / ನನ್ನ ಸಹೋದರಿ ಶಕ್ತಿ ಹೊಂದುತ್ತಾಳೆ",
+      "The dog affords / ನಾಯಿ ಶಕ್ತಿ ಹೊಂದುತ್ತದೆ",
+      "People afford / ಜನರು ಶಕ್ತಿ ಹೊಂದುತ್ತಾರೆ",
+      "Children afford / ಮಕ್ಕಳು ಶಕ್ತಿ ಹೊಂದುತ್ತಾರೆ",
+      "Someone affords / ಯಾರೋ ಶಕ್ತಿ ಹೊಂದುತ್ತಾರೆ",
+      "Nobody affords / ಯಾರೂ ಶಕ್ತಿ ಹೊಂದುವುದಿಲ್ಲ",
+      "Everybody affords / ಎಲ್ಲರೂ ಶಕ್ತಿ ಹೊಂದುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Agree / ಒಪ್ಪು",
+    "forms": [
+      "I agree / ನಾನು ಒಪ್ಪುತ್ತೇನೆ",
+      "You agree / ನೀನು ಒಪ್ಪುತ್ತೀಯ",
+      "We agree / ನಾವು ಒಪ್ಪುತ್ತೇವೆ",
+      "They agree / ಅವರು ಒಪ್ಪುತ್ತಾರೆ",
+      "He agrees / ಅವನು ಒಪ್ಪುತ್ತಾನೆ",
+      "She agrees / ಅವಳು ಒಪ್ಪುತ್ತಾಳೆ",
+      "It agrees / ಅದು ಒಪ್ಪುತ್ತದೆ",
+      "John agrees / ಜಾನ್ ಒಪ್ಪುತ್ತಾನೆ",
+      "My sister agrees / ನನ್ನ ಸಹೋದರಿ ಒಪ್ಪುತ್ತಾಳೆ",
+      "The dog agrees / ನಾಯಿ ಒಪ್ಪುತ್ತದೆ",
+      "People agree / ಜನರು ಒಪ್ಪುತ್ತಾರೆ",
+      "Children agree / ಮಕ್ಕಳು ಒಪ್ಪುತ್ತಾರೆ",
+      "Someone agrees / ಯಾರೋ ಒಪ್ಪುತ್ತಾರೆ",
+      "Nobody agrees / ಯಾರೂ ಒಪ್ಪುವುದಿಲ್ಲ",
+      "Everybody agrees / ಎಲ್ಲರೂ ಒಪ್ಪುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Alight / ಇಳಿ",
+    "forms": [
+      "I alight / ನಾನು ಇಳಿಯುತ್ತೇನೆ",
+      "You alight / ನೀನು ಇಳಿಯುತ್ತೀಯ",
+      "We alight / ನಾವು ಇಳಿಯುತ್ತೇವೆ",
+      "They alight / ಅವರು ಇಳಿಯುತ್ತಾರೆ",
+      "He alights / ಅವನು ಇಳಿಯುತ್ತಾನೆ",
+      "She alights / ಅವಳು ಇಳಿಯುತ್ತಾಳೆ",
+      "It alights / ಅದು ಇಳಿಯುತ್ತದೆ",
+      "John alights / ಜಾನ್ ಇಳಿಯುತ್ತಾನೆ",
+      "My sister alights / ನನ್ನ ಸಹೋದರಿ ಇಳಿಯುತ್ತಾಳೆ",
+      "The dog alights / ನಾಯಿ ಇಳಿಯುತ್ತದೆ",
+      "People alight / ಜನರು ಇಳಿಯುತ್ತಾರೆ",
+      "Children alight / ಮಕ್ಕಳು ಇಳಿಯುತ್ತಾರೆ",
+      "Someone alights / ಯಾರೋ ಇಳಿಯುತ್ತಾರೆ",
+      "Nobody alights / ಯಾರೂ ಇಳಿಯುವುದಿಲ್ಲ",
+      "Everybody alights / ಎಲ್ಲರೂ ಇಳಿಯುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Allow / ಅನುಮತಿಸು",
+    "forms": [
+      "I allow / ನಾನು ಅನುಮತಿಸುತ್ತೇನೆ",
+      "You allow / ನೀನು ಅನುಮತಿಸುತ್ತೀಯ",
+      "We allow / ನಾವು ಅನುಮತಿಸುತ್ತೇವೆ",
+      "They allow / ಅವರು ಅನುಮತಿಸುತ್ತಾರೆ",
+      "He allows / ಅವನು ಅನುಮತಿಸುತ್ತಾನೆ",
+      "She allows / ಅವಳು ಅನುಮತಿಸುತ್ತಾಳೆ",
+      "It allows / ಅದು ಅನುಮತಿಸುತ್ತದೆ",
+      "John allows / ಜಾನ್ ಅನುಮತಿಸುತ್ತಾನೆ",
+      "My sister allows / ನನ್ನ ಸಹೋದರಿ ಅನುಮತಿಸುತ್ತಾಳೆ",
+      "The dog allows / ನಾಯಿ ಅನುಮತಿಸುತ್ತದೆ",
+      "People allow / ಜನರು ಅನುಮತಿಸುತ್ತಾರೆ",
+      "Children allow / ಮಕ್ಕಳು ಅನುಮತಿಸುತ್ತಾರೆ",
+      "Someone allows / ಯಾರೋ ಅನುಮತಿಸುತ್ತಾರೆ",
+      "Nobody allows / ಯಾರೂ ಅನುಮತಿಸುವುದಿಲ್ಲ",
+      "Everybody allows / ಎಲ್ಲರೂ ಅನುಮತಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Animate / ಚೈತನ್ಯ ನೀಡು",
+    "forms": [
+      "I animate / ನಾನು ಚೈತನ್ಯ ನೀಡುತ್ತೇನೆ",
+      "You animate / ನೀನು ಚೈತನ್ಯ ನೀಡುತ್ತೀಯ",
+      "We animate / ನಾವು ಚೈತನ್ಯ ನೀಡುತ್ತೇವೆ",
+      "They animate / ಅವರು ಚೈತನ್ಯ ನೀಡುತ್ತಾರೆ",
+      "He animates / ಅವನು ಚೈತನ್ಯ ನೀಡುತ್ತಾನೆ",
+      "She animates / ಅವಳು ಚೈತನ್ಯ ನೀಡುತ್ತಾಳೆ",
+      "It animates / ಅದು ಚೈತನ್ಯ ನೀಡುತ್ತದೆ",
+      "John animates / ಜಾನ್ ಚೈತನ್ಯ ನೀಡುತ್ತಾನೆ",
+      "My sister animates / ನನ್ನ ಸಹೋದರಿ ಚೈತನ್ಯ ನೀಡುತ್ತಾಳೆ",
+      "The dog animates / ನಾಯಿ ಚೈತನ್ಯ ನೀಡುತ್ತದೆ",
+      "People animate / ಜನರು ಚೈತನ್ಯ ನೀಡುತ್ತಾರೆ",
+      "Children animate / ಮಕ್ಕಳು ಚೈತನ್ಯ ನೀಡುತ್ತಾರೆ",
+      "Someone animates / ಯಾರೋ ಚೈತನ್ಯ ನೀಡುತ್ತಾರೆ",
+      "Nobody animates / ಯಾರೂ ಚೈತನ್ಯ ನೀಡುವುದಿಲ್ಲ",
+      "Everybody animates / ಎಲ್ಲರೂ ಚೈತನ್ಯ ನೀಡುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Announce / ಪ್ರಕಟಿಸು",
+    "forms": [
+      "I announce / ನಾನು ಪ್ರಕಟಿಸುತ್ತೇನೆ",
+      "You announce / ನೀನು ಪ್ರಕಟಿಸುತ್ತೀಯ",
+      "We announce / ನಾವು ಪ್ರಕಟಿಸುತ್ತೇವೆ",
+      "They announce / ಅವರು ಪ್ರಕಟಿಸುತ್ತಾರೆ",
+      "He announces / ಅವನು ಪ್ರಕಟಿಸುತ್ತಾನೆ",
+      "She announces / ಅವಳು ಪ್ರಕಟಿಸುತ್ತಾಳೆ",
+      "It announces / ಅದು ಪ್ರಕಟಿಸುತ್ತದೆ",
+      "John announces / ಜಾನ್ ಪ್ರಕಟಿಸುತ್ತಾನೆ",
+      "My sister announces / ನನ್ನ ಸಹೋದರಿ ಪ್ರಕಟಿಸುತ್ತಾಳೆ",
+      "The dog announces / ನಾಯಿ ಪ್ರಕಟಿಸುತ್ತದೆ",
+      "People announce / ಜನರು ಪ್ರಕಟಿಸುತ್ತಾರೆ",
+      "Children announce / ಮಕ್ಕಳು ಪ್ರಕಟಿಸುತ್ತಾರೆ",
+      "Someone announces / ಯಾರೋ ಪ್ರಕಟಿಸುತ್ತಾರೆ",
+      "Nobody announces / ಯಾರೂ ಪ್ರಕಟಿಸುವುದಿಲ್ಲ",
+      "Everybody announces / ಎಲ್ಲರೂ ಪ್ರಕಟಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Answer / ಉತ್ತರಿಸು",
+    "forms": [
+      "I answer / ನಾನು ಉತ್ತರಿಸುತ್ತೇನೆ",
+      "You answer / ನೀನು ಉತ್ತರಿಸುತ್ತೀಯ",
+      "We answer / ನಾವು ಉತ್ತರಿಸುತ್ತೇವೆ",
+      "They answer / ಅವರು ಉತ್ತರಿಸುತ್ತಾರೆ",
+      "He answers / ಅವನು ಉತ್ತರಿಸುತ್ತಾನೆ",
+      "She answers / ಅವಳು ಉತ್ತರಿಸುತ್ತಾಳೆ",
+      "It answers / ಅದು ಉತ್ತರಿಸುತ್ತದೆ",
+      "John answers / ಜಾನ್ ಉತ್ತರಿಸುತ್ತಾನೆ",
+      "My sister answers / ನನ್ನ ಸಹೋದರಿ ಉತ್ತರಿಸುತ್ತಾಳೆ",
+      "The dog answers / ನಾಯಿ ಉತ್ತರಿಸುತ್ತದೆ",
+      "People answer / ಜನರು ಉತ್ತರಿಸುತ್ತಾರೆ",
+      "Children answer / ಮಕ್ಕಳು ಉತ್ತರಿಸುತ್ತಾರೆ",
+      "Someone answers / ಯಾರೋ ಉತ್ತರಿಸುತ್ತಾರೆ",
+      "Nobody answers / ಯಾರೂ ಉತ್ತರಿಸುವುದಿಲ್ಲ",
+      "Everybody answers / ಎಲ್ಲರೂ ಉತ್ತರಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Apologize / ಕ್ಷಮೆ ಕೇಳು",
+    "forms": [
+      "I apologize / ನಾನು ಕ್ಷಮೆ ಕೇಳುತ್ತೇನೆ",
+      "You apologize / ನೀನು ಕ್ಷಮೆ ಕೇಳುತ್ತೀಯ",
+      "We apologize / ನಾವು ಕ್ಷಮೆ ಕೇಳುತ್ತೇವೆ",
+      "They apologize / ಅವರು ಕ್ಷಮೆ ಕೇಳುತ್ತಾರೆ",
+      "He apologizes / ಅವನು ಕ್ಷಮೆ ಕೇಳುತ್ತಾನೆ",
+      "She apologizes / ಅವಳು ಕ್ಷಮೆ ಕೇಳುತ್ತಾಳೆ",
+      "It apologizes / ಅದು ಕ್ಷಮೆ ಕೇಳುತ್ತದೆ",
+      "John apologizes / ಜಾನ್ ಕ್ಷಮೆ ಕೇಳುತ್ತಾನೆ",
+      "My sister apologizes / ನನ್ನ ಸಹೋದರಿ ಕ್ಷಮೆ ಕೇಳುತ್ತಾಳೆ",
+      "The dog apologizes / ನಾಯಿ ಕ್ಷಮೆ ಕೇಳುತ್ತದೆ",
+      "People apologize / ಜನರು ಕ್ಷಮೆ ಕೇಳುತ್ತಾರೆ",
+      "Children apologize / ಮಕ್ಕಳು ಕ್ಷಮೆ ಕೇಳುತ್ತಾರೆ",
+      "Someone apologizes / ಯಾರೋ ಕ್ಷಮೆ ಕೇಳುತ್ತಾರೆ",
+      "Nobody apologizes / ಯಾರೂ ಕ್ಷಮೆ ಕೇಳುವುದಿಲ್ಲ",
+      "Everybody apologizes / ಎಲ್ಲರೂ ಕ್ಷಮೆ ಕೇಳುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Appear / ಕಾಣಿಸಿಕೊಳ್ಳು",
+    "forms": [
+      "I appear / ನಾನು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತೇನೆ",
+      "You appear / ನೀನು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತೀಯ",
+      "We appear / ನಾವು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತೇವೆ",
+      "They appear / ಅವರು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "He appears / ಅವನು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾನೆ",
+      "She appears / ಅವಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾಳೆ",
+      "It appears / ಅದು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ",
+      "John appears / ಜಾನ್ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾನೆ",
+      "My sister appears / ನನ್ನ ಸಹೋದರಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾಳೆ",
+      "The dog appears / ನಾಯಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ",
+      "People appear / ಜನರು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "Children appear / ಮಕ್ಕಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "Someone appears / ಯಾರೋ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "Nobody appears / ಯಾರೂ ಕಾಣಿಸಿಕೊಳ್ಳುವುದಿಲ್ಲ",
+      "Everybody appears / ಎಲ್ಲರೂ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Applaud / ಕರತಾಡಿಸು",
+    "forms": [
+      "I applaud / ನಾನು ಕರತಾಡಿಸುತ್ತೇನೆ",
+      "You applaud / ನೀನು ಕರತಾಡಿಸುತ್ತೀಯ",
+      "We applaud / ನಾವು ಕರತಾಡಿಸುತ್ತೇವೆ",
+      "They applaud / ಅವರು ಕರತಾಡಿಸುತ್ತಾರೆ",
+      "He applauds / ಅವನು ಕರತಾಡಿಸುತ್ತಾನೆ",
+      "She applauds / ಅವಳು ಕರತಾಡಿಸುತ್ತಾಳೆ",
+      "It applauds / ಅದು ಕರತಾಡಿಸುತ್ತದೆ",
+      "John applauds / ಜಾನ್ ಕರತಾಡಿಸುತ್ತಾನೆ",
+      "My sister applauds / ನನ್ನ ಸಹೋದರಿ ಕರತಾಡಿಸುತ್ತಾಳೆ",
+      "The dog applauds / ನಾಯಿ ಕರತಾಡಿಸುತ್ತದೆ",
+      "People applaud / ಜನರು ಕರತಾಡಿಸುತ್ತಾರೆ",
+      "Children applaud / ಮಕ್ಕಳು ಕರತಾಡಿಸುತ್ತಾರೆ",
+      "Someone applauds / ಯಾರೋ ಕರತಾಡಿಸುತ್ತಾರೆ",
+      "Nobody applauds / ಯಾರೂ ಕರತಾಡಿಸುವುದಿಲ್ಲ",
+      "Everybody applauds / ಎಲ್ಲರೂ ಕರತಾಡಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Apply / ಅನ್ವಯಿಸು / ಅರ್ಜಿ ಸಲ್ಲಿಸು",
+    "forms": [
+      "I apply / ನಾನು ಅನ್ವಯಿಸುತ್ತೇನೆ / ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತೇನೆ",
+      "You apply / ನೀನು ಅನ್ವಯಿಸುತ್ತೀಯ / ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತೀಯ",
+      "We apply / ನಾವು ಅನ್ವಯಿಸುತ್ತೇವೆ / ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತೇವೆ",
+      "They apply / ಅವರು ಅನ್ವಯಿಸುತ್ತಾರೆ / ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾರೆ",
+      "He applies / ಅವನು ಅನ್ವಯಿಸುತ್ತಾನೆ / ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾನೆ",
+      "She applies / ಅವಳು ಅನ್ವಯಿಸುತ್ತಾಳೆ / ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾಳೆ",
+      "It applies / ಅದು ಅನ್ವಯಿಸುತ್ತದೆ / ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತದೆ",
+      "John applies / ಜಾನ್ ಅನ್ವಯಿಸುತ್ತಾನೆ / ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾನೆ",
+      "My sister applies / ನನ್ನ ಸಹೋದರಿ ಅನ್ವಯಿಸುತ್ತಾಳೆ / ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾಳೆ",
+      "The dog applies / ನಾಯಿ ಅನ್ವಯಿಸುತ್ತದೆ / ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತದೆ",
+      "People apply / ಜನರು ಅನ್ವಯಿಸುತ್ತಾರೆ / ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾರೆ",
+      "Children apply / ಮಕ್ಕಳು ಅನ್ವಯಿಸುತ್ತಾರೆ / ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾರೆ",
+      "Someone applies / ಯಾರೋ ಅನ್ವಯಿಸುತ್ತಾರೆ / ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾರೆ",
+      "Nobody applies / ಯಾರೂ ಅನ್ವಯಿಸುವುದಿಲ್ಲ / ಅರ್ಜಿ ಸಲ್ಲಿಸುವುದಿಲ್ಲ",
+      "Everybody applies / ಎಲ್ಲರೂ ಅನ್ವಯಿಸುತ್ತಾರೆ / ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Approach / ಸಮೀಪಿಸು",
+    "forms": [
+      "I approach / ನಾನು ಸಮೀಪಿಸುತ್ತೇನೆ",
+      "You approach / ನೀನು ಸಮೀಪಿಸುತ್ತೀಯ",
+      "We approach / ನಾವು ಸಮೀಪಿಸುತ್ತೇವೆ",
+      "They approach / ಅವರು ಸಮೀಪಿಸುತ್ತಾರೆ",
+      "He approaches / ಅವನು ಸಮೀಪಿಸುತ್ತಾನೆ",
+      "She approaches / ಅವಳು ಸಮೀಪಿಸುತ್ತಾಳೆ",
+      "It approaches / ಅದು ಸಮೀಪಿಸುತ್ತದೆ",
+      "John approaches / ಜಾನ್ ಸಮೀಪಿಸುತ್ತಾನೆ",
+      "My sister approaches / ನನ್ನ ಸಹೋದರಿ ಸಮೀಪಿಸುತ್ತಾಳೆ",
+      "The dog approaches / ನಾಯಿ ಸಮೀಪಿಸುತ್ತದೆ",
+      "People approach / ಜನರು ಸಮೀಪಿಸುತ್ತಾರೆ",
+      "Children approach / ಮಕ್ಕಳು ಸಮೀಪಿಸುತ್ತಾರೆ",
+      "Someone approaches / ಯಾರೋ ಸಮೀಪಿಸುತ್ತಾರೆ",
+      "Nobody approaches / ಯಾರೂ ಸಮೀಪಿಸುವುದಿಲ್ಲ",
+      "Everybody approaches / ಎಲ್ಲರೂ ಸಮೀಪಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Approve / ಅನುಮೋದಿಸು",
+    "forms": [
+      "I approve / ನಾನು ಅನುಮೋದಿಸುತ್ತೇನೆ",
+      "You approve / ನೀನು ಅನುಮೋದಿಸುತ್ತೀಯ",
+      "We approve / ನಾವು ಅನುಮೋದಿಸುತ್ತೇವೆ",
+      "They approve / ಅವರು ಅನುಮೋದಿಸುತ್ತಾರೆ",
+      "He approves / ಅವನು ಅನುಮೋದಿಸುತ್ತಾನೆ",
+      "She approves / ಅವಳು ಅನುಮೋದಿಸುತ್ತಾಳೆ",
+      "It approves / ಅದು ಅನುಮೋದಿಸುತ್ತದೆ",
+      "John approves / ಜಾನ್ ಅನುಮೋದಿಸುತ್ತಾನೆ",
+      "My sister approves / ನನ್ನ ಸಹೋದರಿ ಅನುಮೋದಿಸುತ್ತಾಳೆ",
+      "The dog approves / ನಾಯಿ ಅನುಮೋದಿಸುತ್ತದೆ",
+      "People approve / ಜನರು ಅನುಮೋದಿಸುತ್ತಾರೆ",
+      "Children approve / ಮಕ್ಕಳು ಅನುಮೋದಿಸುತ್ತಾರೆ",
+      "Someone approves / ಯಾರೋ ಅನುಮೋದಿಸುತ್ತಾರೆ",
+      "Nobody approves / ಯಾರೂ ಅನುಮೋದಿಸುವುದಿಲ್ಲ",
+      "Everybody approves / ಎಲ್ಲರೂ ಅನುಮೋದಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Argue / ವಾದಿಸು",
+    "forms": [
+      "I argue / ನಾನು ವಾದಿಸುತ್ತೇನೆ",
+      "You argue / ನೀನು ವಾದಿಸುತ್ತೀಯ",
+      "We argue / ನಾವು ವಾದಿಸುತ್ತೇವೆ",
+      "They argue / ಅವರು ವಾದಿಸುತ್ತಾರೆ",
+      "He argues / ಅವನು ವಾದಿಸುತ್ತಾನೆ",
+      "She argues / ಅವಳು ವಾದಿಸುತ್ತಾಳೆ",
+      "It argues / ಅದು ವಾದಿಸುತ್ತದೆ",
+      "John argues / ಜಾನ್ ವಾದಿಸುತ್ತಾನೆ",
+      "My sister argues / ನನ್ನ ಸಹೋದರಿ ವಾದಿಸುತ್ತಾಳೆ",
+      "The dog argues / ನಾಯಿ ವಾದಿಸುತ್ತದೆ",
+      "People argue / ಜನರು ವಾದಿಸುತ್ತಾರೆ",
+      "Children argue / ಮಕ್ಕಳು ವಾದಿಸುತ್ತಾರೆ",
+      "Someone argues / ಯಾರೋ ವಾದಿಸುತ್ತಾರೆ",
+      "Nobody argues / ಯಾರೂ ವಾದಿಸುವುದಿಲ್ಲ",
+      "Everybody argues / ಎಲ್ಲರೂ ವಾದಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Animate / ಚಲನೆ ನೀಡು",
+    "forms": [
+      "I animate / ನಾನು ಚಲನೆ ನೀಡುತ್ತೇನೆ",
+      "You animate / ನೀನು ಚಲನೆ ನೀಡುತ್ತೀಯ",
+      "We animate / ನಾವು ಚಲನೆ ನೀಡುತ್ತೇವೆ",
+      "They animate / ಅವರು ಚಲನೆ ನೀಡುತ್ತಾರೆ",
+      "He animates / ಅವನು ಚಲನೆ ನೀಡುತ್ತಾನೆ",
+      "She animates / ಅವಳು ಚಲನೆ ನೀಡುತ್ತಾಳೆ",
+      "It animates / ಅದು ಚಲನೆ ನೀಡುತ್ತದೆ",
+      "John animates / ಜಾನ್ ಚಲನೆ ನೀಡುತ್ತಾನೆ",
+      "My sister animates / ನನ್ನ ಸಹೋದರಿ ಚಲನೆ ನೀಡುತ್ತಾಳೆ",
+      "The dog animates / ನಾಯಿ ಚಲನೆ ನೀಡುತ್ತದೆ",
+      "People animate / ಜನರು ಚಲನೆ ನೀಡುತ್ತಾರೆ",
+      "Children animate / ಮಕ್ಕಳು ಚಲನೆ ನೀಡುತ್ತಾರೆ",
+      "Someone animates / ಯಾರೋ ಚಲನೆ ನೀಡುತ್ತಾರೆ",
+      "Nobody animates / ಯಾರೂ ಚಲನೆ ನೀಡುವುದಿಲ್ಲ",
+      "Everybody animates / ಎಲ್ಲರೂ ಚಲನೆ ನೀಡುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Announce / ಪ್ರಕಟಿಸು",
+    "forms": [
+      "I announce / ನಾನು ಪ್ರಕಟಿಸುತ್ತೇನೆ",
+      "You announce / ನೀನು ಪ್ರಕಟಿಸುತ್ತೀಯ",
+      "We announce / ನಾವು ಪ್ರಕಟಿಸುತ್ತೇವೆ",
+      "They announce / ಅವರು ಪ್ರಕಟಿಸುತ್ತಾರೆ",
+      "He announces / ಅವನು ಪ್ರಕಟಿಸುತ್ತಾನೆ",
+      "She announces / ಅವಳು ಪ್ರಕಟಿಸುತ್ತಾಳೆ",
+      "It announces / ಅದು ಪ್ರಕಟಿಸುತ್ತದೆ",
+      "John announces / ಜಾನ್ ಪ್ರಕಟಿಸುತ್ತಾನೆ",
+      "My sister announces / ನನ್ನ ಸಹೋದರಿ ಪ್ರಕಟಿಸುತ್ತಾಳೆ",
+      "The dog announces / ನಾಯಿ ಪ್ರಕಟಿಸುತ್ತದೆ",
+      "People announce / ಜನರು ಪ್ರಕಟಿಸುತ್ತಾರೆ",
+      "Children announce / ಮಕ್ಕಳು ಪ್ರಕಟಿಸುತ್ತಾರೆ",
+      "Someone announces / ಯಾರೋ ಪ್ರಕಟಿಸುತ್ತಾರೆ",
+      "Nobody announces / ಯಾರೂ ಪ್ರಕಟಿಸುವುದಿಲ್ಲ",
+      "Everybody announces / ಎಲ್ಲರೂ ಪ್ರಕಟಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Answer / ಉತ್ತರಿಸು",
+    "forms": [
+      "I answer / ನಾನು ಉತ್ತರಿಸುತ್ತೇನೆ",
+      "You answer / ನೀನು ಉತ್ತರಿಸುತ್ತೀಯ",
+      "We answer / ನಾವು ಉತ್ತರಿಸುತ್ತೇವೆ",
+      "They answer / ಅವರು ಉತ್ತರಿಸುತ್ತಾರೆ",
+      "He answers / ಅವನು ಉತ್ತರಿಸುತ್ತಾನೆ",
+      "She answers / ಅವಳು ಉತ್ತರಿಸುತ್ತಾಳೆ",
+      "It answers / ಅದು ಉತ್ತರಿಸುತ್ತದೆ",
+      "John answers / ಜಾನ್ ಉತ್ತರಿಸುತ್ತಾನೆ",
+      "My sister answers / ನನ್ನ ಸಹೋದರಿ ಉತ್ತರಿಸುತ್ತಾಳೆ",
+      "The dog answers / ನಾಯಿ ಉತ್ತರಿಸುತ್ತದೆ",
+      "People answer / ಜನರು ಉತ್ತರಿಸುತ್ತಾರೆ",
+      "Children answer / ಮಕ್ಕಳು ಉತ್ತರಿಸುತ್ತಾರೆ",
+      "Someone answers / ಯಾರೋ ಉತ್ತರಿಸುತ್ತಾರೆ",
+      "Nobody answers / ಯಾರೂ ಉತ್ತರಿಸುವುದಿಲ್ಲ",
+      "Everybody answers / ಎಲ್ಲರೂ ಉತ್ತರಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Apologize / ಕ್ಷಮೆ ಕೇಳು",
+    "forms": [
+      "I apologize / ನಾನು ಕ್ಷಮೆ ಕೇಳುತ್ತೇನೆ",
+      "You apologize / ನೀನು ಕ್ಷಮೆ ಕೇಳುತ್ತೀಯ",
+      "We apologize / ನಾವು ಕ್ಷಮೆ ಕೇಳುತ್ತೇವೆ",
+      "They apologize / ಅವರು ಕ್ಷಮೆ ಕೇಳುತ್ತಾರೆ",
+      "He apologizes / ಅವನು ಕ್ಷಮೆ ಕೇಳುತ್ತಾನೆ",
+      "She apologizes / ಅವಳು ಕ್ಷಮೆ ಕೇಳುತ್ತಾಳೆ",
+      "It apologizes / ಅದು ಕ್ಷಮೆ ಕೇಳುತ್ತದೆ",
+      "John apologizes / ಜಾನ್ ಕ್ಷಮೆ ಕೇಳುತ್ತಾನೆ",
+      "My sister apologizes / ನನ್ನ ಸಹೋದರಿ ಕ್ಷಮೆ ಕೇಳುತ್ತಾಳೆ",
+      "The dog apologizes / ನಾಯಿ ಕ್ಷಮೆ ಕೇಳುತ್ತದೆ",
+      "People apologize / ಜನರು ಕ್ಷಮೆ ಕೇಳುತ್ತಾರೆ",
+      "Children apologize / ಮಕ್ಕಳು ಕ್ಷಮೆ ಕೇಳುತ್ತಾರೆ",
+      "Someone apologizes / ಯಾರೋ ಕ್ಷಮೆ ಕೇಳುತ್ತಾರೆ",
+      "Nobody apologizes / ಯಾರೂ ಕ್ಷಮೆ ಕೇಳುವುದಿಲ್ಲ",
+      "Everybody apologizes / ಎಲ್ಲರೂ ಕ್ಷಮೆ ಕೇಳುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Appear / ಕಾಣಿಸಿಕೊಳ್ಳು",
+    "forms": [
+      "I appear / ನಾನು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತೇನೆ",
+      "You appear / ನೀನು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತೀಯ",
+      "We appear / ನಾವು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತೇವೆ",
+      "They appear / ಅವರು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "He appears / ಅವನು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾನೆ",
+      "She appears / ಅವಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾಳೆ",
+      "It appears / ಅದು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ",
+      "John appears / ಜಾನ್ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾನೆ",
+      "My sister appears / ನನ್ನ ಸಹೋದರಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾಳೆ",
+      "The dog appears / ನಾಯಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ",
+      "People appear / ಜನರು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "Children appear / ಮಕ್ಕಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "Someone appears / ಯಾರೋ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "Nobody appears / ಯಾರೂ ಕಾಣಿಸಿಕೊಳ್ಳುವುದಿಲ್ಲ",
+      "Everybody appears / ಎಲ್ಲರೂ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Applaud / ಕರತಾಡಿಸು",
+    "forms": [
+      "I applaud / ನಾನು ಕರತಾಡಿಸುತ್ತೇನೆ",
+      "You applaud / ನೀನು ಕರತಾಡಿಸುತ್ತೀಯ",
+      "We applaud / ನಾವು ಕರತಾಡಿಸುತ್ತೇವೆ",
+      "They applaud / ಅವರು ಕರತಾಡಿಸುತ್ತಾರೆ",
+      "He applauds / ಅವನು ಕರತಾಡಿಸುತ್ತಾನೆ",
+      "She applauds / ಅವಳು ಕರತಾಡಿಸುತ್ತಾಳೆ",
+      "It applauds / ಅದು ಕರತಾಡಿಸುತ್ತದೆ",
+      "John applauds / ಜಾನ್ ಕರತಾಡಿಸುತ್ತಾನೆ",
+      "My sister applauds / ನನ್ನ ಸಹೋದರಿ ಕರತಾಡಿಸುತ್ತಾಳೆ",
+      "The dog applauds / ನಾಯಿ ಕರತಾಡಿಸುತ್ತದೆ",
+      "People applaud / ಜನರು ಕರತಾಡಿಸುತ್ತಾರೆ",
+      "Children applaud / ಮಕ್ಕಳು ಕರತಾಡಿಸುತ್ತಾರೆ",
+      "Someone applauds / ಯಾರೋ ಕರತಾಡಿಸುತ್ತಾರೆ",
+      "Nobody applauds / ಯಾರೂ ಕರತಾಡಿಸುವುದಿಲ್ಲ",
+      "Everybody applauds / ಎಲ್ಲರೂ ಕರತಾಡಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Apply / ಅರ್ಜಿ ಸಲ್ಲಿಸು / ಅನ್ವಯಿಸು",
+    "forms": [
+      "I apply / ನಾನು ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತೇನೆ / ಅನ್ವಯಿಸುತ್ತೇನೆ",
+      "You apply / ನೀನು ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತೀಯ / ಅನ್ವಯಿಸುತ್ತೀಯ",
+      "We apply / ನಾವು ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತೇವೆ / ಅನ್ವಯಿಸುತ್ತೇವೆ",
+      "They apply / ಅವರು ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾರೆ / ಅನ್ವಯಿಸುತ್ತಾರೆ",
+      "He applies / ಅವನು ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾನೆ / ಅನ್ವಯಿಸುತ್ತಾನೆ",
+      "She applies / ಅವಳು ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾಳೆ / ಅನ್ವಯಿಸುತ್ತಾಳೆ",
+      "It applies / ಅದು ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತದೆ / ಅನ್ವಯಿಸುತ್ತದೆ",
+      "John applies / ಜಾನ್ ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾನೆ / ಅನ್ವಯಿಸುತ್ತಾನೆ",
+      "My sister applies / ನನ್ನ ಸಹೋದರಿ ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾಳೆ / ಅನ್ವಯಿಸುತ್ತಾಳೆ",
+      "The dog applies / ನಾಯಿ ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತದೆ / ಅನ್ವಯಿಸುತ್ತದೆ",
+      "People apply / ಜನರು ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾರೆ / ಅನ್ವಯಿಸುತ್ತಾರೆ",
+      "Children apply / ಮಕ್ಕಳು ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾರೆ / ಅನ್ವಯಿಸುತ್ತಾರೆ",
+      "Someone applies / ಯಾರೋ ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾರೆ / ಅನ್ವಯಿಸುತ್ತಾರೆ",
+      "Nobody applies / ಯಾರೂ ಅರ್ಜಿ ಸಲ್ಲಿಸುವುದಿಲ್ಲ / ಅನ್ವಯಿಸುವುದಿಲ್ಲ",
+      "Everybody applies / ಎಲ್ಲರೂ ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಾರೆ / ಅನ್ವಯಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Approach / ಸಮೀಪಿಸು",
+    "forms": [
+      "I approach / ನಾನು ಸಮೀಪಿಸುತ್ತೇನೆ",
+      "You approach / ನೀನು ಸಮೀಪಿಸುತ್ತೀಯ",
+      "We approach / ನಾವು ಸಮೀಪಿಸುತ್ತೇವೆ",
+      "They approach / ಅವರು ಸಮೀಪಿಸುತ್ತಾರೆ",
+      "He approaches / ಅವನು ಸಮೀಪಿಸುತ್ತಾನೆ",
+      "She approaches / ಅವಳು ಸಮೀಪಿಸುತ್ತಾಳೆ",
+      "It approaches / ಅದು ಸಮೀಪಿಸುತ್ತದೆ",
+      "John approaches / ಜಾನ್ ಸಮೀಪಿಸುತ್ತಾನೆ",
+      "My sister approaches / ನನ್ನ ಸಹೋದರಿ ಸಮೀಪಿಸುತ್ತಾಳೆ",
+      "The dog approaches / ನಾಯಿ ಸಮೀಪಿಸುತ್ತದೆ",
+      "People approach / ಜನರು ಸಮೀಪಿಸುತ್ತಾರೆ",
+      "Children approach / ಮಕ್ಕಳು ಸಮೀಪಿಸುತ್ತಾರೆ",
+      "Someone approaches / ಯಾರೋ ಸಮೀಪಿಸುತ್ತಾರೆ",
+      "Nobody approaches / ಯಾರೂ ಸಮೀಪಿಸುವುದಿಲ್ಲ",
+      "Everybody approaches / ಎಲ್ಲರೂ ಸಮೀಪಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Approve / ಅನುಮೋದಿಸು",
+    "forms": [
+      "I approve / ನಾನು ಅನುಮೋದಿಸುತ್ತೇನೆ",
+      "You approve / ನೀನು ಅನುಮೋದಿಸುತ್ತೀಯ",
+      "We approve / ನಾವು ಅನುಮೋದಿಸುತ್ತೇವೆ",
+      "They approve / ಅವರು ಅನುಮೋದಿಸುತ್ತಾರೆ",
+      "He approves / ಅವನು ಅನುಮೋದಿಸುತ್ತಾನೆ",
+      "She approves / ಅವಳು ಅನುಮೋದಿಸುತ್ತಾಳೆ",
+      "It approves / ಅದು ಅನುಮೋದಿಸುತ್ತದೆ",
+      "John approves / ಜಾನ್ ಅನುಮೋದಿಸುತ್ತಾನೆ",
+      "My sister approves / ನನ್ನ ಸಹೋದರಿ ಅನುಮೋದಿಸುತ್ತಾಳೆ",
+      "The dog approves / ನಾಯಿ ಅನುಮೋದಿಸುತ್ತದೆ",
+      "People approve / ಜನರು ಅನುಮೋದಿಸುತ್ತಾರೆ",
+      "Children approve / ಮಕ್ಕಳು ಅನುಮೋದಿಸುತ್ತಾರೆ",
+      "Someone approves / ಯಾರೋ ಅನುಮೋದಿಸುತ್ತಾರೆ",
+      "Nobody approves / ಯಾರೂ ಅನುಮೋದಿಸುವುದಿಲ್ಲ",
+      "Everybody approves / ಎಲ್ಲರೂ ಅನುಮೋದಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Argue / ವಾದಿಸು",
+    "forms": [
+      "I argue / ನಾನು ವಾದಿಸುತ್ತೇನೆ",
+      "You argue / ನೀನು ವಾದಿಸುತ್ತೀಯ",
+      "We argue / ನಾವು ವಾದಿಸುತ್ತೇವೆ",
+      "They argue / ಅವರು ವಾದಿಸುತ್ತಾರೆ",
+      "He argues / ಅವನು ವಾದಿಸುತ್ತಾನೆ",
+      "She argues / ಅವಳು ವಾದಿಸುತ್ತಾಳೆ",
+      "It argues / ಅದು ವಾದಿಸುತ್ತದೆ",
+      "John argues / ಜಾನ್ ವಾದಿಸುತ್ತಾನೆ",
+      "My sister argues / ನನ್ನ ಸಹೋದರಿ ವಾದಿಸುತ್ತಾಳೆ",
+      "The dog argues / ನಾಯಿ ವಾದಿಸುತ್ತದೆ",
+      "People argue / ಜನರು ವಾದಿಸುತ್ತಾರೆ",
+      "Children argue / ಮಕ್ಕಳು ವಾದಿಸುತ್ತಾರೆ",
+      "Someone argues / ಯಾರೋ ವಾದಿಸುತ್ತಾರೆ",
+      "Nobody argues / ಯಾರೂ ವಾದಿಸುವುದಿಲ್ಲ",
+      "Everybody argues / ಎಲ್ಲರೂ ವಾದಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Audit / ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡು",
+    "forms": [
+      "I audit / ನಾನು ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡುತ್ತೇನೆ",
+      "You audit / ನೀನು ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡುತ್ತೀಯ",
+      "We audit / ನಾವು ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡುತ್ತೇವೆ",
+      "They audit / ಅವರು ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡುತ್ತಾರೆ",
+      "He audits / ಅವನು ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡುತ್ತಾನೆ",
+      "She audits / ಅವಳು ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡುತ್ತಾಳೆ",
+      "It audits / ಅದು ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡುತ್ತದೆ",
+      "John audits / ಜಾನ್ ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡುತ್ತಾನೆ",
+      "My sister audits / ನನ್ನ ಸಹೋದರಿ ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡುತ್ತಾಳೆ",
+      "The dog audits / ನಾಯಿ ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡುತ್ತದೆ",
+      "People audit / ಜನರು ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡುತ್ತಾರೆ",
+      "Children audit / ಮಕ್ಕಳು ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡುತ್ತಾರೆ",
+      "Someone audits / ಯಾರೋ ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡುತ್ತಾರೆ",
+      "Nobody audits / ಯಾರೂ ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡುವುದಿಲ್ಲ",
+      "Everybody audits / ಎಲ್ಲರೂ ಲೆಕ್ಕ ಪರಿಶೀಲನೆ ಮಾಡುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Avoid / ತಪ್ಪಿಸು",
+    "forms": [
+      "I avoid / ನಾನು ತಪ್ಪಿಸುತ್ತೇನೆ",
+      "You avoid / ನೀನು ತಪ್ಪಿಸುತ್ತೀಯ",
+      "We avoid / ನಾವು ತಪ್ಪಿಸುತ್ತೇವೆ",
+      "They avoid / ಅವರು ತಪ್ಪಿಸುತ್ತಾರೆ",
+      "He avoids / ಅವನು ತಪ್ಪಿಸುತ್ತಾನೆ",
+      "She avoids / ಅವಳು ತಪ್ಪಿಸುತ್ತಾಳೆ",
+      "It avoids / ಅದು ತಪ್ಪಿಸುತ್ತದೆ",
+      "John avoids / ಜಾನ್ ತಪ್ಪಿಸುತ್ತಾನೆ",
+      "My sister avoids / ನನ್ನ ಸಹೋದರಿ ತಪ್ಪಿಸುತ್ತಾಳೆ",
+      "The dog avoids / ನಾಯಿ ತಪ್ಪಿಸುತ್ತದೆ",
+      "People avoid / ಜನರು ತಪ್ಪಿಸುತ್ತಾರೆ",
+      "Children avoid / ಮಕ್ಕಳು ತಪ್ಪಿಸುತ್ತಾರೆ",
+      "Someone avoids / ಯಾರೋ ತಪ್ಪಿಸುತ್ತಾರೆ",
+      "Nobody avoids / ಯಾರೂ ತಪ್ಪಿಸುವುದಿಲ್ಲ",
+      "Everybody avoids / ಎಲ್ಲರೂ ತಪ್ಪಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Awake / ಎಚ್ಚರಗೊಳ್ಳು",
+    "forms": [
+      "I awake / ನಾನು ಎಚ್ಚರಗೊಳ್ಳುತ್ತೇನೆ",
+      "You awake / ನೀನು ಎಚ್ಚರಗೊಳ್ಳುತ್ತೀಯ",
+      "We awake / ನಾವು ಎಚ್ಚರಗೊಳ್ಳುತ್ತೇವೆ",
+      "They awake / ಅವರು ಎಚ್ಚರಗೊಳ್ಳುತ್ತಾರೆ",
+      "He awakes / ಅವನು ಎಚ್ಚರಗೊಳ್ಳುತ್ತಾನೆ",
+      "She awakes / ಅವಳು ಎಚ್ಚರಗೊಳ್ಳುತ್ತಾಳೆ",
+      "It awakes / ಅದು ಎಚ್ಚರಗೊಳ್ಳುತ್ತದೆ",
+      "John awakes / ಜಾನ್ ಎಚ್ಚರಗೊಳ್ಳುತ್ತಾನೆ",
+      "My sister awakes / ನನ್ನ ಸಹೋದರಿ ಎಚ್ಚರಗೊಳ್ಳುತ್ತಾಳೆ",
+      "The dog awakes / ನಾಯಿ ಎಚ್ಚರಗೊಳ್ಳುತ್ತದೆ",
+      "People awake / ಜನರು ಎಚ್ಚರಗೊಳ್ಳುತ್ತಾರೆ",
+      "Children awake / ಮಕ್ಕಳು ಎಚ್ಚರಗೊಳ್ಳುತ್ತಾರೆ",
+      "Someone awakes / ಯಾರೋ ಎಚ್ಚರಗೊಳ್ಳುತ್ತಾರೆ",
+      "Nobody awakes / ಯಾರೂ ಎಚ್ಚರಗೊಳ್ಳುವುದಿಲ್ಲ",
+      "Everybody awakes / ಎಲ್ಲರೂ ಎಚ್ಚರಗೊಳ್ಳುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bang / ಬಡಿ",
+    "forms": [
+      "I bang / ನಾನು ಬಡಿಯುತ್ತೇನೆ",
+      "You bang / ನೀನು ಬಡಿಯುತ್ತೀಯ",
+      "We bang / ನಾವು ಬಡಿಯುತ್ತೇವೆ",
+      "They bang / ಅವರು ಬಡಿಯುತ್ತಾರೆ",
+      "He bangs / ಅವನು ಬಡಿಯುತ್ತಾನೆ",
+      "She bangs / ಅವಳು ಬಡಿಯುತ್ತಾಳೆ",
+      "It bangs / ಅದು ಬಡಿಯುತ್ತದೆ",
+      "John bangs / ಜಾನ್ ಬಡಿಯುತ್ತಾನೆ",
+      "My sister bangs / ನನ್ನ ಸಹೋದರಿ ಬಡಿಯುತ್ತಾಳೆ",
+      "The dog bangs / ನಾಯಿ ಬಡಿಯುತ್ತದೆ",
+      "People bang / ಜನರು ಬಡಿಯುತ್ತಾರೆ",
+      "Children bang / ಮಕ್ಕಳು ಬಡಿಯುತ್ತಾರೆ",
+      "Someone bangs / ಯಾರೋ ಬಡಿಯುತ್ತಾರೆ",
+      "Nobody bangs / ಯಾರೂ ಬಡಿಯುವುದಿಲ್ಲ",
+      "Everybody bangs / ಎಲ್ಲರೂ ಬಡಿಯುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Banish / exile / ಗಡೀಪಾರು ಮಾಡು",
+    "forms": [
+      "I banish / ನಾನು ಗಡೀಪಾರು ಮಾಡುತ್ತೇನೆ",
+      "You banish / ನೀನು ಗಡೀಪಾರು ಮಾಡುತ್ತೀಯ",
+      "We banish / ನಾವು ಗಡೀಪಾರು ಮಾಡುತ್ತೇವೆ",
+      "They banish / ಅವರು ಗಡೀಪಾರು ಮಾಡುತ್ತಾರೆ",
+      "He banishes / ಅವನು ಗಡೀಪಾರು ಮಾಡುತ್ತಾನೆ",
+      "She banishes / ಅವಳು ಗಡೀಪಾರು ಮಾಡುತ್ತಾಳೆ",
+      "It banishes / ಅದು ಗಡೀಪಾರು ಮಾಡುತ್ತದೆ",
+      "John banishes / ಜಾನ್ ಗಡೀಪಾರು ಮಾಡುತ್ತಾನೆ",
+      "My sister banishes / ನನ್ನ ಸಹೋದರಿ ಗಡೀಪಾರು ಮಾಡುತ್ತಾಳೆ",
+      "The dog banishes / ನಾಯಿ ಗಡೀಪಾರು ಮಾಡುತ್ತದೆ",
+      "People banish / ಜನರು ಗಡೀಪಾರು ಮಾಡುತ್ತಾರೆ",
+      "Children banish / ಮಕ್ಕಳು ಗಡೀಪಾರು ಮಾಡುತ್ತಾರೆ",
+      "Someone banishes / ಯಾರೋ ಗಡೀಪಾರು ಮಾಡುತ್ತಾರೆ",
+      "Nobody banishes / ಯಾರೂ ಗಡೀಪಾರು ಮಾಡುವುದಿಲ್ಲ",
+      "Everybody banishes / ಎಲ್ಲರೂ ಗಡೀಪಾರು ಮಾಡುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bash / ಬಲವಾಗಿ ಹೊಡೆ",
+    "forms": [
+      "I bash / ನಾನು ಬಲವಾಗಿ ಹೊಡೆಯುತ್ತೇನೆ",
+      "You bash / ನೀನು ಬಲವಾಗಿ ಹೊಡೆಯುತ್ತೀಯ",
+      "We bash / ನಾವು ಬಲವಾಗಿ ಹೊಡೆಯುತ್ತೇವೆ",
+      "They bash / ಅವರು ಬಲವಾಗಿ ಹೊಡೆಯುತ್ತಾರೆ",
+      "He bashes / ಅವನು ಬಲವಾಗಿ ಹೊಡೆಯುತ್ತಾನೆ",
+      "She bashes / ಅವಳು ಬಲವಾಗಿ ಹೊಡೆಯುತ್ತಾಳೆ",
+      "It bashes / ಅದು ಬಲವಾಗಿ ಹೊಡೆಯುತ್ತದೆ",
+      "John bashes / ಜಾನ್ ಬಲವಾಗಿ ಹೊಡೆಯುತ್ತಾನೆ",
+      "My sister bashes / ನನ್ನ ಸಹೋದರಿ ಬಲವಾಗಿ ಹೊಡೆಯುತ್ತಾಳೆ",
+      "The dog bashes / ನಾಯಿ ಬಲವಾಗಿ ಹೊಡೆಯುತ್ತದೆ",
+      "People bash / ಜನರು ಬಲವಾಗಿ ಹೊಡೆಯುತ್ತಾರೆ",
+      "Children bash / ಮಕ್ಕಳು ಬಲವಾಗಿ ಹೊಡೆಯುತ್ತಾರೆ",
+      "Someone bashes / ಯಾರೋ ಬಲವಾಗಿ ಹೊಡೆಯುತ್ತಾರೆ",
+      "Nobody bashes / ಯಾರೂ ಬಲವಾಗಿ ಹೊಡೆಯುವುದಿಲ್ಲ",
+      "Everybody bashes / ಎಲ್ಲರೂ ಬಲವಾಗಿ ಹೊಡೆಯುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bat / ಬ್ಯಾಟ್ ಹೊಡೆ",
+    "forms": [
+      "I bat / ನಾನು ಬ್ಯಾಟ್ ಹೊಡೆಯುತ್ತೇನೆ",
+      "You bat / ನೀನು ಬ್ಯಾಟ್ ಹೊಡೆಯುತ್ತೀಯ",
+      "We bat / ನಾವು ಬ್ಯಾಟ್ ಹೊಡೆಯುತ್ತೇವೆ",
+      "They bat / ಅವರು ಬ್ಯಾಟ್ ಹೊಡೆಯುತ್ತಾರೆ",
+      "He bats / ಅವನು ಬ್ಯಾಟ್ ಹೊಡೆಯುತ್ತಾನೆ",
+      "She bats / ಅವಳು ಬ್ಯಾಟ್ ಹೊಡೆಯುತ್ತಾಳೆ",
+      "It bats / ಅದು ಬ್ಯಾಟ್ ಹೊಡೆಯುತ್ತದೆ",
+      "John bats / ಜಾನ್ ಬ್ಯಾಟ್ ಹೊಡೆಯುತ್ತಾನೆ",
+      "My sister bats / ನನ್ನ ಸಹೋದರಿ ಬ್ಯಾಟ್ ಹೊಡೆಯುತ್ತಾಳೆ",
+      "The dog bats / ನಾಯಿ ಬ್ಯಾಟ್ ಹೊಡೆಯುತ್ತದೆ",
+      "People bat / ಜನರು ಬ್ಯಾಟ್ ಹೊಡೆಯುತ್ತಾರೆ",
+      "Children bat / ಮಕ್ಕಳು ಬ್ಯಾಟ್ ಹೊಡೆಯುತ್ತಾರೆ",
+      "Someone bats / ಯಾರೋ ಬ್ಯಾಟ್ ಹೊಡೆಯುತ್ತಾರೆ",
+      "Nobody bats / ಯಾರೂ ಬ್ಯಾಟ್ ಹೊಡೆಯುವುದಿಲ್ಲ",
+      "Everybody bats / ಎಲ್ಲರೂ ಬ್ಯಾಟ್ ಹೊಡೆಯುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Be (am,are) / ಇರು",
+    "forms": [
+      "I am / ನಾನು ಇದ್ದೇನೆ",
+      "You are / ನೀನು ಇದ್ದೀಯ",
+      "We are / ನಾವು ಇದ್ದೇವೆ",
+      "They are / ಅವರು ಇದ್ದಾರೆ",
+      "He is / ಅವನು ಇದ್ದಾನೆ",
+      "She is / ಅವಳು ಇದ್ದಾಳೆ",
+      "It is / ಅದು ಇದೆ",
+      "John is / ಜಾನ್ ಇದ್ದಾನೆ",
+      "My sister is / ನನ್ನ ಸಹೋದರಿ ಇದ್ದಾಳೆ",
+      "The dog is / ನಾಯಿ ಇದೆ",
+      "People are / ಜನರು ಇದ್ದಾರೆ",
+      "Children are / ಮಕ್ಕಳು ಇದ್ದಾರೆ",
+      "Someone is / ಯಾರೋ ಇದ್ದಾರೆ",
+      "Nobody is / ಯಾರೂ ಇಲ್ಲ",
+      "Everybody is / ಎಲ್ಲರೂ ಇದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bear (carry) / ಹೊರು",
+    "forms": [
+      "I bear / ನಾನು ಹೊರುತ್ತೇನೆ",
+      "You bear / ನೀನು ಹೊರುತ್ತೀಯ",
+      "We bear / ನಾವು ಹೊರುತ್ತೇವೆ",
+      "They bear / ಅವರು ಹೊರುತ್ತಾರೆ",
+      "He bears / ಅವನು ಹೊರುತ್ತಾನೆ",
+      "She bears / ಅವಳು ಹೊರುತ್ತಾಳೆ",
+      "It bears / ಅದು ಹೊರುತ್ತದೆ",
+      "John bears / ಜಾನ್ ಹೊರುತ್ತಾನೆ",
+      "My sister bears / ನನ್ನ ಸಹೋದರಿ ಹೊರುತ್ತಾಳೆ",
+      "The dog bears / ನಾಯಿ ಹೊರುತ್ತದೆ",
+      "People bear / ಜನರು ಹೊರುತ್ತಾರೆ",
+      "Children bear / ಮಕ್ಕಳು ಹೊರುತ್ತಾರೆ",
+      "Someone bears / ಯಾರೋ ಹೊರುತ್ತಾರೆ",
+      "Nobody bears / ಯಾರೂ ಹೊರುವುದಿಲ್ಲ",
+      "Everybody bears / ಎಲ್ಲರೂ ಹೊರುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bear (animal) / ಕರಡಿ",
+    "forms": [
+      "I am a bear / ನಾನು ಕರಡಿ",
+      "You are a bear / ನೀನು ಕರಡಿ",
+      "We are bears / ನಾವು ಕರಡಿಗಳು",
+      "They are bears / ಅವರು ಕರಡಿಗಳು",
+      "He is a bear / ಅವನು ಕರಡಿ",
+      "She is a bear / ಅವಳು ಕರಡಿ",
+      "It is a bear / ಅದು ಕರಡಿ",
+      "John is a bear / ಜಾನ್ ಕರಡಿ",
+      "My sister is a bear / ನನ್ನ ಸಹೋದರಿ ಕರಡಿ",
+      "The dog is a bear / ನಾಯಿ ಕರಡಿ",
+      "People are bears / ಜನರು ಕರಡಿಗಳು",
+      "Children are bears / ಮಕ್ಕಳು ಕರಡಿಗಳು",
+      "Someone is a bear / ಯಾರೋ ಕರಡಿ",
+      "Nobody is a bear / ಯಾರೂ ಕರಡಿ ಅಲ್ಲ",
+      "Everybody is a bear / ಎಲ್ಲರೂ ಕರಡಿಗಳು"
+    ]
+  },
+  {
+    "verb": "Beat / ಹೊಡೆ",
+    "forms": [
+      "I beat / ನಾನು ಹೊಡೆಯುತ್ತೇನೆ",
+      "You beat / ನೀನು ಹೊಡೆಯುತ್ತೀಯ",
+      "We beat / ನಾವು ಹೊಡೆಯುತ್ತೇವೆ",
+      "They beat / ಅವರು ಹೊಡೆಯುತ್ತಾರೆ",
+      "He beats / ಅವನು ಹೊಡೆಯುತ್ತಾನೆ",
+      "She beats / ಅವಳು ಹೊಡೆಯುತ್ತಾಳೆ",
+      "It beats / ಅದು ಹೊಡೆಯುತ್ತದೆ",
+      "John beats / ಜಾನ್ ಹೊಡೆಯುತ್ತಾನೆ",
+      "My sister beats / ನನ್ನ ಸಹೋದರಿ ಹೊಡೆಯುತ್ತಾಳೆ",
+      "The dog beats / ನಾಯಿ ಹೊಡೆಯುತ್ತದೆ",
+      "People beat / ಜನರು ಹೊಡೆಯುತ್ತಾರೆ",
+      "Children beat / ಮಕ್ಕಳು ಹೊಡೆಯುತ್ತಾರೆ",
+      "Someone beats / ಯಾರೋ ಹೊಡೆಯುತ್ತಾರೆ",
+      "Nobody beats / ಯಾರೂ ಹೊಡೆಯುವುದಿಲ್ಲ",
+      "Everybody beats / ಎಲ್ಲರೂ ಹೊಡೆಯುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Beautify / ಸುಂದರಗೊಳಿಸು",
+    "forms": [
+      "I beautify / ನಾನು ಸುಂದರಗೊಳಿಸುತ್ತೇನೆ",
+      "You beautify / ನೀನು ಸುಂದರಗೊಳಿಸುತ್ತೀಯ",
+      "We beautify / ನಾವು ಸುಂದರಗೊಳಿಸುತ್ತೇವೆ",
+      "They beautify / ಅವರು ಸುಂದರಗೊಳಿಸುತ್ತಾರೆ",
+      "He beautifies / ಅವನು ಸುಂದರಗೊಳಿಸುತ್ತಾನೆ",
+      "She beautifies / ಅವಳು ಸುಂದರಗೊಳಿಸುತ್ತಾಳೆ",
+      "It beautifies / ಅದು ಸುಂದರಗೊಳಿಸುತ್ತದೆ",
+      "John beautifies / ಜಾನ್ ಸುಂದರಗೊಳಿಸುತ್ತಾನೆ",
+      "My sister beautifies / ನನ್ನ ಸಹೋದರಿ ಸುಂದರಗೊಳಿಸುತ್ತಾಳೆ",
+      "The dog beautifies / ನಾಯಿ ಸುಂದರಗೊಳಿಸುತ್ತದೆ",
+      "People beautify / ಜನರು ಸುಂದರಗೊಳಿಸುತ್ತಾರೆ",
+      "Children beautify / ಮಕ್ಕಳು ಸುಂದರಗೊಳಿಸುತ್ತಾರೆ",
+      "Someone beautifies / ಯಾರೋ ಸುಂದರಗೊಳಿಸುತ್ತಾರೆ",
+      "Nobody beautifies / ಯಾರೂ ಸುಂದರಗೊಳಿಸುವುದಿಲ್ಲ",
+      "Everybody beautifies / ಎಲ್ಲರೂ ಸುಂದರಗೊಳಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Become / ಆಗು",
+    "forms": [
+      "I become / ನಾನು ಆಗುತ್ತೇನೆ",
+      "You become / ನೀನು ಆಗುತ್ತೀಯ",
+      "We become / ನಾವು ಆಗುತ್ತೇವೆ",
+      "They become / ಅವರು ಆಗುತ್ತಾರೆ",
+      "He becomes / ಅವನು ಆಗುತ್ತಾನೆ",
+      "She becomes / ಅವಳು ಆಗುತ್ತಾಳೆ",
+      "It becomes / ಅದು ಆಗುತ್ತದೆ",
+      "John becomes / ಜಾನ್ ಆಗುತ್ತಾನೆ",
+      "My sister becomes / ನನ್ನ ಸಹೋದರಿ ಆಗುತ್ತಾಳೆ",
+      "The dog becomes / ನಾಯಿ ಆಗುತ್ತದೆ",
+      "People become / ಜನರು ಆಗುತ್ತಾರೆ",
+      "Children become / ಮಕ್ಕಳು ಆಗುತ್ತಾರೆ",
+      "Someone becomes / ಯಾರೋ ಆಗುತ್ತಾರೆ",
+      "Nobody becomes / ಯಾರೂ ಆಗುವುದಿಲ್ಲ",
+      "Everybody becomes / ಎಲ್ಲರೂ ಆಗುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Befall / ಸಂಭವಿಸು",
+    "forms": [
+      "I befall / ನಾನು ಸಂಭವಿಸುತ್ತೇನೆ",
+      "You befall / ನೀನು ಸಂಭವಿಸುತ್ತೀಯ",
+      "We befall / ನಾವು ಸಂಭವಿಸುತ್ತೇವೆ",
+      "They befall / ಅವರು ಸಂಭವಿಸುತ್ತಾರೆ",
+      "He befalls / ಅವನು ಸಂಭವಿಸುತ್ತಾನೆ",
+      "She befalls / ಅವಳು ಸಂಭವಿಸುತ್ತಾಳೆ",
+      "It befalls / ಅದು ಸಂಭವಿಸುತ್ತದೆ",
+      "John befalls / ಜಾನ್ ಸಂಭವಿಸುತ್ತಾನೆ",
+      "My sister befalls / ನನ್ನ ಸಹೋದರಿ ಸಂಭವಿಸುತ್ತಾಳೆ",
+      "The dog befalls / ನಾಯಿ ಸಂಭವಿಸುತ್ತದೆ",
+      "People befall / ಜನರು ಸಂಭವಿಸುತ್ತಾರೆ",
+      "Children befall / ಮಕ್ಕಳು ಸಂಭವಿಸುತ್ತಾರೆ",
+      "Someone befalls / ಯಾರೋ ಸಂಭವಿಸುತ್ತಾರೆ",
+      "Nobody befalls / ಯಾರೂ ಸಂಭವಿಸುವುದಿಲ್ಲ",
+      "Everybody befalls / ಎಲ್ಲರೂ ಸಂಭವಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Beg / ಬೇಡು",
+    "forms": [
+      "I beg / ನಾನು ಬೇಡುತ್ತೇನೆ",
+      "You beg / ನೀನು ಬೇಡುತ್ತೀಯ",
+      "We beg / ನಾವು ಬೇಡುತ್ತೇವೆ",
+      "They beg / ಅವರು ಬೇಡುತ್ತಾರೆ",
+      "He begs / ಅವನು ಬೇಡುತ್ತಾನೆ",
+      "She begs / ಅವಳು ಬೇಡುತ್ತಾಳೆ",
+      "It begs / ಅದು ಬೇಡುತ್ತದೆ",
+      "John begs / ಜಾನ್ ಬೇಡುತ್ತಾನೆ",
+      "My sister begs / ನನ್ನ ಸಹೋದರಿ ಬೇಡುತ್ತಾಳೆ",
+      "The dog begs / ನಾಯಿ ಬೇಡುತ್ತದೆ",
+      "People beg / ಜನರು ಬೇಡುತ್ತಾರೆ",
+      "Children beg / ಮಕ್ಕಳು ಬೇಡುತ್ತಾರೆ",
+      "Someone begs / ಯಾರೋ ಬೇಡುತ್ತಾರೆ",
+      "Nobody begs / ಯಾರೂ ಬೇಡುವುದಿಲ್ಲ",
+      "Everybody begs / ಎಲ್ಲರೂ ಬೇಡುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Begin / ಪ್ರಾರಂಭಿಸು",
+    "forms": [
+      "I begin / ನಾನು ಪ್ರಾರಂಭಿಸುತ್ತೇನೆ",
+      "You begin / ನೀನು ಪ್ರಾರಂಭಿಸುತ್ತೀಯ",
+      "We begin / ನಾವು ಪ್ರಾರಂಭಿಸುತ್ತೇವೆ",
+      "They begin / ಅವರು ಪ್ರಾರಂಭಿಸುತ್ತಾರೆ",
+      "He begins / ಅವನು ಪ್ರಾರಂಭಿಸುತ್ತಾನೆ",
+      "She begins / ಅವಳು ಪ್ರಾರಂಭಿಸುತ್ತಾಳೆ",
+      "It begins / ಅದು ಪ್ರಾರಂಭಿಸುತ್ತದೆ",
+      "John begins / ಜಾನ್ ಪ್ರಾರಂಭಿಸುತ್ತಾನೆ",
+      "My sister begins / ನನ್ನ ಸಹೋದರಿ ಪ್ರಾರಂಭಿಸುತ್ತಾಳೆ",
+      "The dog begins / ನಾಯಿ ಪ್ರಾರಂಭಿಸುತ್ತದೆ",
+      "People begin / ಜನರು ಪ್ರಾರಂಭಿಸುತ್ತಾರೆ",
+      "Children begin / ಮಕ್ಕಳು ಪ್ರಾರಂಭಿಸುತ್ತಾರೆ",
+      "Someone begins / ಯಾರೋ ಪ್ರಾರಂಭಿಸುತ್ತಾರೆ",
+      "Nobody begins / ಯಾರೂ ಪ್ರಾರಂಭಿಸುವುದಿಲ್ಲ",
+      "Everybody begins / ಎಲ್ಲರೂ ಪ್ರಾರಂಭಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Behave / ನಡೆದುಕೊಳ್ಳು",
+    "forms": [
+      "I behave / ನಾನು ನಡೆದುಕೊಳ್ಳುತ್ತೇನೆ",
+      "You behave / ನೀನು ನಡೆದುಕೊಳ್ಳುತ್ತೀಯ",
+      "We behave / ನಾವು ನಡೆದುಕೊಳ್ಳುತ್ತೇವೆ",
+      "They behave / ಅವರು ನಡೆದುಕೊಳ್ಳುತ್ತಾರೆ",
+      "He behaves / ಅವನು ನಡೆದುಕೊಳ್ಳುತ್ತಾನೆ",
+      "She behaves / ಅವಳು ನಡೆದುಕೊಳ್ಳುತ್ತಾಳೆ",
+      "It behaves / ಅದು ನಡೆದುಕೊಳ್ಳುತ್ತದೆ",
+      "John behaves / ಜಾನ್ ನಡೆದುಕೊಳ್ಳುತ್ತಾನೆ",
+      "My sister behaves / ನನ್ನ ಸಹೋದರಿ ನಡೆದುಕೊಳ್ಳುತ್ತಾಳೆ",
+      "The dog behaves / ನಾಯಿ ನಡೆದುಕೊಳ್ಳುತ್ತದೆ",
+      "People behave / ಜನರು ನಡೆದುಕೊಳ್ಳುತ್ತಾರೆ",
+      "Children behave / ಮಕ್ಕಳು ನಡೆದುಕೊಳ್ಳುತ್ತಾರೆ",
+      "Someone behaves / ಯಾರೋ ನಡೆದುಕೊಳ್ಳುತ್ತಾರೆ",
+      "Nobody behaves / ಯಾರೂ ನಡೆದುಕೊಳ್ಳುವುದಿಲ್ಲ",
+      "Everybody behaves / ಎಲ್ಲರೂ ನಡೆದುಕೊಳ್ಳುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Behold / ನೋಡು",
+    "forms": [
+      "I behold / ನಾನು ನೋಡುತ್ತೇನೆ",
+      "You behold / ನೀನು ನೋಡುತ್ತೀಯ",
+      "We behold / ನಾವು ನೋಡುತ್ತೇವೆ",
+      "They behold / ಅವರು ನೋಡುತ್ತಾರೆ",
+      "He beholds / ಅವನು ನೋಡುತ್ತಾನೆ",
+      "She beholds / ಅವಳು ನೋಡುತ್ತಾಳೆ",
+      "It beholds / ಅದು ನೋಡುತ್ತದೆ",
+      "John beholds / ಜಾನ್ ನೋಡುತ್ತಾನೆ",
+      "My sister beholds / ನನ್ನ ಸಹೋದರಿ ನೋಡುತ್ತಾಳೆ",
+      "The dog beholds / ನಾಯಿ ನೋಡುತ್ತದೆ",
+      "People behold / ಜನರು ನೋಡುತ್ತಾರೆ",
+      "Children behold / ಮಕ್ಕಳು ನೋಡುತ್ತಾರೆ",
+      "Someone beholds / ಯಾರೋ ನೋಡುತ್ತಾರೆ",
+      "Nobody beholds / ಯಾರೂ ನೋಡುವುದಿಲ್ಲ",
+      "Everybody beholds / ಎಲ್ಲರೂ ನೋಡುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Believe / ನಂಬು",
+    "forms": [
+      "I believe / ನಾನು ನಂಬುತ್ತೇನೆ",
+      "You believe / ನೀನು ನಂಬುತ್ತೀಯ",
+      "We believe / ನಾವು ನಂಬುತ್ತೇವೆ",
+      "They believe / ಅವರು ನಂಬುತ್ತಾರೆ",
+      "He believes / ಅವನು ನಂಬುತ್ತಾನೆ",
+      "She believes / ಅವಳು ನಂಬುತ್ತಾಳೆ",
+      "It believes / ಅದು ನಂಬುತ್ತದೆ",
+      "John believes / ಜಾನ್ ನಂಬುತ್ತಾನೆ",
+      "My sister believes / ನನ್ನ ಸಹೋದರಿ ನಂಬುತ್ತಾಳೆ",
+      "The dog believes / ನಾಯಿ ನಂಬುತ್ತದೆ",
+      "People believe / ಜನರು ನಂಬುತ್ತಾರೆ",
+      "Children believe / ಮಕ್ಕಳು ನಂಬುತ್ತಾರೆ",
+      "Someone believes / ಯಾರೋ ನಂಬುತ್ತಾರೆ",
+      "Nobody believes / ಯಾರೂ ನಂಬುವುದಿಲ್ಲ",
+      "Everybody believes / ಎಲ್ಲರೂ ನಂಬುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Belong / ಸೇರಿರು",
+    "forms": [
+      "I belong / ನಾನು ಸೇರಿರುತ್ತೇನೆ",
+      "You belong / ನೀನು ಸೇರಿರುತ್ತೀಯ",
+      "We belong / ನಾವು ಸೇರಿರುತ್ತೇವೆ",
+      "They belong / ಅವರು ಸೇರಿರುತ್ತಾರೆ",
+      "He belongs / ಅವನು ಸೇರಿರುತ್ತಾನೆ",
+      "She belongs / ಅವಳು ಸೇರಿರುತ್ತಾಳೆ",
+      "It belongs / ಅದು ಸೇರಿರುತ್ತದೆ",
+      "John belongs / ಜಾನ್ ಸೇರಿರುತ್ತಾನೆ",
+      "My sister belongs / ನನ್ನ ಸಹೋದರಿ ಸೇರಿರುತ್ತಾಳೆ",
+      "The dog belongs / ನಾಯಿ ಸೇರಿರುತ್ತದೆ",
+      "People belong / ಜನರು ಸೇರಿರುತ್ತಾರೆ",
+      "Children belong / ಮಕ್ಕಳು ಸೇರಿರುತ್ತಾರೆ",
+      "Someone belongs / ಯಾರೋ ಸೇರಿರುತ್ತಾರೆ",
+      "Nobody belongs / ಯಾರೂ ಸೇರಿರುವುದಿಲ್ಲ",
+      "Everybody belongs / ಎಲ್ಲರೂ ಸೇರಿರುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bend / ಬಗ್ಗಿಸು",
+    "forms": [
+      "I bend / ನಾನು ಬಗ್ಗಿಸುತ್ತೇನೆ",
+      "You bend / ನೀನು ಬಗ್ಗಿಸುತ್ತೀಯ",
+      "We bend / ನಾವು ಬಗ್ಗಿಸುತ್ತೇವೆ",
+      "They bend / ಅವರು ಬಗ್ಗಿಸುತ್ತಾರೆ",
+      "He bends / ಅವನು ಬಗ್ಗಿಸುತ್ತಾನೆ",
+      "She bends / ಅವಳು ಬಗ್ಗಿಸುತ್ತಾಳೆ",
+      "It bends / ಅದು ಬಗ್ಗಿಸುತ್ತದೆ",
+      "John bends / ಜಾನ್ ಬಗ್ಗಿಸುತ್ತಾನೆ",
+      "My sister bends / ನನ್ನ ಸಹೋದರಿ ಬಗ್ಗಿಸುತ್ತಾಳೆ",
+      "The dog bends / ನಾಯಿ ಬಗ್ಗಿಸುತ್ತದೆ",
+      "People bend / ಜನರು ಬಗ್ಗಿಸುತ್ತಾರೆ",
+      "Children bend / ಮಕ್ಕಳು ಬಗ್ಗಿಸುತ್ತಾರೆ",
+      "Someone bends / ಯಾರೋ ಬಗ್ಗಿಸುತ್ತಾರೆ",
+      "Nobody bends / ಯಾರೂ ಬಗ್ಗಿಸುವುದಿಲ್ಲ",
+      "Everybody bends / ಎಲ್ಲರೂ ಬಗ್ಗಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bereave / ಕಳೆದುಕೊಳ್ಳು",
+    "forms": [
+      "I bereave / ನಾನು ಕಳೆದುಕೊಳ್ಳುತ್ತೇನೆ",
+      "You bereave / ನೀನು ಕಳೆದುಕೊಳ್ಳುತ್ತೀಯ",
+      "We bereave / ನಾವು ಕಳೆದುಕೊಳ್ಳುತ್ತೇವೆ",
+      "They bereave / ಅವರು ಕಳೆದುಕೊಳ್ಳುತ್ತಾರೆ",
+      "He bereaves / ಅವನು ಕಳೆದುಕೊಳ್ಳುತ್ತಾನೆ",
+      "She bereaves / ಅವಳು ಕಳೆದುಕೊಳ್ಳುತ್ತಾಳೆ",
+      "It bereaves / ಅದು ಕಳೆದುಕೊಳ್ಳುತ್ತದೆ",
+      "John bereaves / ಜಾನ್ ಕಳೆದುಕೊಳ್ಳುತ್ತಾನೆ",
+      "My sister bereaves / ನನ್ನ ಸಹೋದರಿ ಕಳೆದುಕೊಳ್ಳುತ್ತಾಳೆ",
+      "The dog bereaves / ನಾಯಿ ಕಳೆದುಕೊಳ್ಳುತ್ತದೆ",
+      "People bereave / ಜನರು ಕಳೆದುಕೊಳ್ಳುತ್ತಾರೆ",
+      "Children bereave / ಮಕ್ಕಳು ಕಳೆದುಕೊಳ್ಳುತ್ತಾರೆ",
+      "Someone bereaves / ಯಾರೋ ಕಳೆದುಕೊಳ್ಳುತ್ತಾರೆ",
+      "Nobody bereaves / ಯಾರೂ ಕಳೆದುಕೊಳ್ಳುವುದಿಲ್ಲ",
+      "Everybody bereaves / ಎಲ್ಲರೂ ಕಳೆದುಕೊಳ್ಳುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Beseech / ಬೇಡಿಕೊಳ್ಳು",
+    "forms": [
+      "I beseech / ನಾನು ಬೇಡಿಕೊಳ್ಳುತ್ತೇನೆ",
+      "You beseech / ನೀನು ಬೇಡಿಕೊಳ್ಳುತ್ತೀಯ",
+      "We beseech / ನಾವು ಬೇಡಿಕೊಳ್ಳುತ್ತೇವೆ",
+      "They beseech / ಅವರು ಬೇಡಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "He beseeches / ಅವನು ಬೇಡಿಕೊಳ್ಳುತ್ತಾನೆ",
+      "She beseeches / ಅವಳು ಬೇಡಿಕೊಳ್ಳುತ್ತಾಳೆ",
+      "It beseeches / ಅದು ಬೇಡಿಕೊಳ್ಳುತ್ತದೆ",
+      "John beseeches / ಜಾನ್ ಬೇಡಿಕೊಳ್ಳುತ್ತಾನೆ",
+      "My sister beseeches / ನನ್ನ ಸಹೋದರಿ ಬೇಡಿಕೊಳ್ಳುತ್ತಾಳೆ",
+      "The dog beseeches / ನಾಯಿ ಬೇಡಿಕೊಳ್ಳುತ್ತದೆ",
+      "People beseech / ಜನರು ಬೇಡಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "Children beseech / ಮಕ್ಕಳು ಬೇಡಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "Someone beseeches / ಯಾರೋ ಬೇಡಿಕೊಳ್ಳುತ್ತಾರೆ",
+      "Nobody beseeches / ಯಾರೂ ಬೇಡಿಕೊಳ್ಳುವುದಿಲ್ಲ",
+      "Everybody beseeches / ಎಲ್ಲರೂ ಬೇಡಿಕೊಳ್ಳುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bet / ಬಾಜಿ ಮಾಡು",
+    "forms": [
+      "I bet / ನಾನು ಬಾಜಿ ಮಾಡುತ್ತೇನೆ",
+      "You bet / ನೀನು ಬಾಜಿ ಮಾಡುತ್ತೀಯ",
+      "We bet / ನಾವು ಬಾಜಿ ಮಾಡುತ್ತೇವೆ",
+      "They bet / ಅವರು ಬಾಜಿ ಮಾಡುತ್ತಾರೆ",
+      "He bets / ಅವನು ಬಾಜಿ ಮಾಡುತ್ತಾನೆ",
+      "She bets / ಅವಳು ಬಾಜಿ ಮಾಡುತ್ತಾಳೆ",
+      "It bets / ಅದು ಬಾಜಿ ಮಾಡುತ್ತದೆ",
+      "John bets / ಜಾನ್ ಬಾಜಿ ಮಾಡುತ್ತಾನೆ",
+      "My sister bets / ನನ್ನ ಸಹೋದರಿ ಬಾಜಿ ಮಾಡುತ್ತಾಳೆ",
+      "The dog bets / ನಾಯಿ ಬಾಜಿ ಮಾಡುತ್ತದೆ",
+      "People bet / ಜನರು ಬಾಜಿ ಮಾಡುತ್ತಾರೆ",
+      "Children bet / ಮಕ್ಕಳು ಬಾಜಿ ಮಾಡುತ್ತಾರೆ",
+      "Someone bets / ಯಾರೋ ಬಾಜಿ ಮಾಡುತ್ತಾರೆ",
+      "Nobody bets / ಯಾರೂ ಬಾಜಿ ಮಾಡುವುದಿಲ್ಲ",
+      "Everybody bets / ಎಲ್ಲರೂ ಬಾಜಿ ಮಾಡುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Betray / ದ್ರೋಹ ಮಾಡು",
+    "forms": [
+      "I betray / ನಾನು ದ್ರೋಹ ಮಾಡುತ್ತೇನೆ",
+      "You betray / ನೀನು ದ್ರೋಹ ಮಾಡುತ್ತೀಯ",
+      "We betray / ನಾವು ದ್ರೋಹ ಮಾಡುತ್ತೇವೆ",
+      "They betray / ಅವರು ದ್ರೋಹ ಮಾಡುತ್ತಾರೆ",
+      "He betrays / ಅವನು ದ್ರೋಹ ಮಾಡುತ್ತಾನೆ",
+      "She betrays / ಅವಳು ದ್ರೋಹ ಮಾಡುತ್ತಾಳೆ",
+      "It betrays / ಅದು ದ್ರೋಹ ಮಾಡುತ್ತದೆ",
+      "John betrays / ಜಾನ್ ದ್ರೋಹ ಮಾಡುತ್ತಾನೆ",
+      "My sister betrays / ನನ್ನ ಸಹೋದರಿ ದ್ರೋಹ ಮಾಡುತ್ತಾಳೆ",
+      "The dog betrays / ನಾಯಿ ದ್ರೋಹ ಮಾಡುತ್ತದೆ",
+      "People betray / ಜನರು ದ್ರೋಹ ಮಾಡುತ್ತಾರೆ",
+      "Children betray / ಮಕ್ಕಳು ದ್ರೋಹ ಮಾಡುತ್ತಾರೆ",
+      "Someone betrays / ಯಾರೋ ದ್ರೋಹ ಮಾಡುತ್ತಾರೆ",
+      "Nobody betrays / ಯಾರೂ ದ್ರೋಹ ಮಾಡುವುದಿಲ್ಲ",
+      "Everybody betrays / ಎಲ್ಲರೂ ದ್ರೋಹ ಮಾಡುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bid (offer) / ಬೆಲೆ ಕರೆ",
+    "forms": [
+      "I bid / ನಾನು ಬೆಲೆ ಕರೆಯುತ್ತೇನೆ",
+      "You bid / ನೀನು ಬೆಲೆ ಕರೆಯುತ್ತೀಯ",
+      "We bid / ನಾವು ಬೆಲೆ ಕರೆಯುತ್ತೇವೆ",
+      "They bid / ಅವರು ಬೆಲೆ ಕರೆಯುತ್ತಾರೆ",
+      "He bids / ಅವನು ಬೆಲೆ ಕರೆಯುತ್ತಾನೆ",
+      "She bids / ಅವಳು ಬೆಲೆ ಕರೆಯುತ್ತಾಳೆ",
+      "It bids / ಅದು ಬೆಲೆ ಕರೆಯುತ್ತದೆ",
+      "John bids / ಜಾನ್ ಬೆಲೆ ಕರೆಯುತ್ತಾನೆ",
+      "My sister bids / ನನ್ನ ಸಹೋದರಿ ಬೆಲೆ ಕರೆಯುತ್ತಾಳೆ",
+      "The dog bids / ನಾಯಿ ಬೆಲೆ ಕರೆಯುತ್ತದೆ",
+      "People bid / ಜನರು ಬೆಲೆ ಕರೆಯುತ್ತಾರೆ",
+      "Children bid / ಮಕ್ಕಳು ಬೆಲೆ ಕರೆಯುತ್ತಾರೆ",
+      "Someone bids / ಯಾರೋ ಬೆಲೆ ಕರೆಯುತ್ತಾರೆ",
+      "Nobody bids / ಯಾರೂ ಬೆಲೆ ಕರೆಯುವುದಿಲ್ಲ",
+      "Everybody bids / ಎಲ್ಲರೂ ಬೆಲೆ ಕರೆಯುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bid (command) / ಆಜ್ಞಾಪಿಸು",
+    "forms": [
+      "I bid / ನಾನು ಆಜ್ಞಾಪಿಸುತ್ತೇನೆ",
+      "You bid / ನೀನು ಆಜ್ಞಾಪಿಸುತ್ತೀಯ",
+      "We bid / ನಾವು ಆಜ್ಞಾಪಿಸುತ್ತೇವೆ",
+      "They bid / ಅವರು ಆಜ್ಞಾಪಿಸುತ್ತಾರೆ",
+      "He bids / ಅವನು ಆಜ್ಞಾಪಿಸುತ್ತಾನೆ",
+      "She bids / ಅವಳು ಆಜ್ಞಾಪಿಸುತ್ತಾಳೆ",
+      "It bids / ಅದು ಆಜ್ಞಾಪಿಸುತ್ತದೆ",
+      "John bids / ಜಾನ್ ಆಜ್ಞಾಪಿಸುತ್ತಾನೆ",
+      "My sister bids / ನನ್ನ ಸಹೋದರಿ ಆಜ್ಞಾಪಿಸುತ್ತಾಳೆ",
+      "The dog bids / ನಾಯಿ ಆಜ್ಞಾಪಿಸುತ್ತದೆ",
+      "People bid / ಜನರು ಆಜ್ಞಾಪಿಸುತ್ತಾರೆ",
+      "Children bid / ಮಕ್ಕಳು ಆಜ್ಞಾಪಿಸುತ್ತಾರೆ",
+      "Someone bids / ಯಾರೋ ಆಜ್ಞಾಪಿಸುತ್ತಾರೆ",
+      "Nobody bids / ಯಾರೂ ಆಜ್ಞಾಪಿಸುವುದಿಲ್ಲ",
+      "Everybody bids / ಎಲ್ಲರೂ ಆಜ್ಞಾಪಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bind / ಬಂಧಿಸು",
+    "forms": [
+      "I bind / ನಾನು ಬಂಧಿಸುತ್ತೇನೆ",
+      "You bind / ನೀನು ಬಂಧಿಸುತ್ತೀಯ",
+      "We bind / ನಾವು ಬಂಧಿಸುತ್ತೇವೆ",
+      "They bind / ಅವರು ಬಂಧಿಸುತ್ತಾರೆ",
+      "He binds / ಅವನು ಬಂಧಿಸುತ್ತಾನೆ",
+      "She binds / ಅವಳು ಬಂಧಿಸುತ್ತಾಳೆ",
+      "It binds / ಅದು ಬಂಧಿಸುತ್ತದೆ",
+      "John binds / ಜಾನ್ ಬಂಧಿಸುತ್ತಾನೆ",
+      "My sister binds / ನನ್ನ ಸಹೋದರಿ ಬಂಧಿಸುತ್ತಾಳೆ",
+      "The dog binds / ನಾಯಿ ಬಂಧಿಸುತ್ತದೆ",
+      "People bind / ಜನರು ಬಂಧಿಸುತ್ತಾರೆ",
+      "Children bind / ಮಕ್ಕಳು ಬಂಧಿಸುತ್ತಾರೆ",
+      "Someone binds / ಯಾರೋ ಬಂಧಿಸುತ್ತಾರೆ",
+      "Nobody binds / ಯಾರೂ ಬಂಧಿಸುವುದಿಲ್ಲ",
+      "Everybody binds / ಎಲ್ಲರೂ ಬಂಧಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bite / ಕಚ್ಚು",
+    "forms": [
+      "I bite / ನಾನು ಕಚ್ಚುತ್ತೇನೆ",
+      "You bite / ನೀನು ಕಚ್ಚುತ್ತೀಯ",
+      "We bite / ನಾವು ಕಚ್ಚುತ್ತೇವೆ",
+      "They bite / ಅವರು ಕಚ್ಚುತ್ತಾರೆ",
+      "He bites / ಅವನು ಕಚ್ಚುತ್ತಾನೆ",
+      "She bites / ಅವಳು ಕಚ್ಚುತ್ತಾಳೆ",
+      "It bites / ಅದು ಕಚ್ಚುತ್ತದೆ",
+      "John bites / ಜಾನ್ ಕಚ್ಚುತ್ತಾನೆ",
+      "My sister bites / ನನ್ನ ಸಹೋದರಿ ಕಚ್ಚುತ್ತಾಳೆ",
+      "The dog bites / ನಾಯಿ ಕಚ್ಚುತ್ತದೆ",
+      "People bite / ಜನರು ಕಚ್ಚುತ್ತಾರೆ",
+      "Children bite / ಮಕ್ಕಳು ಕಚ್ಚುತ್ತಾರೆ",
+      "Someone bites / ಯಾರೋ ಕಚ್ಚುತ್ತಾರೆ",
+      "Nobody bites / ಯಾರೂ ಕಚ್ಚುವುದಿಲ್ಲ",
+      "Everybody bites / ಎಲ್ಲರೂ ಕಚ್ಚುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bleed / ರಕ್ತ ಸ್ರವಿಸು",
+    "forms": [
+      "I bleed / ನಾನು ರಕ್ತ ಸ್ರವಿಸುತ್ತೇನೆ",
+      "You bleed / ನೀನು ರಕ್ತ ಸ್ರವಿಸುತ್ತೀಯ",
+      "We bleed / ನಾವು ರಕ್ತ ಸ್ರವಿಸುತ್ತೇವೆ",
+      "They bleed / ಅವರು ರಕ್ತ ಸ್ರವಿಸುತ್ತಾರೆ",
+      "He bleeds / ಅವನು ರಕ್ತ ಸ್ರವಿಸುತ್ತಾನೆ",
+      "She bleeds / ಅವಳು ರಕ್ತ ಸ್ರವಿಸುತ್ತಾಳೆ",
+      "It bleeds / ಅದು ರಕ್ತ ಸ್ರವಿಸುತ್ತದೆ",
+      "John bleeds / ಜಾನ್ ರಕ್ತ ಸ್ರವಿಸುತ್ತಾನೆ",
+      "My sister bleeds / ನನ್ನ ಸಹೋದರಿ ರಕ್ತ ಸ್ರವಿಸುತ್ತಾಳೆ",
+      "The dog bleeds / ನಾಯಿ ರಕ್ತ ಸ್ರವಿಸುತ್ತದೆ",
+      "People bleed / ಜನರು ರಕ್ತ ಸ್ರವಿಸುತ್ತಾರೆ",
+      "Children bleed / ಮಕ್ಕಳು ರಕ್ತ ಸ್ರವಿಸುತ್ತಾರೆ",
+      "Someone bleeds / ಯಾರೋ ರಕ್ತ ಸ್ರವಿಸುತ್ತಾರೆ",
+      "Nobody bleeds / ಯಾರೂ ರಕ್ತ ಸ್ರವಿಸುವುದಿಲ್ಲ",
+      "Everybody bleeds / ಎಲ್ಲರೂ ರಕ್ತ ಸ್ರವಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bless / ಆಶೀರ್ವದಿಸು",
+    "forms": [
+      "I bless / ನಾನು ಆಶೀರ್ವದಿಸುತ್ತೇನೆ",
+      "You bless / ನೀನು ಆಶೀರ್ವದಿಸುತ್ತೀಯ",
+      "We bless / ನಾವು ಆಶೀರ್ವದಿಸುತ್ತೇವೆ",
+      "They bless / ಅವರು ಆಶೀರ್ವದಿಸುತ್ತಾರೆ",
+      "He blesses / ಅವನು ಆಶೀರ್ವದಿಸುತ್ತಾನೆ",
+      "She blesses / ಅವಳು ಆಶೀರ್ವದಿಸುತ್ತಾಳೆ",
+      "It blesses / ಅದು ಆಶೀರ್ವದಿಸುತ್ತದೆ",
+      "John blesses / ಜಾನ್ ಆಶೀರ್ವದಿಸುತ್ತಾನೆ",
+      "My sister blesses / ನನ್ನ ಸಹೋದರಿ ಆಶೀರ್ವದಿಸುತ್ತಾಳೆ",
+      "The dog blesses / ನಾಯಿ ಆಶೀರ್ವದಿಸುತ್ತದೆ",
+      "People bless / ಜನರು ಆಶೀರ್ವದಿಸುತ್ತಾರೆ",
+      "Children bless / ಮಕ್ಕಳು ಆಶೀರ್ವದಿಸುತ್ತಾರೆ",
+      "Someone blesses / ಯಾರೋ ಆಶೀರ್ವದಿಸುತ್ತಾರೆ",
+      "Nobody blesses / ಯಾರೂ ಆಶೀರ್ವದಿಸುವುದಿಲ್ಲ",
+      "Everybody blesses / ಎಲ್ಲರೂ ಆಶೀರ್ವದಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Blossom / ಅರಳು",
+    "forms": [
+      "I blossom / ನಾನು ಅರಳುತ್ತೇನೆ",
+      "You blossom / ನೀನು ಅರಳುತ್ತೀಯ",
+      "We blossom / ನಾವು ಅರಳುತ್ತೇವೆ",
+      "They blossom / ಅವರು ಅರಳುತ್ತಾರೆ",
+      "He blossoms / ಅವನು ಅರಳುತ್ತಾನೆ",
+      "She blossoms / ಅವಳು ಅರಳುತ್ತಾಳೆ",
+      "It blossoms / ಅದು ಅರಳುತ್ತದೆ",
+      "John blossoms / ಜಾನ್ ಅರಳುತ್ತಾನೆ",
+      "My sister blossoms / ನನ್ನ ಸಹೋದರಿ ಅರಳುತ್ತಾಳೆ",
+      "The dog blossoms / ನಾಯಿ ಅರಳುತ್ತದೆ",
+      "People blossom / ಜನರು ಅರಳುತ್ತಾರೆ",
+      "Children blossom / ಮಕ್ಕಳು ಅರಳುತ್ತಾರೆ",
+      "Someone blossoms / ಯಾರೋ ಅರಳುತ್ತಾರೆ",
+      "Nobody blossoms / ಯಾರೂ ಅರಳುವುದಿಲ್ಲ",
+      "Everybody blossoms / ಎಲ್ಲರೂ ಅರಳುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Blow / ಊದು",
+    "forms": [
+      "I blow / ನಾನು ಊದುತ್ತೇನೆ",
+      "You blow / ನೀನು ಊದುತ್ತೀಯ",
+      "We blow / ನಾವು ಊದುತ್ತೇವೆ",
+      "They blow / ಅವರು ಊದುತ್ತಾರೆ",
+      "He blows / ಅವನು ಊದುತ್ತಾನೆ",
+      "She blows / ಅವಳು ಊದುತ್ತಾಳೆ",
+      "It blows / ಅದು ಊದುತ್ತದೆ",
+      "John blows / ಜಾನ್ ಊದುತ್ತಾನೆ",
+      "My sister blows / ನನ್ನ ಸಹೋದರಿ ಊದುತ್ತಾಳೆ",
+      "The dog blows / ನಾಯಿ ಊದುತ್ತದೆ",
+      "People blow / ಜನರು ಊದುತ್ತಾರೆ",
+      "Children blow / ಮಕ್ಕಳು ಊದುತ್ತಾರೆ",
+      "Someone blows / ಯಾರೋ ಊದುತ್ತಾರೆ",
+      "Nobody blows / ಯಾರೂ ಊದುವುದಿಲ್ಲ",
+      "Everybody blows / ಎಲ್ಲರೂ ಊದುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Blur / ಮಸುಕಾಗಿಸು",
+    "forms": [
+      "I blur / ನಾನು ಮಸುಕಾಗಿಸುತ್ತೇನೆ",
+      "You blur / ನೀನು ಮಸುಕಾಗಿಸುತ್ತೀಯ",
+      "We blur / ನಾವು ಮಸುಕಾಗಿಸುತ್ತೇವೆ",
+      "They blur / ಅವರು ಮಸುಕಾಗಿಸುತ್ತಾರೆ",
+      "He blurs / ಅವನು ಮಸುಕಾಗಿಸುತ್ತಾನೆ",
+      "She blurs / ಅವಳು ಮಸುಕಾಗಿಸುತ್ತಾಳೆ",
+      "It blurs / ಅದು ಮಸುಕಾಗಿಸುತ್ತದೆ",
+      "John blurs / ಜಾನ್ ಮಸುಕಾಗಿಸುತ್ತಾನೆ",
+      "My sister blurs / ನನ್ನ ಸಹೋದರಿ ಮಸುಕಾಗಿಸುತ್ತಾಳೆ",
+      "The dog blurs / ನಾಯಿ ಮಸುಕಾಗಿಸುತ್ತದೆ",
+      "People blur / ಜನರು ಮಸುಕಾಗಿಸುತ್ತಾರೆ",
+      "Children blur / ಮಕ್ಕಳು ಮಸುಕಾಗಿಸುತ್ತಾರೆ",
+      "Someone blurs / ಯಾರೋ ಮಸುಕಾಗಿಸುತ್ತಾರೆ",
+      "Nobody blurs / ಯಾರೂ ಮಸುಕಾಗಿಸುವುದಿಲ್ಲ",
+      "Everybody blurs / ಎಲ್ಲರೂ ಮಸುಕಾಗಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Blush / ನಾಚಿಕೆಗೊಳ್ಳು",
+    "forms": [
+      "I blush / ನಾನು ನಾಚಿಕೆಗೊಳ್ಳುತ್ತೇನೆ",
+      "You blush / ನೀನು ನಾಚಿಕೆಗೊಳ್ಳುತ್ತೀಯ",
+      "We blush / ನಾವು ನಾಚಿಕೆಗೊಳ್ಳುತ್ತೇವೆ",
+      "They blush / ಅವರು ನಾಚಿಕೆಗೊಳ್ಳುತ್ತಾರೆ",
+      "He blushes / ಅವನು ನಾಚಿಕೆಗೊಳ್ಳುತ್ತಾನೆ",
+      "She blushes / ಅವಳು ನಾಚಿಕೆಗೊಳ್ಳುತ್ತಾಳೆ",
+      "It blushes / ಅದು ನಾಚಿಕೆಗೊಳ್ಳುತ್ತದೆ",
+      "John blushes / ಜಾನ್ ನಾಚಿಕೆಗೊಳ್ಳುತ್ತಾನೆ",
+      "My sister blushes / ನನ್ನ ಸಹೋದರಿ ನಾಚಿಕೆಗೊಳ್ಳುತ್ತಾಳೆ",
+      "The dog blushes / ನಾಯಿ ನಾಚಿಕೆಗೊಳ್ಳುತ್ತದೆ",
+      "People blush / ಜನರು ನಾಚಿಕೆಗೊಳ್ಳುತ್ತಾರೆ",
+      "Children blush / ಮಕ್ಕಳು ನಾಚಿಕೆಗೊಳ್ಳುತ್ತಾರೆ",
+      "Someone blushes / ಯಾರೋ ನಾಚಿಕೆಗೊಳ್ಳುತ್ತಾರೆ",
+      "Nobody blushes / ಯಾರೂ ನಾಚಿಕೆಗೊಳ್ಳುವುದಿಲ್ಲ",
+      "Everybody blushes / ಎಲ್ಲರೂ ನಾಚಿಕೆಗೊಳ್ಳುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Board / ಹತ್ತು",
+    "forms": [
+      "I board / ನಾನು ಹತ್ತುತ್ತೇನೆ",
+      "You board / ನೀನು ಹತ್ತುತ್ತೀಯ",
+      "We board / ನಾವು ಹತ್ತುತ್ತೇವೆ",
+      "They board / ಅವರು ಹತ್ತುತ್ತಾರೆ",
+      "He boards / ಅವನು ಹತ್ತುತ್ತಾನೆ",
+      "She boards / ಅವಳು ಹತ್ತುತ್ತಾಳೆ",
+      "It boards / ಅದು ಹತ್ತುತ್ತದೆ",
+      "John boards / ಜಾನ್ ಹತ್ತುತ್ತಾನೆ",
+      "My sister boards / ನನ್ನ ಸಹೋದರಿ ಹತ್ತುತ್ತಾಳೆ",
+      "The dog boards / ನಾಯಿ ಹತ್ತುತ್ತದೆ",
+      "People board / ಜನರು ಹತ್ತುತ್ತಾರೆ",
+      "Children board / ಮಕ್ಕಳು ಹತ್ತುತ್ತಾರೆ",
+      "Someone boards / ಯಾರೋ ಹತ್ತುತ್ತಾರೆ",
+      "Nobody boards / ಯಾರೂ ಹತ್ತುವುದಿಲ್ಲ",
+      "Everybody boards / ಎಲ್ಲರೂ ಹತ್ತುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Boast / ಹೆಮ್ಮೆ ಪಡು",
+    "forms": [
+      "I boast / ನಾನು ಹೆಮ್ಮೆ ಪಡುತ್ತೇನೆ",
+      "You boast / ನೀನು ಹೆಮ್ಮೆ ಪಡುತ್ತೀಯ",
+      "We boast / ನಾವು ಹೆಮ್ಮೆ ಪಡುತ್ತೇವೆ",
+      "They boast / ಅವರು ಹೆಮ್ಮೆ ಪಡುತ್ತಾರೆ",
+      "He boasts / ಅವನು ಹೆಮ್ಮೆ ಪಡುತ್ತಾನೆ",
+      "She boasts / ಅವಳು ಹೆಮ್ಮೆ ಪಡುತ್ತಾಳೆ",
+      "It boasts / ಅದು ಹೆಮ್ಮೆ ಪಡುತ್ತದೆ",
+      "John boasts / ಜಾನ್ ಹೆಮ್ಮೆ ಪಡುತ್ತಾನೆ",
+      "My sister boasts / ನನ್ನ ಸಹೋದರಿ ಹೆಮ್ಮೆ ಪಡುತ್ತಾಳೆ",
+      "The dog boasts / ನಾಯಿ ಹೆಮ್ಮೆ ಪಡುತ್ತದೆ",
+      "People boast / ಜನರು ಹೆಮ್ಮೆ ಪಡುತ್ತಾರೆ",
+      "Children boast / ಮಕ್ಕಳು ಹೆಮ್ಮೆ ಪಡುತ್ತಾರೆ",
+      "Someone boasts / ಯಾರೋ ಹೆಮ್ಮೆ ಪಡುತ್ತಾರೆ",
+      "Nobody boasts / ಯಾರೂ ಹೆಮ್ಮೆ ಪಡುವುದಿಲ್ಲ",
+      "Everybody boasts / ಎಲ್ಲರೂ ಹೆಮ್ಮೆ ಪಡುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Boil / ಕುದಿಸು",
+    "forms": [
+      "I boil / ನಾನು ಕುದಿಸುತ್ತೇನೆ",
+      "You boil / ನೀನು ಕುದಿಸುತ್ತೀಯ",
+      "We boil / ನಾವು ಕುದಿಸುತ್ತೇವೆ",
+      "They boil / ಅವರು ಕುದಿಸುತ್ತಾರೆ",
+      "He boils / ಅವನು ಕುದಿಸುತ್ತಾನೆ",
+      "She boils / ಅವಳು ಕುದಿಸುತ್ತಾಳೆ",
+      "It boils / ಅದು ಕುದಿಸುತ್ತದೆ",
+      "John boils / ಜಾನ್ ಕುದಿಸುತ್ತಾನೆ",
+      "My sister boils / ನನ್ನ ಸಹೋದರಿ ಕುದಿಸುತ್ತಾಳೆ",
+      "The dog boils / ನಾಯಿ ಕುದಿಸುತ್ತದೆ",
+      "People boil / ಜನರು ಕುದಿಸುತ್ತಾರೆ",
+      "Children boil / ಮಕ್ಕಳು ಕುದಿಸುತ್ತಾರೆ",
+      "Someone boils / ಯಾರೋ ಕುದಿಸುತ್ತಾರೆ",
+      "Nobody boils / ಯಾರೂ ಕುದಿಸುವುದಿಲ್ಲ",
+      "Everybody boils / ಎಲ್ಲರೂ ಕುದಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bow / ಬಾಗು",
+    "forms": [
+      "I bow / ನಾನು ಬಾಗುತ್ತೇನೆ",
+      "You bow / ನೀನು ಬಾಗುತ್ತೀಯ",
+      "We bow / ನಾವು ಬಾಗುತ್ತೇವೆ",
+      "They bow / ಅವರು ಬಾಗುತ್ತಾರೆ",
+      "He bows / ಅವನು ಬಾಗುತ್ತಾನೆ",
+      "She bows / ಅವಳು ಬಾಗುತ್ತಾಳೆ",
+      "It bows / ಅದು ಬಾಗುತ್ತದೆ",
+      "John bows / ಜಾನ್ ಬಾಗುತ್ತಾನೆ",
+      "My sister bows / ನನ್ನ ಸಹೋದರಿ ಬಾಗುತ್ತಾಳೆ",
+      "The dog bows / ನಾಯಿ ಬಾಗುತ್ತದೆ",
+      "People bow / ಜನರು ಬಾಗುತ್ತಾರೆ",
+      "Children bow / ಮಕ್ಕಳು ಬಾಗುತ್ತಾರೆ",
+      "Someone bows / ಯಾರೋ ಬಾಗುತ್ತಾರೆ",
+      "Nobody bows / ಯಾರೂ ಬಾಗುವುದಿಲ್ಲ",
+      "Everybody bows / ಎಲ್ಲರೂ ಬಾಗುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Box / ಪೆಟ್ಟು ಹಾಕು",
+    "forms": [
+      "I box / ನಾನು ಪೆಟ್ಟು ಹಾಕುತ್ತೇನೆ",
+      "You box / ನೀನು ಪೆಟ್ಟು ಹಾಕುತ್ತೀಯ",
+      "We box / ನಾವು ಪೆಟ್ಟು ಹಾಕುತ್ತೇವೆ",
+      "They box / ಅವರು ಪೆಟ್ಟು ಹಾಕುತ್ತಾರೆ",
+      "He boxes / ಅವನು ಪೆಟ್ಟು ಹಾಕುತ್ತಾನೆ",
+      "She boxes / ಅವಳು ಪೆಟ್ಟು ಹಾಕುತ್ತಾಳೆ",
+      "It boxes / ಅದು ಪೆಟ್ಟು ಹಾಕುತ್ತದೆ",
+      "John boxes / ಜಾನ್ ಪೆಟ್ಟು ಹಾಕುತ್ತಾನೆ",
+      "My sister boxes / ನನ್ನ ಸಹೋದರಿ ಪೆट್ಟು ಹಾಕುತ್ತಾಳೆ",
+      "The dog boxes / ನಾಯಿ ಪೆಟ್ಟು ಹಾಕುತ್ತದೆ",
+      "People box / ಜನರು ಪೆಟ್ಟು ಹಾಕುತ್ತಾರೆ",
+      "Children box / ಮಕ್ಕಳು ಪೆಟ್ಟು ಹಾಕುತ್ತಾರೆ",
+      "Someone boxes / ಯಾರೋ ಪೆಟ್ಟು ಹಾಕುತ್ತಾರೆ",
+      "Nobody boxes / ಯಾರೂ ಪೆಟ್ಟು ಹಾಕುವುದಿಲ್ಲ",
+      "Everybody boxes / ಎಲ್ಲರೂ ಪೆಟ್ಟು ಹಾಕುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Buy / ಖರೀದಿಸು",
+    "forms": [
+      "I buy / ನಾನು ಖರೀದಿಸುತ್ತೇನೆ",
+      "You buy / ನೀನು ಖರೀದಿಸುತ್ತೀಯ",
+      "We buy / ನಾವು ಖರೀದಿಸುತ್ತೇವೆ",
+      "They buy / ಅವರು ಖರೀದಿಸುತ್ತಾರೆ",
+      "He buys / ಅವನು ಖರೀದಿಸುತ್ತಾನೆ",
+      "She buys / ಅವಳು ಖರೀದಿಸುತ್ತಾಳೆ",
+      "It buys / ಅದು ಖರೀದಿಸುತ್ತದೆ",
+      "John buys / ಜಾನ್ ಖರೀದಿಸುತ್ತಾನೆ",
+      "My sister buys / ನನ್ನ ಸಹೋದರಿ ಖರೀದಿಸುತ್ತಾಳೆ",
+      "The shop buys / ಅಂಗಡಿ ಖರೀದಿಸುತ್ತದೆ",
+      "People buy / ಜನರು ಖರೀದಿಸುತ್ತಾರೆ",
+      "Children buy / ಮಕ್ಕಳು ಖರೀದಿಸುತ್ತಾರೆ",
+      "Someone buys / ಯಾರೋ ಖರೀದಿಸುತ್ತಾರೆ",
+      "Nobody buys / ಯಾರೂ ಖರೀದಿಸುವುದಿಲ್ಲ",
+      "Everybody buys / ಎಲ್ಲರೂ ಖರೀದಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Bust / ಮುರಿದುಹಾಕು",
+    "forms": [
+      "I bust / ನಾನು ಮುರಿದುಹಾಕುತ್ತೇನೆ",
+      "You bust / ನೀನು ಮುರಿದುಹಾಕುತ್ತೀಯ",
+      "We bust / ನಾವು ಮುರಿದುಹಾಕುತ್ತೇವೆ",
+      "They bust / ಅವರು ಮುರಿದುಹಾಕುತ್ತಾರೆ",
+      "He busts / ಅವನು ಮುರಿದುಹಾಕುತ್ತಾನೆ",
+      "She busts / ಅವಳು ಮುರಿದುಹಾಕುತ್ತಾಳೆ",
+      "It busts / ಅದು ಮುರಿದುಹಾಕುತ್ತದೆ",
+      "John busts / ಜಾನ್ ಮುರಿದುಹಾಕುತ್ತಾನೆ",
+      "My sister busts / ನನ್ನ ಸಹೋದರಿ ಮುರಿದುಹಾಕುತ್ತಾಳೆ",
+      "The police bust / ಪೊಲೀಸರು ಮುರಿದುಹಾಕುತ್ತಾರೆ",
+      "People bust / ಜನರು ಮುರಿದುಹಾಕುತ್ತಾರೆ",
+      "Children bust / ಮಕ್ಕಳು ಮುರಿದುಹಾಕುತ್ತಾರೆ",
+      "Someone busts / ಯಾರೋ ಮುರಿದುಹಾಕುತ್ತಾರೆ",
+      "Nobody busts / ಯಾರೂ ಮುರಿದುಹಾಕುವುದಿಲ್ಲ",
+      "Everybody busts / ಎಲ್ಲರೂ ಮುರಿದುಹಾಕುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Buzz / ಝೇಂಕರಿಸು",
+    "forms": [
+      "I buzz / ನಾನು ಝೇಂಕರಿಸುತ್ತೇನೆ",
+      "You buzz / ನೀನು ಝೇಂಕರಿಸುತ್ತೀಯ",
+      "We buzz / ನಾವು ಝೇಂಕರಿಸುತ್ತೇವೆ",
+      "They buzz / ಅವರು ಝೇಂಕರಿಸುತ್ತಾರೆ",
+      "He buzzes / ಅವನು ಝೇಂಕರಿಸುತ್ತಾನೆ",
+      "She buzzes / ಅವಳು ಝೇಂಕರಿಸುತ್ತಾಳೆ",
+      "It buzzes / ಅದು ಝೇಂಕರಿಸುತ್ತದೆ",
+      "John buzzes / ಜಾನ್ ಝೇಂಕರಿಸುತ್ತಾನೆ",
+      "My sister buzzes / ನನ್ನ ಸಹೋದರಿ ಝೇಂಕರಿಸುತ್ತಾಳೆ",
+      "The bee buzzes / ಜೇನುನೊಣ ಝೇಂಕರಿಸುತ್ತದೆ",
+      "People buzz / ಜನರು ಝೇಂಕರಿಸುತ್ತಾರೆ",
+      "Children buzz / ಮಕ್ಕಳು ಝೇಂಕರಿಸುತ್ತಾರೆ",
+      "Someone buzzes / ಯಾರೋ ಝೇಂಕರಿಸುತ್ತಾರೆ",
+      "Nobody buzzes / ಯಾರೂ ಝೇಂಕರಿಸುವುದಿಲ್ಲ",
+      "Everybody buzzes / ಎಲ್ಲರೂ ಝೇಂಕರಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Calculate / ಲೆಕ್ಕಾಚಾರ ಮಾಡು",
+    "forms": [
+      "I calculate / ನಾನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತೇನೆ",
+      "You calculate / ನೀನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತೀಯ",
+      "We calculate / ನಾವು ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತೇವೆ",
+      "They calculate / ಅವರು ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತಾರೆ",
+      "He calculates / ಅವನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತಾನೆ",
+      "She calculates / ಅವಳು ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತಾಳೆ",
+      "It calculates / ಅದು ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತದೆ",
+      "John calculates / ಜಾನ್ ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತಾನೆ",
+      "My sister calculates / ನನ್ನ ಸಹೋದರಿ ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತಾಳೆ",
+      "The computer calculates / ಕಂಪ್ಯೂಟರ್ ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತದೆ",
+      "People calculate / ಜನರು ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತಾರೆ",
+      "Children calculate / ಮಕ್ಕಳು ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತಾರೆ",
+      "Someone calculates / ಯಾರೋ ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತಾರೆ",
+      "Nobody calculates / ಯಾರೂ ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದಿಲ್ಲ",
+      "Everybody calculates / ಎಲ್ಲರೂ ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Call / ಕರೆ",
+    "forms": [
+      "I call / ನಾನು ಕರೆಯುತ್ತೇನೆ",
+      "You call / ನೀನು ಕರೆಯುತ್ತೀಯ",
+      "We call / ನಾವು ಕರೆಯುತ್ತೇವೆ",
+      "They call / ಅವರು ಕರೆಯುತ್ತಾರೆ",
+      "He calls / ಅವನು ಕರೆಯುತ್ತಾನೆ",
+      "She calls / ಅವಳು ಕರೆಯುತ್ತಾಳೆ",
+      "It calls / ಅದು ಕರೆಯುತ್ತದೆ",
+      "John calls / ಜಾನ್ ಕರೆಯುತ್ತಾನೆ",
+      "My sister calls / ನನ್ನ ಸಹೋದರಿ ಕರೆಯುತ್ತಾಳೆ",
+      "The phone calls / ಫೋನ್ ಕರೆಯುತ್ತದೆ",
+      "People call / ಜನರು ಕರೆಯುತ್ತಾರೆ",
+      "Children call / ಮಕ್ಕಳು ಕರೆಯುತ್ತಾರೆ",
+      "Someone calls / ಯಾರೋ ಕರೆಯುತ್ತಾರೆ",
+      "Nobody calls / ಯಾರೂ ಕರೆಯುವುದಿಲ್ಲ",
+      "Everybody calls / ಎಲ್ಲರೂ ಕರೆಯುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Canvass / ಪ್ರಚಾರ ಮಾಡು",
+    "forms": [
+      "I canvass / ನಾನು ಪ್ರಚಾರ ಮಾಡುತ್ತೇನೆ",
+      "You canvass / ನೀನು ಪ್ರಚಾರ ಮಾಡುತ್ತೀಯ",
+      "We canvass / ನಾವು ಪ್ರಚಾರ ಮಾಡುತ್ತೇವೆ",
+      "They canvass / ಅವರು ಪ್ರಚಾರ ಮಾಡುತ್ತಾರೆ",
+      "He canvasses / ಅವನು ಪ್ರಚಾರ ಮಾಡುತ್ತಾನೆ",
+      "She canvasses / ಅವಳು ಪ್ರಚಾರ ಮಾಡುತ್ತಾಳೆ",
+      "It canvasses / ಅದು ಪ್ರಚಾರ ಮಾಡುತ್ತದೆ",
+      "John canvasses / ಜಾನ್ ಪ್ರಚಾರ ಮಾಡುತ್ತಾನೆ",
+      "My sister canvasses / ನನ್ನ ಸಹೋದರಿ ಪ್ರಚಾರ ಮಾಡುತ್ತಾಳೆ",
+      "The party canvasses / ಪಕ್ಷ ಪ್ರಚಾರ ಮಾಡುತ್ತದೆ",
+      "People canvass / ಜನರು ಪ್ರಚಾರ ಮಾಡುತ್ತಾರೆ",
+      "Children canvass / ಮಕ್ಕಳು ಪ್ರಚಾರ ಮಾಡುತ್ತಾರೆ",
+      "Someone canvasses / ಯಾರೋ ಪ್ರಚಾರ ಮಾಡುತ್ತಾರೆ",
+      "Nobody canvasses / ಯಾರೂ ಪ್ರಚಾರ ಮಾಡುವುದಿಲ್ಲ",
+      "Everybody canvasses / ಎಲ್ಲರೂ ಪ್ರಚಾರ ಮಾಡುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Capture / ಸೆರೆಹಿಡಿ",
+    "forms": [
+      "I capture / ನಾನು ಸೆರೆಹಿಡಿಯುತ್ತೇನೆ",
+      "You capture / ನೀನು ಸೆರೆಹಿಡಿಯುತ್ತೀಯ",
+      "We capture / ನಾವು ಸೆರೆಹಿಡಿಯುತ್ತೇವೆ",
+      "They capture / ಅವರು ಸೆರೆಹಿಡಿಯುತ್ತಾರೆ",
+      "He captures / ಅವನು ಸೆರೆಹಿಡಿಯುತ್ತಾನೆ",
+      "She captures / ಅವಳು ಸೆರೆಹಿಡಿಯುತ್ತಾಳೆ",
+      "It captures / ಅದು ಸೆರೆಹಿಡಿಯುತ್ತದೆ",
+      "John captures / ಜಾನ್ ಸೆರೆಹಿಡಿಯುತ್ತಾನೆ",
+      "My sister captures / ನನ್ನ ಸಹೋದರಿ ಸೆರೆಹಿಡಿಯುತ್ತಾಳೆ",
+      "The camera captures / ಕ್ಯಾಮೆರಾ ಸೆರೆಹಿಡಿಯುತ್ತದೆ",
+      "People capture / ಜನರು ಸೆರೆಹಿಡಿಯುತ್ತಾರೆ",
+      "Children capture / ಮಕ್ಕಳು ಸೆರೆಹಿಡಿಯುತ್ತಾರೆ",
+      "Someone captures / ಯಾರೋ ಸೆರೆಹಿಡಿಯುತ್ತಾರೆ",
+      "Nobody captures / ಯಾರೂ ಸೆರೆಹಿಡಿಯುವುದಿಲ್ಲ",
+      "Everybody captures / ಎಲ್ಲರೂ ಸೆರೆಹಿಡಿಯುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Caress / ಮುದ್ದಿಸು",
+    "forms": [
+      "I caress / ನಾನು ಮುದ್ದಿಸುತ್ತೇನೆ",
+      "You caress / ನೀನು ಮುದ್ದಿಸುತ್ತೀಯ",
+      "We caress / ನಾವು ಮುದ್ದಿಸುತ್ತೇವೆ",
+      "They caress / ಅವರು ಮುದ್ದಿಸುತ್ತಾರೆ",
+      "He caresses / ಅವನು ಮುದ್ದಿಸುತ್ತಾನೆ",
+      "She caresses / ಅವಳು ಮುದ್ದಿಸುತ್ತಾಳೆ",
+      "It caresses / ಅದು ಮುದ್ದಿಸುತ್ತದೆ",
+      "John caresses / ಜಾನ್ ಮುದ್ದಿಸುತ್ತಾನೆ",
+      "My sister caresses / ನನ್ನ ಸಹೋದರಿ ಮುದ್ದಿಸುತ್ತಾಳೆ",
+      "The mother caresses / ತಾಯಿ ಮುದ್ದಿಸುತ್ತಾಳೆ",
+      "People caress / ಜನರು ಮುದ್ದಿಸುತ್ತಾರೆ",
+      "Children caress / ಮಕ್ಕಳು ಮುದ್ದಿಸುತ್ತಾರೆ",
+      "Someone caresses / ಯಾರೋ ಮುದ್ದಿಸುತ್ತಾರೆ",
+      "Nobody caresses / ಯಾರೂ ಮುದ್ದಿಸುವುದಿಲ್ಲ",
+      "Everybody caresses / ಎಲ್ಲರೂ ಮುದ್ದಿಸುತ್ತಾರೆ"
+    ]
+  },
+  {
+    "verb": "Carry / ಸಾಗಿಸು",
+    "forms": [
+      "I carry / ನಾನು ಸಾಗಿಸುತ್ತೇನೆ",
+      "You carry / ನೀನು ಸಾಗಿಸುತ್ತೀಯ",
+      "We carry / ನಾವು ಸಾಗಿಸುತ್ತೇವೆ",
+      "They carry / ಅವರು ಸಾಗಿಸುತ್ತಾರೆ",
+      "He carries / ಅವನು ಸಾಗಿಸುತ್ತಾನೆ",
+      "She carries / ಅವಳು ಸಾಗಿಸುತ್ತಾಳೆ",
+      "It carries / ಅದು ಸಾಗಿಸುತ್ತದೆ",
+      "John carries / ಜಾನ್ ಸಾಗಿಸುತ್ತಾನೆ",
+      "My sister carries / ನನ್ನ ಸಹೋದರಿ ಸಾಗಿಸುತ್ತಾಳೆ",
+      "The truck carries / ಟ್ರಕ್ ಸಾಗಿಸುತ್ತದೆ",
+      "People carry / ಜನರು ಸಾಗಿಸುತ್ತಾರೆ",
+      "Children carry / ಮಕ್ಕಳು ಸಾಗಿಸುತ್ತಾರೆ",
+      "Someone carries / ಯಾರೋ ಸಾಗಿಸುತ್ತಾರೆ",
+      "Nobody carries / ಯಾರೂ ಸಾಗಿಸುವುದಿಲ್ಲ",
+      "Everybody carries / ಎಲ್ಲರೂ ಸಾಗಿಸುತ್ತಾರೆ"
+    ]
+  },
+  
+  {
+    "verb": "Do.... / ಮಾಡು",
     "forms": [
       "I Do / ನಾನು ಮಾಡುತ್ತೇನೆ",
       "You Do / ನೀನು ಮಾಡುತ್ತೀಯ",
