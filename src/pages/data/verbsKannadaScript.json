@@ -6533,5 +6533,225 @@
     "Nobody finds / ಯಾರೂ ಕಂಡುಹಿಡಿಯುವುದಿಲ್ಲ",
     "Everybody finds / ಎಲ್ಲರೂ ಕಂಡುಹಿಡಿಯುತ್ತಾರೆ"
   ]
+},
+{
+  "verb": "Finish / ಮುಗಿಸು",
+  "forms": [
+    "I finish / ನಾನು ಮುಗಿಸುತ್ತೇನೆ",
+    "You finish / ನೀನು ಮುಗಿಸುತ್ತೀಯ",
+    "We finish / ನಾವು ಮುಗಿಸುತ್ತೇವೆ",
+    "They finish / ಅವರು ಮುಗಿಸುತ್ತಾರೆ",
+    "He finishes / ಅವನು ಮುಗಿಸುತ್ತಾನೆ",
+    "She finishes / ಅವಳು ಮುಗಿಸುತ್ತಾಳೆ",
+    "It finishes / ಅದು ಮುಗಿಸುತ್ತದೆ",
+    "John finishes / ಜಾನ್ ಮುಗಿಸುತ್ತಾನೆ",
+    "My sister finishes / ನನ್ನ ಸಹೋದರಿ ಮುಗಿಸುತ್ತಾಳೆ",
+    "The worker finishes / ಕಾರ್ಮಿಕ ಮುಗಿಸುತ್ತಾನೆ",
+    "People finish / ಜನರು ಮುಗಿಸುತ್ತಾರೆ",
+    "Children finish / ಮಕ್ಕಳು ಮುಗಿಸುತ್ತಾರೆ",
+    "Someone finishes / ಯಾರೋ ಮುಗಿಸುತ್ತಾರೆ",
+    "Nobody finishes / ಯಾರೂ ಮುಗಿಸುವುದಿಲ್ಲ",
+    "Everybody finishes / ಎಲ್ಲರೂ ಮುಗಿಸುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Fish / ಮೀನು ಹಿಡಿ",
+  "forms": [
+    "I fish / ನಾನು ಮೀನು ಹಿಡಿಯುತ್ತೇನೆ",
+    "You fish / ನೀನು ಮೀನು ಹಿಡಿಯುತ್ತೀಯ",
+    "We fish / ನಾವು ಮೀನು ಹಿಡಿಯುತ್ತೇವೆ",
+    "They fish / ಅವರು ಮೀನು ಹಿಡಿಯುತ್ತಾರೆ",
+    "He fishes / ಅವನು ಮೀನು ಹಿಡಿಯುತ್ತಾನೆ",
+    "She fishes / ಅವಳು ಮೀನು ಹಿಡಿಯುತ್ತಾಳೆ",
+    "It fishes / ಅದು ಮೀನು ಹಿಡಿಯುತ್ತದೆ",
+    "John fishes / ಜಾನ್ ಮೀನು ಹಿಡಿಯುತ್ತಾನೆ",
+    "My sister fishes / ನನ್ನ ಸಹೋದರಿ ಮೀನು ಹಿಡಿಯುತ್ತಾಳೆ",
+    "The fisherman fishes / ಮೀನುಗಾರ ಮೀನು ಹಿಡಿಯುತ್ತಾನೆ",
+    "People fish / ಜನರು ಮೀನು ಹಿಡಿಯುತ್ತಾರೆ",
+    "Children fish / ಮಕ್ಕಳು ಮೀನು ಹಿಡಿಯುತ್ತಾರೆ",
+    "Someone fishes / ಯಾರೋ ಮೀನು ಹಿಡಿಯುತ್ತಾರೆ",
+    "Nobody fishes / ಯಾರೂ ಮೀನು ಹಿಡಿಯುವುದಿಲ್ಲ",
+    "Everybody fishes / ಎಲ್ಲರೂ ಮೀನು ಹಿಡಿಯುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Fit / ಹೊಂದಿಕೊಳ್ಳು",
+  "forms": [
+    "I fit / ನಾನು ಹೊಂದಿಕೊಳ್ಳುತ್ತೇನೆ",
+    "You fit / ನೀನು ಹೊಂದಿಕೊಳ್ಳುತ್ತೀಯ",
+    "We fit / ನಾವು ಹೊಂದಿಕೊಳ್ಳುತ್ತೇವೆ",
+    "They fit / ಅವರು ಹೊಂದಿಕೊಳ್ಳುತ್ತಾರೆ",
+    "He fits / ಅವನು ಹೊಂದಿಕೊಳ್ಳುತ್ತಾನೆ",
+    "She fits / ಅವಳು ಹೊಂದಿಕೊಳ್ಳುತ್ತಾಳೆ",
+    "It fits / ಅದು ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ",
+    "John fits / ಜಾನ್ ಹೊಂದಿಕೊಳ್ಳುತ್ತಾನೆ",
+    "My sister fits / ನನ್ನ ಸಹೋದರಿ ಹೊಂದಿಕೊಳ್ಳುತ್ತಾಳೆ",
+    "The dress fits / ಉಡುಗೆ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ",
+    "People fit / ಜನರು ಹೊಂದಿಕೊಳ್ಳುತ್ತಾರೆ",
+    "Children fit / ಮಕ್ಕಳು ಹೊಂದಿಕೊಳ್ಳುತ್ತಾರೆ",
+    "Someone fits / ಯಾರೋ ಹೊಂದಿಕೊಳ್ಳುತ್ತಾರೆ",
+    "Nobody fits / ಯಾರೂ ಹೊಂದಿಕೊಳ್ಳುವುದಿಲ್ಲ",
+    "Everybody fits / ಎಲ್ಲರೂ ಹೊಂದಿಕೊಳ್ಳುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Fix / ಸರಿಪಡಿಸು",
+  "forms": [
+    "I fix / ನಾನು ಸರಿಪಡಿಸುತ್ತೇನೆ",
+    "You fix / ನೀನು ಸರಿಪಡಿಸುತ್ತೀಯ",
+    "We fix / ನಾವು ಸರಿಪಡಿಸುತ್ತೇವೆ",
+    "They fix / ಅವರು ಸರಿಪಡಿಸುತ್ತಾರೆ",
+    "He fixes / ಅವನು ಸರಿಪಡಿಸುತ್ತಾನೆ",
+    "She fixes / ಅವಳು ಸರಿಪಡಿಸುತ್ತಾಳೆ",
+    "It fixes / ಅದು ಸರಿಪಡಿಸುತ್ತದೆ",
+    "John fixes / ಜಾನ್ ಸರಿಪಡಿಸುತ್ತಾನೆ",
+    "My sister fixes / ನನ್ನ ಸಹೋದರಿ ಸರಿಪಡಿಸುತ್ತಾಳೆ",
+    "The mechanic fixes / ಮೆಕ್ಯಾನಿಕ್ ಸರಿಪಡಿಸುತ್ತಾನೆ",
+    "People fix / ಜನರು ಸರಿಪಡಿಸುತ್ತಾರೆ",
+    "Children fix / ಮಕ್ಕಳು ಸರಿಪಡಿಸುತ್ತಾರೆ",
+    "Someone fixes / ಯಾರೋ ಸರಿಪಡಿಸುತ್ತಾರೆ",
+    "Nobody fixes / ಯಾರೂ ಸರಿಪಡಿಸುವುದಿಲ್ಲ",
+    "Everybody fixes / ಎಲ್ಲರೂ ಸರಿಪಡಿಸುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Fizz / ನೊರೆತು ಹೋಗು",
+  "forms": [
+    "I fizz / ನಾನು ನೊರೆತು ಹೋಗುತ್ತೇನೆ",
+    "You fizz / ನೀನು ನೊರೆತು ಹೋಗುತ್ತೀಯ",
+    "We fizz / ನಾವು ನೊರೆತು ಹೋಗುತ್ತೇವೆ",
+    "They fizz / ಅವರು ನೊರೆತು ಹೋಗುತ್ತಾರೆ",
+    "He fizzes / ಅವನು ನೊರೆತು ಹೋಗುತ್ತಾನೆ",
+    "She fizzes / ಅವಳು ನೊರೆತು ಹೋಗುತ್ತಾಳೆ",
+    "It fizzes / ಅದು ನೊರೆತು ಹೋಗುತ್ತದೆ",
+    "John fizzes / ಜಾನ್ ನೊರೆತು ಹೋಗುತ್ತಾನೆ",
+    "My sister fizzes / ನನ್ನ ಸಹೋದರಿ ನೊರೆತು ಹೋಗುತ್ತಾಳೆ",
+    "The soda fizzes / ಸೋಡಾ ನೊರೆತು ಹೋಗುತ್ತದೆ",
+    "People fizz / ಜನರು ನೊರೆತು ಹೋಗುತ್ತಾರೆ",
+    "Children fizz / ಮಕ್ಕಳು ನೊರೆತು ಹೋಗುತ್ತಾರೆ",
+    "Someone fizzes / ಯಾರೋ ನೊರೆತು ಹೋಗುತ್ತಾರೆ",
+    "Nobody fizzes / ಯಾರೂ ನೊರೆತು ಹೋಗುವುದಿಲ್ಲ",
+    "Everybody fizzes / ಎಲ್ಲರೂ ನೊರೆತು ಹೋಗುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Flap / ಬೀಸು",
+  "forms": [
+    "I flap / ನಾನು ಬೀಸುತ್ತೇನೆ",
+    "You flap / ನೀನು ಬೀಸುತ್ತೀಯ",
+    "We flap / ನಾವು ಬೀಸುತ್ತೇವೆ",
+    "They flap / ಅವರು ಬೀಸುತ್ತಾರೆ",
+    "He flaps / ಅವನು ಬೀಸುತ್ತಾನೆ",
+    "She flaps / ಅವಳು ಬೀಸುತ್ತಾಳೆ",
+    "It flaps / ಅದು ಬೀಸುತ್ತದೆ",
+    "John flaps / ಜಾನ್ ಬೀಸುತ್ತಾನೆ",
+    "My sister flaps / ನನ್ನ ಸಹೋದರಿ ಬೀಸುತ್ತಾಳೆ",
+    "The bird flaps / ಹಕ್ಕಿ ಬೀಸುತ್ತದೆ",
+    "People flap / ಜನರು ಬೀಸುತ್ತಾರೆ",
+    "Children flap / ಮಕ್ಕಳು ಬೀಸುತ್ತಾರೆ",
+    "Someone flaps / ಯಾರೋ ಬೀಸುತ್ತಾರೆ",
+    "Nobody flaps / ಯಾರೂ ಬೀಸುವುದಿಲ್ಲ",
+    "Everybody flaps / ಎಲ್ಲರೂ ಬೀಸುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Flash / ಮಿಂಚು",
+  "forms": [
+    "I flash / ನಾನು ಮಿಂಚುತ್ತೇನೆ",
+    "You flash / ನೀನು ಮಿಂಚುತ್ತೀಯ",
+    "We flash / ನಾವು ಮಿಂಚುತ್ತೇವೆ",
+    "They flash / ಅವರು ಮಿಂಚುತ್ತಾರೆ",
+    "He flashes / ಅವನು ಮಿಂಚುತ್ತಾನೆ",
+    "She flashes / ಅವಳು ಮಿಂಚುತ್ತಾಳೆ",
+    "It flashes / ಅದು ಮಿಂಚುತ್ತದೆ",
+    "John flashes / ಜಾನ್ ಮಿಂಚುತ್ತಾನೆ",
+    "My sister flashes / ನನ್ನ ಸಹೋದರಿ ಮಿಂಚುತ್ತಾಳೆ",
+    "The light flashes / ಬೆಳಕು ಮಿಂಚುತ್ತದೆ",
+    "People flash / ಜನರು ಮಿಂಚುತ್ತಾರೆ",
+    "Children flash / ಮಕ್ಕಳು ಮಿಂಚುತ್ತಾರೆ",
+    "Someone flashes / ಯಾರೋ ಮಿಂಚುತ್ತಾರೆ",
+    "Nobody flashes / ಯಾರೂ ಮಿಂಚುವುದಿಲ್ಲ",
+    "Everybody flashes / ಎಲ್ಲರೂ ಮಿಂಚುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Flee / ಓಡಿಹೋಗು",
+  "forms": [
+    "I flee / ನಾನು ಓಡಿಹೋಗುತ್ತೇನೆ",
+    "You flee / ನೀನು ಓಡಿಹೋಗುತ್ತೀಯ",
+    "We flee / ನಾವು ಓಡಿಹೋಗುತ್ತೇವೆ",
+    "They flee / ಅವರು ಓಡಿಹೋಗುತ್ತಾರೆ",
+    "He flees / ಅವನು ಓಡಿಹೋಗುತ್ತಾನೆ",
+    "She flees / ಅವಳು ಓಡಿಹೋಗುತ್ತಾಳೆ",
+    "It flees / ಅದು ಓಡಿಹೋಗುತ್ತದೆ",
+    "John flees / ಜಾನ್ ಓಡಿಹೋಗುತ್ತಾನೆ",
+    "My sister flees / ನನ್ನ ಸಹೋದರಿ ಓಡಿಹೋಗುತ್ತಾಳೆ",
+    "The thief flees / ಕಳ್ಳ ಓಡಿಹೋಗುತ್ತಾನೆ",
+    "People flee / ಜನರು ಓಡಿಹೋಗುತ್ತಾರೆ",
+    "Children flee / ಮಕ್ಕಳು ಓಡಿಹೋಗುತ್ತಾರೆ",
+    "Someone flees / ಯಾರೋ ಓಡಿಹೋಗುತ್ತಾರೆ",
+    "Nobody flees / ಯಾರೂ ಓಡಿಹೋಗುವುದಿಲ್ಲ",
+    "Everybody flees / ಎಲ್ಲರೂ ಓಡಿಹೋಗುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Fling / ಎಸೆ",
+  "forms": [
+    "I fling / ನಾನು ಎಸೆಯುತ್ತೇನೆ",
+    "You fling / ನೀನು ಎಸೆಯುತ್ತೀಯ",
+    "We fling / ನಾವು ಎಸೆಯುತ್ತೇವೆ",
+    "They fling / ಅವರು ಎಸೆಯುತ್ತಾರೆ",
+    "He flings / ಅವನು ಎಸೆಯುತ್ತಾನೆ",
+    "She flings / ಅವಳು ಎಸೆಯುತ್ತಾಳೆ",
+    "It flings / ಅದು ಎಸೆಯುತ್ತದೆ",
+    "John flings / ಜಾನ್ ಎಸೆಯುತ್ತಾನೆ",
+    "My sister flings / ನನ್ನ ಸಹೋದರಿ ಎಸೆಯುತ್ತಾಳೆ",
+    "The boy flings / ಹುಡುಗ ಎಸೆಯುತ್ತಾನೆ",
+    "People fling / ಜನರು ಎಸೆಯುತ್ತಾರೆ",
+    "Children fling / ಮಕ್ಕಳು ಎಸೆಯುತ್ತಾರೆ",
+    "Someone flings / ಯಾರೋ ಎಸೆಯುತ್ತಾರೆ",
+    "Nobody flings / ಯಾರೂ ಎಸೆಯುವುದಿಲ್ಲ",
+    "Everybody flings / ಎಲ್ಲರೂ ಎಸೆಯುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Float / ತೇಲು",
+  "forms": [
+    "I float / ನಾನು ತೇಲುತ್ತೇನೆ",
+    "You float / ನೀನು ತೇಲುತ್ತೀಯ",
+    "We float / ನಾವು ತೇಲುತ್ತೇವೆ",
+    "They float / ಅವರು ತೇಲುತ್ತಾರೆ",
+    "He floats / ಅವನು ತೇಲುತ್ತಾನೆ",
+    "She floats / ಅವಳು ತೇಲುತ್ತಾಳೆ",
+    "It floats / ಅದು ತೇಲುತ್ತದೆ",
+    "John floats / ಜಾನ್ ತೇಲುತ್ತಾನೆ",
+    "My sister floats / ನನ್ನ ಸಹೋದರಿ ತೇಲುತ್ತಾಳೆ",
+    "The boat floats / ದೋಣಿ ತೇಲುತ್ತದೆ",
+    "People float / ಜನರು ತೇಲುತ್ತಾರೆ",
+    "Children float / ಮಕ್ಕಳು ತೇಲುತ್ತಾರೆ",
+    "Someone floats / ಯಾರೋ ತೇಲುತ್ತಾರೆ",
+    "Nobody floats / ಯಾರೂ ತೇಲುವುದಿಲ್ಲ",
+    "Everybody floats / ಎಲ್ಲರೂ ತೇಲುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Flop / ವಿಫಲವಾಗು",
+  "forms": [
+    "I flop / ನಾನು ವಿಫಲವಾಗುತ್ತೇನೆ",
+    "You flop / ನೀನು ವಿಫಲವಾಗುತ್ತೀಯ",
+    "We flop / ನಾವು ವಿಫಲವಾಗುತ್ತೇವೆ",
+    "They flop / ಅವರು ವಿಫಲವಾಗುತ್ತಾರೆ",
+    "He flops / ಅವನು ವಿಫಲವಾಗುತ್ತಾನೆ",
+    "She flops / ಅವಳು ವಿಫಲವಾಗುತ್ತಾಳೆ",
+    "It flops / ಅದು ವಿಫಲವಾಗುತ್ತದೆ",
+    "John flops / ಜಾನ್ ವಿಫಲವಾಗುತ್ತಾನೆ",
+    "My sister flops / ನನ್ನ ಸಹೋದರಿ ವಿಫಲವಾಗುತ್ತಾಳೆ",
+    "The movie flops / ಚಲನಚಿತ್ರ ವಿಫಲವಾಗುತ್ತದೆ",
+    "People flop / ಜನರು ವಿಫಲವಾಗುತ್ತಾರೆ",
+    "Children flop / ಮಕ್ಕಳು ವಿಫಲವಾಗುತ್ತಾರೆ",
+    "Someone flops / ಯಾರೋ ವಿಫಲವಾಗುತ್ತಾರೆ",
+    "Nobody flops / ಯಾರೂ ವಿಫಲವಾಗುವುದಿಲ್ಲ",
+    "Everybody flops / ಎಲ್ಲರೂ ವಿಫಲವಾಗುತ್ತಾರೆ"
+  ]
 }
 ]
