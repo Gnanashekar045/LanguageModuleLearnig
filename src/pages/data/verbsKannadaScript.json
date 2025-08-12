@@ -6753,5 +6753,285 @@
     "Nobody flops / ಯಾರೂ ವಿಫಲವಾಗುವುದಿಲ್ಲ",
     "Everybody flops / ಎಲ್ಲರೂ ವಿಫಲವಾಗುತ್ತಾರೆ"
   ]
+},
+{
+  "verb": "Fly / ಹಾರು",
+  "forms": [
+    "I fly / ನಾನು ಹಾರುತ್ತೇನೆ",
+    "You fly / ನೀನು ಹಾರುತ್ತೀಯ",
+    "We fly / ನಾವು ಹಾರುತ್ತೇವೆ",
+    "They fly / ಅವರು ಹಾರುತ್ತಾರೆ",
+    "He flies / ಅವನು ಹಾರುತ್ತಾನೆ",
+    "She flies / ಅವಳು ಹಾರುತ್ತಾಳೆ",
+    "It flies / ಅದು ಹಾರುತ್ತದೆ",
+    "John flies / ಜಾನ್ ಹಾರುತ್ತಾನೆ",
+    "My sister flies / ನನ್ನ ಸಹೋದರಿ ಹಾರುತ್ತಾಳೆ",
+    "The bird flies / ಹಕ್ಕಿ ಹಾರುತ್ತದೆ",
+    "People fly / ಜನರು ಹಾರುತ್ತಾರೆ",
+    "Children fly / ಮಕ್ಕಳು ಹಾರುತ್ತಾರೆ",
+    "Someone flies / ಯಾರೋ ಹಾರುತ್ತಾರೆ",
+    "Nobody flies / ಯಾರೂ ಹಾರುವುದಿಲ್ಲ",
+    "Everybody flies / ಎಲ್ಲರೂ ಹಾರುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Fold / ಮಡಚು",
+  "forms": [
+    "I fold / ನಾನು ಮಡಚುತ್ತೇನೆ",
+    "You fold / ನೀನು ಮಡಚುತ್ತೀಯ",
+    "We fold / ನಾವು ಮಡಚುತ್ತೇವೆ",
+    "They fold / ಅವರು ಮಡಚುತ್ತಾರೆ",
+    "He folds / ಅವನು ಮಡಚುತ್ತಾನೆ",
+    "She folds / ಅವಳು ಮಡಚುತ್ತಾಳೆ",
+    "It folds / ಅದು ಮಡಚುತ್ತದೆ",
+    "John folds / ಜಾನ್ ಮಡಚುತ್ತಾನೆ",
+    "My sister folds / ನನ್ನ ಸಹೋದರಿ ಮಡಚುತ್ತಾಳೆ",
+    "The paper folds / ಕಾಗದ ಮಡಚುತ್ತದೆ",
+    "People fold / ಜನರು ಮಡಚುತ್ತಾರೆ",
+    "Children fold / ಮಕ್ಕಳು ಮಡಚುತ್ತಾರೆ",
+    "Someone folds / ಯಾರೋ ಮಡಚುತ್ತಾರೆ",
+    "Nobody folds / ಯಾರೂ ಮಡಚುವುದಿಲ್ಲ",
+    "Everybody folds / ಎಲ್ಲರೂ ಮಡಚುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Follow / ಅನುಸರಿಸು",
+  "forms": [
+    "I follow / ನಾನು ಅನುಸರಿಸುತ್ತೇನೆ",
+    "You follow / ನೀನು ಅನುಸರಿಸುತ್ತೀಯ",
+    "We follow / ನಾವು ಅನುಸರಿಸುತ್ತೇವೆ",
+    "They follow / ಅವರು ಅನುಸರಿಸುತ್ತಾರೆ",
+    "He follows / ಅವನು ಅನುಸರಿಸುತ್ತಾನೆ",
+    "She follows / ಅವಳು ಅನುಸರಿಸುತ್ತಾಳೆ",
+    "It follows / ಅದು ಅನುಸರಿಸುತ್ತದೆ",
+    "John follows / ಜಾನ್ ಅನುಸರಿಸುತ್ತಾನೆ",
+    "My sister follows / ನನ್ನ ಸಹೋದರಿ ಅನುಸರಿಸುತ್ತಾಳೆ",
+    "The student follows / ವಿದ್ಯಾರ್ಥಿ ಅನುಸರಿಸುತ್ತಾನೆ",
+    "People follow / ಜನರು ಅನುಸರಿಸುತ್ತಾರೆ",
+    "Children follow / ಮಕ್ಕಳು ಅನುಸರಿಸುತ್ತಾರೆ",
+    "Someone follows / ಯಾರೋ ಅನುಸರಿಸುತ್ತಾರೆ",
+    "Nobody follows / ಯಾರೂ ಅನುಸರಿಸುವುದಿಲ್ಲ",
+    "Everybody follows / ಎಲ್ಲರೂ ಅನುಸರಿಸುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Forbid / ನಿಷೇಧಿಸು",
+  "forms": [
+    "I forbid / ನಾನು ನಿಷೇಧಿಸುತ್ತೇನೆ",
+    "You forbid / ನೀನು ನಿಷೇಧಿಸುತ್ತೀಯ",
+    "We forbid / ನಾವು ನಿಷೇಧಿಸುತ್ತೇವೆ",
+    "They forbid / ಅವರು ನಿಷೇಧಿಸುತ್ತಾರೆ",
+    "He forbids / ಅವನು ನಿಷೇಧಿಸುತ್ತಾನೆ",
+    "She forbids / ಅವಳು ನಿಷೇಧಿಸುತ್ತಾಳೆ",
+    "It forbids / ಅದು ನಿಷೇಧಿಸುತ್ತದೆ",
+    "John forbids / ಜಾನ್ ನಿಷೇಧಿಸುತ್ತಾನೆ",
+    "My sister forbids / ನನ್ನ ಸಹೋದರಿ ನಿಷೇಧಿಸುತ್ತಾಳೆ",
+    "The law forbids / ಕಾನೂನು ನಿಷೇಧಿಸುತ್ತದೆ",
+    "People forbid / ಜನರು ನಿಷೇಧಿಸುತ್ತಾರೆ",
+    "Children forbid / ಮಕ್ಕಳು ನಿಷೇಧಿಸುತ್ತಾರೆ",
+    "Someone forbids / ಯಾರೋ ನಿಷೇಧಿಸುತ್ತಾರೆ",
+    "Nobody forbids / ಯಾರೂ ನಿಷೇಧಿಸುವುದಿಲ್ಲ",
+    "Everybody forbids / ಎಲ್ಲರೂ ನಿಷೇಧಿಸುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Force / ಬಲವಂತ ಮಾಡು",
+  "forms": [
+    "I force / ನಾನು ಬಲವಂತ ಮಾಡುತ್ತೇನೆ",
+    "You force / ನೀನು ಬಲವಂತ ಮಾಡುತ್ತೀಯ",
+    "We force / ನಾವು ಬಲವಂತ ಮಾಡುತ್ತೇವೆ",
+    "They force / ಅವರು ಬಲವಂತ ಮಾಡುತ್ತಾರೆ",
+    "He forces / ಅವನು ಬಲವಂತ ಮಾಡುತ್ತಾನೆ",
+    "She forces / ಅವಳು ಬಲವಂತ ಮಾಡುತ್ತಾಳೆ",
+    "It forces / ಅದು ಬಲವಂತ ಮಾಡುತ್ತದೆ",
+    "John forces / ಜಾನ್ ಬಲವಂತ ಮಾಡುತ್ತಾನೆ",
+    "My sister forces / ನನ್ನ ಸಹೋದರಿ ಬಲವಂತ ಮಾಡುತ್ತಾಳೆ",
+    "The police force / ಪೊಲೀಸರು ಬಲವಂತ ಮಾಡುತ್ತಾರೆ",
+    "People force / ಜನರು ಬಲವಂತ ಮಾಡುತ್ತಾರೆ",
+    "Children force / ಮಕ್ಕಳು ಬಲವಂತ ಮಾಡುತ್ತಾರೆ",
+    "Someone forces / ಯಾರೋ ಬಲವಂತ ಮಾಡುತ್ತಾರೆ",
+    "Nobody forces / ಯಾರೂ ಬಲವಂತ ಮಾಡುವುದಿಲ್ಲ",
+    "Everybody forces / ಎಲ್ಲರೂ ಬಲವಂತ ಮಾಡುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Forecast / ಮುನ್ಸೂಚಿಸು",
+  "forms": [
+    "I forecast / ನಾನು ಮುನ್ಸೂಚಿಸುತ್ತೇನೆ",
+    "You forecast / ನೀನು ಮುನ್ಸೂಚಿಸುತ್ತೀಯ",
+    "We forecast / ನಾವು ಮುನ್ಸೂಚಿಸುತ್ತೇವೆ",
+    "They forecast / ಅವರು ಮುನ್ಸೂಚಿಸುತ್ತಾರೆ",
+    "He forecasts / ಅವನು ಮುನ್ಸೂಚಿಸುತ್ತಾನೆ",
+    "She forecasts / ಅವಳು ಮುನ್ಸೂಚಿಸುತ್ತಾಳೆ",
+    "It forecasts / ಅದು ಮುನ್ಸೂಚಿಸುತ್ತದೆ",
+    "John forecasts / ಜಾನ್ ಮುನ್ಸೂಚಿಸುತ್ತಾನೆ",
+    "My sister forecasts / ನನ್ನ ಸಹೋದರಿ ಮುನ್ಸೂಚಿಸುತ್ತಾಳೆ",
+    "The weatherman forecasts / ಹವಾಮಾನ ವಿಜ್ಞಾನಿ ಮುನ್ಸೂಚಿಸುತ್ತಾನೆ",
+    "People forecast / ಜನರು ಮುನ್ಸೂಚಿಸುತ್ತಾರೆ",
+    "Children forecast / ಮಕ್ಕಳು ಮುನ್ಸೂಚಿಸುತ್ತಾರೆ",
+    "Someone forecasts / ಯಾರೋ ಮುನ್ಸೂಚಿಸುತ್ತಾರೆ",
+    "Nobody forecasts / ಯಾರೂ ಮುನ್ಸೂಚಿಸುವುದಿಲ್ಲ",
+    "Everybody forecasts / ಎಲ್ಲರೂ ಮುನ್ಸೂಚಿಸುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Foretell / ಮುಂದೆ ಹೇಳು",
+  "forms": [
+    "I foretell / ನಾನು ಮುಂದೆ ಹೇಳುತ್ತೇನೆ",
+    "You foretell / ನೀನು ಮುಂದೆ ಹೇಳುತ್ತೀಯ",
+    "We foretell / ನಾವು ಮುಂದೆ ಹೇಳುತ್ತೇವೆ",
+    "They foretell / ಅವರು ಮುಂದೆ ಹೇಳುತ್ತಾರೆ",
+    "He foretells / ಅವನು ಮುಂದೆ ಹೇಳುತ್ತಾನೆ",
+    "She foretells / ಅವಳು ಮುಂದೆ ಹೇಳುತ್ತಾಳೆ",
+    "It foretells / ಅದು ಮುಂದೆ ಹೇಳುತ್ತದೆ",
+    "John foretells / ಜಾನ್ ಮುಂದೆ ಹೇಳುತ್ತಾನೆ",
+    "My sister foretells / ನನ್ನ ಸಹೋದರಿ ಮುಂದೆ ಹೇಳುತ್ತಾಳೆ",
+    "The prophet foretells / ಋಷಿ ಮುಂದೆ ಹೇಳುತ್ತಾನೆ",
+    "People foretell / ಜನರು ಮುಂದೆ ಹೇಳುತ್ತಾರೆ",
+    "Children foretell / ಮಕ್ಕಳು ಮುಂದೆ ಹೇಳುತ್ತಾರೆ",
+    "Someone foretells / ಯಾರೋ ಮುಂದೆ ಹೇಳುತ್ತಾರೆ",
+    "Nobody foretells / ಯಾರೂ ಮುಂದೆ ಹೇಳುವುದಿಲ್ಲ",
+    "Everybody foretells / ಎಲ್ಲರೂ ಮುಂದೆ ಹೇಳುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Forget / ಮರೆತುಬಿಡು",
+  "forms": [
+    "I forget / ನಾನು ಮರೆತುಬಿಡುತ್ತೇನೆ",
+    "You forget / ನೀನು ಮರೆತುಬಿಡುತ್ತೀಯ",
+    "We forget / ನಾವು ಮರೆತುಬಿಡುತ್ತೇವೆ",
+    "They forget / ಅವರು ಮರೆತುಬಿಡುತ್ತಾರೆ",
+    "He forgets / ಅವನು ಮರೆತುಬಿಡುತ್ತಾನೆ",
+    "She forgets / ಅವಳು ಮರೆತುಬಿಡುತ್ತಾಳೆ",
+    "It forgets / ಅದು ಮರೆತುಬಿಡುತ್ತದೆ",
+    "John forgets / ಜಾನ್ ಮರೆತುಬಿಡುತ್ತಾನೆ",
+    "My sister forgets / ನನ್ನ ಸಹೋದರಿ ಮರೆತುಬಿಡುತ್ತಾಳೆ",
+    "The student forgets / ವಿದ್ಯಾರ್ಥಿ ಮರೆತುಬಿಡುತ್ತಾನೆ",
+    "People forget / ಜನರು ಮರೆತುಬಿಡುತ್ತಾರೆ",
+    "Children forget / ಮಕ್ಕಳು ಮರೆತುಬಿಡುತ್ತಾರೆ",
+    "Someone forgets / ಯಾರೋ ಮರೆತುಬಿಡುತ್ತಾರೆ",
+    "Nobody forgets / ಯಾರೂ ಮರೆತುಬಿಡುವುದಿಲ್ಲ",
+    "Everybody forgets / ಎಲ್ಲರೂ ಮರೆತುಬಿಡುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Forgive / ಕ್ಷಮಿಸು",
+  "forms": [
+    "I forgive / ನಾನು ಕ್ಷಮಿಸುತ್ತೇನೆ",
+    "You forgive / ನೀನು ಕ್ಷಮಿಸುತ್ತೀಯ",
+    "We forgive / ನಾವು ಕ್ಷಮಿಸುತ್ತೇವೆ",
+    "They forgive / ಅವರು ಕ್ಷಮಿಸುತ್ತಾರೆ",
+    "He forgives / ಅವನು ಕ್ಷಮಿಸುತ್ತಾನೆ",
+    "She forgives / ಅವಳು ಕ್ಷಮಿಸುತ್ತಾಳೆ",
+    "It forgives / ಅದು ಕ್ಷಮಿಸುತ್ತದೆ",
+    "John forgives / ಜಾನ್ ಕ್ಷಮಿಸುತ್ತಾನೆ",
+    "My sister forgives / ನನ್ನ ಸಹೋದರಿ ಕ್ಷಮಿಸುತ್ತಾಳೆ",
+    "The judge forgives / ನ್ಯಾಯಾಧೀಶ ಕ್ಷಮಿಸುತ್ತಾನೆ",
+    "People forgive / ಜನರು ಕ್ಷಮಿಸುತ್ತಾರೆ",
+    "Children forgive / ಮಕ್ಕಳು ಕ್ಷಮಿಸುತ್ತಾರೆ",
+    "Someone forgives / ಯಾರೋ ಕ್ಷಮಿಸುತ್ತಾರೆ",
+    "Nobody forgives / ಯಾರೂ ಕ್ಷಮಿಸುವುದಿಲ್ಲ",
+    "Everybody forgives / ಎಲ್ಲರೂ ಕ್ಷಮಿಸುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Forlese / ಕಳೆದುಕೊಳ್ಳು",
+  "forms": [
+    "I forlese / ನಾನು ಕಳೆದುಕೊಳ್ಳುತ್ತೇನೆ",
+    "You forlese / ನೀನು ಕಳೆದುಕೊಳ್ಳುತ್ತೀಯ",
+    "We forlese / ನಾವು ಕಳೆದುಕೊಳ್ಳುತ್ತೇವೆ",
+    "They forlese / ಅವರು ಕಳೆದುಕೊಳ್ಳುತ್ತಾರೆ",
+    "He forleses / ಅವನು ಕಳೆದುಕೊಳ್ಳುತ್ತಾನೆ",
+    "She forleses / ಅವಳು ಕಳೆದುಕೊಳ್ಳುತ್ತಾಳೆ",
+    "It forleses / ಅದು ಕಳೆದುಕೊಳ್ಳುತ್ತದೆ",
+    "John forleses / ಜಾನ್ ಕಳೆದುಕೊಳ್ಳುತ್ತಾನೆ",
+    "My sister forleses / ನನ್ನ ಸಹೋದರಿ ಕಳೆದುಕೊಳ್ಳುತ್ತಾಳೆ",
+    "The traveler forleses / ಪ್ರಯಾಣಿಕ ಕಳೆದುಕೊಳ್ಳುತ್ತಾನೆ",
+    "People forlese / ಜನರು ಕಳೆದುಕೊಳ್ಳುತ್ತಾರೆ",
+    "Children forlese / ಮಕ್ಕಳು ಕಳೆದುಕೊಳ್ಳುತ್ತಾರೆ",
+    "Someone forleses / ಯಾರೋ ಕಳೆದುಕೊಳ್ಳುತ್ತಾರೆ",
+    "Nobody forleses / ಯಾರೂ ಕಳೆದುಕೊಳ್ಳುವುದಿಲ್ಲ",
+    "Everybody forleses / ಎಲ್ಲರೂ ಕಳೆದುಕೊಳ್ಳುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Form / ರೂಪಿಸು",
+  "forms": [
+    "I form / ನಾನು ರೂಪಿಸುತ್ತೇನೆ",
+    "You form / ನೀನು ರೂಪಿಸುತ್ತೀಯ",
+    "We form / ನಾವು ರೂಪಿಸುತ್ತೇವೆ",
+    "They form / ಅವರು ರೂಪಿಸುತ್ತಾರೆ",
+    "He forms / ಅವನು ರೂಪಿಸುತ್ತಾನೆ",
+    "She forms / ಅವಳು ರೂಪಿಸುತ್ತಾಳೆ",
+    "It forms / ಅದು ರೂಪಿಸುತ್ತದೆ",
+    "John forms / ಜಾನ್ ರೂಪಿಸುತ್ತಾನೆ",
+    "My sister forms / ನನ್ನ ಸಹೋದರಿ ರೂಪಿಸುತ್ತಾಳೆ",
+    "The artist forms / ಕಲಾವಿದ ರೂಪಿಸುತ್ತಾನೆ",
+    "People form / ಜನರು ರೂಪಿಸುತ್ತಾರೆ",
+    "Children form / ಮಕ್ಕಳು ರೂಪಿಸುತ್ತಾರೆ",
+    "Someone forms / ಯಾರೋ ರೂಪಿಸುತ್ತಾರೆ",
+    "Nobody forms / ಯಾರೂ ರೂಪಿಸುವುದಿಲ್ಲ",
+    "Everybody forms / ಎಲ್ಲರೂ ರೂಪಿಸುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Forsake / ತ್ಯಜಿಸು",
+  "forms": [
+    "I forsake / ನಾನು ತ್ಯಜಿಸುತ್ತೇನೆ",
+    "You forsake / ನೀನು ತ್ಯಜಿಸುತ್ತೀಯ",
+    "We forsake / ನಾವು ತ್ಯಜಿಸುತ್ತೇವೆ",
+    "They forsake / ಅವರು ತ್ಯಜಿಸುತ್ತಾರೆ",
+    "He forsakes / ಅವನು ತ್ಯಜಿಸುತ್ತಾನೆ",
+    "She forsakes / ಅವಳು ತ್ಯಜಿಸುತ್ತಾಳೆ",
+    "It forsakes / ಅದು ತ್ಯಜಿಸುತ್ತದೆ",
+    "John forsakes / ಜಾನ್ ತ್ಯಜಿಸುತ್ತಾನೆ",
+    "My sister forsakes / ನನ್ನ ಸಹೋದರಿ ತ್ಯಜಿಸುತ್ತಾಳೆ",
+    "The king forsakes / ರಾಜ ತ್ಯಜಿಸುತ್ತಾನೆ",
+    "People forsake / ಜನರು ತ್ಯಜಿಸುತ್ತಾರೆ",
+    "Children forsake / ಮಕ್ಕಳು ತ್ಯಜಿಸುತ್ತಾರೆ",
+    "Someone forsakes / ಯಾರೋ ತ್ಯಜಿಸುತ್ತಾರೆ",
+    "Nobody forsakes / ಯಾರೂ ತ್ಯಜಿಸುವುದಿಲ್ಲ",
+    "Everybody forsakes / ಎಲ್ಲರೂ ತ್ಯಜಿಸುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Found / ಸ್ಥಾಪಿಸು",
+  "forms": [
+    "I found / ನಾನು ಸ್ಥಾಪಿಸುತ್ತೇನೆ",
+    "You found / ನೀನು ಸ್ಥಾಪಿಸುತ್ತೀಯ",
+    "We found / ನಾವು ಸ್ಥಾಪಿಸುತ್ತೇವೆ",
+    "They found / ಅವರು ಸ್ಥಾಪಿಸುತ್ತಾರೆ",
+    "He founds / ಅವನು ಸ್ಥಾಪಿಸುತ್ತಾನೆ",
+    "She founds / ಅವಳು ಸ್ಥಾಪಿಸುತ್ತಾಳೆ",
+    "It founds / ಅದು ಸ್ಥಾಪಿಸುತ್ತದೆ",
+    "John founds / ಜಾನ್ ಸ್ಥಾಪಿಸುತ್ತಾನೆ",
+    "My sister founds / ನನ್ನ ಸಹೋದರಿ ಸ್ಥಾಪಿಸುತ್ತಾಳೆ",
+    "The organization founds / ಸಂಸ್ಥೆ ಸ್ಥಾಪಿಸುತ್ತದೆ",
+    "People found / ಜನರು ಸ್ಥಾಪಿಸುತ್ತಾರೆ",
+    "Children found / ಮಕ್ಕಳು ಸ್ಥಾಪಿಸುತ್ತಾರೆ",
+    "Someone founds / ಯಾರೋ ಸ್ಥಾಪಿಸುತ್ತಾರೆ",
+    "Nobody founds / ಯಾರೂ ಸ್ಥಾಪಿಸುವುದಿಲ್ಲ",
+    "Everybody founds / ಎಲ್ಲರೂ ಸ್ಥಾಪಿಸುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Frame / ಚೌಕಟ್ಟು ಮಾಡು",
+  "forms": [
+    "I frame / ನಾನು ಚೌಕಟ್ಟು ಮಾಡುತ್ತೇನೆ",
+    "You frame / ನೀನು ಚೌಕಟ್ಟು ಮಾಡುತ್ತೀಯ",
+    "We frame / ನಾವು ಚೌಕಟ್ಟು ಮಾಡುತ್ತೇವೆ",
+    "They frame / ಅವರು ಚೌಕಟ್ಟು ಮಾಡುತ್ತಾರೆ",
+    "He frames / ಅವನು ಚೌಕಟ್ಟು ಮಾಡುತ್ತಾನೆ",
+    "She frames / ಅವಳು ಚೌಕಟ್ಟು ಮಾಡುತ್ತಾಳೆ",
+    "It frames / ಅದು ಚೌಕಟ್ಟು ಮಾಡುತ್ತದೆ",
+    "John frames / ಜಾನ್ ಚೌಕಟ್ಟು ಮಾಡುತ್ತಾನೆ",
+    "My sister frames / ನನ್ನ ಸಹೋದರಿ ಚೌಕಟ್ಟು ಮಾಡುತ್ತಾಳೆ",
+    "The carpenter frames / ಸೂತ್ರದಾರ ಚೌಕಟ್ಟು ಮಾಡುತ್ತಾನೆ",
+    "People frame / ಜನರು ಚೌಕಟ್ಟು ಮಾಡುತ್ತಾರೆ",
+    "Children frame / ಮಕ್ಕಳು ಚೌಕಟ್ಟು ಮಾಡುತ್ತಾರೆ",
+    "Someone frames / ಯಾರೋ ಚೌಕಟ್ಟು ಮಾಡುತ್ತಾರೆ",
+    "Nobody frames / ಯಾರೂ ಚೌಕಟ್ಟು ಮಾಡುವುದಿಲ್ಲ",
+    "Everybody frames / ಎಲ್ಲರೂ ಚೌಕಟ್ಟು ಮಾಡುತ್ತಾರೆ"
+  ]
 }
 ]
