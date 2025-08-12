@@ -7213,5 +7213,205 @@
     "Nobody gets / ಯಾರೂ ಪಡೆಯುವುದಿಲ್ಲ",
     "Everybody gets / ಎಲ್ಲರೂ ಪಡೆಯುತ್ತಾರೆ"
   ]
+},
+{
+  "verb": "Get / ಪಡೆ",
+  "forms": [
+    "I get / ನಾನು ಪಡೆಯುತ್ತೇನೆ",
+    "You get / ನೀನು ಪಡೆಯುತ್ತೀಯ",
+    "We get / ನಾವು ಪಡೆಯುತ್ತೇವೆ",
+    "They get / ಅವರು ಪಡೆಯುತ್ತಾರೆ",
+    "He gets / ಅವನು ಪಡೆಯುತ್ತಾನೆ",
+    "She gets / ಅವಳು ಪಡೆಯುತ್ತಾಳೆ",
+    "It gets / ಅದು ಪಡೆಯುತ್ತದೆ",
+    "John gets / ಜಾನ್ ಪಡೆಯುತ್ತಾನೆ",
+    "My sister gets / ನನ್ನ ಸಹೋದರಿ ಪಡೆಯುತ್ತಾಳೆ",
+    "The student gets / ವಿದ್ಯಾರ್ಥಿ ಪಡೆಯುತ್ತಾನೆ",
+    "People get / ಜನರು ಪಡೆಯುತ್ತಾರೆ",
+    "Children get / ಮಕ್ಕಳು ಪಡೆಯುತ್ತಾರೆ",
+    "Someone gets / ಯಾರೋ ಪಡೆಯುತ್ತಾರೆ",
+    "Nobody gets / ಯಾರೂ ಪಡೆಯುವುದಿಲ್ಲ",
+    "Everybody gets / ಎಲ್ಲರೂ ಪಡೆಯುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Give / ಕೊಡು",
+  "forms": [
+    "I give / ನಾನು ಕೊಡುತ್ತೇನೆ",
+    "You give / ನೀನು ಕೊಡುತ್ತೀಯ",
+    "We give / ನಾವು ಕೊಡುತ್ತೇವೆ",
+    "They give / ಅವರು ಕೊಡುತ್ತಾರೆ",
+    "He gives / ಅವನು ಕೊಡುತ್ತಾನೆ",
+    "She gives / ಅವಳು ಕೊಡುತ್ತಾಳೆ",
+    "It gives / ಅದು ಕೊಡುತ್ತದೆ",
+    "John gives / ಜಾನ್ ಕೊಡುತ್ತಾನೆ",
+    "My sister gives / ನನ್ನ ಸಹೋದರಿ ಕೊಡುತ್ತಾಳೆ",
+    "The teacher gives / ಶಿಕ್ಷಕ ಕೊಡುತ್ತಾನೆ",
+    "People give / ಜನರು ಕೊಡುತ್ತಾರೆ",
+    "Children give / ಮಕ್ಕಳು ಕೊಡುತ್ತಾರೆ",
+    "Someone gives / ಯಾರೋ ಕೊಡುತ್ತಾರೆ",
+    "Nobody gives / ಯಾರೂ ಕೊಡುವುದಿಲ್ಲ",
+    "Everybody gives / ಎಲ್ಲರೂ ಕೊಡುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Glance / ಕ್ಷಣಿಕವಾಗಿ ನೋಡು",
+  "forms": [
+    "I glance / ನಾನು ಕ್ಷಣಿಕವಾಗಿ ನೋಡುತ್ತೇನೆ",
+    "You glance / ನೀನು ಕ್ಷಣಿಕವಾಗಿ ನೋಡುತ್ತೀಯ",
+    "We glance / ನಾವು ಕ್ಷಣಿಕವಾಗಿ ನೋಡುತ್ತೇವೆ",
+    "They glance / ಅವರು ಕ್ಷಣಿಕವಾಗಿ ನೋಡುತ್ತಾರೆ",
+    "He glances / ಅವನು ಕ್ಷಣಿಕವಾಗಿ ನೋಡುತ್ತಾನೆ",
+    "She glances / ಅವಳು ಕ್ಷಣಿಕವಾಗಿ ನೋಡುತ್ತಾಳೆ",
+    "It glances / ಅದು ಕ್ಷಣಿಕವಾಗಿ ನೋಡುತ್ತದೆ",
+    "John glances / ಜಾನ್ ಕ್ಷಣಿಕವಾಗಿ ನೋಡುತ್ತಾನೆ",
+    "My sister glances / ನನ್ನ ಸಹೋದರಿ ಕ್ಷಣಿಕವಾಗಿ ನೋಡುತ್ತಾಳೆ",
+    "The stranger glances / ಅಪರಿಚಿತ ಕ್ಷಣಿಕವಾಗಿ ನೋಡುತ್ತಾನೆ",
+    "People glance / ಜನರು ಕ್ಷಣಿಕವಾಗಿ ನೋಡುತ್ತಾರೆ",
+    "Children glance / ಮಕ್ಕಳು ಕ್ಷಣಿಕವಾಗಿ ನೋಡುತ್ತಾರೆ",
+    "Someone glances / ಯಾರೋ ಕ್ಷಣಿಕವಾಗಿ ನೋಡುತ್ತಾರೆ",
+    "Nobody glances / ಯಾರೂ ಕ್ಷಣಿಕವಾಗಿ ನೋಡುವುದಿಲ್ಲ",
+    "Everybody glances / ಎಲ್ಲರೂ ಕ್ಷಣಿಕವಾಗಿ ನೋಡುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Glitter / ಮಿಂಚು",
+  "forms": [
+    "I glitter / ನಾನು ಮಿಂಚುತ್ತೇನೆ",
+    "You glitter / ನೀನು ಮಿಂಚುತ್ತೀಯ",
+    "We glitter / ನಾವು ಮಿಂಚುತ್ತೇವೆ",
+    "They glitter / ಅವರು ಮಿಂಚುತ್ತಾರೆ",
+    "He glitters / ಅವನು ಮಿಂಚುತ್ತಾನೆ",
+    "She glitters / ಅವಳು ಮಿಂಚುತ್ತಾಳೆ",
+    "It glitters / ಅದು ಮಿಂಚುತ್ತದೆ",
+    "John glitters / ಜಾನ್ ಮಿಂಚುತ್ತಾನೆ",
+    "My sister glitters / ನನ್ನ ಸಹೋದರಿ ಮಿಂಚುತ್ತಾಳೆ",
+    "The diamond glitters / ವಜ್ರ ಮಿಂಚುತ್ತದೆ",
+    "People glitter / ಜನರು ಮಿಂಚುತ್ತಾರೆ",
+    "Children glitter / ಮಕ್ಕಳು ಮಿಂಚುತ್ತಾರೆ",
+    "Someone glitters / ಯಾರೋ ಮಿಂಚುತ್ತಾರೆ",
+    "Nobody glitters / ಯಾರೂ ಮಿಂಚುವುದಿಲ್ಲ",
+    "Everybody glitters / ಎಲ್ಲರೂ ಮಿಂಚುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Glow / ಹೊಳೆ",
+  "forms": [
+    "I glow / ನಾನು ಹೊಳೆಯುತ್ತೇನೆ",
+    "You glow / ನೀನು ಹೊಳೆಯುತ್ತೀಯ",
+    "We glow / ನಾವು ಹೊಳೆಯುತ್ತೇವೆ",
+    "They glow / ಅವರು ಹೊಳೆಯುತ್ತಾರೆ",
+    "He glows / ಅವನು ಹೊಳೆಯುತ್ತಾನೆ",
+    "She glows / ಅವಳು ಹೊಳೆಯುತ್ತಾಳೆ",
+    "It glows / ಅದು ಹೊಳೆಯುತ್ತದೆ",
+    "John glows / ಜಾನ್ ಹೊಳೆಯುತ್ತಾನೆ",
+    "My sister glows / ನನ್ನ ಸಹೋದರಿ ಹೊಳೆಯುತ್ತಾಳೆ",
+    "The firefly glows / ಮಿಂಚುಹುಳು ಹೊಳೆಯುತ್ತದೆ",
+    "People glow / ಜನರು ಹೊಳೆಯುತ್ತಾರೆ",
+    "Children glow / ಮಕ್ಕಳು ಹೊಳೆಯುತ್ತಾರೆ",
+    "Someone glows / ಯಾರೋ ಹೊಳೆಯುತ್ತಾರೆ",
+    "Nobody glows / ಯಾರೂ ಹೊಳೆಯುವುದಿಲ್ಲ",
+    "Everybody glows / ಎಲ್ಲರೂ ಹೊಳೆಯುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Go / ಹೋಗು",
+  "forms": [
+    "I go / ನಾನು ಹೋಗುತ್ತೇನೆ",
+    "You go / ನೀನು ಹೋಗುತ್ತೀಯ",
+    "We go / ನಾವು ಹೋಗುತ್ತೇವೆ",
+    "They go / ಅವರು ಹೋಗುತ್ತಾರೆ",
+    "He goes / ಅವನು ಹೋಗುತ್ತಾನೆ",
+    "She goes / ಅವಳು ಹೋಗುತ್ತಾಳೆ",
+    "It goes / ಅದು ಹೋಗುತ್ತದೆ",
+    "John goes / ಜಾನ್ ಹೋಗುತ್ತಾನೆ",
+    "My sister goes / ನನ್ನ ಸಹೋದರಿ ಹೋಗುತ್ತಾಳೆ",
+    "The train goes / ರೈಲು ಹೋಗುತ್ತದೆ",
+    "People go / ಜನರು ಹೋಗುತ್ತಾರೆ",
+    "Children go / ಮಕ್ಕಳು ಹೋಗುತ್ತಾರೆ",
+    "Someone goes / ಯಾರೋ ಹೋಗುತ್ತಾರೆ",
+    "Nobody goes / ಯಾರೂ ಹೋಗುವುದಿಲ್ಲ",
+    "Everybody goes / ಎಲ್ಲರೂ ಹೋಗುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Google / ಗೂಗಲ್ ಮಾಡು",
+  "forms": [
+    "I google / ನಾನು ಗೂಗಲ್ ಮಾಡುತ್ತೇನೆ",
+    "You google / ನೀನು ಗೂಗಲ್ ಮಾಡುತ್ತೀಯ",
+    "We google / ನಾವು ಗೂಗಲ್ ಮಾಡುತ್ತೇವೆ",
+    "They google / ಅವರು ಗೂಗಲ್ ಮಾಡುತ್ತಾರೆ",
+    "He googles / ಅವನು ಗೂಗಲ್ ಮಾಡುತ್ತಾನೆ",
+    "She googles / ಅವಳು ಗೂಗಲ್ ಮಾಡುತ್ತಾಳೆ",
+    "It googles / ಅದು ಗೂಗಲ್ ಮಾಡುತ್ತದೆ",
+    "John googles / ಜಾನ್ ಗೂಗಲ್ ಮಾಡುತ್ತಾನೆ",
+    "My sister googles / ನನ್ನ ಸಹೋದರಿ ಗೂಗಲ್ ಮಾಡುತ್ತಾಳೆ",
+    "The student googles / ವಿದ್ಯಾರ್ಥಿ ಗೂಗಲ್ ಮಾಡುತ್ತಾನೆ",
+    "People google / ಜನರು ಗೂಗಲ್ ಮಾಡುತ್ತಾರೆ",
+    "Children google / ಮಕ್ಕಳು ಗೂಗಲ್ ಮಾಡುತ್ತಾರೆ",
+    "Someone googles / ಯಾರೋ ಗೂಗಲ್ ಮಾಡುತ್ತಾರೆ",
+    "Nobody googles / ಯಾರೂ ಗೂಗಲ್ ಮಾಡುವುದಿಲ್ಲ",
+    "Everybody googles / ಎಲ್ಲರೂ ಗೂಗಲ್ ಮಾಡುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Govern / ಆಳು",
+  "forms": [
+    "I govern / ನಾನು ಆಳುತ್ತೇನೆ",
+    "You govern / ನೀನು ಆಳುತ್ತೀಯ",
+    "We govern / ನಾವು ಆಳುತ್ತೇವೆ",
+    "They govern / ಅವರು ಆಳುತ್ತಾರೆ",
+    "He governs / ಅವನು ಆಳುತ್ತಾನೆ",
+    "She governs / ಅವಳು ಆಳುತ್ತಾಳೆ",
+    "It governs / ಅದು ಆಳುತ್ತದೆ",
+    "John governs / ಜಾನ್ ಆಳುತ್ತಾನೆ",
+    "My sister governs / ನನ್ನ ಸಹೋದರಿ ಆಳುತ್ತಾಳೆ",
+    "The king governs / ರಾಜ ಆಳುತ್ತಾನೆ",
+    "People govern / ಜನರು ಆಳುತ್ತಾರೆ",
+    "Children govern / ಮಕ್ಕಳು ಆಳುತ್ತಾರೆ",
+    "Someone governs / ಯಾರೋ ಆಳುತ್ತಾರೆ",
+    "Nobody governs / ಯಾರೂ ಆಳುವುದಿಲ್ಲ",
+    "Everybody governs / ಎಲ್ಲರೂ ಆಳುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Grab / ಹಿಡಿ",
+  "forms": [
+    "I grab / ನಾನು ಹಿಡಿಯುತ್ತೇನೆ",
+    "You grab / ನೀನು ಹಿಡಿಯುತ್ತೀಯ",
+    "We grab / ನಾವು ಹಿಡಿಯುತ್ತೇವೆ",
+    "They grab / ಅವರು ಹಿಡಿಯುತ್ತಾರೆ",
+    "He grabs / ಅವನು ಹಿಡಿಯುತ್ತಾನೆ",
+    "She grabs / ಅವಳು ಹಿಡಿಯುತ್ತಾಳೆ",
+    "It grabs / ಅದು ಹಿಡಿಯುತ್ತದೆ",
+    "John grabs / ಜಾನ್ ಹಿಡಿಯುತ್ತಾನೆ",
+    "My sister grabs / ನನ್ನ ಸಹೋದರಿ ಹಿಡಿಯುತ್ತಾಳೆ",
+    "The thief grabs / ಕಳ್ಳ ಹಿಡಿಯುತ್ತಾನೆ",
+    "People grab / ಜನರು ಹಿಡಿಯುತ್ತಾರೆ",
+    "Children grab / ಮಕ್ಕಳು ಹಿಡಿಯುತ್ತಾರೆ",
+    "Someone grabs / ಯಾರೋ ಹಿಡಿಯುತ್ತಾರೆ",
+    "Nobody grabs / ಯಾರೂ ಹಿಡಿಯುವುದಿಲ್ಲ",
+    "Everybody grabs / ಎಲ್ಲರೂ ಹಿಡಿಯುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Grade / ದರ್ಜೆ ಕೊಡು",
+  "forms": [
+    "I grade / ನಾನು ದರ್ಜೆ ಕೊಡುತ್ತೇನೆ",
+    "You grade / ನೀನು ದರ್ಜೆ ಕೊಡುತ್ತೀಯ",
+    "We grade / ನಾವು ದರ್ಜೆ ಕೊಡುತ್ತೇವೆ",
+    "They grade / ಅವರು ದರ್ಜೆ ಕೊಡುತ್ತಾರೆ",
+    "He grades / ಅವನು ದರ್ಜೆ ಕೊಡುತ್ತಾನೆ",
+    "She grades / ಅವಳು ದರ್ಜೆ ಕೊಡುತ್ತಾಳೆ",
+    "It grades / ಅದು ದರ್ಜೆ ಕೊಡುತ್ತದೆ",
+    "John grades / ಜಾನ್ ದರ್ಜೆ ಕೊಡುತ್ತಾನೆ",
+    "My sister grades / ನನ್ನ ಸಹೋದರಿ ದರ್ಜೆ ಕೊಡುತ್ತಾಳೆ",
+    "The teacher grades / ಶಿಕ್ಷಕ ದರ್ಜೆ ಕೊಡುತ್ತಾನೆ",
+    "People grade / ಜನರು ದರ್ಜೆ ಕೊಡುತ್ತಾರೆ",
+    "Children grade / ಮಕ್ಕಳು ದರ್ಜೆ ಕೊಡುತ್ತಾರೆ",
+    "Someone grades / ಯಾರೋ ದರ್ಜೆ ಕೊಡುತ್ತಾರೆ",
+    "Nobody grades / ಯಾರೂ ದರ್ಜೆ ಕೊಡುವುದಿಲ್ಲ",
+    "Everybody grades / ಎಲ್ಲರೂ ದರ್ಜೆ ಕೊಡುತ್ತಾರೆ"
+  ]
 }
 ]
