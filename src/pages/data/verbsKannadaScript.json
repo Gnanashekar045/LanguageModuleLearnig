@@ -7413,5 +7413,205 @@
     "Nobody grades / ಯಾರೂ ದರ್ಜೆ ಕೊಡುವುದಿಲ್ಲ",
     "Everybody grades / ಎಲ್ಲರೂ ದರ್ಜೆ ಕೊಡುತ್ತಾರೆ"
   ]
+},
+{
+  "verb": "Grant / ನೀಡು",
+  "forms": [
+    "I grant / ನಾನು ನೀಡುತ್ತೇನೆ",
+    "You grant / ನೀನು ನೀಡುತ್ತೀಯ",
+    "We grant / ನಾವು ನೀಡುತ್ತೇವೆ",
+    "They grant / ಅವರು ನೀಡುತ್ತಾರೆ",
+    "He grants / ಅವನು ನೀಡುತ್ತಾನೆ",
+    "She grants / ಅವಳು ನೀಡುತ್ತಾಳೆ",
+    "It grants / ಅದು ನೀಡುತ್ತದೆ",
+    "John grants / ಜಾನ್ ನೀಡುತ್ತಾನೆ",
+    "My sister grants / ನನ್ನ ಸಹೋದರಿ ನೀಡುತ್ತಾಳೆ",
+    "The government grants / ಸರ್ಕಾರ ನೀಡುತ್ತದೆ",
+    "People grant / ಜನರು ನೀಡುತ್ತಾರೆ",
+    "Children grant / ಮಕ್ಕಳು ನೀಡುತ್ತಾರೆ",
+    "Someone grants / ಯಾರೋ ನೀಡುತ್ತಾರೆ",
+    "Nobody grants / ಯಾರೂ ನೀಡುವುದಿಲ್ಲ",
+    "Everybody grants / ಎಲ್ಲರೂ ನೀಡುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Greet / ಸ್ವಾಗತಿಸು",
+  "forms": [
+    "I greet / ನಾನು ಸ್ವಾಗತಿಸುತ್ತೇನೆ",
+    "You greet / ನೀನು ಸ್ವಾಗತಿಸುತ್ತೀಯ",
+    "We greet / ನಾವು ಸ್ವಾಗತಿಸುತ್ತೇವೆ",
+    "They greet / ಅವರು ಸ್ವಾಗತಿಸುತ್ತಾರೆ",
+    "He greets / ಅವನು ಸ್ವಾಗತಿಸುತ್ತಾನೆ",
+    "She greets / ಅವಳು ಸ್ವಾಗತಿಸುತ್ತಾಳೆ",
+    "It greets / ಅದು ಸ್ವಾಗತಿಸುತ್ತದೆ",
+    "John greets / ಜಾನ್ ಸ್ವಾಗತಿಸುತ್ತಾನೆ",
+    "My sister greets / ನನ್ನ ಸಹೋದರಿ ಸ್ವಾಗತಿಸುತ್ತಾಳೆ",
+    "The host greets / ಯಜಮಾನ ಸ್ವಾಗತಿಸುತ್ತಾನೆ",
+    "People greet / ಜನರು ಸ್ವಾಗತಿಸುತ್ತಾರೆ",
+    "Children greet / ಮಕ್ಕಳು ಸ್ವಾಗತಿಸುತ್ತಾರೆ",
+    "Someone greets / ಯಾರೋ ಸ್ವಾಗತಿಸುತ್ತಾರೆ",
+    "Nobody greets / ಯಾರೂ ಸ್ವಾಗತಿಸುವುದಿಲ್ಲ",
+    "Everybody greets / ಎಲ್ಲರೂ ಸ್ವಾಗತಿಸುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Grind / ಪುಡಿಮಾಡು",
+  "forms": [
+    "I grind / ನಾನು ಪುಡಿಮಾಡುತ್ತೇನೆ",
+    "You grind / ನೀನು ಪುಡಿಮಾಡುತ್ತೀಯ",
+    "We grind / ನಾವು ಪುಡಿಮಾಡುತ್ತೇವೆ",
+    "They grind / ಅವರು ಪುಡಿಮಾಡುತ್ತಾರೆ",
+    "He grinds / ಅವನು ಪುಡಿಮಾಡುತ್ತಾನೆ",
+    "She grinds / ಅವಳು ಪುಡಿಮಾಡುತ್ತಾಳೆ",
+    "It grinds / ಅದು ಪುಡಿಮಾಡುತ್ತದೆ",
+    "John grinds / ಜಾನ್ ಪುಡಿಮಾಡುತ್ತಾನೆ",
+    "My sister grinds / ನನ್ನ ಸಹೋದರಿ ಪುಡಿಮಾಡುತ್ತಾಳೆ",
+    "The machine grinds / ಯಂತ್ರ ಪುಡಿಮಾಡುತ್ತದೆ",
+    "People grind / ಜನರು ಪುಡಿಮಾಡುತ್ತಾರೆ",
+    "Children grind / ಮಕ್ಕಳು ಪುಡಿಮಾಡುತ್ತಾರೆ",
+    "Someone grinds / ಯಾರೋ ಪುಡಿಮಾಡುತ್ತಾರೆ",
+    "Nobody grinds / ಯಾರೂ ಪುಡಿಮಾಡುವುದಿಲ್ಲ",
+    "Everybody grinds / ಎಲ್ಲರೂ ಪುಡಿಮಾಡುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Grip / ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿ",
+  "forms": [
+    "I grip / ನಾನು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತೇನೆ",
+    "You grip / ನೀನು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತೀಯ",
+    "We grip / ನಾವು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತೇವೆ",
+    "They grip / ಅವರು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಾರೆ",
+    "He grips / ಅವನು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಾನೆ",
+    "She grips / ಅವಳು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಾಳೆ",
+    "It grips / ಅದು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತದೆ",
+    "John grips / ಜಾನ್ ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಾನೆ",
+    "My sister grips / ನನ್ನ ಸಹೋದರಿ ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಾಳೆ",
+    "The tool grips / ಉಪಕರಣ ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತದೆ",
+    "People grip / ಜನರು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಾರೆ",
+    "Children grip / ಮಕ್ಕಳು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಾರೆ",
+    "Someone grips / ಯಾರೋ ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಾರೆ",
+    "Nobody grips / ಯಾರೂ ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುವುದಿಲ್ಲ",
+    "Everybody grips / ಎಲ್ಲರೂ ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Grow / ಬೆಳೆ",
+  "forms": [
+    "I grow / ನಾನು ಬೆಳೆಯುತ್ತೇನೆ",
+    "You grow / ನೀನು ಬೆಳೆಯುತ್ತೀಯ",
+    "We grow / ನಾವು ಬೆಳೆಯುತ್ತೇವೆ",
+    "They grow / ಅವರು ಬೆಳೆಯುತ್ತಾರೆ",
+    "He grows / ಅವನು ಬೆಳೆಯುತ್ತಾನೆ",
+    "She grows / ಅವಳು ಬೆಳೆಯುತ್ತಾಳೆ",
+    "It grows / ಅದು ಬೆಳೆಯುತ್ತದೆ",
+    "John grows / ಜಾನ್ ಬೆಳೆಯುತ್ತಾನೆ",
+    "My sister grows / ನನ್ನ ಸಹೋದರಿ ಬೆಳೆಯುತ್ತಾಳೆ",
+    "The plant grows / ಸಸ್ಯ ಬೆಳೆಯುತ್ತದೆ",
+    "People grow / ಜನರು ಬೆಳೆಯುತ್ತಾರೆ",
+    "Children grow / ಮಕ್ಕಳು ಬೆಳೆಯುತ್ತಾರೆ",
+    "Someone grows / ಯಾರೋ ಬೆಳೆಯುತ್ತಾರೆ",
+    "Nobody grows / ಯಾರೂ ಬೆಳೆಯುವುದಿಲ್ಲ",
+    "Everybody grows / ಎಲ್ಲರೂ ಬೆಳೆಯುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Guard / ಕಾಪಾಡು",
+  "forms": [
+    "I guard / ನಾನು ಕಾಪಾಡುತ್ತೇನೆ",
+    "You guard / ನೀನು ಕಾಪಾಡುತ್ತೀಯ",
+    "We guard / ನಾವು ಕಾಪಾಡುತ್ತೇವೆ",
+    "They guard / ಅವರು ಕಾಪಾಡುತ್ತಾರೆ",
+    "He guards / ಅವನು ಕಾಪಾಡುತ್ತಾನೆ",
+    "She guards / ಅವಳು ಕಾಪಾಡುತ್ತಾಳೆ",
+    "It guards / ಅದು ಕಾಪಾಡುತ್ತದೆ",
+    "John guards / ಜಾನ್ ಕಾಪಾಡುತ್ತಾನೆ",
+    "My sister guards / ನನ್ನ ಸಹೋದರಿ ಕಾಪಾಡುತ್ತಾಳೆ",
+    "The soldier guards / ಸೈನಿಕ ಕಾಪಾಡುತ್ತಾನೆ",
+    "People guard / ಜನರು ಕಾಪಾಡುತ್ತಾರೆ",
+    "Children guard / ಮಕ್ಕಳು ಕಾಪಾಡುತ್ತಾರೆ",
+    "Someone guards / ಯಾರೋ ಕಾಪಾಡುತ್ತಾರೆ",
+    "Nobody guards / ಯಾರೂ ಕಾಪಾಡುವುದಿಲ್ಲ",
+    "Everybody guards / ಎಲ್ಲರೂ ಕಾಪಾಡುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Guess / ಊಹಿಸು",
+  "forms": [
+    "I guess / ನಾನು ಊಹಿಸುತ್ತೇನೆ",
+    "You guess / ನೀನು ಊಹಿಸುತ್ತೀಯ",
+    "We guess / ನಾವು ಊಹಿಸುತ್ತೇವೆ",
+    "They guess / ಅವರು ಊಹಿಸುತ್ತಾರೆ",
+    "He guesses / ಅವನು ಊಹಿಸುತ್ತಾನೆ",
+    "She guesses / ಅವಳು ಊಹಿಸುತ್ತಾಳೆ",
+    "It guesses / ಅದು ಊಹಿಸುತ್ತದೆ",
+    "John guesses / ಜಾನ್ ಊಹಿಸುತ್ತಾನೆ",
+    "My sister guesses / ನನ್ನ ಸಹೋದರಿ ಊಹಿಸುತ್ತಾಳೆ",
+    "The detective guesses / ತನಿಖಾಧಿಕಾರಿ ಊಹಿಸುತ್ತಾನೆ",
+    "People guess / ಜನರು ಊಹಿಸುತ್ತಾರೆ",
+    "Children guess / ಮಕ್ಕಳು ಊಹಿಸುತ್ತಾರೆ",
+    "Someone guesses / ಯಾರೋ ಊಹಿಸುತ್ತಾರೆ",
+    "Nobody guesses / ಯಾರೂ ಊಹಿಸುವುದಿಲ್ಲ",
+    "Everybody guesses / ಎಲ್ಲರೂ ಊಹಿಸುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Guide / ಮಾರ್ಗದರ್ಶನ ನೀಡು",
+  "forms": [
+    "I guide / ನಾನು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತೇನೆ",
+    "You guide / ನೀನು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತೀಯ",
+    "We guide / ನಾವು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತೇವೆ",
+    "They guide / ಅವರು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾರೆ",
+    "He guides / ಅವನು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾನೆ",
+    "She guides / ಅವಳು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾಳೆ",
+    "It guides / ಅದು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತದೆ",
+    "John guides / ಜಾನ್ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾನೆ",
+    "My sister guides / ನನ್ನ ಸಹೋದರಿ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾಳೆ",
+    "The teacher guides / ಶಿಕ್ಷಕ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾನೆ",
+    "People guide / ಜನರು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾರೆ",
+    "Children guide / ಮಕ್ಕಳು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾರೆ",
+    "Someone guides / ಯಾರೋ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾರೆ",
+    "Nobody guides / ಯಾರೂ ಮಾರ್ಗದರ್ಶನ ನೀಡುವುದಿಲ್ಲ",
+    "Everybody guides / ಎಲ್ಲರೂ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Handle / ನಿರ್ವಹಿಸು",
+  "forms": [
+    "I handle / ನಾನು ನಿರ್ವಹಿಸುತ್ತೇನೆ",
+    "You handle / ನೀನು ನಿರ್ವಹಿಸುತ್ತೀಯ",
+    "We handle / ನಾವು ನಿರ್ವಹಿಸುತ್ತೇವೆ",
+    "They handle / ಅವರು ನಿರ್ವಹಿಸುತ್ತಾರೆ",
+    "He handles / ಅವನು ನಿರ್ವಹಿಸುತ್ತಾನೆ",
+    "She handles / ಅವಳು ನಿರ್ವಹಿಸುತ್ತಾಳೆ",
+    "It handles / ಅದು ನಿರ್ವಹಿಸುತ್ತದೆ",
+    "John handles / ಜಾನ್ ನಿರ್ವಹಿಸುತ್ತಾನೆ",
+    "My sister handles / ನನ್ನ ಸಹೋದರಿ ನಿರ್ವಹಿಸುತ್ತಾಳೆ",
+    "The manager handles / ಮ್ಯಾನೇಜರ್ ನಿರ್ವಹಿಸುತ್ತಾನೆ",
+    "People handle / ಜನರು ನಿರ್ವಹಿಸುತ್ತಾರೆ",
+    "Children handle / ಮಕ್ಕಳು ನಿರ್ವಹಿಸುತ್ತಾರೆ",
+    "Someone handles / ಯಾರೋ ನಿರ್ವಹಿಸುತ್ತಾರೆ",
+    "Nobody handles / ಯಾರೂ ನಿರ್ವಹಿಸುವುದಿಲ್ಲ",
+    "Everybody handles / ಎಲ್ಲರೂ ನಿರ್ವಹಿಸುತ್ತಾರೆ"
+  ]
+},
+{
+  "verb": "Hang / ತೂಗು",
+  "forms": [
+    "I hang / ನಾನು ತೂಗುತ್ತೇನೆ",
+    "You hang / ನೀನು ತೂಗುತ್ತೀಯ",
+    "We hang / ನಾವು ತೂಗುತ್ತೇವೆ",
+    "They hang / ಅವರು ತೂಗುತ್ತಾರೆ",
+    "He hangs / ಅವನು ತೂಗುತ್ತಾನೆ",
+    "She hangs / ಅವಳು ತೂಗುತ್ತಾಳೆ",
+    "It hangs / ಅದು ತೂಗುತ್ತದೆ",
+    "John hangs / ಜಾನ್ ತೂಗುತ್ತಾನೆ",
+    "My sister hangs / ನನ್ನ ಸಹೋದರಿ ತೂಗುತ್ತಾಳೆ",
+    "The picture hangs / ಚಿತ್ರ ತೂಗುತ್ತದೆ",
+    "People hang / ಜನರು ತೂಗುತ್ತಾರೆ",
+    "Children hang / ಮಕ್ಕಳು ತೂಗುತ್ತಾರೆ",
+    "Someone hangs / ಯಾರೋ ತೂಗುತ್ತಾರೆ",
+    "Nobody hangs / ಯಾರೂ ತೂಗುವುದಿಲ್ಲ",
+    "Everybody hangs / ಎಲ್ಲರೂ ತೂಗುತ್ತಾರೆ"
+  ]
 }
 ]
