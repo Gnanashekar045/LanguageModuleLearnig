@@ -11,6 +11,9 @@ import PresentTense from "./pages/topics/PresentTense";
 import FutureTense from "./pages/topics/FutureTense";
 import PresentContinuous from "./pages/topics/PresentContinuous";
 import PresentPerfect from "./pages/topics/PresentPerfect";
+import PresentPerfectContinuous from "./pages/topics/PresentPerfectContinuous";
+import PastContinuous from "./pages/topics/PastContinuous";
+
 
 
 
@@ -29,7 +32,9 @@ export default function App() {
             <Route path="present-tense" element={<PresentTense />} />
             <Route path="PresentContinuous-tense" element={<PresentContinuous />} />
             <Route path="PresentPerfect-tense" element={<PresentPerfect/>} />
+            <Route path="PresentPerfectContinuous-tense" element={<PresentPerfectContinuous/>} />
             <Route path="past-tense" element={<PastTense />} />
+            <Route path="past-continuous" element={<PastContinuous />} />
             <Route path="future-tense" element={<FutureTense />} />
           </Route>
 
