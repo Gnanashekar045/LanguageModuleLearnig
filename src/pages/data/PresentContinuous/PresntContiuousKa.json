@@ -6169,5 +6169,4595 @@
       "Nobody is grabbing / ಯಾರೂ ಹಿಡಿಯುತ್ತಿಲ್ಲ",
       "Everybody is grabbing / ಎಲ್ಲರೂ ಹಿಡಿಯುತ್ತಿದ್ದಾರೆ"
     ]
+  },
+  {
+    "verb": "Grade / ದರ್ಜೆ ಕೊಡು",
+    "forms": [
+      "I am grading / ನಾನು ದರ್ಜೆ ಕೊಡುತ್ತಿದ್ದೇನೆ",
+      "You are grading / ನೀನು ದರ್ಜೆ ಕೊಡುತ್ತಿದ್ದೀಯ",
+      "We are grading / ನಾವು ದರ್ಜೆ ಕೊಡುತ್ತಿದ್ದೇವೆ",
+      "They are grading / ಅವರು ದರ್ಜೆ ಕೊಡುತ್ತಿದ್ದಾರೆ",
+      "He is grading / ಅವನು ದರ್ಜೆ ಕೊಡುತ್ತಿದ್ದಾನೆ",
+      "She is grading / ಅವಳು ದರ್ಜೆ ಕೊಡುತ್ತಿದ್ದಾಳೆ",
+      "It is grading / ಅದು ದರ್ಜೆ ಕೊಡುತ್ತಿದೆ",
+      "The teacher is grading / ಶಿಕ್ಷಕ ದರ್ಜೆ ಕೊಡುತ್ತಿದ್ದಾನೆ",
+      "People are grading / ಜನರು ದರ್ಜೆ ಕೊಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is grading / ಯಾರೋ ದರ್ಜೆ ಕೊಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is grading / ಯಾರೂ ದರ್ಜೆ ಕೊಡುತ್ತಿಲ್ಲ",
+      "Everybody is grading / ಎಲ್ಲರೂ ದರ್ಜೆ ಕೊಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Grant / ನೀಡು",
+    "forms": [
+      "I am granting / ನಾನು ನೀಡುತ್ತಿದ್ದೇನೆ",
+      "You are granting / ನೀನು ನೀಡುತ್ತಿದ್ದೀಯ",
+      "We are granting / ನಾವು ನೀಡುತ್ತಿದ್ದೇವೆ",
+      "They are granting / ಅವರು ನೀಡುತ್ತಿದ್ದಾರೆ",
+      "He is granting / ಅವನು ನೀಡುತ್ತಿದ್ದಾನೆ",
+      "She is granting / ಅವಳು ನೀಡುತ್ತಿದ್ದಾಳೆ",
+      "It is granting / ಅದು ನೀಡುತ್ತಿದೆ",
+      "The government is granting / ಸರ್ಕಾರ ನೀಡುತ್ತಿದೆ",
+      "People are granting / ಜನರು ನೀಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is granting / ಯಾರೋ ನೀಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is granting / ಯಾರೂ ನೀಡುತ್ತಿಲ್ಲ",
+      "Everybody is granting / ಎಲ್ಲರೂ ನೀಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Greet / ಸ್ವಾಗತಿಸು",
+    "forms": [
+      "I am greeting / ನಾನು ಸ್ವಾಗತಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are greeting / ನೀನು ಸ್ವಾಗತಿಸುತ್ತಿದ್ದೀಯ",
+      "We are greeting / ನಾವು ಸ್ವಾಗತಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are greeting / ಅವರು ಸ್ವಾಗತಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is greeting / ಅವನು ಸ್ವಾಗತಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is greeting / ಅವಳು ಸ್ವಾಗತಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is greeting / ಅದು ಸ್ವಾಗತಿಸುತ್ತಿದೆ",
+      "The host is greeting / ಯಜಮಾನ ಸ್ವಾಗತಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are greeting / ಜನರು ಸ್ವಾಗತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is greeting / ಯಾರೋ ಸ್ವಾಗತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is greeting / ಯಾರೂ ಸ್ವಾಗತಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is greeting / ಎಲ್ಲರೂ ಸ್ವಾಗತಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Grind / ಪುಡಿಮಾಡು",
+    "forms": [
+      "I am grinding / ನಾನು ಪುಡಿಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are grinding / ನೀನು ಪುಡಿಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are grinding / ನಾವು ಪುಡಿಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are grinding / ಅವರು ಪುಡಿಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is grinding / ಅವನು ಪುಡಿಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is grinding / ಅವಳು ಪುಡಿಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is grinding / ಅದು ಪುಡಿಮಾಡುತ್ತಿದೆ",
+      "The machine is grinding / ಯಂತ್ರ ಪುಡಿಮಾಡುತ್ತಿದೆ",
+      "People are grinding / ಜನರು ಪುಡಿಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is grinding / ಯಾರೋ ಪುಡಿಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is grinding / ಯಾರೂ ಪುಡಿಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is grinding / ಎಲ್ಲರೂ ಪುಡಿಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Grip / ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿ",
+    "forms": [
+      "I am gripping / ನಾನು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಿದ್ದೇನೆ",
+      "You are gripping / ನೀನು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಿದ್ದೀಯ",
+      "We are gripping / ನಾವು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಿದ್ದೇವೆ",
+      "They are gripping / ಅವರು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಿದ್ದಾರೆ",
+      "He is gripping / ಅವನು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಿದ್ದಾನೆ",
+      "She is gripping / ಅವಳು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಿದ್ದಾಳೆ",
+      "It is gripping / ಅದು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಿದೆ",
+      "The child is gripping / ಮಗು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಿದೆ",
+      "People are gripping / ಜನರು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is gripping / ಯಾರೋ ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is gripping / ಯಾರೂ ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಿಲ್ಲ",
+      "Everybody is gripping / ಎಲ್ಲರೂ ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Grow / ಬೆಳೆ",
+    "forms": [
+      "I am growing / ನಾನು ಬೆಳೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are growing / ನೀನು ಬೆಳೆಯುತ್ತಿದ್ದೀಯ",
+      "We are growing / ನಾವು ಬೆಳೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are growing / ಅವರು ಬೆಳೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is growing / ಅವನು ಬೆಳೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is growing / ಅವಳು ಬೆಳೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is growing / ಅದು ಬೆಳೆಯುತ್ತಿದೆ",
+      "The plant is growing / ಸಸ್ಯ ಬೆಳೆಯುತ್ತಿದೆ",
+      "People are growing / ಜನರು ಬೆಳೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is growing / ಯಾರೋ ಬೆಳೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is growing / ಯಾರೂ ಬೆಳೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is growing / ಎಲ್ಲರೂ ಬೆಳೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Guard / ಕಾಪಾಡು",
+    "forms": [
+      "I am guarding / ನಾನು ಕಾಪಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are guarding / ನೀನು ಕಾಪಾಡುತ್ತಿದ್ದೀಯ",
+      "We are guarding / ನಾವು ಕಾಪಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are guarding / ಅವರು ಕಾಪಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is guarding / ಅವನು ಕಾಪಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is guarding / ಅವಳು ಕಾಪಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is guarding / ಅದು ಕಾಪಾಡುತ್ತಿದೆ",
+      "The soldier is guarding / ಸೈನಿಕ ಕಾಪಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are guarding / ಜನರು ಕಾಪಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is guarding / ಯಾರೋ ಕಾಪಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is guarding / ಯಾರೂ ಕಾಪಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is guarding / ಎಲ್ಲರೂ ಕಾಪಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Guess / ಊಹಿಸು",
+    "forms": [
+      "I am guessing / ನಾನು ಊಹಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are guessing / ನೀನು ಊಹಿಸುತ್ತಿದ್ದೀಯ",
+      "We are guessing / ನಾವು ಊಹಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are guessing / ಅವರು ಊಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is guessing / ಅವನು ಊಹಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is guessing / ಅವಳು ಊಹಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is guessing / ಅದು ಊಹಿಸುತ್ತಿದೆ",
+      "The child is guessing / ಮಗು ಊಹಿಸುತ್ತಿದೆ",
+      "People are guessing / ಜನರು ಊಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is guessing / ಯಾರೋ ಊಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is guessing / ಯಾರೂ ಊಹಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is guessing / ಎಲ್ಲರೂ ಊಹಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Guide / ಮಾರ್ಗದರ್ಶನ ನೀಡು",
+    "forms": [
+      "I am guiding / ನಾನು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಿದ್ದೇನೆ",
+      "You are guiding / ನೀನು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಿದ್ದೀಯ",
+      "We are guiding / ನಾವು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಿದ್ದೇವೆ",
+      "They are guiding / ಅವರು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಿದ್ದಾರೆ",
+      "He is guiding / ಅವನು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಿದ್ದಾನೆ",
+      "She is guiding / ಅವಳು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಿದ್ದಾಳೆ",
+      "It is guiding / ಅದು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಿದೆ",
+      "The teacher is guiding / ಶಿಕ್ಷಕ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಿದ್ದಾನೆ",
+      "People are guiding / ಜನರು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is guiding / ಯಾರೋ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is guiding / ಯಾರೂ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಿಲ್ಲ",
+      "Everybody is guiding / ಎಲ್ಲರೂ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Handle / ನಿರ್ವಹಿಸು",
+    "forms": [
+      "I am handling / ನಾನು ನಿರ್ವಹಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are handling / ನೀನು ನಿರ್ವಹಿಸುತ್ತಿದ್ದೀಯ",
+      "We are handling / ನಾವು ನಿರ್ವಹಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are handling / ಅವರು ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is handling / ಅವನು ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is handling / ಅವಳು ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is handling / ಅದು ನಿರ್ವಹಿಸುತ್ತಿದೆ",
+      "The manager is handling / ಮ್ಯಾನೇಜರ್ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are handling / ಜನರು ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is handling / ಯಾರೋ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is handling / ಯಾರೂ ನಿರ್ವಹಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is handling / ಎಲ್ಲರೂ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hang / ತೂಗು",
+    "forms": [
+      "I am hanging / ನಾನು ತೂಗುತ್ತಿದ್ದೇನೆ",
+      "You are hanging / ನೀನು ತೂಗುತ್ತಿದ್ದೀಯ",
+      "We are hanging / ನಾವು ತೂಗುತ್ತಿದ್ದೇವೆ",
+      "They are hanging / ಅವರು ತೂಗುತ್ತಿದ್ದಾರೆ",
+      "He is hanging / ಅವನು ತೂಗುತ್ತಿದ್ದಾನೆ",
+      "She is hanging / ಅವಳು ತೂಗುತ್ತಿದ್ದಾಳೆ",
+      "It is hanging / ಅದು ತೂಗುತ್ತಿದೆ",
+      "The picture is hanging / ಚಿತ್ರ ತೂಗುತ್ತಿದೆ",
+      "People are hanging / ಜನರು ತೂಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is hanging / ಯಾರೋ ತೂಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hanging / ಯಾರೂ ತೂಗುತ್ತಿಲ್ಲ",
+      "Everybody is hanging / ಎಲ್ಲರೂ ತೂಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Happen / ಸಂಭವಿಸು",
+    "forms": [
+      "I am happening / ನಾನು ಸಂಭವಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are happening / ನೀನು ಸಂಭವಿಸುತ್ತಿದ್ದೀಯ",
+      "We are happening / ನಾವು ಸಂಭವಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are happening / ಅವರು ಸಂಭವಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is happening / ಅವನು ಸಂಭವಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is happening / ಅವಳು ಸಂಭವಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is happening / ಅದು ಸಂಭವಿಸುತ್ತಿದೆ",
+      "The event is happening / ಕಾರ್ಯಕ್ರಮ ಸಂಭವಿಸುತ್ತಿದೆ",
+      "People are happening / ಜನರು ಸಂಭವಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is happening / ಯಾರೋ ಸಂಭವಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is happening / ಯಾರೂ ಸಂಭವಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is happening / ಎಲ್ಲರೂ ಸಂಭವಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Harm / ಹಾನಿ ಮಾಡು",
+    "forms": [
+      "I am harming / ನಾನು ಹಾನಿ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are harming / ನೀನು ಹಾನಿ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are harming / ನಾವು ಹಾನಿ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are harming / ಅವರು ಹಾನಿ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is harming / ಅವನು ಹಾನಿ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is harming / ಅವಳು ಹಾನಿ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is harming / ಅದು ಹಾನಿ ಮಾಡುತ್ತಿದೆ",
+      "The action is harming / ಕ್ರಿಯೆ ಹಾನಿ ಮಾಡುತ್ತಿದೆ",
+      "People are harming / ಜನರು ಹಾನಿ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is harming / ಯಾರೋ ಹಾನಿ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is harming / ಯಾರೂ ಹಾನಿ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is harming / ಎಲ್ಲರೂ ಹಾನಿ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hatch / ಕಾವು ಕೊಡು",
+    "forms": [
+      "I am hatching / ನಾನು ಕಾವು ಕೊಡುತ್ತಿದ್ದೇನೆ",
+      "You are hatching / ನೀನು ಕಾವು ಕೊಡುತ್ತಿದ್ದೀಯ",
+      "We are hatching / ನಾವು ಕಾವು ಕೊಡುತ್ತಿದ್ದೇವೆ",
+      "They are hatching / ಅವರು ಕಾವು ಕೊಡುತ್ತಿದ್ದಾರೆ",
+      "He is hatching / ಅವನು ಕಾವು ಕೊಡುತ್ತಿದ್ದಾನೆ",
+      "She is hatching / ಅವಳು ಕಾವು ಕೊಡುತ್ತಿದ್ದಾಳೆ",
+      "It is hatching / ಅದು ಕಾವು ಕೊಡುತ್ತಿದೆ",
+      "The hen is hatching / ಕೋಳಿ ಕಾವು ಕೊಡುತ್ತಿದೆ",
+      "People are hatching / ಜನರು ಕಾವು ಕೊಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is hatching / ಯಾರೋ ಕಾವು ಕೊಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hatching / ಯಾರೂ ಕಾವು ಕೊಡುತ್ತಿಲ್ಲ",
+      "Everybody is hatching / ಎಲ್ಲರೂ ಕಾವು ಕೊಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hate / ದ್ವೇಷಿಸು",
+    "forms": [
+      "I am hating / ನಾನು ದ್ವೇಷಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are hating / ನೀನು ದ್ವೇಷಿಸುತ್ತಿದ್ದೀಯ",
+      "We are hating / ನಾವು ದ್ವೇಷಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are hating / ಅವರು ದ್ವೇಷಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is hating / ಅವನು ದ್ವೇಷಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is hating / ಅವಳು ದ್ವೇಷಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is hating / ಅದು ದ್ವೇಷಿಸುತ್ತಿದೆ",
+      "The person is hating / ವ್ಯಕ್ತಿ ದ್ವೇಷಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are hating / ಜನರು ದ್ವೇಷಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is hating / ಯಾರೋ ದ್ವೇಷಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hating / ಯಾರೂ ದ್ವೇಷಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is hating / ಎಲ್ಲರೂ ದ್ವೇಷಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Have / ಹೊಂದಿರು",
+    "forms": [
+      "I am having / ನಾನು ಹೊಂದುತ್ತಿದ್ದೇನೆ",
+      "You are having / ನೀನು ಹೊಂದುತ್ತಿದ್ದೀಯ",
+      "We are having / ನಾವು ಹೊಂದುತ್ತಿದ್ದೇವೆ",
+      "They are having / ಅವರು ಹೊಂದುತ್ತಿದ್ದಾರೆ",
+      "He is having / ಅವನು ಹೊಂದುತ್ತಿದ್ದಾನೆ",
+      "She is having / ಅವಳು ಹೊಂದುತ್ತಿದ್ದಾಳೆ",
+      "It is having / ಅದು ಹೊಂದುತ್ತಿದೆ",
+      "The child is having / ಮಗು ಹೊಂದುತ್ತಿದೆ",
+      "People are having / ಜನರು ಹೊಂದುತ್ತಿದ್ದಾರೆ",
+      "Someone is having / ಯಾರೋ ಹೊಂದುತ್ತಿದ್ದಾರೆ",
+      "Nobody is having / ಯಾರೂ ಹೊಂದುತ್ತಿಲ್ಲ",
+      "Everybody is having / ಎಲ್ಲರೂ ಹೊಂದುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Heal / ಗುಣಪಡಿಸು",
+    "forms": [
+      "I am healing / ನಾನು ಗುಣಪಡಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are healing / ನೀನು ಗುಣಪಡಿಸುತ್ತಿದ್ದೀಯ",
+      "We are healing / ನಾವು ಗುಣಪಡಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are healing / ಅವರು ಗುಣಪಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is healing / ಅವನು ಗುಣಪಡಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is healing / ಅವಳು ಗುಣಪಡಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is healing / ಅದು ಗುಣಪಡಿಸುತ್ತಿದೆ",
+      "The doctor is healing / ವೈದ್ಯ ಗುಣಪಡಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are healing / ಜನರು ಗುಣಪಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is healing / ಯಾರೋ ಗುಣಪಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is healing / ಯಾರೂ ಗುಣಪಡಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is healing / ಎಲ್ಲರೂ ಗುಣಪಡಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hear / ಕೇಳು",
+    "forms": [
+      "I am hearing / ನಾನು ಕೇಳುತ್ತಿದ್ದೇನೆ",
+      "You are hearing / ನೀನು ಕೇಳುತ್ತಿದ್ದೀಯ",
+      "We are hearing / ನಾವು ಕೇಳುತ್ತಿದ್ದೇವೆ",
+      "They are hearing / ಅವರು ಕೇಳುತ್ತಿದ್ದಾರೆ",
+      "He is hearing / ಅವನು ಕೇಳುತ್ತಿದ್ದಾನೆ",
+      "She is hearing / ಅವಳು ಕೇಳುತ್ತಿದ್ದಾಳೆ",
+      "It is hearing / ಅದು ಕೇಳುತ್ತಿದೆ",
+      "The child is hearing / ಮಗು ಕೇಳುತ್ತಿದೆ",
+      "People are hearing / ಜನರು ಕೇಳುತ್ತಿದ್ದಾರೆ",
+      "Someone is hearing / ಯಾರೋ ಕೇಳುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hearing / ಯಾರೂ ಕೇಳುತ್ತಿಲ್ಲ",
+      "Everybody is hearing / ಎಲ್ಲರೂ ಕೇಳುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Heave / ಎತ್ತು",
+    "forms": [
+      "I am heaving / ನಾನು ಎತ್ತುತ್ತಿದ್ದೇನೆ",
+      "You are heaving / ನೀನು ಎತ್ತುತ್ತಿದ್ದೀಯ",
+      "We are heaving / ನಾವು ಎತ್ತುತ್ತಿದ್ದೇವೆ",
+      "They are heaving / ಅವರು ಎತ್ತುತ್ತಿದ್ದಾರೆ",
+      "He is heaving / ಅವನು ಎತ್ತುತ್ತಿದ್ದಾನೆ",
+      "She is heaving / ಅವಳು ಎತ್ತುತ್ತಿದ್ದಾಳೆ",
+      "It is heaving / ಅದು ಎತ್ತುತ್ತಿದೆ",
+      "The worker is heaving / ಕಾರ್ಮಿಕ ಎತ್ತುತ್ತಿದ್ದಾನೆ",
+      "People are heaving / ಜನರು ಎತ್ತುತ್ತಿದ್ದಾರೆ",
+      "Someone is heaving / ಯಾರೋ ಎತ್ತುತ್ತಿದ್ದಾರೆ",
+      "Nobody is heaving / ಯಾರೂ ಎತ್ತುತ್ತಿಲ್ಲ",
+      "Everybody is heaving / ಎಲ್ಲರೂ ಎತ್ತುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Help / ಸಹಾಯ ಮಾಡು",
+    "forms": [
+      "I am helping / ನಾನು ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are helping / ನೀನು ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are helping / ನಾವು ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are helping / ಅವರು ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is helping / ಅವನು ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is helping / ಅವಳು ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is helping / ಅದು ಸಹಾಯ ಮಾಡುತ್ತಿದೆ",
+      "The volunteer is helping / ಸ್ವಯಂಸೇವಕ ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are helping / ಜನರು ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is helping / ಯಾರೋ ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is helping / ಯಾರೂ ಸಹಾಯ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is helping / ಎಲ್ಲರೂ ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hew / ಕೊಯ್ಯು",
+    "forms": [
+      "I am hewing / ನಾನು ಕೊಯ್ಯುತ್ತಿದ್ದೇನೆ",
+      "You are hewing / ನೀನು ಕೊಯ್ಯುತ್ತಿದ್ದೀಯ",
+      "We are hewing / ನಾವು ಕೊಯ್ಯುತ್ತಿದ್ದೇವೆ",
+      "They are hewing / ಅವರು ಕೊಯ್ಯುತ್ತಿದ್ದಾರೆ",
+      "He is hewing / ಅವನು ಕೊಯ್ಯುತ್ತಿದ್ದಾನೆ",
+      "She is hewing / ಅವಳು ಕೊಯ್ಯುತ್ತಿದ್ದಾಳೆ",
+      "It is hewing / ಅದು ಕೊಯ್ಯುತ್ತಿದೆ",
+      "The carpenter is hewing / ಸುತ್ತಿಗೆ ಕೊಯ್ಯುತ್ತಿದ್ದಾನೆ",
+      "People are hewing / ಜನರು ಕೊಯ್ಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is hewing / ಯಾರೋ ಕೊಯ್ಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hewing / ಯಾರೂ ಕೊಯ್ಯುತ್ತಿಲ್ಲ",
+      "Everybody is hewing / ಎಲ್ಲರೂ ಕೊಯ್ಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hide / ಮರೆಮಾಡು",
+    "forms": [
+      "I am hiding / ನಾನು ಮರೆಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are hiding / ನೀನು ಮರೆಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are hiding / ನಾವು ಮರೆಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are hiding / ಅವರು ಮರೆಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is hiding / ಅವನು ಮರೆಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is hiding / ಅವಳು ಮರೆಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is hiding / ಅದು ಮರೆಮಾಡುತ್ತಿದೆ",
+      "The child is hiding / ಮಗು ಮರೆಮಾಡುತ್ತಿದೆ",
+      "People are hiding / ಜನರು ಮರೆಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is hiding / ಯಾರೋ ಮರೆಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hiding / ಯಾರೂ ಮರೆಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is hiding / ಎಲ್ಲರೂ ಮರೆಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hinder / ಅಡ್ಡಿಮಾಡು",
+    "forms": [
+      "I am hindering / ನಾನು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are hindering / ನೀನು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are hindering / ನಾವು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are hindering / ಅವರು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is hindering / ಅವನು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is hindering / ಅವಳು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is hindering / ಅದು ಅಡ್ಡಿಮಾಡುತ್ತಿದೆ",
+      "The obstacle is hindering / ಅಡಚಣೆ ಅಡ್ಡಿಮಾಡುತ್ತಿದೆ",
+      "People are hindering / ಜನರು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is hindering / ಯಾರೋ ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hindering / ಯಾರೂ ಅಡ್ಡಿಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is hindering / ಎಲ್ಲರೂ ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hiss / ಸಿಳ್ಳು ಹಾಕು",
+    "forms": [
+      "I am hissing / ನಾನು ಸಿಳ್ಳು ಹಾಕುತ್ತಿದ್ದೇನೆ",
+      "You are hissing / ನೀನು ಸಿಳ್ಳು ಹಾಕುತ್ತಿದ್ದೀಯ",
+      "We are hissing / ನಾವು ಸಿಳ್ಳು ಹಾಕುತ್ತಿದ್ದೇವೆ",
+      "They are hissing / ಅವರು ಸಿಳ್ಳು ಹಾಕುತ್ತಿದ್ದಾರೆ",
+      "He is hissing / ಅವನು ಸಿಳ್ಳು ಹಾಕುತ್ತಿದ್ದಾನೆ",
+      "She is hissing / ಅವಳು ಸಿಳ್ಳು ಹಾಕುತ್ತಿದ್ದಾಳೆ",
+      "It is hissing / ಅದು ಸಿಳ್ಳು ಹಾಕುತ್ತಿದೆ",
+      "The snake is hissing / ಹಾವು ಸಿಳ್ಳು ಹಾಕುತ್ತಿದೆ",
+      "People are hissing / ಜನರು ಸಿಳ್ಳು ಹಾಕುತ್ತಿದ್ದಾರೆ",
+      "Someone is hissing / ಯಾರೋ ಸಿಳ್ಳು ಹಾಕುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hissing / ಯಾರೂ ಸಿಳ್ಳು ಹಾಕುತ್ತಿಲ್ಲ",
+      "Everybody is hissing / ಎಲ್ಲರೂ ಸಿಳ್ಳು ಹಾಕುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hit / ಹೊಡೆ",
+    "forms": [
+      "I am hitting / ನಾನು ಹೊಡೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are hitting / ನೀನು ಹೊಡೆಯುತ್ತಿದ್ದೀಯ",
+      "We are hitting / ನಾವು ಹೊಡೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are hitting / ಅವರು ಹೊಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is hitting / ಅವನು ಹೊಡೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is hitting / ಅವಳು ಹೊಡೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is hitting / ಅದು ಹೊಡೆಯುತ್ತಿದೆ",
+      "The ball is hitting / ಚೆಂಡು ಹೊಡೆಯುತ್ತಿದೆ",
+      "People are hitting / ಜನರು ಹೊಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is hitting / ಯಾರೋ ಹೊಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hitting / ಯಾರೂ ಹೊಡೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is hitting / ಎಲ್ಲರೂ ಹೊಡೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hoax / ಮೋಸಗೊಳಿಸು",
+    "forms": [
+      "I am hoaxing / ನಾನು ಮೋಸಗೊಳಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are hoaxing / ನೀನು ಮೋಸಗೊಳಿಸುತ್ತಿದ್ದೀಯ",
+      "We are hoaxing / ನಾವು ಮೋಸಗೊಳಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are hoaxing / ಅವರು ಮೋಸಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is hoaxing / ಅವನು ಮೋಸಗೊಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is hoaxing / ಅವಳು ಮೋಸಗೊಳಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is hoaxing / ಅದು ಮೋಸಗೊಳಿಸುತ್ತಿದೆ",
+      "The fraudster is hoaxing / ವಂಚಕ ಮೋಸಗೊಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are hoaxing / ಜನರು ಮೋಸಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is hoaxing / ಯಾರೋ ಮೋಸಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hoaxing / ಯಾರೂ ಮೋಸಗೊಳಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is hoaxing / ಎಲ್ಲರೂ ಮೋಸಗೊಳಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hold / ಹಿಡಿದಿಡು",
+    "forms": [
+      "I am holding / ನಾನು ಹಿಡಿದಿಡುತ್ತಿದ್ದೇನೆ",
+      "You are holding / ನೀನು ಹಿಡಿದಿಡುತ್ತಿದ್ದೀಯ",
+      "We are holding / ನಾವು ಹಿಡಿದಿಡುತ್ತಿದ್ದೇವೆ",
+      "They are holding / ಅವರು ಹಿಡಿದಿಡುತ್ತಿದ್ದಾರೆ",
+      "He is holding / ಅವನು ಹಿಡಿದಿಡುತ್ತಿದ್ದಾನೆ",
+      "She is holding / ಅವಳು ಹಿಡಿದಿಡುತ್ತಿದ್ದಾಳೆ",
+      "It is holding / ಅದು ಹಿಡಿದಿಡುತ್ತಿದೆ",
+      "The child is holding / ಮಗು ಹಿಡಿದಿಡುತ್ತಿದೆ",
+      "People are holding / ಜನರು ಹಿಡಿದಿಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is holding / ಯಾರೋ ಹಿಡಿದಿಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is holding / ಯಾರೂ ಹಿಡಿದಿಡುತ್ತಿಲ್ಲ",
+      "Everybody is holding / ಎಲ್ಲರೂ ಹಿಡಿದಿಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hop / ಜಿಗಿ",
+    "forms": [
+      "I am hopping / ನಾನು ಜಿಗಿಯುತ್ತಿದ್ದೇನೆ",
+      "You are hopping / ನೀನು ಜಿಗಿಯುತ್ತಿದ್ದೀಯ",
+      "We are hopping / ನಾವು ಜಿಗಿಯುತ್ತಿದ್ದೇವೆ",
+      "They are hopping / ಅವರು ಜಿಗಿಯುತ್ತಿದ್ದಾರೆ",
+      "He is hopping / ಅವನು ಜಿಗಿಯುತ್ತಿದ್ದಾನೆ",
+      "She is hopping / ಅವಳು ಜಿಗಿಯುತ್ತಿದ್ದಾಳೆ",
+      "It is hopping / ಅದು ಜಿಗಿಯುತ್ತಿದೆ",
+      "The rabbit is hopping / ಮೊಲ ಜಿಗಿಯುತ್ತಿದೆ",
+      "People are hopping / ಜನರು ಜಿಗಿಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is hopping / ಯಾರೋ ಜಿಗಿಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hopping / ಯಾರೂ ಜಿಗಿಯುತ್ತಿಲ್ಲ",
+      "Everybody is hopping / ಎಲ್ಲರೂ ಜಿಗಿಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hope / ಆಶಿಸು",
+    "forms": [
+      "I am hoping / ನಾನು ಆಶಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are hoping / ನೀನು ಆಶಿಸುತ್ತಿದ್ದೀಯ",
+      "We are hoping / ನಾವು ಆಶಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are hoping / ಅವರು ಆಶಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is hoping / ಅವನು ಆಶಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is hoping / ಅವಳು ಆಶಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is hoping / ಅದು ಆಶಿಸುತ್ತಿದೆ",
+      "The student is hoping / ವಿದ್ಯಾರ್ಥಿ ಆಶಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are hoping / ಜನರು ಆಶಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is hoping / ಯಾರೋ ಆಶಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hoping / ಯಾರೂ ಆಶಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is hoping / ಎಲ್ಲರೂ ಆಶಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Horrify / ಭಯಭ್ರಾಂತಗೊಳಿಸು",
+    "forms": [
+      "I am horrifying / ನಾನು ಭಯಭ್ರಾಂತಗೊಳಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are horrifying / ನೀನು ಭಯಭ್ರಾಂತಗೊಳಿಸುತ್ತಿದ್ದೀಯ",
+      "We are horrifying / ನಾವು ಭಯಭ್ರಾಂತಗೊಳಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are horrifying / ಅವರು ಭಯಭ್ರಾಂತಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is horrifying / ಅವನು ಭಯಭ್ರಾಂತಗೊಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is horrifying / ಅವಳು ಭಯಭ್ರಾಂತಗೊಳಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is horrifying / ಅದು ಭಯಭ್ರಾಂತಗೊಳಿಸುತ್ತಿದೆ",
+      "The movie is horrifying / ಚಲನಚಿತ್ರ ಭಯಭ್ರಾಂತಗೊಳಿಸುತ್ತಿದೆ",
+      "People are horrifying / ಜನರು ಭಯಭ್ರಾಂತಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is horrifying / ಯಾರೋ ಭಯಭ್ರಾಂತಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is horrifying / ಯಾರೂ ಭಯಭ್ರಾಂತಗೊಳಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is horrifying / ಎಲ್ಲರೂ ಭಯಭ್ರಾಂತಗೊಳಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hug / ಅಪ್ಪಿಕೊಳ್ಳು",
+    "forms": [
+      "I am hugging / ನಾನು ಅಪ್ಪಿಕೊಳ್ಳುತ್ತಿದ್ದೇನೆ",
+      "You are hugging / ನೀನು ಅಪ್ಪಿಕೊಳ್ಳುತ್ತಿದ್ದೀಯ",
+      "We are hugging / ನಾವು ಅಪ್ಪಿಕೊಳ್ಳುತ್ತಿದ್ದೇವೆ",
+      "They are hugging / ಅವರು ಅಪ್ಪಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "He is hugging / ಅವನು ಅಪ್ಪಿಕೊಳ್ಳುತ್ತಿದ್ದಾನೆ",
+      "She is hugging / ಅವಳು ಅಪ್ಪಿಕೊಳ್ಳುತ್ತಿದ್ದಾಳೆ",
+      "It is hugging / ಅದು ಅಪ್ಪಿಕೊಳ್ಳುತ್ತಿದೆ",
+      "The mother is hugging / ತಾಯಿ ಅಪ್ಪಿಕೊಳ್ಳುತ್ತಿದ್ದಾಳೆ",
+      "People are hugging / ಜನರು ಅಪ್ಪಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Someone is hugging / ಯಾರೋ ಅಪ್ಪಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hugging / ಯಾರೂ ಅಪ್ಪಿಕೊಳ್ಳುತ್ತಿಲ್ಲ",
+      "Everybody is hugging / ಎಲ್ಲರೂ ಅಪ್ಪಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hum / ಗುನುಗು",
+    "forms": [
+      "I am humming / ನಾನು ಗುನುಗುತ್ತಿದ್ದೇನೆ",
+      "You are humming / ನೀನು ಗುನುಗುತ್ತಿದ್ದೀಯ",
+      "We are humming / ನಾವು ಗುನುಗುತ್ತಿದ್ದೇವೆ",
+      "They are humming / ಅವರು ಗುನುಗುತ್ತಿದ್ದಾರೆ",
+      "He is humming / ಅವನು ಗುನುಗುತ್ತಿದ್ದಾನೆ",
+      "She is humming / ಅವಳು ಗುನುಗುತ್ತಿದ್ದಾಳೆ",
+      "It is humming / ಅದು ಗುನುಗುತ್ತಿದೆ",
+      "The bee is humming / ಜೇನುನೊಣ ಗುನುಗುತ್ತಿದೆ",
+      "People are humming / ಜನರು ಗುನುಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is humming / ಯಾರೋ ಗುನುಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is humming / ಯಾರೂ ಗುನುಗುತ್ತಿಲ್ಲ",
+      "Everybody is humming / ಎಲ್ಲರೂ ಗುನುಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Humiliate / ಅವಮಾನಿಸು",
+    "forms": [
+      "I am humiliating / ನಾನು ಅವಮಾನಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are humiliating / ನೀನು ಅವಮಾನಿಸುತ್ತಿದ್ದೀಯ",
+      "We are humiliating / ನಾವು ಅವಮಾನಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are humiliating / ಅವರು ಅವಮಾನಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is humiliating / ಅವನು ಅವಮಾನಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is humiliating / ಅವಳು ಅವಮಾನಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is humiliating / ಅದು ಅವಮಾನಿಸುತ್ತಿದೆ",
+      "The bully is humiliating / ಬೂಟಾಟಿಕೆ ಅವಮಾನಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are humiliating / ಜನರು ಅವಮಾನಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is humiliating / ಯಾರೋ ಅವಮಾನಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is humiliating / ಯಾರೂ ಅವಮಾನಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is humiliating / ಎಲ್ಲರೂ ಅವಮಾನಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hunt / ಬೇಟೆಯಾಡು",
+    "forms": [
+      "I am hunting / ನಾನು ಬೇಟೆಯಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are hunting / ನೀನು ಬೇಟೆಯಾಡುತ್ತಿದ್ದೀಯ",
+      "We are hunting / ನಾವು ಬೇಟೆಯಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are hunting / ಅವರು ಬೇಟೆಯಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is hunting / ಅವನು ಬೇಟೆಯಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is hunting / ಅವಳು ಬೇಟೆಯಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is hunting / ಅದು ಬೇಟೆಯಾಡುತ್ತಿದೆ",
+      "The tiger is hunting / ಹುಲಿ ಬೇಟೆಯಾಡುತ್ತಿದೆ",
+      "People are hunting / ಜನರು ಬೇಟೆಯಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is hunting / ಯಾರೋ ಬೇಟೆಯಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hunting / ಯಾರೂ ಬೇಟೆಯಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is hunting / ಎಲ್ಲರೂ ಬೇಟೆಯಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hurl / ಎಸೆ",
+    "forms": [
+      "I am hurling / ನಾನು ಎಸೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are hurling / ನೀನು ಎಸೆಯುತ್ತಿದ್ದೀಯ",
+      "We are hurling / ನಾವು ಎಸೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are hurling / ಅವರು ಎಸೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is hurling / ಅವನು ಎಸೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is hurling / ಅವಳು ಎಸೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is hurling / ಅದು ಎಸೆಯುತ್ತಿದೆ",
+      "The player is hurling / ಆಟಗಾರ ಎಸೆಯುತ್ತಿದ್ದಾನೆ",
+      "People are hurling / ಜನರು ಎಸೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is hurling / ಯಾರೋ ಎಸೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hurling / ಯಾರೂ ಎಸೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is hurling / ಎಲ್ಲರೂ ಎಸೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hurry / ಹೊರಟುಹೋಗು",
+    "forms": [
+      "I am hurrying / ನಾನು ಹೊರಟುಹೋಗುತ್ತಿದ್ದೇನೆ",
+      "You are hurrying / ನೀನು ಹೊರಟುಹೋಗುತ್ತಿದ್ದೀಯ",
+      "We are hurrying / ನಾವು ಹೊರಟುಹೋಗುತ್ತಿದ್ದೇವೆ",
+      "They are hurrying / ಅವರು ಹೊರಟುಹೋಗುತ್ತಿದ್ದಾರೆ",
+      "He is hurrying / ಅವನು ಹೊರಟುಹೋಗುತ್ತಿದ್ದಾನೆ",
+      "She is hurrying / ಅವಳು ಹೊರಟುಹೋಗುತ್ತಿದ್ದಾಳೆ",
+      "It is hurrying / ಅದು ಹೊರಟುಹೋಗುತ್ತಿದೆ",
+      "The passenger is hurrying / ಪ್ರಯಾಣಿಕ ಹೊರಟುಹೋಗುತ್ತಿದ್ದಾನೆ",
+      "People are hurrying / ಜನರು ಹೊರಟುಹೋಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is hurrying / ಯಾರೋ ಹೊರಟುಹೋಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hurrying / ಯಾರೂ ಹೊರಟುಹೋಗುತ್ತಿಲ್ಲ",
+      "Everybody is hurrying / ಎಲ್ಲರೂ ಹೊರಟುಹೋಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hurt / ನೋವುಂಟುಮಾಡು",
+    "forms": [
+      "I am hurting / ನಾನು ನೋವುಂಟುಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are hurting / ನೀನು ನೋವುಂಟುಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are hurting / ನಾವು ನೋವುಂಟುಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are hurting / ಅವರು ನೋವುಂಟುಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is hurting / ಅವನು ನೋವುಂಟುಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is hurting / ಅವಳು ನೋವುಂಟುಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is hurting / ಅದು ನೋವುಂಟುಮಾಡುತ್ತಿದೆ",
+      "The injury is hurting / ಗಾಯ ನೋವುಂಟುಮಾಡುತ್ತಿದೆ",
+      "People are hurting / ಜನರು ನೋವುಂಟುಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is hurting / ಯಾರೋ ನೋವುಂಟುಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hurting / ಯಾರೂ ನೋವುಂಟುಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is hurting / ಎಲ್ಲರೂ ನೋವುಂಟುಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hush / ಶಾಂತವಾಗು",
+    "forms": [
+      "I am hushing / ನಾನು ಶಾಂತವಾಗುತ್ತಿದ್ದೇನೆ",
+      "You are hushing / ನೀನು ಶಾಂತವಾಗುತ್ತಿದ್ದೀಯ",
+      "We are hushing / ನಾವು ಶಾಂತವಾಗುತ್ತಿದ್ದೇವೆ",
+      "They are hushing / ಅವರು ಶಾಂತವಾಗುತ್ತಿದ್ದಾರೆ",
+      "He is hushing / ಅವನು ಶಾಂತವಾಗುತ್ತಿದ್ದಾನೆ",
+      "She is hushing / ಅವಳು ಶಾಂತವಾಗುತ್ತಿದ್ದಾಳೆ",
+      "It is hushing / ಅದು ಶಾಂತವಾಗುತ್ತಿದೆ",
+      "The crowd is hushing / ಗುಂಪು ಶಾಂತವಾಗುತ್ತಿದೆ",
+      "People are hushing / ಜನರು ಶಾಂತವಾಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is hushing / ಯಾರೋ ಶಾಂತವಾಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hushing / ಯಾರೂ ಶಾಂತವಾಗುತ್ತಿಲ್ಲ",
+      "Everybody is hushing / ಎಲ್ಲರೂ ಶಾಂತವಾಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hustle / ತ್ವರೆ ಮಾಡು",
+    "forms": [
+      "I am hustling / ನಾನು ತ್ವರೆ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are hustling / ನೀನು ತ್ವರೆ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are hustling / ನಾವು ತ್ವರೆ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are hustling / ಅವರು ತ್ವರೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is hustling / ಅವನು ತ್ವರೆ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is hustling / ಅವಳು ತ್ವರೆ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is hustling / ಅದು ತ್ವরೆ ಮಾಡುತ್ತಿದೆ",
+      "The worker is hustling / ಕಾರ್ಮಿಕ ತ್ವರೆ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are hustling / ಜನರು ತ್ವರೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is hustling / ಯಾರೋ ತ್ವರೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hustling / ಯಾರೂ ತ್ವರೆ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is hustling / ಎಲ್ಲರೂ ತ್ವರೆ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hypnotize / ಮೋಹಗೊಳಿಸು",
+    "forms": [
+      "I am hypnotizing / ನಾನು ಮೋಹಗೊಳಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are hypnotizing / ನೀನು ಮೋಹಗೊಳಿಸುತ್ತಿದ್ದೀಯ",
+      "We are hypnotizing / ನಾವು ಮೋಹಗೊಳಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are hypnotizing / ಅವರು ಮೋಹಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is hypnotizing / ಅವನು ಮೋಹಗೊಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is hypnotizing / ಅವಳು ಮೋಹಗೊಳಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is hypnotizing / ಅದು ಮೋಹಗೊಳಿಸುತ್ತಿದೆ",
+      "The magician is hypnotizing / ಮಾಂತ್ರಿಕ ಮೋಹಗೊಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are hypnotizing / ಜನರು ಮೋಹಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is hypnotizing / ಯಾರೋ ಮೋಹಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is hypnotizing / ಯಾರೂ ಮೋಹಗೊಳಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is hypnotizing / ಎಲ್ಲರೂ ಮೋಹಗೊಳಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Idealize / ಆದರ್ಶೀಕರಿಸು",
+    "forms": [
+      "I am idealizing / ನಾನು ಆದರ್ಶೀಕರಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are idealizing / ನೀನು ಆದರ್ಶೀಕರಿಸುತ್ತಿದ್ದೀಯ",
+      "We are idealizing / ನಾವು ಆದರ್ಶೀಕರಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are idealizing / ಅವರು ಆದರ್ಶೀಕರಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is idealizing / ಅವನು ಆದರ್ಶೀಕರಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is idealizing / ಅವಳು ಆದರ್ಶೀಕರಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is idealizing / ಅದು ಆದರ್ಶೀಕರಿಸುತ್ತಿದೆ",
+      "The philosopher is idealizing / ತತ್ವಜ್ಞಾನಿ ಆದರ್ಶೀಕರಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are idealizing / ಜನರು ಆದರ್ಶೀಕರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is idealizing / ಯಾರೋ ಆದರ್ಶೀಕರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is idealizing / ಯಾರೂ ಆದರ್ಶೀಕರಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is idealizing / ಎಲ್ಲರೂ ಆದರ್ಶೀಕರಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Identify / ಗುರುತಿಸು",
+    "forms": [
+      "I am identifying / ನಾನು ಗುರುತಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are identifying / ನೀನು ಗುರುತಿಸುತ್ತಿದ್ದೀಯ",
+      "We are identifying / ನಾವು ಗುರುತಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are identifying / ಅವರು ಗುರುತಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is identifying / ಅವನು ಗುರುತಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is identifying / ಅವಳು ಗುರುತಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is identifying / ಅದು ಗುರುತಿಸುತ್ತಿದೆ",
+      "The officer is identifying / ಅಧಿಕಾರಿ ಗುರುತಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are identifying / ಜನರು ಗುರುತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is identifying / ಯಾರೋ ಗುರುತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is identifying / ಯಾರೂ ಗುರುತಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is identifying / ಎಲ್ಲರೂ ಗುರುತಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Idolize / ಆರಾಧಿಸು",
+    "forms": [
+      "I am idolizing / ನಾನು ಆರಾಧಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are idolizing / ನೀನು ಆರಾಧಿಸುತ್ತಿದ್ದೀಯ",
+      "We are idolizing / ನಾವು ಆರಾಧಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are idolizing / ಅವರು ಆರಾಧಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is idolizing / ಅವನು ಆರಾಧಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is idolizing / ಅವಳು ಆರಾಧಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is idolizing / ಅದು ಆರಾಧಿಸುತ್ತಿದೆ",
+      "The devotee is idolizing / ಭಕ್ತ ಆರಾಧಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are idolizing / ಜನರು ಆರಾಧಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is idolizing / ಯಾರೋ ಆರಾಧಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is idolizing / ಯಾರೂ ಆರಾಧಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is idolizing / ಎಲ್ಲರೂ ಆರಾಧಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Ignite / ಹಚ್ಚು",
+    "forms": [
+      "I am igniting / ನಾನು ಹಚ್ಚುತ್ತಿದ್ದೇನೆ",
+      "You are igniting / ನೀನು ಹಚ್ಚುತ್ತಿದ್ದೀಯ",
+      "We are igniting / ನಾವು ಹಚ್ಚುತ್ತಿದ್ದೇವೆ",
+      "They are igniting / ಅವರು ಹಚ್ಚುತ್ತಿದ್ದಾರೆ",
+      "He is igniting / ಅವನು ಹಚ್ಚುತ್ತಿದ್ದಾನೆ",
+      "She is igniting / ಅವಳು ಹಚ್ಚುತ್ತಿದ್ದಾಳೆ",
+      "It is igniting / ಅದು ಹಚ್ಚುತ್ತಿದೆ",
+      "The match is igniting / ಕಡ್ಡಿ ಹಚ್ಚುತ್ತಿದೆ",
+      "People are igniting / ಜನರು ಹಚ್ಚುತ್ತಿದ್ದಾರೆ",
+      "Someone is igniting / ಯಾರೋ ಹಚ್ಚುತ್ತಿದ್ದಾರೆ",
+      "Nobody is igniting / ಯಾರೂ ಹಚ್ಚುತ್ತಿಲ್ಲ",
+      "Everybody is igniting / ಎಲ್ಲರೂ ಹಚ್ಚುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Ignore / ನಿರ್ಲಕ್ಷಿಸು",
+    "forms": [
+      "I am ignoring / ನಾನು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are ignoring / ನೀನು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದೀಯ",
+      "We are ignoring / ನಾವು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are ignoring / ಅವರು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is ignoring / ಅವನು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is ignoring / ಅವಳು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is ignoring / ಅದು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದೆ",
+      "The teacher is ignoring / ಶಿಕ್ಷಕ ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are ignoring / ಜನರು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is ignoring / ಯಾರೋ ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is ignoring / ಯಾರೂ ನಿರ್ಲಕ್ಷಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is ignoring / ಎಲ್ಲರೂ ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Ill-treat / ಕೆಟ್ಟದಾಗಿ ವರ್ತಿಸು",
+    "forms": [
+      "I am ill-treating / ನಾನು ಕೆಟ್ಟದಾಗಿ ವರ್ತಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are ill-treating / ನೀನು ಕೆಟ್ಟದಾಗಿ ವರ್ತಿಸುತ್ತಿದ್ದೀಯ",
+      "We are ill-treating / ನಾವು ಕೆಟ್ಟದಾಗಿ ವರ್ತಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are ill-treating / ಅವರು ಕೆಟ್ಟದಾಗಿ ವರ್ತಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is ill-treating / ಅವನು ಕೆಟ್ಟದಾಗಿ ವರ್ತಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is ill-treating / ಅವಳು ಕೆಟ್ಟದಾಗಿ ವರ್ತಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is ill-treating / ಅದು ಕೆಟ್ಟದಾಗಿ ವರ್ತಿಸುತ್ತಿದೆ",
+      "The master is ill-treating / ಯಜಮಾನ ಕೆಟ್ಟದಾಗಿ ವರ್ತಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are ill-treating / ಜನರು ಕೆಟ್ಟದಾಗಿ ವರ್ತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is ill-treating / ಯಾರೋ ಕೆಟ್ಟದಾಗಿ ವರ್ತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is ill-treating / ಯಾರೂ ಕೆಟ್ಟದಾಗಿ ವರ್ತಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is ill-treating / ಎಲ್ಲರೂ ಕೆಟ್ಟದಾಗಿ ವರ್ತಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Illuminate / ಬೆಳಗು",
+    "forms": [
+      "I am illuminating / ನಾನು ಬೆಳಗುತ್ತಿದ್ದೇನೆ",
+      "You are illuminating / ನೀನು ಬೆಳಗುತ್ತಿದ್ದೀಯ",
+      "We are illuminating / ನಾವು ಬೆಳಗುತ್ತಿದ್ದೇವೆ",
+      "They are illuminating / ಅವರು ಬೆಳಗುತ್ತಿದ್ದಾರೆ",
+      "He is illuminating / ಅವನು ಬೆಳಗುತ್ತಿದ್ದಾನೆ",
+      "She is illuminating / ಅವಳು ಬೆಳಗುತ್ತಿದ್ದಾಳೆ",
+      "It is illuminating / ಅದು ಬೆಳಗುತ್ತಿದೆ",
+      "The lamp is illuminating / ದೀಪ ಬೆಳಗುತ್ತಿದೆ",
+      "People are illuminating / ಜನರು ಬೆಳಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is illuminating / ಯಾರೋ ಬೆಳಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is illuminating / ಯಾರೂ ಬೆಳಗುತ್ತಿಲ್ಲ",
+      "Everybody is illuminating / ಎಲ್ಲರೂ ಬೆಳಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Illumine / ಪ್ರಕಾಶಿಸು",
+    "forms": [
+      "I am illumining / ನಾನು ಪ್ರಕಾಶಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are illumining / ನೀನು ಪ್ರಕಾಶಿಸುತ್ತಿದ್ದೀಯ",
+      "We are illumining / ನಾವು ಪ್ರಕಾಶಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are illumining / ಅವರು ಪ್ರಕಾಶಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is illumining / ಅವನು ಪ್ರಕಾಶಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is illumining / ಅವಳು ಪ್ರಕಾಶಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is illumining / ಅದು ಪ್ರಕಾಶಿಸುತ್ತಿದೆ",
+      "The sun is illumining / ಸೂರ್ಯ ಪ್ರಕಾಶಿಸುತ್ತಿದೆ",
+      "People are illumining / ಜನರು ಪ್ರಕಾಶಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is illumining / ಯಾರೋ ಪ್ರಕಾಶಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is illumining / ಯಾರೂ ಪ್ರಕಾಶಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is illumining / ಎಲ್ಲರೂ ಪ್ರಕಾಶಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Illustrate / ವಿವರಿಸು",
+    "forms": [
+      "I am illustrating / ನಾನು ವಿವರಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are illustrating / ನೀನು ವಿವರಿಸುತ್ತಿದ್ದೀಯ",
+      "We are illustrating / ನಾವು ವಿವರಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are illustrating / ಅವರು ವಿವರಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is illustrating / ಅವನು ವಿವರಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is illustrating / ಅವಳು ವಿವರಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is illustrating / ಅದು ವಿವರಿಸುತ್ತಿದೆ",
+      "The teacher is illustrating / ಶಿಕ್ಷಕ ವಿವರಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are illustrating / ಜನರು ವಿವರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is illustrating / ಯಾರೋ ವಿವರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is illustrating / ಯಾರೂ ವಿವರಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is illustrating / ಎಲ್ಲರೂ ವಿವರಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Imagine / ಕಲ್ಪಿಸು",
+    "forms": [
+      "I am imagining / ನಾನು ಕಲ್ಪಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are imagining / ನೀನು ಕಲ್ಪಿಸುತ್ತಿದ್ದೀಯ",
+      "We are imagining / ನಾವು ಕಲ್ಪಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are imagining / ಅವರು ಕಲ್ಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is imagining / ಅವನು ಕಲ್ಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is imagining / ಅವಳು ಕಲ್ಪಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is imagining / ಅದು ಕಲ್ಪಿಸುತ್ತಿದೆ",
+      "The child is imagining / ಮಗು ಕಲ್ಪಿಸುತ್ತಿದೆ",
+      "People are imagining / ಜನರು ಕಲ್ಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is imagining / ಯಾರೋ ಕಲ್ಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is imagining / ಯಾರೂ ಕಲ್ಪಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is imagining / ಎಲ್ಲರೂ ಕಲ್ಪಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Imbibe / ಹೀರಿಕೊಳ್ಳು",
+    "forms": [
+      "I am imbibing / ನಾನು ಹೀರಿಕೊಳ್ಳುತ್ತಿದ್ದೇನೆ",
+      "You are imbibing / ನೀನು ಹೀರಿಕೊಳ್ಳುತ್ತಿದ್ದೀಯ",
+      "We are imbibing / ನಾವು ಹೀರಿಕೊಳ್ಳುತ್ತಿದ್ದೇವೆ",
+      "They are imbibing / ಅವರು ಹೀರಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "He is imbibing / ಅವನು ಹೀರಿಕೊಳ್ಳುತ್ತಿದ್ದಾನೆ",
+      "She is imbibing / ಅವಳು ಹೀರಿಕೊಳ್ಳುತ್ತಿದ್ದಾಳೆ",
+      "It is imbibing / ಅದು ಹೀರಿಕೊಳ್ಳುತ್ತಿದೆ",
+      "The plant is imbibing / ಸಸ್ಯ ಹೀರಿಕೊಳ್ಳುತ್ತಿದೆ",
+      "People are imbibing / ಜನರು ಹೀರಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Someone is imbibing / ಯಾರೋ ಹೀರಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Nobody is imbibing / ಯಾರೂ ಹೀರಿಕೊಳ್ಳುತ್ತಿಲ್ಲ",
+      "Everybody is imbibing / ಎಲ್ಲರೂ ಹೀರಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Imitate / ಅನುಕರಿಸು",
+    "forms": [
+      "I am imitating / ನಾನು ಅನುಕರಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are imitating / ನೀನು ಅನುಕರಿಸುತ್ತಿದ್ದೀಯ",
+      "We are imitating / ನಾವು ಅನುಕರಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are imitating / ಅವರು ಅನುಕರಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is imitating / ಅವನು ಅನುಕರಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is imitating / ಅವಳು ಅನುಕರಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is imitating / ಅದು ಅನುಕರಿಸುತ್ತಿದೆ",
+      "The parrot is imitating / ಗಿಳಿ ಅನುಕರಿಸುತ್ತಿದೆ",
+      "People are imitating / ಜನರು ಅನುಕರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is imitating / ಯಾರೋ ಅನುಕರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is imitating / ಯಾರೂ ಅನುಕರಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is imitating / ಎಲ್ಲರೂ ಅನುಕರಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Immerse / ಮುಳುಗಿಸು",
+    "forms": [
+      "I am immersing / ನಾನು ಮುಳುಗಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are immersing / ನೀನು ಮುಳುಗಿಸುತ್ತಿದ್ದೀಯ",
+      "We are immersing / ನಾವು ಮುಳುಗಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are immersing / ಅವರು ಮುಳುಗಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is immersing / ಅವನು ಮುಳುಗಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is immersing / ಅವಳು ಮುಳುಗಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is immersing / ಅದು ಮುಳುಗಿಸುತ್ತಿದೆ",
+      "The priest is immersing / ಪೂಜಾರಿ ಮುಳುಗಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are immersing / ಜನರು ಮುಳುಗಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is immersing / ಯಾರೋ ಮುಳುಗಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is immersing / ಯಾರೂ ಮುಳುಗಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is immersing / ಎಲ್ಲರೂ ಮುಳುಗಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Immolate / ಬಲಿ ಕೊಡು",
+    "forms": [
+      "I am immolating / ನಾನು ಬಲಿ ಕೊಡುತ್ತಿದ್ದೇನೆ",
+      "You are immolating / ನೀನು ಬಲಿ ಕೊಡುತ್ತಿದ್ದೀಯ",
+      "We are immolating / ನಾವು ಬಲಿ ಕೊಡುತ್ತಿದ್ದೇವೆ",
+      "They are immolating / ಅವರು ಬಲಿ ಕೊಡುತ್ತಿದ್ದಾರೆ",
+      "He is immolating / ಅವನು ಬಲಿ ಕೊಡುತ್ತಿದ್ದಾನೆ",
+      "She is immolating / ಅವಳು ಬಲಿ ಕೊಡುತ್ತಿದ್ದಾಳೆ",
+      "It is immolating / ಅದು ಬಲಿ ಕೊಡುತ್ತಿದೆ",
+      "The devotee is immolating / ಭಕ್ತ ಬಲಿ ಕೊಡುತ್ತಿದ್ದಾನೆ",
+      "People are immolating / ಜನರು ಬಲಿ ಕೊಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is immolating / ಯಾರೋ ಬಲಿ ಕೊಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is immolating / ಯಾರೂ ಬಲಿ ಕೊಡುತ್ತಿಲ್ಲ",
+      "Everybody is immolating / ಎಲ್ಲರೂ ಬಲಿ ಕೊಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Immure / ಬಂಧಿಸು",
+    "forms": [
+      "I am immuring / ನಾನು ಬಂಧಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are immuring / ನೀನು ಬಂಧಿಸುತ್ತಿದ್ದೀಯ",
+      "We are immuring / ನಾವು ಬಂಧಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are immuring / ಅವರು ಬಂಧಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is immuring / ಅವನು ಬಂಧಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is immuring / ಅವಳು ಬಂಧಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is immuring / ಅದು ಬಂಧಿಸುತ್ತಿದೆ",
+      "The jailer is immuring / ಜೈಲರ್ ಬಂಧಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are immuring / ಜನರು ಬಂಧಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is immuring / ಯಾರೋ ಬಂಧಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is immuring / ಯಾರೂ ಬಂಧಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is immuring / ಎಲ್ಲರೂ ಬಂಧಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Impair / ಹಾಳುಮಾಡು",
+    "forms": [
+      "I am impairing / ನಾನು ಹಾಳುಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are impairing / ನೀನು ಹಾಳುಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are impairing / ನಾವು ಹಾಳುಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are impairing / ಅವರು ಹಾಳುಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is impairing / ಅವನು ಹಾಳುಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is impairing / ಅವಳು ಹಾಳುಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is impairing / ಅದು ಹಾಳುಮಾಡುತ್ತಿದೆ",
+      "The storm is impairing / ಚಂಡಮಾರುತ ಹಾಳುಮಾಡುತ್ತಿದೆ",
+      "People are impairing / ಜನರು ಹಾಳುಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is impairing / ಯಾರೋ ಹಾಳುಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is impairing / ಯಾರೂ ಹಾಳುಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is impairing / ಎಲ್ಲರೂ ಹಾಳುಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Impart / ನೀಡು",
+    "forms": [
+      "I am imparting / ನಾನು ನೀಡುತ್ತಿದ್ದೇನೆ",
+      "You are imparting / ನೀನು ನೀಡುತ್ತಿದ್ದೀಯ",
+      "We are imparting / ನಾವು ನೀಡುತ್ತಿದ್ದೇವೆ",
+      "They are imparting / ಅವರು ನೀಡುತ್ತಿದ್ದಾರೆ",
+      "He is imparting / ಅವನು ನೀಡುತ್ತಿದ್ದಾನೆ",
+      "She is imparting / ಅವಳು ನೀಡುತ್ತಿದ್ದಾಳೆ",
+      "It is imparting / ಅದು ನೀಡುತ್ತಿದೆ",
+      "The teacher is imparting / ಶಿಕ್ಷಕ ನೀಡುತ್ತಿದ್ದಾನೆ",
+      "People are imparting / ಜನರು ನೀಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is imparting / ಯಾರೋ ನೀಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is imparting / ಯಾರೂ ನೀಡುತ್ತಿಲ್ಲ",
+      "Everybody is imparting / ಎಲ್ಲರೂ ನೀಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Impeach / ದೋಷಾರೋಪಿಸು",
+    "forms": [
+      "I am impeaching / ನಾನು ದೋಷಾರೋಪಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are impeaching / ನೀನು ದೋಷಾರೋಪಿಸುತ್ತಿದ್ದೀಯ",
+      "We are impeaching / ನಾವು ದೋಷಾರೋಪಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are impeaching / ಅವರು ದೋಷಾರೋಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is impeaching / ಅವನು ದೋಷಾರೋಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is impeaching / ಅವಳು ದೋಷಾರೋಪಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is impeaching / ಅದು ದೋಷಾರೋಪಿಸುತ್ತಿದೆ",
+      "The lawyer is impeaching / ವಕೀಲ ದೋಷಾರೋಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are impeaching / ಜನರು ದೋಷಾರೋಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is impeaching / ಯಾರೋ ದೋಷಾರೋಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is impeaching / ಯಾರೂ ದೋಷಾರೋಪಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is impeaching / ಎಲ್ಲರೂ ದೋಷಾರೋಪಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Impede / ಅಡ್ಡಿಮಾಡು",
+    "forms": [
+      "I am impeding / ನಾನು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are impeding / ನೀನು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are impeding / ನಾವು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are impeding / ಅವರು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is impeding / ಅವನು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is impeding / ಅವಳು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is impeding / ಅದು ಅಡ್ಡಿಮಾಡುತ್ತಿದೆ",
+      "The obstacle is impeding / ಅಡಚಣೆ ಅಡ್ಡಿಮಾಡುತ್ತಿದೆ",
+      "People are impeding / ಜನರು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is impeding / ಯಾರೋ ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is impeding / ಯಾರೂ ಅಡ್ಡಿಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is impeding / ಎಲ್ಲರೂ ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Impel / ಪ್ರೇರೇಪಿಸು",
+    "forms": [
+      "I am impelling / ನಾನು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are impelling / ನೀನು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದೀಯ",
+      "We are impelling / ನಾವು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are impelling / ಅವರು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is impelling / ಅವನು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is impelling / ಅವಳು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is impelling / ಅದು ಪ್ರೇರೇಪಿಸುತ್ತಿದೆ",
+      "The leader is impelling / ನಾಯಕ ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are impelling / ಜನರು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is impelling / ಯಾರೋ ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is impelling / ಯಾರೂ ಪ್ರೇರೇಪಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is impelling / ಎಲ್ಲರೂ ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Impend / ಮುಂಬರುವುದು",
+    "forms": [
+      "I am impending / ನಾನು ಮುಂಬರುವುದುತ್ತಿದ್ದೇನೆ",
+      "You are impending / ನೀನು ಮುಂಬರುವುದುತ್ತಿದ್ದೀಯ",
+      "We are impending / ನಾವು ಮುಂಬರುವುದುತ್ತಿದ್ದೇವೆ",
+      "They are impending / ಅವರು ಮುಂಬರುವುದುತ್ತಿದ್ದಾರೆ",
+      "He is impending / ಅವನು ಮುಂಬರುವುದುತ್ತಿದ್ದಾನೆ",
+      "She is impending / ಅವಳು ಮುಂಬರುವುದುತ್ತಿದ್ದಾಳೆ",
+      "It is impending / ಅದು ಮುಂಬರುವುದುತ್ತಿದೆ",
+      "The danger is impending / ಅಪಾಯ ಮುಂಬರುವುದುತ್ತಿದೆ",
+      "People are impending / ಜನರು ಮುಂಬರುವುದುತ್ತಿದ್ದಾರೆ",
+      "Someone is impending / ಯಾರೋ ಮುಂಬರುವುದುತ್ತಿದ್ದಾರೆ",
+      "Nobody is impending / ಯಾರೂ ಮುಂಬರುವುದುತ್ತಿಲ್ಲ",
+      "Everybody is impending / ಎಲ್ಲರೂ ಮುಂಬರುವುದುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Imperil / ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸು",
+    "forms": [
+      "I are imperiling / ನಾನು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are imperiling / ನೀನು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸುತ್ತಿದ್ದೀಯ",
+      "We are imperiling / ನಾವು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are imperiling / ಅವರು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is imperiling / ಅವನು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is imperiling / ಅವಳು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is imperiling / ಅದು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸುತ್ತಿದೆ",
+      "The storm is imperiling / ಚಂಡಮಾರುತ ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸುತ್ತಿದೆ",
+      "People are imperiling / ಜನರು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is imperiling / ಯಾರೋ ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is imperiling / ಯಾರೂ ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is imperiling / ಎಲ್ಲರೂ ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Impinge / ತಾಕು",
+    "forms": [
+      "I am impinging / ನಾನು ತಾಕುತ್ತಿದ್ದೇನೆ",
+      "You are impinging / ನೀನು ತಾಕುತ್ತಿದ್ದೀಯ",
+      "We are impinging / ನಾವು ತಾಕುತ್ತಿದ್ದೇವೆ",
+      "They are impinging / ಅವರು ತಾಕುತ್ತಿದ್ದಾರೆ",
+      "He is impinging / ಅವನು ತಾಕುತ್ತಿದ್ದಾನೆ",
+      "She is impinging / ಅವಳು ತಾಕುತ್ತಿದ್ದಾಳೆ",
+      "It is impinging / ಅದು ತಾಕುತ್ತಿದೆ",
+      "The ball is impinging / ಚೆಂಡು ತಾಕುತ್ತಿದೆ",
+      "People are impinging / ಜನರು ತಾಕುತ್ತಿದ್ದಾರೆ",
+      "Someone is impinging / ಯಾರೋ ತಾಕುತ್ತಿದ್ದಾರೆ",
+      "Nobody is impinging / ಯಾರೂ ತಾಕುತ್ತಿಲ್ಲ",
+      "Everybody is impinging / ಎಲ್ಲರೂ ತಾಕುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Implant / ನಾಟು",
+    "forms": [
+      "I am implanting / ನಾನು ನಾಟುತ್ತಿದ್ದೇನೆ",
+      "You are implanting / ನೀನು ನಾಟುತ್ತಿದ್ದೀಯ",
+      "We are implanting / ನಾವು ನಾಟುತ್ತಿದ್ದೇವೆ",
+      "They are implanting / ಅವರು ನಾಟುತ್ತಿದ್ದಾರೆ",
+      "He is implanting / ಅವನು ನಾಟುತ್ತಿದ್ದಾನೆ",
+      "She is implanting / ಅವಳು ನಾಟುತ್ತಿದ್ದಾಳೆ",
+      "It is implanting / ಅದು ನಾಟುತ್ತಿದೆ",
+      "The doctor is implanting / ವೈದ್ಯ ನಾಟುತ್ತಿದ್ದಾನೆ",
+      "People are implanting / ಜನರು ನಾಟುತ್ತಿದ್ದಾರೆ",
+      "Someone is implanting / ಯಾರೋ ನಾಟುತ್ತಿದ್ದಾರೆ",
+      "Nobody is implanting / ಯಾರೂ ನಾಟುತ್ತಿಲ್ಲ",
+      "Everybody is implanting / ಎಲ್ಲರೂ ನಾಟುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Implicate / ಸಿಕ್ಕಿಸು",
+    "forms": [
+      "I am implicating / ನಾನು ಸಿಕ್ಕಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are implicating / ನೀನು ಸಿಕ್ಕಿಸುತ್ತಿದ್ದೀಯ",
+      "We are implicating / ನಾವು ಸಿಕ್ಕಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are implicating / ಅವರು ಸಿಕ್ಕಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is implicating / ಅವನು ಸಿಕ್ಕಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is implicating / ಅವಳು ಸಿಕ್ಕಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is implicating / ಅದು ಸಿಕ್ಕಿಸುತ್ತಿದೆ",
+      "The police is implicating / ಪೊಲೀಸ್ ಸಿಕ್ಕಿಸುತ್ತಿದ್ದಾರೆ",
+      "People are implicating / ಜನರು ಸಿಕ್ಕಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is implicating / ಯಾರೋ ಸಿಕ್ಕಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is implicating / ಯಾರೂ ಸಿಕ್ಕಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is implicating / ಎಲ್ಲರೂ ಸಿಕ್ಕಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Implode / ಒಳನಾಶವಾಗು",
+    "forms": [
+      "I am imploding / ನಾನು ಒಳನಾಶವಾಗುತ್ತಿದ್ದೇನೆ",
+      "You are imploding / ನೀನು ಒಳನಾಶವಾಗುತ್ತಿದ್ದೀಯ",
+      "We are imploding / ನಾವು ಒಳನಾಶವಾಗುತ್ತಿದ್ದೇವೆ",
+      "They are imploding / ಅವರು ಒಳನಾಶವಾಗುತ್ತಿದ್ದಾರೆ",
+      "He is imploding / ಅವನು ಒಳನಾಶವಾಗುತ್ತಿದ್ದಾನೆ",
+      "She is imploding / ಅವಳು ಒಳನಾಶವಾಗುತ್ತಿದ್ದಾಳೆ",
+      "It is imploding / ಅದು ಒಳನಾಶವಾಗುತ್ತಿದೆ",
+      "The building is imploding / ಕಟ್ಟಡ ಒಳನಾಶವಾಗುತ್ತಿದೆ",
+      "People are imploding / ಜನರು ಒಳನಾಶವಾಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is imploding / ಯಾರೋ ಒಳನಾಶವಾಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is imploding / ಯಾರೂ ಒಳನಾಶವಾಗುತ್ತಿಲ್ಲ",
+      "Everybody is imploding / ಎಲ್ಲರೂ ಒಳನಾಶವಾಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Implore / ಬೇಡು",
+    "forms": [
+      "I am imploring / ನಾನು ಬೇಡುತ್ತಿದ್ದೇನೆ",
+      "You are imploring / ನೀನು ಬೇಡುತ್ತಿದ್ದೀಯ",
+      "We are imploring / ನಾವು ಬೇಡುತ್ತಿದ್ದೇವೆ",
+      "They are imploring / ಅವರು ಬೇಡುತ್ತಿದ್ದಾರೆ",
+      "He is imploring / ಅವನು ಬೇಡುತ್ತಿದ್ದಾನೆ",
+      "She is imploring / ಅವಳು ಬೇಡುತ್ತಿದ್ದಾಳೆ",
+      "It is imploring / ಅದು ಬೇಡುತ್ತಿದೆ",
+      "The beggar is imploring / ಭಿಕ್ಷುಕ ಬೇಡುತ್ತಿದ್ದಾನೆ",
+      "People are imploring / ಜನರು ಬೇಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is imploring / ಯಾರೋ ಬೇಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is imploring / ಯಾರೂ ಬೇಡುತ್ತಿಲ್ಲ",
+      "Everybody is imploring / ಎಲ್ಲರೂ ಬೇಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Imply / ಸೂಚಿಸು",
+    "forms": [
+      "I are implying / ನಾನು ಸೂಚಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are implying / ನೀನು ಸೂಚಿಸುತ್ತಿದ್ದೀಯ",
+      "We are implying / ನಾವು ಸೂಚಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are implying / ಅವರು ಸೂಚಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is implying / ಅವನು ಸೂಚಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is implying / ಅವಳು ಸೂಚಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is implying / ಅದು ಸೂಚಿಸುತ್ತಿದೆ",
+      "The statement is implying / ಹೇಳಿಕೆ ಸೂಚಿಸುತ್ತಿದೆ",
+      "People are implying / ಜನರು ಸೂಚಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is implying / ಯಾರೋ ಸೂಚಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is implying / ಯಾರೂ ಸೂಚಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is implying / ಎಲ್ಲರೂ ಸೂಚಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Import / ಆಮದು ಮಾಡು",
+    "forms": [
+      "I am importing / ನಾನು ಆಮದು ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are importing / ನೀನು ಆಮದು ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are importing / ನಾವು ಆಮದು ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are importing / ಅವರು ಆಮದು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is importing / ಅವನು ಆಮದು ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is importing / ಅವಳು ಆಮದು ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is importing / ಅದು ಆಮದು ಮಾಡುತ್ತಿದೆ",
+      "The company is importing / ಕಂಪನಿ ಆಮದು ಮಾಡುತ್ತಿದೆ",
+      "People are importing / ಜನರು ಆಮದು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is importing / ಯಾರೋ ಆಮದು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is importing / ಯಾರೂ ಆಮದು ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is importing / ಎಲ್ಲರೂ ಆಮದು ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Impose / ಹೇರು",
+    "forms": [
+      "I am imposing / ನಾನು ಹೇರುತ್ತಿದ್ದೇನೆ",
+      "You are imposing / ನೀನು ಹೇರುತ್ತಿದ್ದೀಯ",
+      "We are imposing / ನಾವು ಹೇರುತ್ತಿದ್ದೇವೆ",
+      "They are imposing / ಅವರು ಹೇರುತ್ತಿದ್ದಾರೆ",
+      "He is imposing / ಅವನು ಹೇರುತ್ತಿದ್ದಾನೆ",
+      "She is imposing / ಅವಳು ಹೇರುತ್ತಿದ್ದಾಳೆ",
+      "It is imposing / ಅದು ಹೇರುತ್ತಿದೆ",
+      "The government is imposing / ಸರ್ಕಾರ ಹೇರುತ್ತಿದೆ",
+      "People are imposing / ಜನರು ಹೇರುತ್ತಿದ್ದಾರೆ",
+      "Someone is imposing / ಯಾರೋ ಹೇರುತ್ತಿದ್ದಾರೆ",
+      "Nobody is imposing / ಯಾರೂ ಹೇರುತ್ತಿಲ್ಲ",
+      "Everybody is imposing / ಎಲ್ಲರೂ ಹೇರುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Impress / ಪ್ರಭಾವ ಬೀರು",
+    "forms": [
+      "I am impressing / ನಾನು ಪ್ರಭಾವ ಬೀರುತ್ತಿದ್ದೇನೆ",
+      "You are impressing / ನೀನು ಪ್ರಭಾವ ಬೀರುತ್ತಿದ್ದೀಯ",
+      "We are impressing / ನಾವು ಪ್ರಭಾವ ಬೀರುತ್ತಿದ್ದೇವೆ",
+      "They are impressing / ಅವರು ಪ್ರಭಾವ ಬೀರುತ್ತಿದ್ದಾರೆ",
+      "He is impressing / ಅವನು ಪ್ರಭಾವ ಬೀರುತ್ತಿದ್ದಾನೆ",
+      "She is impressing / ಅವಳು ಪ್ರಭಾವ ಬೀರುತ್ತಿದ್ದಾಳೆ",
+      "It is impressing / ಅದು ಪ್ರಭಾವ ಬೀರುತ್ತಿದೆ",
+      "The speech is impressing / ಭಾಷಣ ಪ್ರಭಾವ ಬೀರುತ್ತಿದೆ",
+      "People are impressing / ಜನರು ಪ್ರಭಾವ ಬೀರುತ್ತಿದ್ದಾರೆ",
+      "Someone is impressing / ಯಾರೋ ಪ್ರಭಾವ ಬೀರುತ್ತಿದ್ದಾರೆ",
+      "Nobody is impressing / ಯಾರೂ ಪ್ರಭಾವ ಬೀರುತ್ತಿಲ್ಲ",
+      "Everybody is impressing / ಎಲ್ಲರೂ ಪ್ರಭಾವ ಬೀರುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Imprint / ಮುದ್ರಿಸು",
+    "forms": [
+      "I am imprinting / ನಾನು ಮುದ್ರಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are imprinting / ನೀನು ಮುದ್ರಿಸುತ್ತಿದ್ದೀಯ",
+      "We are imprinting / ನಾವು ಮುದ್ರಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are imprinting / ಅವರು ಮುದ್ರಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is imprinting / ಅವನು ಮುದ್ರಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is imprinting / ಅವಳು ಮುದ್ರಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is imprinting / ಅದು ಮುದ್ರಿಸುತ್ತಿದೆ",
+      "The machine is imprinting / ಯಂತ್ರ ಮುದ್ರಿಸುತ್ತಿದೆ",
+      "People are imprinting / ಜನರು ಮುದ್ರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is imprinting / ಯಾರೋ ಮುದ್ರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is imprinting / ಯಾರೂ ಮುದ್ರಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is imprinting / ಎಲ್ಲರೂ ಮುದ್ರಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Imprison / ಬಂಧನದಲ್ಲಿಡು",
+    "forms": [
+      "I am imprisoning / ನಾನು ಬಂಧನದಲ್ಲಿಡುತ್ತಿದ್ದೇನೆ",
+      "You are imprisoning / ನೀನು ಬಂಧನದಲ್ಲಿಡುತ್ತಿದ್ದೀಯ",
+      "We are imprisoning / ನಾವು ಬಂಧನದಲ್ಲಿಡುತ್ತಿದ್ದೇವೆ",
+      "They are imprisoning / ಅವರು ಬಂಧನದಲ್ಲಿಡುತ್ತಿದ್ದಾರೆ",
+      "He is imprisoning / ಅವನು ಬಂಧನದಲ್ಲಿಡುತ್ತಿದ್ದಾನೆ",
+      "She is imprisoning / ಅವಳು ಬಂಧನದಲ್ಲಿಡುತ್ತಿದ್ದಾಳೆ",
+      "It is imprisoning / ಅದು ಬಂಧನದಲ್ಲಿಡುತ್ತಿದೆ",
+      "The judge is imprisoning / ನ್ಯಾಯಾಧೀಶ ಬಂಧನದಲ್ಲಿಡುತ್ತಿದ್ದಾನೆ",
+      "People are imprisoning / ಜನರು ಬಂಧನದಲ್ಲಿಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is imprisoning / ಯಾರೋ ಬಂಧನದಲ್ಲಿಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is imprisoning / ಯಾರೂ ಬಂಧನದಲ್ಲಿಡುತ್ತಿಲ್ಲ",
+      "Everybody is imprisoning / ಎಲ್ಲರೂ ಬಂಧನದಲ್ಲಿಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Improve / ಸುಧಾರಿಸು",
+    "forms": [
+      "I am improving / ನಾನು ಸುಧಾರಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are improving / ನೀನು ಸುಧಾರಿಸುತ್ತಿದ್ದೀಯ",
+      "We are improving / ನಾವು ಸುಧಾರಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are improving / ಅವರು ಸುಧಾರಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is improving / ಅವನು ಸುಧಾರಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is improving / ಅವಳು ಸುಧಾರಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is improving / ಅದು ಸುಧಾರಿಸುತ್ತಿದೆ",
+      "The student is improving / ವಿದ್ಯಾರ್ಥಿ ಸುಧಾರಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are improving / ಜನರು ಸುಧಾರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is improving / ಯಾರೋ ಸುಧಾರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is improving / ಯಾರೂ ಸುಧಾರಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is improving / ಎಲ್ಲರೂ ಸುಧಾರಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Inaugurate / ಉದ್ಘಾಟಿಸು",
+    "forms": [
+      "I am inaugurating / ನಾನು ಉದ್ಘಾಟಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are inaugurating / ನೀನು ಉದ್ಘಾಟಿಸುತ್ತಿದ್ದೀಯ",
+      "We are inaugurating / ನಾವು ಉದ್ಘಾಟಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are inaugurating / ಅವರು ಉದ್ಘಾಟಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is inaugurating / ಅವನು ಉದ್ಘಾಟಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is inaugurating / ಅವಳು ಉದ್ಘಾಟಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is inaugurating / ಅದು ಉದ್ಘಾಟಿಸುತ್ತಿದೆ",
+      "The minister is inaugurating / ಮಂತ್ರಿ ಉದ್ಘಾಟಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are inaugurating / ಜನರು ಉದ್ಘಾಟಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is inaugurating / ಯಾರೋ ಉದ್ಘಾಟಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inaugurating / ಯಾರೂ ಉದ್ಘಾಟಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is inaugurating / ಎಲ್ಲರೂ ಉದ್ಘಾಟಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Incise / ಕೊರೆ",
+    "forms": [
+      "I are incising / ನಾನು ಕೊರೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are incising / ನೀನು ಕೊರೆಯುತ್ತಿದ್ದೀಯ",
+      "We are incising / ನಾವು ಕೊರೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are incising / ಅವರು ಕೊರೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is incising / ಅವನು ಕೊರೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is incising / ಅವಳು ಕೊರೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is incising / ಅದು ಕೊರೆಯುತ್ತಿದೆ",
+      "The sculptor is incising / ಶಿಲ್ಪಿ ಕೊರೆಯುತ್ತಿದ್ದಾನೆ",
+      "People are incising / ಜನರು ಕೊರೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is incising / ಯಾರೋ ಕೊರೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is incising / ಯಾರೂ ಕೊರೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is incising / ಎಲ್ಲರೂ ಕೊರೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Include / ಸೇರಿಸು",
+    "forms": [
+      "I am including / ನಾನು ಸೇರಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are including / ನೀನು ಸೇರಿಸುತ್ತಿದ್ದೀಯ",
+      "We are including / ನಾವು ಸೇರಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are including / ಅವರು ಸೇರಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is including / ಅವನು ಸೇರಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is including / ಅವಳು ಸೇರಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is including / ಅದು ಸೇರಿಸುತ್ತಿದೆ",
+      "The list is including / ಪಟ್ಟಿ ಸೇರಿಸುತ್ತಿದೆ",
+      "People are including / ಜನರು ಸೇರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is including / ಯಾರೋ ಸೇರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is including / ಯಾರೂ ಸೇರಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is including / ಎಲ್ಲರೂ ಸೇರಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Increase / ಹೆಚ್ಚಿಸು",
+    "forms": [
+      "I am increasing / ನಾನು ಹೆಚ್ಚಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are increasing / ನೀನು ಹೆಚ್ಚಿಸುತ್ತಿದ್ದೀಯ",
+      "We are increasing / ನಾವು ಹೆಚ್ಚಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are increasing / ಅವರು ಹೆಚ್ಚಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is increasing / ಅವನು ಹೆಚ್ಚಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is increasing / ಅವಳು ಹೆಚ್ಚಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is increasing / ಅದು ಹೆಚ್ಚಿಸುತ್ತಿದೆ",
+      "The price is increasing / ಬೆಲೆ ಹೆಚ್ಚಿಸುತ್ತಿದೆ",
+      "People are increasing / ಜನರು ಹೆಚ್ಚಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is increasing / ಯಾರೋ ಹೆಚ್ಚಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is increasing / ಯಾರೂ ಹೆಚ್ಚಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is increasing / ಎಲ್ಲರೂ ಹೆಚ್ಚಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Inculcate / ಬೋಧಿಸು",
+    "forms": [
+      "I am inculcating / ನಾನು ಬೋಧಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are inculcating / ನೀನು ಬೋಧಿಸುತ್ತಿದ್ದೀಯ",
+      "We are inculcating / ನಾವು ಬೋಧಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are inculcating / ಅವರು ಬೋಧಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is inculcating / ಅವನು ಬೋಧಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is inculcating / ಅವಳು ಬೋಧಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is inculcating / ಅದು ಬೋಧಿಸುತ್ತಿದೆ",
+      "The guru is inculcating / ಗುರು ಬೋಧಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are inculcating / ಜನರು ಬೋಧಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is inculcating / ಯಾರೋ ಬೋಧಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inculcating / ಯಾರೂ ಬೋಧಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is inculcating / ಎಲ್ಲರೂ ಬೋಧಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Indent / ಇಂಡೆಂಟ್ ಮಾಡು",
+    "forms": [
+      "I am indenting / ನಾನು ಇಂಡೆಂಟ್ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are indenting / ನೀನು ಇಂಡೆಂಟ್ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are indenting / ನಾವು ಇಂಡೆಂಟ್ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are indenting / ಅವರು ಇಂಡೆಂಟ್ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is indenting / ಅವನು ಇಂಡೆಂಟ್ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is indenting / ಅವಳು ಇಂಡೆಂಟ್ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is indenting / ಅದು ಇಂಡೆಂಟ್ ಮಾಡುತ್ತಿದೆ",
+      "The writer is indenting / ಬರಹಗಾರ ಇಂಡೆಂಟ್ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are indenting / ಜನರು ಇಂಡೆಂಟ್ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is indenting / ಯಾರೋ ಇಂಡೆಂಟ್ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is indenting / ಯಾರೂ ಇಂಡೆಂಟ್ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is indenting / ಎಲ್ಲರೂ ಇಂಡೆಂಟ್ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Indicate / ಸೂಚಿಸು",
+    "forms": [
+      "I am indicating / ನಾನು ಸೂಚಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are indicating / ನೀನು ಸೂಚಿಸುತ್ತಿದ್ದೀಯ",
+      "We are indicating / ನಾವು ಸೂಚಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are indicating / ಅವರು ಸೂಚಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is indicating / ಅವನು ಸೂಚಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is indicating / ಅವಳು ಸೂಚಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is indicating / ಅದು ಸೂಚಿಸುತ್ತಿದೆ",
+      "The sign is indicating / ಚಿಹ್ನೆ ಸೂಚಿಸುತ್ತಿದೆ",
+      "People are indicating / ಜನರು ಸೂಚಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is indicating / ಯಾರೋ ಸೂಚಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is indicating / ಯಾರೂ ಸೂಚಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is indicating / ಎಲ್ಲರೂ ಸೂಚಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Induce / ಪ್ರೇರೇಪಿಸು",
+    "forms": [
+      "I are inducing / ನಾನು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are inducing / ನೀನು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದೀಯ",
+      "We are inducing / ನಾವು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are inducing / ಅವರು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is inducing / ಅವನು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is inducing / ಅವಳು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is inducing / ಅದು ಪ್ರೇರೇಪಿಸುತ್ತಿದೆ",
+      "The medicine is inducing / medicine ಪ್ರೇರೇಪಿಸುತ್ತಿದೆ",
+      "People are inducing / ಜನರು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is inducing / ಯಾರೋ ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inducing / ಯಾರೂ ಪ್ರೇರೇಪಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is inducing / ಎಲ್ಲರೂ ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Indulge / ತೊಡಗಿಸು",
+    "forms": [
+      "I are indulging / ನಾನು ತೊಡಗಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are indulging / ನೀನು ತೊಡಗಿಸುತ್ತಿದ್ದೀಯ",
+      "We are indulging / ನಾವು ತೊಡಗಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are indulging / ಅವರು ತೊಡಗಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is indulging / ಅವನು ತೊಡಗಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is indulging / ಅವಳು ತೊಡಗಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is indulging / ಅದು ತೊಡಗಿಸುತ್ತಿದೆ",
+      "The child is indulging / ಮಗು ತೊಡಗಿಸುತ್ತಿದೆ",
+      "People are indulging / ಜನರು ತೊಡಗಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is indulging / ಯಾರೋ ತೊಡಗಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is indulging / ಯಾರೂ ತೊಡಗಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is indulging / ಎಲ್ಲರೂ ತೊಡಗಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Infect / ಸೋಂಕು ಹರಡು",
+    "forms": [
+      "I are infecting / ನಾನು ಸೋಂಕು ಹರಡುತ್ತಿದ್ದೇನೆ",
+      "You are infecting / ನೀನು ಸೋಂಕು ಹರಡುತ್ತಿದ್ದೀಯ",
+      "We are infecting / ನಾವು ಸೋಂಕು ಹರಡುತ್ತಿದ್ದೇವೆ",
+      "They are infecting / ಅವರು ಸೋಂಕು ಹರಡುತ್ತಿದ್ದಾರೆ",
+      "He is infecting / ಅವನು ಸೋಂಕು ಹರಡುತ್ತಿದ್ದಾನೆ",
+      "She is infecting / ಅವಳು ಸೋಂಕು ಹರಡುತ್ತಿದ್ದಾಳೆ",
+      "It is infecting / ಅದು ಸೋಂಕು ಹರಡುತ್ತಿದೆ",
+      "The virus is infecting / ವೈರಸ್ ಸೋಂಕು ಹರಡುತ್ತಿದೆ",
+      "People are infecting / ಜನರು ಸೋಂಕು ಹರಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is infecting / ಯಾರೋ ಸೋಂಕು ಹರಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is infecting / ಯಾರೂ ಸೋಂಕು ಹರಡುತ್ತಿಲ್ಲ",
+      "Everybody is infecting / ಎಲ್ಲರೂ ಸೋಂಕು ಹರಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Infest / ಹಾವಳಿ ಮಾಡು",
+    "forms": [
+      "I are infesting / ನಾನು ಹಾವಳಿ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are infesting / ನೀನು ಹಾವಳಿ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are infesting / ನಾವು ಹಾವಳಿ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are infesting / ಅವರು ಹಾವಳಿ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is infesting / ಅವನು ಹಾವಳಿ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is infesting / ಅವಳು ಹಾವಳಿ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is infesting / ಅದು ಹಾವಳಿ ಮಾಡುತ್ತಿದೆ",
+      "The pests are infesting / ಕೀಟಗಳು ಹಾವಳಿ ಮಾಡುತ್ತಿವೆ",
+      "People are infesting / ಜನರು ಹಾವಳಿ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is infesting / ಯಾರೋ ಹಾವಳಿ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is infesting / ಯಾರೂ ಹಾವಳಿ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is infesting / ಎಲ್ಲರೂ ಹಾವಳಿ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Inflame / ಉರಿಸು",
+    "forms": [
+      "I are inflaming / ನಾನು ಉರಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are inflaming / ನೀನು ಉರಿಸುತ್ತಿದ್ದೀಯ",
+      "We are inflaming / ನಾವು ಉರಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are inflaming / ಅವರು ಉರಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is inflaming / ಅವನು ಉರಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is inflaming / ಅವಳು ಉರಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is inflaming / ಅದು ಉರಿಸುತ್ತಿದೆ",
+      "The fire is inflaming / ಬೆಂಕಿ ಉರಿಸುತ್ತಿದೆ",
+      "People are inflaming / ಜನರು ಉರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is inflaming / ಯಾರೋ ಉರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inflaming / ಯಾರೂ ಉರಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is inflaming / ಎಲ್ಲರೂ ಉರಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Inflate / ಉಬ್ಬಿಸು",
+    "forms": [
+      "I are inflating / ನಾನು ಉಬ್ಬಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are inflating / ನೀನು ಉಬ್ಬಿಸುತ್ತಿದ್ದೀಯ",
+      "We are inflating / ನಾವು ಉಬ್ಬಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are inflating / ಅವರು ಉಬ್ಬಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is inflating / ಅವನು ಉಬ್ಬಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is inflating / ಅವಳು ಉಬ್ಬಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is inflating / ಅದು ಉಬ್ಬಿಸುತ್ತಿದೆ",
+      "The pump is inflating / ಪಂಪ್ ಉಬ್ಬಿಸುತ್ತಿದೆ",
+      "People are inflating / ಜನರು ಉಬ್ಬಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is inflating / ಯಾರೋ ಉಬ್ಬಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inflating / ಯಾರೂ ಉಬ್ಬಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is inflating / ಎಲ್ಲರೂ ಉಬ್ಬಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Inflect / ವಿಭಕ್ತಿ ಹಾಕು",
+    "forms": [
+      "I are inflecting / ನಾನು ವಿಭಕ್ತಿ ಹಾಕುತ್ತಿದ್ದೇನೆ",
+      "You are inflecting / ನೀನು ವಿಭಕ್ತಿ ಹಾಕುತ್ತಿದ್ದೀಯ",
+      "We are inflecting / ನಾವು ವಿಭಕ್ತಿ ಹಾಕುತ್ತಿದ್ದೇವೆ",
+      "They are inflecting / ಅವರು ವಿಭಕ್ತಿ ಹಾಕುತ್ತಿದ್ದಾರೆ",
+      "He is inflecting / ಅವನು ವಿಭಕ್ತಿ ಹಾಕುತ್ತಿದ್ದಾನೆ",
+      "She is inflecting / ಅವಳು ವಿಭಕ್ತಿ ಹಾಕುತ್ತಿದ್ದಾಳೆ",
+      "It is inflecting / ಅದು ವಿಭಕ್ತಿ ಹಾಕುತ್ತಿದೆ",
+      "The language is inflecting / ಭಾಷೆ ವಿಭಕ್ತಿ ಹಾಕುತ್ತಿದೆ",
+      "People are inflecting / ಜನರು ವಿಭಕ್ತಿ ಹಾಕುತ್ತಿದ್ದಾರೆ",
+      "Someone is inflecting / ಯಾರೋ ವಿಭಕ್ತಿ ಹಾಕುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inflecting / ಯಾರೂ ವಿಭಕ್ತಿ ಹಾಕುತ್ತಿಲ್ಲ",
+      "Everybody is inflecting / ಎಲ್ಲರೂ ವಿಭಕ್ತಿ ಹಾಕುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Inform / ತಿಳಿಸು",
+    "forms": [
+      "I are informing / ನಾನು ತಿಳಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are informing / ನೀನು ತಿಳಿಸುತ್ತಿದ್ದೀಯ",
+      "We are informing / ನಾವು ತಿಳಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are informing / ಅವರು ತಿಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is informing / ಅವನು ತಿಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is informing / ಅವಳು ತಿಳಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is informing / ಅದು ತಿಳಿಸುತ್ತಿದೆ",
+      "The news is informing / ಸುದ್ದಿ ತಿಳಿಸುತ್ತಿದೆ",
+      "People are informing / ಜನರು ತಿಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is informing / ಯಾರೋ ತಿಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is informing / ಯಾರೂ ತಿಳಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is informing / ಎಲ್ಲರೂ ತಿಳಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Infringe / ಉಲ್ಲಂಘಿಸು",
+    "forms": [
+      "I are infringing / ನಾನು ಉಲ್ಲಂಘಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are infringing / ನೀನು ಉಲ್ಲಂಘಿಸುತ್ತಿದ್ದೀಯ",
+      "We are infringing / ನಾವು ಉಲ್ಲಂಘಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are infringing / ಅವರು ಉಲ್ಲಂಘಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is infringing / ಅವನು ಉಲ್ಲಂಘಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is infringing / ಅವಳು ಉಲ್ಲಂಘಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is infringing / ಅದು ಉಲ್ಲಂಘಿಸುತ್ತಿದೆ",
+      "The law is infringing / ಕಾನೂನು ಉಲ್ಲಂಘಿಸುತ್ತಿದೆ",
+      "People are infringing / ಜನರು ಉಲ್ಲಂಘಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is infringing / ಯಾರೋ ಉಲ್ಲಂಘಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is infringing / ಯಾರೂ ಉಲ್ಲಂಘಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is infringing / ಎಲ್ಲರೂ ಉಲ್ಲಂಘಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Infuse / ತುಂಬಿಸು",
+    "forms": [
+      "I am infusing / ನಾನು ತುಂಬಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are infusing / ನೀನು ತುಂಬಿಸುತ್ತಿದ್ದೀಯ",
+      "We are infusing / ನಾವು ತುಂಬಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are infusing / ಅವರು ತುಂಬಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is infusing / ಅವನು ತುಂಬಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is infusing / ಅವಳು ತುಂಬಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is infusing / ಅದು ತುಂಬಿಸುತ್ತಿದೆ",
+      "The chef is infusing / ಬಾಣಸಿಗ ತುಂಬಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are infusing / ಜನರು ತುಂಬಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is infusing / ಯಾರೋ ತುಂಬಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is infusing / ಯಾರೂ ತುಂಬಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is infusing / ಎಲ್ಲರೂ ತುಂಬಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Ingest / ನುಂಗು",
+    "forms": [
+      "I am ingesting / ನಾನು ನುಂಗುತ್ತಿದ್ದೇನೆ",
+      "You are ingesting / ನೀನು ನುಂಗುತ್ತಿದ್ದೀಯ",
+      "We are ingesting / ನಾವು ನುಂಗುತ್ತಿದ್ದೇವೆ",
+      "They are ingesting / ಅವರು ನುಂಗುತ್ತಿದ್ದಾರೆ",
+      "He is ingesting / ಅವನು ನುಂಗುತ್ತಿದ್ದಾನೆ",
+      "She is ingesting / ಅವಳು ನುಂಗುತ್ತಿದ್ದಾಳೆ",
+      "It is ingesting / ಅದು ನುಂಗುತ್ತಿದೆ",
+      "The baby is ingesting / ಮಗು ನುಂಗುತ್ತಿದೆ",
+      "People are ingesting / ಜನರು ನುಂಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is ingesting / ಯಾರೋ ನುಂಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is ingesting / ಯಾರೂ ನುಂಗುತ್ತಿಲ್ಲ",
+      "Everybody is ingesting / ಎಲ್ಲರೂ ನುಂಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Inhabit / ವಾಸಿಸು",
+    "forms": [
+      "I am inhabiting / ನಾನು ವಾಸಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are inhabiting / ನೀನು ವಾಸಿಸುತ್ತಿದ್ದೀಯ",
+      "We are inhabiting / ನಾವು ವಾಸಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are inhabiting / ಅವರು ವಾಸಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is inhabiting / ಅವನು ವಾಸಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is inhabiting / ಅವಳು ವಾಸಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is inhabiting / ಅದು ವಾಸಿಸುತ್ತಿದೆ",
+      "The family is inhabiting / ಕುಟುಂಬ ವಾಸಿಸುತ್ತಿದೆ",
+      "People are inhabiting / ಜನರು ವಾಸಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is inhabiting / ಯಾರೋ ವಾಸಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inhabiting / ಯಾರೂ ವಾಸಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is inhabiting / ಎಲ್ಲರೂ ವಾಸಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Inhale / ಉಸಿರೆಳೆ",
+    "forms": [
+      "I am inhaling / ನಾನು ಉಸಿರೆಳೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are inhaling / ನೀನು ಉಸಿರೆಳೆಯುತ್ತಿದ್ದೀಯ",
+      "We are inhaling / ನಾವು ಉಸಿರೆಳೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are inhaling / ಅವರು ಉಸಿರೆಳೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is inhaling / ಅವನು ಉಸಿರೆಳೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is inhaling / ಅವಳು ಉಸಿರೆಳೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is inhaling / ಅದು ಉಸಿರೆಳೆಯುತ್ತಿದೆ",
+      "The patient is inhaling / ರೋಗಿ ಉಸಿರೆಳೆಯುತ್ತಿದ್ದಾನೆ",
+      "People are inhaling / ಜನರು ಉಸಿರೆಳೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is inhaling / ಯಾರೋ ಉಸಿರೆಳೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inhaling / ಯಾರೂ ಉಸಿರೆಳೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is inhaling / ಎಲ್ಲರೂ ಉಸಿರೆಳೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Inherit / ಆನುವಂಶಿಕವಾಗಿ ಪಡೆ",
+    "forms": [
+      "I am inheriting / ನಾನು ಆನುವಂಶಿಕವಾಗಿ ಪಡೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are inheriting / ನೀನು ಆನುವಂಶಿಕವಾಗಿ ಪಡೆಯುತ್ತಿದ್ದೀಯ",
+      "We are inheriting / ನಾವು ಆನುವಂಶಿಕವಾಗಿ ಪಡೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are inheriting / ಅವರು ಆನುವಂಶಿಕವಾಗಿ ಪಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is inheriting / ಅವನು ಆನುವಂಶಿಕವಾಗಿ ಪಡೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is inheriting / ಅವಳು ಆನುವಂಶಿಕವಾಗಿ ಪಡೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is inheriting / ಅದು ಆನುವಂಶಿಕವಾಗಿ ಪಡೆಯುತ್ತಿದೆ",
+      "The son is inheriting / ಮಗ ಆನುವಂಶಿಕವಾಗಿ ಪಡೆಯುತ್ತಿದ್ದಾನೆ",
+      "People are inheriting / ಜನರು ಆನುವಂಶಿಕವಾಗಿ ಪಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is inheriting / ಯಾರೋ ಆನುವಂಶಿಕವಾಗಿ ಪಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inheriting / ಯಾರೂ ಆನುವಂಶಿಕವಾಗಿ ಪಡೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is inheriting / ಎಲ್ಲರೂ ಆನುವಂಶಿಕವಾಗಿ ಪಡೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Initiate / ಪ್ರಾರಂಭಿಸು",
+    "forms": [
+      "I am initiating / ನಾನು ಪ್ರಾರಂಭಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are initiating / ನೀನು ಪ್ರಾರಂಭಿಸುತ್ತಿದ್ದೀಯ",
+      "We are initiating / ನಾವು ಪ್ರಾರಂಭಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are initiating / ಅವರು ಪ್ರಾರಂಭಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is initiating / ಅವನು ಪ್ರಾರಂಭಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is initiating / ಅವಳು ಪ್ರಾರಂಭಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is initiating / ಅದು ಪ್ರಾರಂಭಿಸುತ್ತಿದೆ",
+      "The leader is initiating / ನಾಯಕ ಪ್ರಾರಂಭಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are initiating / ಜನರು ಪ್ರಾರಂಭಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is initiating / ಯಾರೋ ಪ್ರಾರಂಭಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is initiating / ಯಾರೂ ಪ್ರಾರಂಭಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is initiating / ಎಲ್ಲರೂ ಪ್ರಾರಂಭಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Inject / ಚುಚ್ಚು",
+    "forms": [
+      "I am injecting / ನಾನು ಚುಚ್ಚುತ್ತಿದ್ದೇನೆ",
+      "You are injecting / ನೀನು ಚುಚ್ಚುತ್ತಿದ್ದೀಯ",
+      "We are injecting / ನಾವು ಚುಚ್ಚುತ್ತಿದ್ದೇವೆ",
+      "They are injecting / ಅವರು ಚುಚ್ಚುತ್ತಿದ್ದಾರೆ",
+      "He is injecting / ಅವನು ಚುಚ್ಚುತ್ತಿದ್ದಾನೆ",
+      "She is injecting / ಅವಳು ಚುಚ್ಚುತ್ತಿದ್ದಾಳೆ",
+      "It is injecting / ಅದು ಚುಚ್ಚುತ್ತಿದೆ",
+      "The nurse is injecting / ನರ್ಸ್ ಚುಚ್ಚುತ್ತಿದ್ದಾಳೆ",
+      "People are injecting / ಜನರು ಚುಚ್ಚುತ್ತಿದ್ದಾರೆ",
+      "Someone is injecting / ಯಾರೋ ಚುಚ್ಚುತ್ತಿದ್ದಾರೆ",
+      "Nobody is injecting / ಯಾರೂ ಚುಚ್ಚುತ್ತಿಲ್ಲ",
+      "Everybody is injecting / ಎಲ್ಲರೂ ಚುಚ್ಚುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Injure / ಗಾಯಗೊಳಿಸು",
+    "forms": [
+      "I am injuring / ನಾನು ಗಾಯಗೊಳಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are injuring / ನೀನು ಗಾಯಗೊಳಿಸುತ್ತಿದ್ದೀಯ",
+      "We are injuring / ನಾವು ಗಾಯಗೊಳಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are injuring / ಅವರು ಗಾಯಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is injuring / ಅವನು ಗಾಯಗೊಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is injuring / ಅವಳು ಗಾಯಗೊಳಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is injuring / ಅದು ಗಾಯಗೊಳಿಸುತ್ತಿದೆ",
+      "The accident is injuring / ಅಪಘಾತ ಗಾಯಗೊಳಿಸುತ್ತಿದೆ",
+      "People are injuring / ಜನರು ಗಾಯಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is injuring / ಯಾರೋ ಗಾಯಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is injuring / ಯಾರೂ ಗಾಯಗೊಳಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is injuring / ಎಲ್ಲರೂ ಗಾಯಗೊಳಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Inlay / ಅಳವಡಿಸು",
+    "forms": [
+      "I am inlaying / ನಾನು ಅಳವಡಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are inlaying / ನೀನು ಅಳವಡಿಸುತ್ತಿದ್ದೀಯ",
+      "We are inlaying / ನಾವು ಅಳವಡಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are inlaying / ಅವರು ಅಳವಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is inlaying / ಅವನು ಅಳವಡಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is inlaying / ಅವಳು ಅಳವಡಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is inlaying / ಅದು ಅಳವಡಿಸುತ್ತಿದೆ",
+      "The artist is inlaying / ಕಲಾವಿದ ಅಳವಡಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are inlaying / ಜನರು ಅಳವಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is inlaying / ಯಾರೋ ಅಳವಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inlaying / ಯಾರೂ ಅಳವಡಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is inlaying / ಎಲ್ಲರೂ ಅಳವಡಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Innovate / ಹೊಸತನ ಮಾಡು",
+    "forms": [
+      "I am innovating / ನಾನು ಹೊಸತನ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are innovating / ನೀನು ಹೊಸತನ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are innovating / ನಾವು ಹೊಸತನ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are innovating / ಅವರು ಹೊಸತನ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is innovating / ಅವನು ಹೊಸತನ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is innovating / ಅವಳು ಹೊಸತನ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is innovating / ಅದು ಹೊಸತನ ಮಾಡುತ್ತಿದೆ",
+      "The scientist is innovating / ವಿಜ್ಞಾನಿ ಹೊಸತನ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are innovating / ಜನರು ಹೊಸತನ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is innovating / ಯಾರೋ ಹೊಸತನ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is innovating / ಯಾರೂ ಹೊಸತನ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is innovating / ಎಲ್ಲರೂ ಹೊಸತನ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Input / ನಮೂದಿಸು",
+    "forms": [
+      "I am inputting / ನಾನು ನಮೂದಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are inputting / ನೀನು ನಮೂದಿಸುತ್ತಿದ್ದೀಯ",
+      "We are inputting / ನಾವು ನಮೂದಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are inputting / ಅವರು ನಮೂದಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is inputting / ಅವನು ನಮೂದಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is inputting / ಅವಳು ನಮೂದಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is inputting / ಅದು ನಮೂದಿಸುತ್ತಿದೆ",
+      "The operator is inputting / ಆಪರೇಟರ್ ನಮೂದಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are inputting / ಜನರು ನಮೂದಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is inputting / ಯಾರೋ ನಮೂದಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inputting / ಯಾರೂ ನಮೂದಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is inputting / ಎಲ್ಲರೂ ನಮೂದಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Inquire / ವಿಚಾರಿಸು",
+    "forms": [
+      "I am inquiring / ನಾನು ವಿಚಾರಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are inquiring / ನೀನು ವಿಚಾರಿಸುತ್ತಿದ್ದೀಯ",
+      "We are inquiring / ನಾವು ವಿಚಾರಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are inquiring / ಅವರು ವಿಚಾರಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is inquiring / ಅವನು ವಿಚಾರಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is inquiring / ಅವಳು ವಿಚಾರಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is inquiring / ಅದು ವಿಚಾರಿಸುತ್ತಿದೆ",
+      "The officer is inquiring / ಅಧಿಕಾರಿ ವಿಚಾರಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are inquiring / ಜನರು ವಿಚಾರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is inquiring / ಯಾರೋ ವಿಚಾರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inquiring / ಯಾರೂ ವಿಚಾರಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is inquiring / ಎಲ್ಲರೂ ವಿಚಾರಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Inscribe / ಕೆತ್ತನೆ ಮಾಡು",
+    "forms": [
+      "I am inscribing / ನಾನು ಕೆತ್ತನೆ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are inscribing / ನೀನು ಕೆತ್ತನೆ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are inscribing / ನಾವು ಕೆತ್ತನೆ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are inscribing / ಅವರು ಕೆತ್ತನೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is inscribing / ಅವನು ಕೆತ್ತನೆ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is inscribing / ಅವಳು ಕೆತ್ತನೆ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is inscribing / ಅದು ಕೆತ್ತನೆ ಮಾಡುತ್ತಿದೆ",
+      "The sculptor is inscribing / ಶಿಲ್ಪಿ ಕೆತ್ತನೆ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are inscribing / ಜನರು ಕೆತ್ತನೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is inscribing / ಯಾರೋ ಕೆತ್ತನೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inscribing / ಯಾರೂ ಕೆತ್ತನೆ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is inscribing / ಎಲ್ಲರೂ ಕೆತ್ತನೆ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Insert / ಸೇರಿಸು",
+    "forms": [
+      "I am inserting / ನಾನು ಸೇರಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are inserting / ನೀನು ಸೇರಿಸುತ್ತಿದ್ದೀಯ",
+      "We are inserting / ನಾವು ಸೇರಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are inserting / ಅವರು ಸೇರಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is inserting / ಅವನು ಸೇರಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is inserting / ಅವಳು ಸೇರಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is inserting / ಅದು ಸೇರಿಸುತ್ತಿದೆ",
+      "The teacher is inserting / ಶಿಕ್ಷಕ ಸೇರಿಸುತ್ತಿದ್ದಾರೆ",
+      "People are inserting / ಜನರು ಸೇರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is inserting / ಯಾರೋ ಸೇರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inserting / ಯಾರೂ ಸೇರಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is inserting / ಎಲ್ಲರೂ ಸೇರಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Inspect / ಪರಿಶೀಲಿಸು",
+    "forms": [
+      "I am inspecting / ನಾನು ಪರಿಶೀಲಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are inspecting / ನೀನು ಪರಿಶೀಲಿಸುತ್ತಿದ್ದೀಯ",
+      "We are inspecting / ನಾವು ಪರಿಶೀಲಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are inspecting / ಅವರು ಪರಿಶೀಲಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is inspecting / ಅವನು ಪರಿಶೀಲಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is inspecting / ಅವಳು ಪರಿಶೀಲಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is inspecting / ಅದು ಪರಿಶೀಲಿಸುತ್ತಿದೆ",
+      "The officer is inspecting / ಅಧಿಕಾರಿ ಪರಿಶೀಲಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are inspecting / ಜನರು ಪರಿಶೀಲಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is inspecting / ಯಾರೋ ಪರಿಶೀಲಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inspecting / ಯಾರೂ ಪರಿಶೀಲಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is inspecting / ಎಲ್ಲರೂ ಪರಿಶೀಲಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Inspire / ಪ್ರೇರೇಪಿಸು",
+    "forms": [
+      "I am inspiring / ನಾನು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are inspiring / ನೀನು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದೀಯ",
+      "We are inspiring / ನಾವು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are inspiring / ಅವರು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is inspiring / ಅವನು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is inspiring / ಅವಳು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is inspiring / ಅದು ಪ್ರೇರೇಪಿಸುತ್ತಿದೆ",
+      "The leader is inspiring / ನಾಯಕ ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are inspiring / ಜನರು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is inspiring / ಯಾರೋ ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inspiring / ಯಾರೂ ಪ್ರೇರೇಪಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is inspiring / ಎಲ್ಲರೂ ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Install / ಸ್ಥಾಪಿಸು",
+    "forms": [
+      "I am installing / ನಾನು ಸ್ಥಾಪಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are installing / ನೀನು ಸ್ಥಾಪಿಸುತ್ತಿದ್ದೀಯ",
+      "We are installing / ನಾವು ಸ್ಥಾಪಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are installing / ಅವರು ಸ್ಥಾಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is installing / ಅವನು ಸ್ಥಾಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is installing / ಅವಳು ಸ್ಥಾಪಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is installing / ಅದು ಸ್ಥಾಪಿಸುತ್ತಿದೆ",
+      "The technician is installing / ತಂತ್ರಜ್ಞ ಸ್ಥಾಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are installing / ಜನರು ಸ್ಥಾಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is installing / ಯಾರೋ ಸ್ಥಾಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is installing / ಯಾರೂ ಸ್ಥಾಪಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is installing / ಎಲ್ಲರೂ ಸ್ಥಾಪಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Insult / ಅವಮಾನಿಸು",
+    "forms": [
+      "I am insulting / ನಾನು ಅವಮಾನಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are insulting / ನೀನು ಅವಮಾನಿಸುತ್ತಿದ್ದೀಯ",
+      "We are insulting / ನಾವು ಅವಮಾನಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are insulting / ಅವರು ಅವಮಾನಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is insulting / ಅವನು ಅವಮಾನಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is insulting / ಅವಳು ಅವಮಾನಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is insulting / ಅದು ಅವಮಾನಿಸುತ್ತಿದೆ",
+      "The bully is insulting / ಬಲಿಷ್ಠ ಅವಮಾನಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are insulting / ಜನರು ಅವಮಾನಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is insulting / ಯಾರೋ ಅವಮಾನಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is insulting / ಯಾರೂ ಅವಮಾನಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is insulting / ಎಲ್ಲರೂ ಅವಮಾನಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Insure / ವಿಮೆ ಮಾಡು",
+    "forms": [
+      "I am insuring / ನಾನು ವಿಮೆ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are insuring / ನೀನು ವಿಮೆ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are insuring / ನಾವು ವಿಮೆ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are insuring / ಅವರು ವಿಮೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is insuring / ಅವನು ವಿಮೆ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is insuring / ಅವಳು ವಿಮೆ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is insuring / ಅದು ವಿಮೆ ಮಾಡುತ್ತಿದೆ",
+      "The agent is insuring / ಏಜೆಂಟ್ ವಿಮೆ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are insuring / ಜನರು ವಿಮೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is insuring / ಯಾರೋ ವಿಮೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is insuring / ಯಾರೂ ವಿಮೆ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is insuring / ಎಲ್ಲರೂ ವಿಮೆ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Integrate / ಸಂಯೋಜಿಸು",
+    "forms": [
+      "I am integrating / ನಾನು ಸಂಯೋಜಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are integrating / ನೀನು ಸಂಯೋಜಿಸುತ್ತಿದ್ದೀಯ",
+      "We are integrating / ನಾವು ಸಂಯೋಜಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are integrating / ಅವರು ಸಂಯೋಜಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is integrating / ಅವನು ಸಂಯೋಜಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is integrating / ಅವಳು ಸಂಯೋಜಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is integrating / ಅದು ಸಂಯೋಜಿಸುತ್ತಿದೆ",
+      "The system is integrating / ವ್ಯವಸ್ಥೆ ಸಂಯೋಜಿಸುತ್ತಿದೆ",
+      "People are integrating / ಜನರು ಸಂಯೋಜಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is integrating / ಯಾರೋ ಸಂಯೋಜಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is integrating / ಯಾರೂ ಸಂಯೋಜಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is integrating / ಎಲ್ಲರೂ ಸಂಯೋಜಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Introduce / ಪರಿಚಯಿಸು",
+    "forms": [
+      "I am introducing / ನಾನು ಪರಿಚಯಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are introducing / ನೀನು ಪರಿಚಯಿಸುತ್ತಿದ್ದೀಯ",
+      "We are introducing / ನಾವು ಪರಿಚಯಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are introducing / ಅವರು ಪರಿಚಯಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is introducing / ಅವನು ಪರಿಚಯಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is introducing / ಅವಳು ಪರಿಚಯಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is introducing / ಅದು ಪರಿಚಯಿಸುತ್ತಿದೆ",
+      "The host is introducing / ಯಜಮಾನ ಪರಿಚಯಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are introducing / ಜನರು ಪರಿಚಯಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is introducing / ಯಾರೋ ಪರಿಚಯಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is introducing / ಯಾರೂ ಪರಿಚಯಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is introducing / ಎಲ್ಲರೂ ಪರಿಚಯಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Invent / ಆವಿಷ್ಕರಿಸು",
+    "forms": [
+      "I am inventing / ನಾನು ಆವಿಷ್ಕರಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are inventing / ನೀನು ಆವಿಷ್ಕರಿಸುತ್ತಿದ್ದೀಯ",
+      "We are inventing / ನಾವು ಆವಿಷ್ಕರಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are inventing / ಅವರು ಆವಿಷ್ಕರಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is inventing / ಅವನು ಆವಿಷ್ಕರಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is inventing / ಅವಳು ಆವಿಷ್ಕರಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is inventing / ಅದು ಆವಿಷ್ಕರಿಸುತ್ತಿದೆ",
+      "The scientist is inventing / ವಿಜ್ಞಾನಿ ಆವಿಷ್ಕರಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are inventing / ಜನರು ಆವಿಷ್ಕರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is inventing / ಯಾರೋ ಆವಿಷ್ಕರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inventing / ಯಾರೂ ಆವಿಷ್ಕರಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is inventing / ಎಲ್ಲರೂ ಆವಿಷ್ಕರಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Invite / ಆಹ್ವಾನಿಸು",
+    "forms": [
+      "I am inviting / ನಾನು ಆಹ್ವಾನಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are inviting / ನೀನು ಆಹ್ವಾನಿಸುತ್ತಿದ್ದೀಯ",
+      "We are inviting / ನಾವು ಆಹ್ವಾನಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are inviting / ಅವರು ಆಹ್ವಾನಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is inviting / ಅವನು ಆಹ್ವಾನಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is inviting / ಅವಳು ಆಹ್ವಾನಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is inviting / ಅದು ಆಹ್ವಾನಿಸುತ್ತಿದೆ",
+      "The host is inviting / ಯಜಮಾನ ಆಹ್ವಾನಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are inviting / ಜನರು ಆಹ್ವಾನಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is inviting / ಯಾರೋ ಆಹ್ವಾನಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is inviting / ಯಾರೂ ಆಹ್ವಾನಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is inviting / ಎಲ್ಲರೂ ಆಹ್ವಾನಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Join / ಸೇರು",
+    "forms": [
+      "I am joining / ನಾನು ಸೇರುತ್ತಿದ್ದೇನೆ",
+      "You are joining / ನೀನು ಸೇರುತ್ತಿದ್ದೀಯ",
+      "We are joining / ನಾವು ಸೇರುತ್ತಿದ್ದೇವೆ",
+      "They are joining / ಅವರು ಸೇರುತ್ತಿದ್ದಾರೆ",
+      "He is joining / ಅವನು ಸೇರುತ್ತಿದ್ದಾನೆ",
+      "She is joining / ಅವಳು ಸೇರುತ್ತಿದ್ದಾಳೆ",
+      "It is joining / ಅದು ಸೇರುತ್ತಿದೆ",
+      "The member is joining / ಸದಸ್ಯ ಸೇರುತ್ತಿದ್ದಾನೆ",
+      "People are joining / ಜನರು ಸೇರುತ್ತಿದ್ದಾರೆ",
+      "Someone is joining / ಯಾರೋ ಸೇರುತ್ತಿದ್ದಾರೆ",
+      "Nobody is joining / ಯಾರೂ ಸೇರುತ್ತಿಲ್ಲ",
+      "Everybody is joining / ಎಲ್ಲರೂ ಸೇರುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Jump / ಜಿಗಿ",
+    "forms": [
+      "I am jumping / ನಾನು ಜಿಗಿಯುತ್ತಿದ್ದೇನೆ",
+      "You are jumping / ನೀನು ಜಿಗಿಯುತ್ತಿದ್ದೀಯ",
+      "We are jumping / ನಾವು ಜಿಗಿಯುತ್ತಿದ್ದೇವೆ",
+      "They are jumping / ಅವರು ಜಿಗಿಯುತ್ತಿದ್ದಾರೆ",
+      "He is jumping / ಅವನು ಜಿಗಿಯುತ್ತಿದ್ದಾನೆ",
+      "She is jumping / ಅವಳು ಜಿಗಿಯುತ್ತಿದ್ದಾಳೆ",
+      "It is jumping / ಅದು ಜಿಗಿಯುತ್ತಿದೆ",
+      "The athlete is jumping / ಕ್ರೀಡಾಪಟು ಜಿಗಿಯುತ್ತಿದ್ದಾನೆ",
+      "People are jumping / ಜನರು ಜಿಗಿಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is jumping / ಯಾರೋ ಜಿಗಿಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is jumping / ಯಾರೂ ಜಿಗಿಯುತ್ತಿಲ್ಲ",
+      "Everybody is jumping / ಎಲ್ಲರೂ ಜಿಗಿಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Justify / ಸಮರ್ಥಿಸು",
+    "forms": [
+      "I am justifying / ನಾನು ಸಮರ್ಥಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are justifying / ನೀನು ಸಮರ್ಥಿಸುತ್ತಿದ್ದೀಯ",
+      "We are justifying / ನಾವು ಸಮರ್ಥಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are justifying / ಅವರು ಸಮರ್ಥಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is justifying / ಅವನು ಸಮರ್ಥಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is justifying / ಅವಳು ಸಮರ್ಥಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is justifying / ಅದು ಸಮರ್ಥಿಸುತ್ತಿದೆ",
+      "The lawyer is justifying / ವಕೀಲ ಸಮರ್ಥಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are justifying / ಜನರು ಸಮರ್ಥಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is justifying / ಯಾರೋ ಸಮರ್ಥಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is justifying / ಯಾರೂ ಸಮರ್ಥಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is justifying / ಎಲ್ಲರೂ ಸಮರ್ಥಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Keep / ಇಡು",
+    "forms": [
+      "I am keeping / ನಾನು ಇಡುತ್ತಿದ್ದೇನೆ",
+      "You are keeping / ನೀನು ಇಡುತ್ತಿದ್ದೀಯ",
+      "We are keeping / ನಾವು ಇಡುತ್ತಿದ್ದೇವೆ",
+      "They are keeping / ಅವರು ಇಡುತ್ತಿದ್ದಾರೆ",
+      "He is keeping / ಅವನು ಇಡುತ್ತಿದ್ದಾನೆ",
+      "She is keeping / ಅವಳು ಇಡುತ್ತಿದ್ದಾಳೆ",
+      "It is keeping / ಅದು ಇಡುತ್ತಿದೆ",
+      "The child is keeping / ಮಗು ಇಡುತ್ತಿದೆ",
+      "People are keeping / ಜನರು ಇಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is keeping / ಯಾರೋ ಇಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is keeping / ಯಾರೂ ಇಡುತ್ತಿಲ್ಲ",
+      "Everybody is keeping / ಎಲ್ಲರೂ ಇಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Kick / ಒದೆ",
+    "forms": [
+      "I am kicking / ನಾನು ಒದೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are kicking / ನೀನು ಒದೆಯುತ್ತಿದ್ದೀಯ",
+      "We are kicking / ನಾವು ಒದೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are kicking / ಅವರು ಒದೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is kicking / ಅವನು ಒದೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is kicking / ಅವಳು ಒದೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is kicking / ಅದು ಒದೆಯುತ್ತಿದೆ",
+      "The player is kicking / ಆಟಗಾರ ಒದೆಯುತ್ತಿದ್ದಾನೆ",
+      "People are kicking / ಜನರು ಒದೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is kicking / ಯಾರೋ ಒದೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is kicking / ಯಾರೂ ಒದೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is kicking / ಎಲ್ಲರೂ ಒದೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Kid / ಹಾಸ್ಯಮಾಡು",
+    "forms": [
+      "I am kidding / ನಾನು ಹಾಸ್ಯಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are kidding / ನೀನು ಹಾಸ್ಯಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are kidding / ನಾವು ಹಾಸ್ಯಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are kidding / ಅವರು ಹಾಸ್ಯಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is kidding / ಅವನು ಹಾಸ್ಯಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is kidding / ಅವಳು ಹಾಸ್ಯಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is kidding / ಅದು ಹಾಸ್ಯಮಾಡುತ್ತಿದೆ",
+      "The comedian is kidding / ಹಾಸ್ಯಗಾರ ಹಾಸ್ಯಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are kidding / ಜನರು ಹಾಸ್ಯಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is kidding / ಯಾರೋ ಹಾಸ್ಯಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is kidding / ಯಾರೂ ಹಾಸ್ಯಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is kidding / ಎಲ್ಲರೂ ಹಾಸ್ಯಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Kill / ಕೊಲ್ಲು",
+    "forms": [
+      "I am killing / ನಾನು ಕೊಲ್ಲುತ್ತಿದ್ದೇನೆ",
+      "You are killing / ನೀನು ಕೊಲ್ಲುತ್ತಿದ್ದೀಯ",
+      "We are killing / ನಾವು ಕೊಲ್ಲುತ್ತಿದ್ದೇವೆ",
+      "They are killing / ಅವರು ಕೊಲ್ಲುತ್ತಿದ್ದಾರೆ",
+      "He is killing / ಅವನು ಕೊಲ್ಲುತ್ತಿದ್ದಾನೆ",
+      "She is killing / ಅವಳು ಕೊಲ್ಲುತ್ತಿದ್ದಾಳೆ",
+      "It is killing / ಅದು ಕೊಲ್ಲುತ್ತಿದೆ",
+      "The hunter is killing / ಬೇಟೆಗಾರ ಕೊಲ್ಲುತ್ತಿದ್ದಾನೆ",
+      "People are killing / ಜನರು ಕೊಲ್ಲುತ್ತಿದ್ದಾರೆ",
+      "Someone is killing / ಯಾರೋ ಕೊಲ್ಲುತ್ತಿದ್ದಾರೆ",
+      "Nobody is killing / ಯಾರೂ ಕೊಲ್ಲುತ್ತಿಲ್ಲ",
+      "Everybody is killing / ಎಲ್ಲರೂ ಕೊಲ್ಲುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Kiss / ಮುತ್ತಿಡು",
+    "forms": [
+      "I am kissing / ನಾನು ಮುತ್ತಿಡುತ್ತಿದ್ದೇನೆ",
+      "You are kissing / ನೀನು ಮುತ್ತಿಡುತ್ತಿದ್ದೀಯ",
+      "We are kissing / ನಾವು ಮುತ್ತಿಡುತ್ತಿದ್ದೇವೆ",
+      "They are kissing / ಅವರು ಮುತ್ತಿಡುತ್ತಿದ್ದಾರೆ",
+      "He is kissing / ಅವನು ಮುತ್ತಿಡುತ್ತಿದ್ದಾನೆ",
+      "She is kissing / ಅವಳು ಮುತ್ತಿಡುತ್ತಿದ್ದಾಳೆ",
+      "It is kissing / ಅದು ಮುತ್ತಿಡುತ್ತಿದೆ",
+      "The mother is kissing / ತಾಯಿ ಮುತ್ತಿಡುತ್ತಿದ್ದಾಳೆ",
+      "People are kissing / ಜನರು ಮುತ್ತಿಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is kissing / ಯಾರೋ ಮುತ್ತಿಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is kissing / ಯಾರೂ ಮುತ್ತಿಡುತ್ತಿಲ್ಲ",
+      "Everybody is kissing / ಎಲ್ಲರೂ ಮುತ್ತಿಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Kneel / ಮಂಡಿಯೂರು",
+    "forms": [
+      "I am kneeling / ನಾನು ಮಂಡಿಯೂರುತ್ತಿದ್ದೇನೆ",
+      "You are kneeling / ನೀನು ಮಂಡಿಯೂರುತ್ತಿದ್ದೀಯ",
+      "We are kneeling / ನಾವು ಮಂಡಿಯೂರುತ್ತಿದ್ದೇವೆ",
+      "They are kneeling / ಅವರು ಮಂಡಿಯೂರುತ್ತಿದ್ದಾರೆ",
+      "He is kneeling / ಅವನು ಮಂಡಿಯೂರುತ್ತಿದ್ದಾನೆ",
+      "She is kneeling / ಅವಳು ಮಂಡಿಯೂರುತ್ತಿದ್ದಾಳೆ",
+      "It is kneeling / ಅದು ಮಂಡಿಯೂರುತ್ತಿದೆ",
+      "The devotee is kneeling / ಭಕ್ತ ಮಂಡಿಯೂರುತ್ತಿದ್ದಾನೆ",
+      "People are kneeling / ಜನರು ಮಂಡಿಯೂರುತ್ತಿದ್ದಾರೆ",
+      "Someone is kneeling / ಯಾರೋ ಮಂಡಿಯೂರುತ್ತಿದ್ದಾರೆ",
+      "Nobody is kneeling / ಯಾರೂ ಮಂಡಿಯೂರುತ್ತಿಲ್ಲ",
+      "Everybody is kneeling / ಎಲ್ಲರೂ ಮಂಡಿಯೂರುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Knit / ಹೆಣೆ",
+    "forms": [
+      "I am knitting / ನಾನು ಹೆಣೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are knitting / ನೀನು ಹೆಣೆಯುತ್ತಿದ್ದೀಯ",
+      "We are knitting / ನಾವು ಹೆಣೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are knitting / ಅವರು ಹೆಣೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is knitting / ಅವನು ಹೆಣೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is knitting / ಅವಳು ಹೆಣೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is knitting / ಅದು ಹೆಣೆಯುತ್ತಿದೆ",
+      "The grandmother is knitting / ಅಜ್ಜಿ ಹೆಣೆಯುತ್ತಿದ್ದಾಳೆ",
+      "People are knitting / ಜನರು ಹೆಣೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is knitting / ಯಾರೋ ಹೆಣೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is knitting / ಯಾರೂ ಹೆಣೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is knitting / ಎಲ್ಲರೂ ಹೆಣೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Knock / ತಟ್ಟು",
+    "forms": [
+      "I am knocking / ನಾನು ತಟ್ಟುತ್ತಿದ್ದೇನೆ",
+      "You are knocking / ನೀನು ತಟ್ಟುತ್ತಿದ್ದೀಯ",
+      "We are knocking / ನಾವು ತಟ್ಟುತ್ತಿದ್ದೇವೆ",
+      "They are knocking / ಅವರು ತಟ್ಟುತ್ತಿದ್ದಾರೆ",
+      "He is knocking / ಅವನು ತಟ್ಟುತ್ತಿದ್ದಾನೆ",
+      "She is knocking / ಅವಳು ತಟ್ಟುತ್ತಿದ್ದಾಳೆ",
+      "It is knocking / ಅದು ತಟ್ಟುತ್ತಿದೆ",
+      "The visitor is knocking / ಭೇಟಿಕಾರ ತಟ್ಟುತ್ತಿದ್ದಾನೆ",
+      "People are knocking / ಜನರು ತಟ್ಟುತ್ತಿದ್ದಾರೆ",
+      "Someone is knocking / ಯಾರೋ ತಟ್ಟುತ್ತಿದ್ದಾರೆ",
+      "Nobody is knocking / ಯಾರೂ ತಟ್ಟುತ್ತಿಲ್ಲ",
+      "Everybody is knocking / ಎಲ್ಲರೂ ತಟ್ಟುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Know / ತಿಳಿ",
+    "forms": [
+      "I am knowing / ನಾನು ತಿಳಿದುಕೊಳ್ಳುತ್ತಿದ್ದೇನೆ",
+      "You are knowing / ನೀನು ತಿಳಿದುಕೊಳ್ಳುತ್ತಿದ್ದೀಯ",
+      "We are knowing / ನಾವು ತಿಳಿದುಕೊಳ್ಳುತ್ತಿದ್ದೇವೆ",
+      "They are knowing / ಅವರು ತಿಳಿದುಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "He is knowing / ಅವನು ತಿಳಿದುಕೊಳ್ಳುತ್ತಿದ್ದಾನೆ",
+      "She is knowing / ಅವಳು ತಿಳಿದುಕೊಳ್ಳುತ್ತಿದ್ದಾಳೆ",
+      "It is knowing / ಅದು ತಿಳಿದುಕೊಳ್ಳುತ್ತಿದೆ",
+      "The student is knowing / ವಿದ್ಯಾರ್ಥಿ ತಿಳಿದುಕೊಳ್ಳುತ್ತಿದ್ದಾನೆ",
+      "People are knowing / ಜನರು ತಿಳಿದುಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Someone is knowing / ಯಾರೋ ತಿಳಿದುಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Nobody is knowing / ಯಾರೂ ತಿಳಿದುಕೊಳ್ಳುತ್ತಿಲ್ಲ",
+      "Everybody is knowing / ಎಲ್ಲರೂ ತಿಳಿದುಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Lade / ಹೇರು",
+    "forms": [
+      "I am lading / ನಾನು ಹೇರುತ್ತಿದ್ದೇನೆ",
+      "You are lading / ನೀನು ಹೇರುತ್ತಿದ್ದೀಯ",
+      "We are lading / ನಾವು ಹೇರುತ್ತಿದ್ದೇವೆ",
+      "They are lading / ಅವರು ಹೇರುತ್ತಿದ್ದಾರೆ",
+      "He is lading / ಅವನು ಹೇರುತ್ತಿದ್ದಾನೆ",
+      "She is lading / ಅವಳು ಹೇರುತ್ತಿದ್ದಾಳೆ",
+      "It is lading / ಅದು ಹೇರುತ್ತಿದೆ",
+      "The worker is lading / ಕಾರ್ಮಿಕ ಹೇರುತ್ತಿದ್ದಾನೆ",
+      "People are lading / ಜನರು ಹೇರುತ್ತಿದ್ದಾರೆ",
+      "Someone is lading / ಯಾರೋ ಹೇರುತ್ತಿದ್ದಾರೆ",
+      "Nobody is lading / ಯಾರೂ ಹೇರುತ್ತಿಲ್ಲ",
+      "Everybody is lading / ಎಲ್ಲರೂ ಹೇರುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Land / ಇಳಿ",
+    "forms": [
+      "I am landing / ನಾನು ಇಳಿಯುತ್ತಿದ್ದೇನೆ",
+      "You are landing / ನೀನು ಇಳಿಯುತ್ತಿದ್ದೀಯ",
+      "We are landing / ನಾವು ಇಳಿಯುತ್ತಿದ್ದೇವೆ",
+      "They are landing / ಅವರು ಇಳಿಯುತ್ತಿದ್ದಾರೆ",
+      "He is landing / ಅವನು ಇಳಿಯುತ್ತಿದ್ದಾನೆ",
+      "She is landing / ಅವಳು ಇಳಿಯುತ್ತಿದ್ದಾಳೆ",
+      "It is landing / ಅದು ಇಳಿಯುತ್ತಿದೆ",
+      "The plane is landing / ವಿಮಾನ ಇಳಿಯುತ್ತಿದೆ",
+      "People are landing / ಜನರು ಇಳಿಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is landing / ಯಾರೋ ಇಳಿಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is landing / ಯಾರೂ ಇಳಿಯುತ್ತಿಲ್ಲ",
+      "Everybody is landing / ಎಲ್ಲರೂ ಇಳಿಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Last / ನಿಲ್ಲು",
+    "forms": [
+      "I am lasting / ನಾನು ನಿಲ್ಲುತ್ತಿದ್ದೇನೆ",
+      "You are lasting / ನೀನು ನಿಲ್ಲುತ್ತಿದ್ದೀಯ",
+      "We are lasting / ನಾವು ನಿಲ್ಲುತ್ತಿದ್ದೇವೆ",
+      "They are lasting / ಅವರು ನಿಲ್ಲುತ್ತಿದ್ದಾರೆ",
+      "He is lasting / ಅವನು ನಿಲ್ಲುತ್ತಿದ್ದಾನೆ",
+      "She is lasting / ಅವಳು ನಿಲ್ಲುತ್ತಿದ್ದಾಳೆ",
+      "It is lasting / ಅದು ನಿಲ್ಲುತ್ತಿದೆ",
+      "The event is lasting / ಕಾರ್ಯಕ್ರಮ ನಿಲ್ಲುತ್ತಿದೆ",
+      "People are lasting / ಜನರು ನಿಲ್ಲುತ್ತಿದ್ದಾರೆ",
+      "Someone is lasting / ಯಾರೋ ನಿಲ್ಲುತ್ತಿದ್ದಾರೆ",
+      "Nobody is lasting / ಯಾರೂ ನಿಲ್ಲುತ್ತಿಲ್ಲ",
+      "Everybody is lasting / ಎಲ್ಲರೂ ನಿಲ್ಲುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Latch / ಬೀಗ ಹಾಕು",
+    "forms": [
+      "I am latching / ನಾನು ಬೀಗ ಹಾಕುತ್ತಿದ್ದೇನೆ",
+      "You are latching / ನೀನು ಬೀಗ ಹಾಕುತ್ತಿದ್ದೀಯ",
+      "We are latching / ನಾವು ಬೀಗ ಹಾಕುತ್ತಿದ್ದೇವೆ",
+      "They are latching / ಅವರು ಬೀಗ ಹಾಕುತ್ತಿದ್ದಾರೆ",
+      "He is latching / ಅವನು ಬೀಗ ಹಾಕುತ್ತಿದ್ದಾನೆ",
+      "She is latching / ಅವಳು ಬೀಗ ಹಾಕುತ್ತಿದ್ದಾಳೆ",
+      "It is latching / ಅದು ಬೀಗ ಹಾಕುತ್ತಿದೆ",
+      "The guard is latching / ಗಾರ್ಡ್ ಬೀಗ ಹಾಕುತ್ತಿದ್ದಾನೆ",
+      "People are latching / ಜನರು ಬೀಗ ಹಾಕುತ್ತಿದ್ದಾರೆ",
+      "Someone is latching / ಯಾರೋ ಬೀಗ ಹಾಕುತ್ತಿದ್ದಾರೆ",
+      "Nobody is latching / ಯಾರೂ ಬೀಗ ಹಾಕುತ್ತಿಲ್ಲ",
+      "Everybody is latching / ಎಲ್ಲರೂ ಬೀಗ ಹಾಕುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Laugh / ನಗು",
+    "forms": [
+      "I am laughing / ನಾನು ನಗುತ್ತಿದ್ದೇನೆ",
+      "You are laughing / ನೀನು ನಗುತ್ತಿದ್ದೀಯ",
+      "We are laughing / ನಾವು ನಗುತ್ತಿದ್ದೇವೆ",
+      "They are laughing / ಅವರು ನಗುತ್ತಿದ್ದಾರೆ",
+      "He is laughing / ಅವನು ನಗುತ್ತಿದ್ದಾನೆ",
+      "She is laughing / ಅವಳು ನಗುತ್ತಿದ್ದಾಳೆ",
+      "It is laughing / ಅದು ನಗುತ್ತಿದೆ",
+      "The audience is laughing / ಪ್ರೇಕ್ಷಕರು ನಗುತ್ತಿದ್ದಾರೆ",
+      "People are laughing / ಜನರು ನಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is laughing / ಯಾರೋ ನಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is laughing / ಯಾರೂ ನಗುತ್ತಿಲ್ಲ",
+      "Everybody is laughing / ಎಲ್ಲರೂ ನಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Lay / ಹಾಕು",
+    "forms": [
+      "I am laying / ನಾನು ಹಾಕುತ್ತಿದ್ದೇನೆ",
+      "You are laying / ನೀನು ಹಾಕುತ್ತಿದ್ದೀಯ",
+      "We are laying / ನಾವು ಹಾಕುತ್ತಿದ್ದೇವೆ",
+      "They are laying / ಅವರು ಹಾಕುತ್ತಿದ್ದಾರೆ",
+      "He is laying / ಅವನು ಹಾಕುತ್ತಿದ್ದಾನೆ",
+      "She is laying / ಅವಳು ಹಾಕುತ್ತಿದ್ದಾಳೆ",
+      "It is laying / ಅದು ಹಾಕುತ್ತಿದೆ",
+      "The worker is laying / ಕಾರ್ಮಿಕ ಹಾಕುತ್ತಿದ್ದಾನೆ",
+      "People are laying / ಜನರು ಹಾಕುತ್ತಿದ್ದಾರೆ",
+      "Someone is laying / ಯಾರೋ ಹಾಕುತ್ತಿದ್ದಾರೆ",
+      "Nobody is laying / ಯಾರೂ ಹಾಕುತ್ತಿಲ್ಲ",
+      "Everybody is laying / ಎಲ್ಲರೂ ಹಾಕುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Lead / ಮುನ್ನಡೆಸು",
+    "forms": [
+      "I am leading / ನಾನು ಮುನ್ನಡೆಸುತ್ತಿದ್ದೇನೆ",
+      "You are leading / ನೀನು ಮುನ್ನಡೆಸುತ್ತಿದ್ದೀಯ",
+      "We are leading / ನಾವು ಮುನ್ನಡೆಸುತ್ತಿದ್ದೇವೆ",
+      "They are leading / ಅವರು ಮುನ್ನಡೆಸುತ್ತಿದ್ದಾರೆ",
+      "He is leading / ಅವನು ಮುನ್ನಡೆಸುತ್ತಿದ್ದಾನೆ",
+      "She is leading / ಅವಳು ಮುನ್ನಡೆಸುತ್ತಿದ್ದಾಳೆ",
+      "It is leading / ಅದು ಮುನ್ನಡೆಸುತ್ತಿದೆ",
+      "The captain is leading / ನಾಯಕ ಮುನ್ನಡೆಸುತ್ತಿದ್ದಾನೆ",
+      "People are leading / ಜನರು ಮುನ್ನಡೆಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is leading / ಯಾರೋ ಮುನ್ನಡೆಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is leading / ಯಾರೂ ಮುನ್ನಡೆಸುತ್ತಿಲ್ಲ",
+      "Everybody is leading / ಎಲ್ಲರೂ ಮುನ್ನಡೆಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Leak / ಸೋರು",
+    "forms": [
+      "I am leaking / ನಾನು ಸೋರಿಕೊಳ್ಳುತ್ತಿದ್ದೇನೆ",
+      "You are leaking / ನೀನು ಸೋರಿಕೊಳ್ಳುತ್ತಿದ್ದೀಯ",
+      "We are leaking / ನಾವು ಸೋರಿಕೊಳ್ಳುತ್ತಿದ್ದೇವೆ",
+      "They are leaking / ಅವರು ಸೋರಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "He is leaking / ಅವನು ಸೋರಿಕೊಳ್ಳುತ್ತಿದ್ದಾನೆ",
+      "She is leaking / ಅವಳು ಸೋರಿಕೊಳ್ಳುತ್ತಿದ್ದಾಳೆ",
+      "It is leaking / ಅದು ಸೋರಿಕೊಳ್ಳುತ್ತಿದೆ",
+      "The pipe is leaking / ಪೈಪ್ ಸೋರಿಕೊಳ್ಳುತ್ತಿದೆ",
+      "People are leaking / ಜನರು ಸೋರಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Someone is leaking / ಯಾರೋ ಸೋರಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Nobody is leaking / ಯಾರೂ ಸೋರಿಕೊಳ್ಳುತ್ತಿಲ್ಲ",
+      "Everybody is leaking / ಎಲ್ಲರೂ ಸೋರಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Lean / ಒರಗು",
+    "forms": [
+      "I am leaning / ನಾನು ಒರಗುತ್ತಿದ್ದೇನೆ",
+      "You are leaning / ನೀನು ಒರಗುತ್ತಿದ್ದೀಯ",
+      "We are leaning / ನಾವು ಒರಗುತ್ತಿದ್ದೇವೆ",
+      "They are leaning / ಅವರು ಒರಗುತ್ತಿದ್ದಾರೆ",
+      "He is leaning / ಅವನು ಒರಗುತ್ತಿದ್ದಾನೆ",
+      "She is leaning / ಅವಳು ಒರಗುತ್ತಿದ್ದಾಳೆ",
+      "It is leaning / ಅದು ಒರಗುತ್ತಿದೆ",
+      "The ladder is leaning / ಏಣಿ ಒರಗುತ್ತಿದೆ",
+      "People are leaning / ಜನರು ಒರಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is leaning / ಯಾರೋ ಒರಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is leaning / ಯಾರೂ ಒರಗುತ್ತಿಲ್ಲ",
+      "Everybody is leaning / ಎಲ್ಲರೂ ಒರಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Leap / ದುಮುಕು",
+    "forms": [
+      "I am leaping / ನಾನು ದುಮುಕುತ್ತಿದ್ದೇನೆ",
+      "You are leaping / ನೀನು ದುಮುಕುತ್ತಿದ್ದೀಯ",
+      "We are leaping / ನಾವು ದುಮುಕುತ್ತಿದ್ದೇವೆ",
+      "They are leaping / ಅವರು ದುಮುಕುತ್ತಿದ್ದಾರೆ",
+      "He is leaping / ಅವನು ದುಮುಕುತ್ತಿದ್ದಾನೆ",
+      "She is leaping / ಅವಳು ದುಮುಕುತ್ತಿದ್ದಾಳೆ",
+      "It is leaping / ಅದು ದುಮುಕುತ್ತಿದೆ",
+      "The frog is leaping / ಕಪ್ಪೆ ದುಮುಕುತ್ತಿದೆ",
+      "People are leaping / ಜನರು ದುಮುಕುತ್ತಿದ್ದಾರೆ",
+      "Someone is leaping / ಯಾರೋ ದುಮುಕುತ್ತಿದ್ದಾರೆ",
+      "Nobody is leaping / ಯಾರೂ ದುಮುಕುತ್ತಿಲ್ಲ",
+      "Everybody is leaping / ಎಲ್ಲರೂ ದುಮುಕುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Learn / ಕಲಿ",
+    "forms": [
+      "I am learning / ನಾನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ",
+      "You are learning / ನೀನು ಕಲಿಯುತ್ತಿದ್ದೀಯ",
+      "We are learning / ನಾವು ಕಲಿಯುತ್ತಿದ್ದೇವೆ",
+      "They are learning / ಅವರು ಕಲಿಯುತ್ತಿದ್ದಾರೆ",
+      "He is learning / ಅವನು ಕಲಿಯುತ್ತಿದ್ದಾನೆ",
+      "She is learning / ಅವಳು ಕಲಿಯುತ್ತಿದ್ದಾಳೆ",
+      "It is learning / ಅದು ಕಲಿಯುತ್ತಿದೆ",
+      "The student is learning / ವಿದ್ಯಾರ್ಥಿ ಕಲಿಯುತ್ತಿದ್ದಾನೆ",
+      "People are learning / ಜನರು ಕಲಿಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is learning / ಯಾರೋ ಕಲಿಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is learning / ಯಾರೂ ಕಲಿಯುತ್ತಿಲ್ಲ",
+      "Everybody is learning / ಎಲ್ಲರೂ ಕಲಿಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Leave / ಬಿಟ್ಟುಹೋಗು",
+    "forms": [
+      "I am leaving / ನಾನು ಬಿಟ್ಟುಹೋಗುತ್ತಿದ್ದೇನೆ",
+      "You are leaving / ನೀನು ಬಿಟ್ಟುಹೋಗುತ್ತಿದ್ದೀಯ",
+      "We are leaving / ನಾವು ಬಿಟ್ಟುಹೋಗುತ್ತಿದ್ದೇವೆ",
+      "They are leaving / ಅವರು ಬಿಟ್ಟುಹೋಗುತ್ತಿದ್ದಾರೆ",
+      "He is leaving / ಅವನು ಬಿಟ್ಟುಹೋಗುತ್ತಿದ್ದಾನೆ",
+      "She is leaving / ಅವಳು ಬಿಟ್ಟುಹೋಗುತ್ತಿದ್ದಾಳೆ",
+      "It is leaving / ಅದು ಬಿಟ್ಟುಹೋಗುತ್ತಿದೆ",
+      "The guest is leaving / ಅತಿಥಿ ಬಿಟ್ಟುಹೋಗುತ್ತಿದ್ದಾನೆ",
+      "People are leaving / ಜನರು ಬಿಟ್ಟುಹೋಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is leaving / ಯಾರೋ ಬಿಟ್ಟುಹೋಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is leaving / ಯಾರೂ ಬಿಟ್ಟುಹೋಗುತ್ತಿಲ್ಲ",
+      "Everybody is leaving / ಎಲ್ಲರೂ ಬಿಟ್ಟುಹೋಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Leer / ಕೆಟ್ಟದೃಷ್ಟಿ ಬೀರು",
+    "forms": [
+      "I am leering / ನಾನು ಕೆಟ್ಟದೃಷ್ಟಿ ಬೀರುತ್ತಿದ್ದೇನೆ",
+      "You are leering / ನೀನು ಕೆಟ್ಟದೃಷ್ಟಿ ಬೀರುತ್ತಿದ್ದೀಯ",
+      "We are leering / ನಾವು ಕೆಟ್ಟದೃಷ್ಟಿ ಬೀರುತ್ತಿದ್ದೇವೆ",
+      "They are leering / ಅವರು ಕೆಟ್ಟದೃಷ್ಟಿ ಬೀರುತ್ತಿದ್ದಾರೆ",
+      "He is leering / ಅವನು ಕೆಟ್ಟದೃಷ್ಟಿ ಬೀರುತ್ತಿದ್ದಾನೆ",
+      "She is leering / ಅವಳು ಕೆಟ್ಟದೃಷ್ಟಿ ಬೀರುತ್ತಿದ್ದಾಳೆ",
+      "It is leering / ಅದು ಕೆಟ್ಟದೃಷ್ಟಿ ಬೀರುತ್ತಿದೆ",
+      "The man is leering / ಮನುಷ್ಯ ಕೆಟ್ಟದೃಷ್ಟಿ ಬೀರುತ್ತಿದ್ದಾನೆ",
+      "People are leering / ಜನರು ಕೆಟ್ಟದೃಷ್ಟಿ ಬೀರುತ್ತಿದ್ದಾರೆ",
+      "Someone is leering / ಯಾರೋ ಕೆಟ್ಟದೃಷ್ಟಿ ಬೀರುತ್ತಿದ್ದಾರೆ",
+      "Nobody is leering / ಯಾರೂ ಕೆಟ್ಟದೃಷ್ಟಿ ಬೀರುತ್ತಿಲ್ಲ",
+      "Everybody is leering / ಎಲ್ಲರೂ ಕೆಟ್ಟದೃಷ್ಟಿ ಬೀರುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Lend / ಸಾಲಕೊಡು",
+    "forms": [
+      "I am lending / ನಾನು ಸಾಲಕೊಡುತ್ತಿದ್ದೇನೆ",
+      "You are lending / ನೀನು ಸಾಲಕೊಡುತ್ತಿದ್ದೀಯ",
+      "We are lending / ನಾವು ಸಾಲಕೊಡುತ್ತಿದ್ದೇವೆ",
+      "They are lending / ಅವರು ಸಾಲಕೊಡುತ್ತಿದ್ದಾರೆ",
+      "He is lending / ಅವನು ಸಾಲಕೊಡುತ್ತಿದ್ದಾನೆ",
+      "She is lending / ಅವಳು ಸಾಲಕೊಡುತ್ತಿದ್ದಾಳೆ",
+      "It is lending / ಅದು ಸಾಲಕೊಡುತ್ತಿದೆ",
+      "The bank is lending / ಬ್ಯಾಂಕ್ ಸಾಲಕೊಡುತ್ತಿದೆ",
+      "People are lending / ಜನರು ಸಾಲಕೊಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is lending / ಯಾರೋ ಸಾಲಕೊಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is lending / ಯಾರೂ ಸಾಲಕೊಡುತ್ತಿಲ್ಲ",
+      "Everybody is lending / ಎಲ್ಲರೂ ಸಾಲಕೊಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Let / ಅನುಮತಿಸು",
+    "forms": [
+      "I am letting / ನಾನು ಅನುಮತಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are letting / ನೀನು ಅನುಮತಿಸುತ್ತಿದ್ದೀಯ",
+      "We are letting / ನಾವು ಅನುಮತಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are letting / ಅವರು ಅನುಮತಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is letting / ಅವನು ಅನುಮತಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is letting / ಅವಳು ಅನುಮತಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is letting / ಅದು ಅನುಮತಿಸುತ್ತಿದೆ",
+      "The teacher is letting / ಶಿಕ್ಷಕ ಅನುಮತಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are letting / ಜನರು ಅನುಮತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is letting / ಯಾರೋ ಅನುಮತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is letting / ಯಾರೂ ಅನುಮತಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is letting / ಎಲ್ಲರೂ ಅನುಮತಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Lick / ನೆಕ್ಕು",
+    "forms": [
+      "I am licking / ನಾನು ನೆಕ್ಕುತ್ತಿದ್ದೇನೆ",
+      "You are licking / ನೀನು ನೆಕ್ಕುತ್ತಿದ್ದೀಯ",
+      "We are licking / ನಾವು ನೆಕ್ಕುತ್ತಿದ್ದೇವೆ",
+      "They are licking / ಅವರು ನೆಕ್ಕುತ್ತಿದ್ದಾರೆ",
+      "He is licking / ಅವನು ನೆಕ್ಕುತ್ತಿದ್ದಾನೆ",
+      "She is licking / ಅವಳು ನೆಕ್ಕುತ್ತಿದ್ದಾಳೆ",
+      "It is licking / ಅದು ನೆಕ್ಕುತ್ತಿದೆ",
+      "The dog is licking / ನಾಯಿ ನೆಕ್ಕುತ್ತಿದೆ",
+      "People are licking / ಜನರು ನೆಕ್ಕುತ್ತಿದ್ದಾರೆ",
+      "Someone is licking / ಯಾರೋ ನೆಕ್ಕುತ್ತಿದ್ದಾರೆ",
+      "Nobody is licking / ಯಾರೂ ನೆಕ್ಕುತ್ತಿಲ್ಲ",
+      "Everybody is licking / ಎಲ್ಲರೂ ನೆಕ್ಕುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Lie (falsehood) / ಸುಳ್ಳು ಹೇಳು",
+    "forms": [
+      "I am lying / ನಾನು ಸುಳ್ಳು ಹೇಳುತ್ತಿದ್ದೇನೆ",
+      "You are lying / ನೀನು ಸುಳ್ಳು ಹೇಳುತ್ತಿದ್ದೀಯ",
+      "We are lying / ನಾವು ಸುಳ್ಳು ಹೇಳುತ್ತಿದ್ದೇವೆ",
+      "They are lying / ಅವರು ಸುಳ್ಳು ಹೇಳುತ್ತಿದ್ದಾರೆ",
+      "He is lying / ಅವನು ಸುಳ್ಳು ಹೇಳುತ್ತಿದ್ದಾನೆ",
+      "She is lying / ಅವಳು ಸುಳ್ಳು ಹೇಳುತ್ತಿದ್ದಾಳೆ",
+      "It is lying / ಅದು ಸುಳ್ಳು ಹೇಳುತ್ತಿದೆ",
+      "The child is lying / ಮಗು ಸುಳ್ಳು ಹೇಳುತ್ತಿದೆ",
+      "People are lying / ಜನರು ಸುಳ್ಳು ಹೇಳುತ್ತಿದ್ದಾರೆ",
+      "Someone is lying / ಯಾರೋ ಸುಳ್ಳು ಹೇಳುತ್ತಿದ್ದಾರೆ",
+      "Nobody is lying / ಯಾರೂ ಸುಳ್ಳು ಹೇಳುತ್ತಿಲ್ಲ",
+      "Everybody is lying / ಎಲ್ಲರೂ ಸುಳ್ಳು ಹೇಳುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Lie (recline) / ಮಲಗು",
+    "forms": [
+      "I am lying / ನಾನು ಮಲಗುತ್ತಿದ್ದೇನೆ",
+      "You are lying / ನೀನು ಮಲಗುತ್ತಿದ್ದೀಯ",
+      "We are lying / ನಾವು ಮಲಗುತ್ತಿದ್ದೇವೆ",
+      "They are lying / ಅವರು ಮಲಗುತ್ತಿದ್ದಾರೆ",
+      "He is lying / ಅವನು ಮಲಗುತ್ತಿದ್ದಾನೆ",
+      "She is lying / ಅವಳು ಮಲಗುತ್ತಿದ್ದಾಳೆ",
+      "It is lying / ಅದು ಮಲಗುತ್ತಿದೆ",
+      "The baby is lying / ಶಿಶು ಮಲಗುತ್ತಿದೆ",
+      "People are lying / ಜನರು ಮಲಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is lying / ಯಾರೋ ಮಲಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is lying / ಯಾರೂ ಮಲಗುತ್ತಿಲ್ಲ",
+      "Everybody is lying / ಎಲ್ಲರೂ ಮಲಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Lift / ಎತ್ತು",
+    "forms": [
+      "I am lifting / ನಾನು ಎತ್ತುತ್ತಿದ್ದೇನೆ",
+      "You are lifting / ನೀನು ಎತ್ತುತ್ತಿದ್ದೀಯ",
+      "We are lifting / ನಾವು ಎತ್ತುತ್ತಿದ್ದೇವೆ",
+      "They are lifting / ಅವರು ಎತ್ತುತ್ತಿದ್ದಾರೆ",
+      "He is lifting / ಅವನು ಎತ್ತುತ್ತಿದ್ದಾನೆ",
+      "She is lifting / ಅವಳು ಎತ್ತುತ್ತಿದ್ದಾಳೆ",
+      "It is lifting / ಅದು ಎತ್ತುತ್ತಿದೆ",
+      "The worker is lifting / ಕಾರ್ಮಿಕ ಎತ್ತುತ್ತಿದ್ದಾನೆ",
+      "People are lifting / ಜನರು ಎತ್ತುತ್ತಿದ್ದಾರೆ",
+      "Someone is lifting / ಯಾರೋ ಎತ್ತುತ್ತಿದ್ದಾರೆ",
+      "Nobody is lifting / ಯಾರೂ ಎತ್ತುತ್ತಿಲ್ಲ",
+      "Everybody is lifting / ಎಲ್ಲರೂ ಎತ್ತುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Light / ಬೆಳಗು",
+    "forms": [
+      "I am lighting / ನಾನು ಬೆಳಗುತ್ತಿದ್ದೇನೆ",
+      "You are lighting / ನೀನು ಬೆಳಗುತ್ತಿದ್ದೀಯ",
+      "We are lighting / ನಾವು ಬೆಳಗುತ್ತಿದ್ದೇವೆ",
+      "They are lighting / ಅವರು ಬೆಳಗುತ್ತಿದ್ದಾರೆ",
+      "He is lighting / ಅವನು ಬೆಳಗುತ್ತಿದ್ದಾನೆ",
+      "She is lighting / ಅವಳು ಬೆಳಗುತ್ತಿದ್ದಾಳೆ",
+      "It is lighting / ಅದು ಬೆಳಗುತ್ತಿದೆ",
+      "The lamp is lighting / ದೀಪ ಬೆಳಗುತ್ತಿದೆ",
+      "People are lighting / ಜನರು ಬೆಳಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is lighting / ಯಾರೋ ಬೆಳಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is lighting / ಯಾರೂ ಬೆಳಗುತ್ತಿಲ್ಲ",
+      "Everybody is lighting / ಎಲ್ಲರೂ ಬೆಳಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Like / ಇಷ್ಟಪಡು",
+    "forms": [
+      "I am liking / ನಾನು ಇಷ್ಟಪಡುತ್ತಿದ್ದೇನೆ",
+      "You are liking / ನೀನು ಇಷ್ಟಪಡುತ್ತಿದ್ದೀಯ",
+      "We are liking / ನಾವು ಇಷ್ಟಪಡುತ್ತಿದ್ದೇವೆ",
+      "They are liking / ಅವರು ಇಷ್ಟಪಡುತ್ತಿದ್ದಾರೆ",
+      "He is liking / ಅವನು ಇಷ್ಟಪಡುತ್ತಿದ್ದಾನೆ",
+      "She is liking / ಅವಳು ಇಷ್ಟಪಡುತ್ತಿದ್ದಾಳೆ",
+      "It is liking / ಅದು ಇಷ್ಟಪಡುತ್ತಿದೆ",
+      "The child is liking / ಮಗು ಇಷ್ಟಪಡುತ್ತಿದೆ",
+      "People are liking / ಜನರು ಇಷ್ಟಪಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is liking / ಯಾರೋ ಇಷ್ಟಪಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is liking / ಯಾರೂ ಇಷ್ಟಪಡುತ್ತಿಲ್ಲ",
+      "Everybody is liking / ಎಲ್ಲರೂ ಇಷ್ಟಪಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Limp / ಕುಂಟು",
+    "forms": [
+      "I am limping / ನಾನು ಕುಂಟುತ್ತಿದ್ದೇನೆ",
+      "You are limping / ನೀನು ಕುಂಟುತ್ತಿದ್ದೀಯ",
+      "We are limping / ನಾವು ಕುಂಟುತ್ತಿದ್ದೇವೆ",
+      "They are limping / ಅವರು ಕುಂಟುತ್ತಿದ್ದಾರೆ",
+      "He is limping / ಅವನು ಕುಂಟುತ್ತಿದ್ದಾನೆ",
+      "She is limping / ಅವಳು ಕುಂಟುತ್ತಿದ್ದಾಳೆ",
+      "It is limping / ಅದು ಕುಂಟುತ್ತಿದೆ",
+      "The injured is limping / ಗಾಯಗೊಂಡವನು ಕುಂಟುತ್ತಿದ್ದಾನೆ",
+      "People are limping / ಜನರು ಕುಂಟುತ್ತಿದ್ದಾರೆ",
+      "Someone is limping / ಯಾರೋ ಕುಂಟುತ್ತಿದ್ದಾರೆ",
+      "Nobody is limping / ಯಾರೂ ಕುಂಟುತ್ತಿಲ್ಲ",
+      "Everybody is limping / ಎಲ್ಲರೂ ಕುಂಟುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Listen / ಕೇಳು",
+    "forms": [
+      "I am listening / ನಾನು ಕೇಳುತ್ತಿದ್ದೇನೆ",
+      "You are listening / ನೀನು ಕೇಳುತ್ತಿದ್ದೀಯ",
+      "We are listening / ನಾವು ಕೇಳುತ್ತಿದ್ದೇವೆ",
+      "They are listening / ಅವರು ಕೇಳುತ್ತಿದ್ದಾರೆ",
+      "He is listening / ಅವನು ಕೇಳುತ್ತಿದ್ದಾನೆ",
+      "She is listening / ಅವಳು ಕೇಳುತ್ತಿದ್ದಾಳೆ",
+      "It is listening / ಅದು ಕೇಳುತ್ತಿದೆ",
+      "The student is listening / ವಿದ್ಯಾರ್ಥಿ ಕೇಳುತ್ತಿದ್ದಾನೆ",
+      "People are listening / ಜನರು ಕೇಳುತ್ತಿದ್ದಾರೆ",
+      "Someone is listening / ಯಾರೋ ಕೇಳುತ್ತಿದ್ದಾರೆ",
+      "Nobody is listening / ಯಾರೂ ಕೇಳುತ್ತಿಲ್ಲ",
+      "Everybody is listening / ಎಲ್ಲರೂ ಕೇಳುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Live / ವಾಸಿಸು",
+    "forms": [
+      "I am living / ನಾನು ವಾಸಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are living / ನೀನು ವಾಸಿಸುತ್ತಿದ್ದೀಯ",
+      "We are living / ನಾವು ವಾಸಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are living / ಅವರು ವಾಸಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is living / ಅವನು ವಾಸಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is living / ಅವಳು ವಾಸಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is living / ಅದು ವಾಸಿಸುತ್ತಿದೆ",
+      "The family is living / ಕುಟುಂಬ ವಾಸಿಸುತ್ತಿದೆ",
+      "People are living / ಜನರು ವಾಸಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is living / ಯಾರೋ ವಾಸಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is living / ಯಾರೂ ವಾಸಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is living / ಎಲ್ಲರೂ ವಾಸಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Look / ನೋಡು",
+    "forms": [
+      "I am looking / ನಾನು ನೋಡುತ್ತಿದ್ದೇನೆ",
+      "You are looking / ನೀನು ನೋಡುತ್ತಿದ್ದೀಯ",
+      "We are looking / ನಾವು ನೋಡುತ್ತಿದ್ದೇವೆ",
+      "They are looking / ಅವರು ನೋಡುತ್ತಿದ್ದಾರೆ",
+      "He is looking / ಅವನು ನೋಡುತ್ತಿದ್ದಾನೆ",
+      "She is looking / ಅವಳು ನೋಡುತ್ತಿದ್ದಾಳೆ",
+      "It is looking / ಅದು ನೋಡುತ್ತಿದೆ",
+      "The child is looking / ಮಗು ನೋಡುತ್ತಿದೆ",
+      "People are looking / ಜನರು ನೋಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is looking / ಯಾರೋ ನೋಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is looking / ಯಾರೂ ನೋಡುತ್ತಿಲ್ಲ",
+      "Everybody is looking / ಎಲ್ಲರೂ ನೋಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Lose / ಕಳೆದುಕೊಳ್ಳು",
+    "forms": [
+      "I am losing / ನಾನು ಕಳೆದುಕೊಳ್ಳುತ್ತಿದ್ದೇನೆ",
+      "You are losing / ನೀನು ಕಳೆದುಕೊಳ್ಳುತ್ತಿದ್ದೀಯ",
+      "We are losing / ನಾವು ಕಳೆದುಕೊಳ್ಳುತ್ತಿದ್ದೇವೆ",
+      "They are losing / ಅವರು ಕಳೆದುಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "He is losing / ಅವನು ಕಳೆದುಕೊಳ್ಳುತ್ತಿದ್ದಾನೆ",
+      "She is losing / ಅವಳು ಕಳೆದುಕೊಳ್ಳುತ್ತಿದ್ದಾಳೆ",
+      "It is losing / ಅದು ಕಳೆದುಕೊಳ್ಳುತ್ತಿದೆ",
+      "The player is losing / ಆಟಗಾರ ಕಳೆದುಕೊಳ್ಳುತ್ತಿದ್ದಾನೆ",
+      "People are losing / ಜನರು ಕಳೆದುಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Someone is losing / ಯಾರೋ ಕಳೆದುಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Nobody is losing / ಯಾರೂ ಕಳೆದುಕೊಳ್ಳುತ್ತಿಲ್ಲ",
+      "Everybody is losing / ಎಲ್ಲರೂ ಕಳೆದುಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Love / ಪ್ರೀತಿಸು",
+    "forms": [
+      "I am loving / ನಾನು ಪ್ರೀತಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are loving / ನೀನು ಪ್ರೀತಿಸುತ್ತಿದ್ದೀಯ",
+      "We are loving / ನಾವು ಪ್ರೀತಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are loving / ಅವರು ಪ್ರೀತಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is loving / ಅವನು ಪ್ರೀತಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is loving / ಅವಳು ಪ್ರೀತಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is loving / ಅದು ಪ್ರೀತಿಸುತ್ತಿದೆ",
+      "The mother is loving / ತಾಯಿ ಪ್ರೀತಿಸುತ್ತಿದ್ದಾಳೆ",
+      "People are loving / ಜನರು ಪ್ರೀತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is loving / ಯಾರೋ ಪ್ರೀತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is loving / ಯಾರೂ ಪ್ರೀತಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is loving / ಎಲ್ಲರೂ ಪ್ರೀತಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Magnify / ದೊಡ್ಡದು ಮಾಡು",
+    "forms": [
+      "I am magnifying / ನಾನು ದೊಡ್ಡದು ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are magnifying / ನೀನು ದೊಡ್ಡದು ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are magnifying / ನಾವು ದೊಡ್ಡದು ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are magnifying / ಅವರು ದೊಡ್ಡದು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is magnifying / ಅವನು ದೊಡ್ಡದು ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is magnifying / ಅವಳು ದೊಡ್ಡದು ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is magnifying / ಅದು ದೊಡ್ಡದು ಮಾಡುತ್ತಿದೆ",
+      "The lens is magnifying / ಲೆನ್ಸ್ ದೊಡ್ಡದು ಮಾಡುತ್ತಿದೆ",
+      "People are magnifying / ಜನರು ದೊಡ್ಡದು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is magnifying / ಯಾರೋ ದೊಡ್ಡದು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is magnifying / ಯಾರೂ ದೊಡ್ಡದು ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is magnifying / ಎಲ್ಲರೂ ದೊಡ್ಡದು ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Maintain / ನಿರ್ವಹಿಸು",
+    "forms": [
+      "I am maintaining / ನಾನು ನಿರ್ವಹಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are maintaining / ನೀನು ನಿರ್ವಹಿಸುತ್ತಿದ್ದೀಯ",
+      "We are maintaining / ನಾವು ನಿರ್ವಹಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are maintaining / ಅವರು ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is maintaining / ಅವನು ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is maintaining / ಅವಳು ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is maintaining / ಅದು ನಿರ್ವಹಿಸುತ್ತಿದೆ",
+      "The engineer is maintaining / ಎಂಜಿನಿಯರ್ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are maintaining / ಜನರು ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is maintaining / ಯಾರೋ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is maintaining / ಯಾರೂ ನಿರ್ವಹಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is maintaining / ಎಲ್ಲರೂ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Make / ಮಾಡು",
+    "forms": [
+      "I am making / ನಾನು ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are making / ನೀನು ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are making / ನಾವು ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are making / ಅವರು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is making / ಅವನು ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is making / ಅವಳು ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is making / ಅದು ಮಾಡುತ್ತಿದೆ",
+      "The artisan is making / ಕಾರಿಗಾರ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are making / ಜನರು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is making / ಯಾರೋ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is making / ಯಾರೂ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is making / ಎಲ್ಲರೂ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Manage / ನಿರ್ವಹಿಸು",
+    "forms": [
+      "I am managing / ನಾನು ನಿರ್ವಹಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are managing / ನೀನು ನಿರ್ವಹಿಸುತ್ತಿದ್ದೀಯ",
+      "We are managing / ನಾವು ನಿರ್ವಹಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are managing / ಅವರು ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is managing / ಅವನು ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is managing / ಅವಳು ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is managing / ಅದು ನಿರ್ವಹಿಸುತ್ತಿದೆ",
+      "The director is managing / ನಿರ್ದೇಶಕ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are managing / ಜನರು ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is managing / ಯಾರೋ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is managing / ಯಾರೂ ನಿರ್ವಹಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is managing / ಎಲ್ಲರೂ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "March / ಮೆರವಣಿಗೆ ನಡೆ",
+    "forms": [
+      "I am marching / ನಾನು ಮೆರವಣಿಗೆ ನಡೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are marching / ನೀನು ಮೆರವಣಿಗೆ ನಡೆಯುತ್ತಿದ್ದೀಯ",
+      "We are marching / ನಾವು ಮೆರವಣಿಗೆ ನಡೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are marching / ಅವರು ಮೆರವಣಿಗೆ ನಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is marching / ಅವನು ಮೆರವಣಿಗೆ ನಡೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is marching / ಅವಳು ಮೆರವಣಿಗೆ ನಡೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is marching / ಅದು ಮೆರವಣಿಗೆ ನಡೆಯುತ್ತಿದೆ",
+      "The soldiers are marching / ಸೈನಿಕರು ಮೆರವಣಿಗೆ ನಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "People are marching / ಜನರು ಮೆರವಣಿಗೆ ನಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is marching / ಯಾರೋ ಮೆರವಣಿಗೆ ನಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is marching / ಯಾರೂ ಮೆರವಣಿಗೆ ನಡೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is marching / ಎಲ್ಲರೂ ಮೆರವಣಿಗೆ ನಡೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Mark / ಗುರುತು ಮಾಡು",
+    "forms": [
+      "I am marking / ನಾನು ಗುರುತು ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are marking / ನೀನು ಗುರುತು ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are marking / ನಾವು ಗುರುತು ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are marking / ಅವರು ಗುರುತು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is marking / ಅವನು ಗುರುತು ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is marking / ಅವಳು ಗುರುತು ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is marking / ಅದು ಗುರುತು ಮಾಡುತ್ತಿದೆ",
+      "The teacher is marking / ಶಿಕ್ಷಕ ಗುರುತು ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are marking / ಜನರು ಗುರುತು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is marking / ಯಾರೋ ಗುರುತು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is marking / ಯಾರೂ ಗುರುತು ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is marking / ಎಲ್ಲರೂ ಗುರುತು ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Marry / ಮದುವೆಯಾಗು",
+    "forms": [
+      "I am marrying / ನಾನು ಮದುವೆಯಾಗುತ್ತಿದ್ದೇನೆ",
+      "You are marrying / ನೀನು ಮದುವೆಯಾಗುತ್ತಿದ್ದೀಯ",
+      "We are marrying / ನಾವು ಮದುವೆಯಾಗುತ್ತಿದ್ದೇವೆ",
+      "They are marrying / ಅವರು ಮದುವೆಯಾಗುತ್ತಿದ್ದಾರೆ",
+      "He is marrying / ಅವನು ಮದುವೆಯಾಗುತ್ತಿದ್ದಾನೆ",
+      "She is marrying / ಅವಳು ಮದುವೆಯಾಗುತ್ತಿದ್ದಾಳೆ",
+      "It is marrying / ಅದು ಮದುವೆಯಾಗುತ್ತಿದೆ",
+      "The couple is marrying / ದಂಪತಿಗಳು ಮದುವೆಯಾಗುತ್ತಿದ್ದಾರೆ",
+      "People are marrying / ಜನರು ಮದುವೆಯಾಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is marrying / ಯಾರೋ ಮದುವೆಯಾಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is marrying / ಯಾರೂ ಮದುವೆಯಾಗುತ್ತಿಲ್ಲ",
+      "Everybody is marrying / ಎಲ್ಲರೂ ಮದುವೆಯಾಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Mash / ಮೆತ್ತಗೆ ಹಿಸುಕು",
+    "forms": [
+      "I am mashing / ನಾನು ಮೆತ್ತಗೆ ಹಿಸುಕುತ್ತಿದ್ದೇನೆ",
+      "You are mashing / ನೀನು ಮೆತ್ತಗೆ ಹಿಸುಕುತ್ತಿದ್ದೀಯ",
+      "We are mashing / ನಾವು ಮೆತ್ತಗೆ ಹಿಸುಕುತ್ತಿದ್ದೇವೆ",
+      "They are mashing / ಅವರು ಮೆತ್ತಗೆ ಹಿಸುಕುತ್ತಿದ್ದಾರೆ",
+      "He is mashing / ಅವನು ಮೆತ್ತಗೆ ಹಿಸುಕುತ್ತಿದ್ದಾನೆ",
+      "She is mashing / ಅವಳು ಮೆತ್ತಗೆ ಹಿಸುಕುತ್ತಿದ್ದಾಳೆ",
+      "It is mashing / ಅದು ಮೆತ್ತಗೆ ಹಿಸುಕುತ್ತಿದೆ",
+      "The cook is mashing / ಬಾಣಸಿಗ ಮೆತ್ತಗೆ ಹಿಸುಕುತ್ತಿದ್ದಾನೆ",
+      "People are mashing / ಜನರು ಮೆತ್ತಗೆ ಹಿಸುಕುತ್ತಿದ್ದಾರೆ",
+      "Someone is mashing / ಯಾರೋ ಮೆತ್ತಗೆ ಹಿಸುಕುತ್ತಿದ್ದಾರೆ",
+      "Nobody is mashing / ಯಾರೂ ಮೆತ್ತಗೆ ಹಿಸುಕುತ್ತಿಲ್ಲ",
+      "Everybody is mashing / ಎಲ್ಲರೂ ಮೆತ್ತಗೆ ಹಿಸುಕುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Match / ಹೊಂದಿಸು",
+    "forms": [
+      "I am matching / ನಾನು ಹೊಂದಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are matching / ನೀನು ಹೊಂದಿಸುತ್ತಿದ್ದೀಯ",
+      "We are matching / ನಾವು ಹೊಂದಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are matching / ಅವರು ಹೊಂದಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is matching / ಅವನು ಹೊಂದಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is matching / ಅವಳು ಹೊಂದಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is matching / ಅದು ಹೊಂದಿಸುತ್ತಿದೆ",
+      "The designer is matching / ಡಿಸೈನರ್ ಹೊಂದಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are matching / ಜನರು ಹೊಂದಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is matching / ಯಾರೋ ಹೊಂದಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is matching / ಯಾರೂ ಹೊಂದಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is matching / ಎಲ್ಲರೂ ಹೊಂದಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Matter / ಮುಖ್ಯವಾಗು",
+    "forms": [
+      "I am mattering / ನಾನು ಮುಖ್ಯವಾಗುತ್ತಿದ್ದೇನೆ",
+      "You are mattering / ನೀನು ಮುಖ್ಯವಾಗುತ್ತಿದ್ದೀಯ",
+      "We are mattering / ನಾವು ಮುಖ್ಯವಾಗುತ್ತಿದ್ದೇವೆ",
+      "They are mattering / ಅವರು ಮುಖ್ಯವಾಗುತ್ತಿದ್ದಾರೆ",
+      "He is mattering / ಅವನು ಮುಖ್ಯವಾಗುತ್ತಿದ್ದಾನೆ",
+      "She is mattering / ಅವಳು ಮುಖ್ಯವಾಗುತ್ತಿದ್ದಾಳೆ",
+      "It is mattering / ಅದು ಮುಖ್ಯವಾಗುತ್ತಿದೆ",
+      "The issue is mattering / ಸಮಸ್ಯೆ ಮುಖ್ಯವಾಗುತ್ತಿದೆ",
+      "People are mattering / ಜನರು ಮುಖ್ಯವಾಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is mattering / ಯಾರೋ ಮುಖ್ಯವಾಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is mattering / ಯಾರೂ ಮುಖ್ಯವಾಗುತ್ತಿಲ್ಲ",
+      "Everybody is mattering / ಎಲ್ಲರೂ ಮುಖ್ಯವಾಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Mean / ಅರ್ಥೈಸು",
+    "forms": [
+      "I am meaning / ನಾನು ಅರ್ಥೈಸುತ್ತಿದ್ದೇನೆ",
+      "You are meaning / ನೀನು ಅರ್ಥೈಸುತ್ತಿದ್ದೀಯ",
+      "We are meaning / ನಾವು ಅರ್ಥೈಸುತ್ತಿದ್ದೇವೆ",
+      "They are meaning / ಅವರು ಅರ್ಥೈಸುತ್ತಿದ್ದಾರೆ",
+      "He is meaning / ಅವನು ಅರ್ಥೈಸುತ್ತಿದ್ದಾನೆ",
+      "She is meaning / ಅವಳು ಅರ್ಥೈಸುತ್ತಿದ್ದಾಳೆ",
+      "It is meaning / ಅದು ಅರ್ಥೈಸುತ್ತಿದೆ",
+      "The word is meaning / ಪದ ಅರ್ಥೈಸುತ್ತಿದೆ",
+      "People are meaning / ಜನರು ಅರ್ಥೈಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is meaning / ಯಾರೋ ಅರ್ಥೈಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is meaning / ಯಾರೂ ಅರ್ಥೈಸುತ್ತಿಲ್ಲ",
+      "Everybody is meaning / ಎಲ್ಲರೂ ಅರ್ಥೈಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Measure / ಅಳತೆ ಮಾಡು",
+    "forms": [
+      "I am measuring / ನಾನು ಅಳತೆ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are measuring / ನೀನು ಅಳತೆ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are measuring / ನಾವು ಅಳತೆ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are measuring / ಅವರು ಅಳತೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is measuring / ಅವನು ಅಳತೆ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is measuring / ಅವಳು ಅಳತೆ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is measuring / ಅದು ಅಳತೆ ಮಾಡುತ್ತಿದೆ",
+      "The tailor is measuring / ದರ್ಜಿ ಅಳತೆ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are measuring / ಜನರು ಅಳತೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is measuring / ಯಾರೋ ಅಳತೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is measuring / ಯಾರೂ ಅಳತೆ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is measuring / ಎಲ್ಲರೂ ಅಳತೆ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Meet / ಭೇಟಿಯಾಗು",
+    "forms": [
+      "I am meeting / ನಾನು ಭೇಟಿಯಾಗುತ್ತಿದ್ದೇನೆ",
+      "You are meeting / ನೀನು ಭೇಟಿಯಾಗುತ್ತಿದ್ದೀಯ",
+      "We are meeting / ನಾವು ಭೇಟಿಯಾಗುತ್ತಿದ್ದೇವೆ",
+      "They are meeting / ಅವರು ಭೇಟಿಯಾಗುತ್ತಿದ್ದಾರೆ",
+      "He is meeting / ಅವನು ಭೇಟಿಯಾಗುತ್ತಿದ್ದಾನೆ",
+      "She is meeting / ಅವಳು ಭೇಟಿಯಾಗುತ್ತಿದ್ದಾಳೆ",
+      "It is meeting / ಅದು ಭೇಟಿಯಾಗುತ್ತಿದೆ",
+      "The friends are meeting / ಸ್ನೇಹಿತರು ಭೇಟಿಯಾಗುತ್ತಿದ್ದಾರೆ",
+      "People are meeting / ಜನರು ಭೇಟಿಯಾಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is meeting / ಯಾರೋ ಭೇಟಿಯಾಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is meeting / ಯಾರೂ ಭೇಟಿಯಾಗುತ್ತಿಲ್ಲ",
+      "Everybody is meeting / ಎಲ್ಲರೂ ಭೇಟಿಯಾಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Melt / ಕರಗು",
+    "forms": [
+      "I am melting / ನಾನು ಕರಗುತ್ತಿದ್ದೇನೆ",
+      "You are melting / ನೀನು ಕರಗುತ್ತಿದ್ದೀಯ",
+      "We are melting / ನಾವು ಕರಗುತ್ತಿದ್ದೇವೆ",
+      "They are melting / ಅವರು ಕರಗುತ್ತಿದ್ದಾರೆ",
+      "He is melting / ಅವನು ಕರಗುತ್ತಿದ್ದಾನೆ",
+      "She is melting / ಅವಳು ಕರಗುತ್ತಿದ್ದಾಳೆ",
+      "It is melting / ಅದು ಕರಗುತ್ತಿದೆ",
+      "The ice is melting / ಬರ್ಫ ಕರಗುತ್ತಿದೆ",
+      "People are melting / ಜನರು ಕರಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is melting / ಯಾರೋ ಕರಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is melting / ಯಾರೂ ಕರಗುತ್ತಿಲ್ಲ",
+      "Everybody is melting / ಎಲ್ಲರೂ ಕರಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Merge / ವಿಲೀನಗೊಳ್ಳು",
+    "forms": [
+      "I am merging / ನಾನು ವಿಲೀನಗೊಳ್ಳುತ್ತಿದ್ದೇನೆ",
+      "You are merging / ನೀನು ವಿಲೀನಗೊಳ್ಳುತ್ತಿದ್ದೀಯ",
+      "We are merging / ನಾವು ವಿಲೀನಗೊಳ್ಳುತ್ತಿದ್ದೇವೆ",
+      "They are merging / ಅವರು ವಿಲೀನಗೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "He is merging / ಅವನು ವಿಲೀನಗೊಳ್ಳುತ್ತಿದ್ದಾನೆ",
+      "She is merging / ಅವಳು ವಿಲೀನಗೊಳ್ಳುತ್ತಿದ್ದಾಳೆ",
+      "It is merging / ಅದು ವಿಲೀನಗೊಳ್ಳುತ್ತಿದೆ",
+      "The companies are merging / ಕಂಪನಿಗಳು ವಿಲೀನಗೊಳ್ಳುತ್ತಿವೆ",
+      "People are merging / ಜನರು ವಿಲೀನಗೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Someone is merging / ಯಾರೋ ವಿಲೀನಗೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Nobody is merging / ಯಾರೂ ವಿಲೀನಗೊಳ್ಳುತ್ತಿಲ್ಲ",
+      "Everybody is merging / ಎಲ್ಲರೂ ವಿಲೀನಗೊಳ್ಳುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Mew / ಮಿಯಾವ್",
+    "forms": [
+      "I am mewing / ನಾನು ಮಿಯಾವ್ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are mewing / ನೀನು ಮಿಯಾವ್ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are mewing / ನಾವು ಮಿಯಾವ್ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are mewing / ಅವರು ಮಿಯಾವ್ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is mewing / ಅವನು ಮಿಯಾವ್ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is mewing / ಅವಳು ಮಿಯಾವ್ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is mewing / ಅದು ಮಿಯಾವ್ ಮಾಡುತ್ತಿದೆ",
+      "The cat is mewing / ಬೆಕ್ಕು ಮಿಯಾವ್ ಮಾಡುತ್ತಿದೆ",
+      "People are mewing / ಜನರು ಮಿಯಾವ್ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is mewing / ಯಾರೋ ಮಿಯಾವ್ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is mewing / ಯಾರೂ ಮಿಯಾವ್ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is mewing / ಎಲ್ಲರೂ ಮಿಯಾವ್ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Migrate / ವಲಸೆ ಹೋಗು",
+    "forms": [
+      "I am migrating / ನಾನು ವಲಸೆ ಹೋಗುತ್ತಿದ್ದೇನೆ",
+      "You are migrating / ನೀನು ವಲಸೆ ಹೋಗುತ್ತಿದ್ದೀಯ",
+      "We are migrating / ನಾವು ವಲಸೆ ಹೋಗುತ್ತಿದ್ದೇವೆ",
+      "They are migrating / ಅವರು ವಲಸೆ ಹೋಗುತ್ತಿದ್ದಾರೆ",
+      "He is migrating / ಅವನು ವಲಸೆ ಹೋಗುತ್ತಿದ್ದಾನೆ",
+      "She is migrating / ಅವಳು ವಲಸೆ ಹೋಗುತ್ತಿದ್ದಾಳೆ",
+      "It is migrating / ಅದು ವಲಸೆ ಹೋಗುತ್ತಿದೆ",
+      "The birds are migrating / ಹಕ್ಕಿಗಳು ವಲಸೆ ಹೋಗುತ್ತಿವೆ",
+      "People are migrating / ಜನರು ವಲಸೆ ಹೋಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is migrating / ಯಾರೋ ವಲಸೆ ಹೋಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is migrating / ಯಾರೂ ವಲಸೆ ಹೋಗುತ್ತಿಲ್ಲ",
+      "Everybody is migrating / ಎಲ್ಲರೂ ವಲಸೆ ಹೋಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Milk / ಹಾಲು ಕರೆ",
+    "forms": [
+      "I am milking / ನಾನು ಹಾಲು ಕರೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are milking / ನೀನು ಹಾಲು ಕರೆಯುತ್ತಿದ್ದೀಯ",
+      "We are milking / ನಾವು ಹಾಲು ಕರೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are milking / ಅವರು ಹಾಲು ಕರೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is milking / ಅವನು ಹಾಲು ಕರೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is milking / ಅವಳು ಹಾಲು ಕರೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is milking / ಅದು ಹಾಲು ಕರೆಯುತ್ತಿದೆ",
+      "The farmer is milking / ರೈತ ಹಾಲು ಕರೆಯುತ್ತಿದ್ದಾನೆ",
+      "People are milking / ಜನರು ಹಾಲು ಕರೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is milking / ಯಾರೋ ಹಾಲು ಕರೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is milking / ಯಾರೂ ಹಾಲು ಕರೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is milking / ಎಲ್ಲರೂ ಹಾಲು ಕರೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Mind / ಗಮನಿಸು",
+    "forms": [
+      "I am minding / ನಾನು ಗಮನಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are minding / ನೀನು ಗಮನಿಸುತ್ತಿದ್ದೀಯ",
+      "We are minding / ನಾವು ಗಮನಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are minding / ಅವರು ಗಮನಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is minding / ಅವನು ಗಮನಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is minding / ಅವಳು ಗಮನಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is minding / ಅದು ಗಮನಿಸುತ್ತಿದೆ",
+      "The teacher is minding / ಶಿಕ್ಷಕ ಗಮನಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are minding / ಜನರು ಗಮನಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is minding / ಯಾರೋ ಗಮನಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is minding / ಯಾರೂ ಗಮನಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is minding / ಎಲ್ಲರೂ ಗಮನಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Mislead / ತಪ್ಪುದಾರಿಗೆಳೆ",
+    "forms": [
+      "I am misleading / ನಾನು ತಪ್ಪುದಾರಿಗೆಳೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are misleading / ನೀನು ತಪ್ಪುದಾರಿಗೆಳೆಯುತ್ತಿದ್ದೀಯ",
+      "We are misleading / ನಾವು ತಪ್ಪುದಾರಿಗೆಳೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are misleading / ಅವರು ತಪ್ಪುದಾರಿಗೆಳೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is misleading / ಅವನು ತಪ್ಪುದಾರಿಗೆಳೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is misleading / ಅವಳು ತಪ್ಪುದಾರಿಗೆಳೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is misleading / ಅದು ತಪ್ಪುದಾರಿಗೆಳೆಯುತ್ತಿದೆ",
+      "The guide is misleading / ಮಾರ್ಗದರ್ಶಿ ತಪ್ಪುದಾರಿಗೆಳೆಯುತ್ತಿದ್ದಾನೆ",
+      "People are misleading / ಜನರು ತಪ್ಪುದಾರಿಗೆಳೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is misleading / ಯಾರೋ ತಪ್ಪುದಾರಿಗೆಳೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is misleading / ಯಾರೂ ತಪ್ಪುದಾರಿಗೆಳೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is misleading / ಎಲ್ಲರೂ ತಪ್ಪುದಾರಿಗೆಳೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Miss / ತಪ್ಪಿಸು",
+    "forms": [
+      "I am missing / ನಾನು ತಪ್ಪಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are missing / ನೀನು ತಪ್ಪಿಸುತ್ತಿದ್ದೀಯ",
+      "We are missing / ನಾವು ತಪ್ಪಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are missing / ಅವರು ತಪ್ಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is missing / ಅವನು ತಪ್ಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is missing / ಅವಳು ತಪ್ಪಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is missing / ಅದು ತಪ್ಪಿಸುತ್ತಿದೆ",
+      "The player is missing / ಆಟಗಾರ ತಪ್ಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are missing / ಜನರು ತಪ್ಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is missing / ಯಾರೋ ತಪ್ಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is missing / ಯಾರೂ ತಪ್ಪಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is missing / ಎಲ್ಲರೂ ತಪ್ಪಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Mistake / ತಪ್ಪು ಮಾಡು",
+    "forms": [
+      "I am mistaking / ನಾನು ತಪ್ಪು ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are mistaking / ನೀನು ತಪ್ಪು ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are mistaking / ನಾವು ತಪ್ಪು ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are mistaking / ಅವರು ತಪ್ಪು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is mistaking / ಅವನು ತಪ್ಪು ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is mistaking / ಅವಳು ತಪ್ಪು ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is mistaking / ಅದು ತಪ್ಪು ಮಾಡುತ್ತಿದೆ",
+      "The student is mistaking / ವಿದ್ಯಾರ್ಥಿ ತಪ್ಪು ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are mistaking / ಜನರು ತಪ್ಪು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is mistaking / ಯಾರೋ ತಪ್ಪು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is mistaking / ಯಾರೂ ತಪ್ಪು ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is mistaking / ಎಲ್ಲರೂ ತಪ್ಪು ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Misuse / ತಪ್ಪಾಗಿ ಬಳಸು",
+    "forms": [
+      "I am misusing / ನಾನು ತಪ್ಪಾಗಿ ಬಳಸುತ್ತಿದ್ದೇನೆ",
+      "You are misusing / ನೀನು ತಪ್ಪಾಗಿ ಬಳಸುತ್ತಿದ್ದೀಯ",
+      "We are misusing / ನಾವು ತಪ್ಪಾಗಿ ಬಳಸುತ್ತಿದ್ದೇವೆ",
+      "They are misusing / ಅವರು ತಪ್ಪಾಗಿ ಬಳಸುತ್ತಿದ್ದಾರೆ",
+      "He is misusing / ಅವನು ತಪ್ಪಾಗಿ ಬಳಸುತ್ತಿದ್ದಾನೆ",
+      "She is misusing / ಅವಳು ತಪ್ಪಾಗಿ ಬಳಸುತ್ತಿದ್ದಾಳೆ",
+      "It is misusing / ಅದು ತಪ್ಪಾಗಿ ಬಳಸುತ್ತಿದೆ",
+      "The official is misusing / ಅಧಿಕಾರಿ ತಪ್ಪಾಗಿ ಬಳಸುತ್ತಿದ್ದಾನೆ",
+      "People are misusing / ಜನರು ತಪ್ಪಾಗಿ ಬಳಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is misusing / ಯಾರೋ ತಪ್ಪಾಗಿ ಬಳಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is misusing / ಯಾರೂ ತಪ್ಪಾಗಿ ಬಳಸುತ್ತಿಲ್ಲ",
+      "Everybody is misusing / ಎಲ್ಲರೂ ತಪ್ಪಾಗಿ ಬಳಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Mix / ಬೆರೆಸು",
+    "forms": [
+      "I am mixing / ನಾನು ಬೆರೆಸುತ್ತಿದ್ದೇನೆ",
+      "You are mixing / ನೀನು ಬೆರೆಸುತ್ತಿದ್ದೀಯ",
+      "We are mixing / ನಾವು ಬೆರೆಸುತ್ತಿದ್ದೇವೆ",
+      "They are mixing / ಅವರು ಬೆರೆಸುತ್ತಿದ್ದಾರೆ",
+      "He is mixing / ಅವನು ಬೆರೆಸುತ್ತಿದ್ದಾನೆ",
+      "She is mixing / ಅವಳು ಬೆರೆಸುತ್ತಿದ್ದಾಳೆ",
+      "It is mixing / ಅದು ಬೆರೆಸುತ್ತಿದೆ",
+      "The chef is mixing / ಬಾಣಸಿಗ ಬೆರೆಸುತ್ತಿದ್ದಾನೆ",
+      "People are mixing / ಜನರು ಬೆರೆಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is mixing / ಯಾರೋ ಬೆರೆಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is mixing / ಯಾರೂ ಬೆರೆಸುತ್ತಿಲ್ಲ",
+      "Everybody is mixing / ಎಲ್ಲರೂ ಬೆರೆಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Moan / ಗೋಳಾಡು",
+    "forms": [
+      "I am moaning / ನಾನು ಗೋಳಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are moaning / ನೀನು ಗೋಳಾಡುತ್ತಿದ್ದೀಯ",
+      "We are moaning / ನಾವು ಗೋಳಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are moaning / ಅವರು ಗೋಳಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is moaning / ಅವನು ಗೋಳಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is moaning / ಅವಳು ಗೋಳಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is moaning / ಅದು ಗೋಳಾಡುತ್ತಿದೆ",
+      "The patient is moaning / ರೋಗಿ ಗೋಳಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are moaning / ಜನರು ಗೋಳಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is moaning / ಯಾರೋ ಗೋಳಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is moaning / ಯಾರೂ ಗೋಳಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is moaning / ಎಲ್ಲರೂ ಗೋಳಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Modify / ಮಾರ್ಪಡಿಸು",
+    "forms": [
+      "I am modifying / ನಾನು ಮಾರ್ಪಡಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are modifying / ನೀನು ಮಾರ್ಪಡಿಸುತ್ತಿದ್ದೀಯ",
+      "We are modifying / ನಾವು ಮಾರ್ಪಡಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are modifying / ಅವರು ಮಾರ್ಪಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is modifying / ಅವನು ಮಾರ್ಪಡಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is modifying / ಅವಳು ಮಾರ್ಪಡಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is modifying / ಅದು ಮಾರ್ಪಡಿಸುತ್ತಿದೆ",
+      "The editor is modifying / ಸಂಪಾದಕ ಮಾರ್ಪಡಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are modifying / ಜನರು ಮಾರ್ಪಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is modifying / ಯಾರೋ ಮಾರ್ಪಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is modifying / ಯಾರೂ ಮಾರ್ಪಡಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is modifying / ಎಲ್ಲರೂ ಮಾರ್ಪಡಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Moo / ಅಂಬೆಗಾಲಿಡು",
+    "forms": [
+      "I am mooing / ನಾನು ಅಂಬೆಗಾಲಿಡುತ್ತಿದ್ದೇನೆ",
+      "You are mooing / ನೀನು ಅಂಬೆಗಾಲಿಡುತ್ತಿದ್ದೀಯ",
+      "We are mooing / ನಾವು ಅಂಬೆಗಾಲಿಡುತ್ತಿದ್ದೇವೆ",
+      "They are mooing / ಅವರು ಅಂಬೆಗಾಲಿಡುತ್ತಿದ್ದಾರೆ",
+      "He is mooing / ಅವನು ಅಂಬೆಗಾಲಿಡುತ್ತಿದ್ದಾನೆ",
+      "She is mooing / ಅವಳು ಅಂಬೆಗಾಲಿಡುತ್ತಿದ್ದಾಳೆ",
+      "It is mooing / ಅದು ಅಂಬೆಗಾಲಿಡುತ್ತಿದೆ",
+      "The cow is mooing / ಹಸು ಅಂಬೆಗಾಲಿಡುತ್ತಿದೆ",
+      "People are mooing / ಜನರು ಅಂಬೆಗಾಲಿಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is mooing / ಯಾರೋ ಅಂಬೆಗಾಲಿಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is mooing / ಯಾರೂ ಅಂಬೆಗಾಲಿಡುತ್ತಿಲ್ಲ",
+      "Everybody is mooing / ಎಲ್ಲರೂ ಅಂಬೆಗಾಲಿಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Motivate / ಪ್ರೇರೇಪಿಸು",
+    "forms": [
+      "I am motivating / ನಾನು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are motivating / ನೀನು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದೀಯ",
+      "We are motivating / ನಾವು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are motivating / ಅವರು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is motivating / ಅವನು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is motivating / ಅವಳು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is motivating / ಅದು ಪ್ರೇರೇಪಿಸುತ್ತಿದೆ",
+      "The teacher is motivating / ಶಿಕ್ಷಕ ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are motivating / ಜನರು ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is motivating / ಯಾರೋ ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is motivating / ಯಾರೂ ಪ್ರೇರೇಪಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is motivating / ಎಲ್ಲರೂ ಪ್ರೇರೇಪಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Mould / ಮೂಲೆ",
+    "forms": [
+      "I am moulding / ನಾನು ಮೂಲೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are moulding / ನೀನು ಮೂಲೆಯುತ್ತಿದ್ದೀಯ",
+      "We are moulding / ನಾವು ಮೂಲೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are moulding / ಅವರು ಮೂಲೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is moulding / ಅವನು ಮೂಲೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is moulding / ಅವಳು ಮೂಲೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is moulding / ಅದು ಮೂಲೆಯುತ್ತಿದೆ",
+      "The potter is moulding / ಕುಂಬಾರ ಮೂಲೆಯುತ್ತಿದ್ದಾನೆ",
+      "People are moulding / ಜನರು ಮೂಲೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is moulding / ಯಾರೋ ಮೂಲೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is moulding / ಯಾರೂ ಮೂಲೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is moulding / ಎಲ್ಲರೂ ಮೂಲೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Moult / ಕಳಚು",
+    "forms": [
+      "I am moulting / ನಾನು ಕಳಚುತ್ತಿದ್ದೇನೆ",
+      "You are moulting / ನೀನು ಕಳಚುತ್ತಿದ್ದೀಯ",
+      "We are moulting / ನಾವು ಕಳಚುತ್ತಿದ್ದೇವೆ",
+      "They are moulting / ಅವರು ಕಳಚುತ್ತಿದ್ದಾರೆ",
+      "He is moulting / ಅವನು ಕಳಚುತ್ತಿದ್ದಾನೆ",
+      "She is moulting / ಅವಳು ಕಳಚುತ್ತಿದ್ದಾಳೆ",
+      "It is moulting / ಅದು ಕಳಚುತ್ತಿದೆ",
+      "The bird is moulting / ಹಕ್ಕಿ ಕಳಚುತ್ತಿದೆ",
+      "People are moulting / ಜನರು ಕಳಚುತ್ತಿದ್ದಾರೆ",
+      "Someone is moulting / ಯಾರೋ ಕಳಚುತ್ತಿದ್ದಾರೆ",
+      "Nobody is moulting / ಯಾರೂ ಕಳಚುತ್ತಿಲ್ಲ",
+      "Everybody is moulting / ಎಲ್ಲರೂ ಕಳಚುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Move / ಚಲಿಸು",
+    "forms": [
+      "I am moving / ನಾನು ಚಲಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are moving / ನೀನು ಚಲಿಸುತ್ತಿದ್ದೀಯ",
+      "We are moving / ನಾವು ಚಲಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are moving / ಅವರು ಚಲಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is moving / ಅವನು ಚಲಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is moving / ಅವಳು ಚಲಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is moving / ಅದು ಚಲಿಸುತ್ತಿದೆ",
+      "The vehicle is moving / ವಾಹನ ಚಲಿಸುತ್ತಿದೆ",
+      "People are moving / ಜನರು ಚಲಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is moving / ಯಾರೋ ಚಲಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is moving / ಯಾರೂ ಚಲಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is moving / ಎಲ್ಲರೂ ಚಲಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Mow / ಕೊಯ್ಯು",
+    "forms": [
+      "I am mowing / ನಾನು ಕೊಯ್ಯುತ್ತಿದ್ದೇನೆ",
+      "You are mowing / ನೀನು ಕೊಯ್ಯುತ್ತಿದ್ದೀಯ",
+      "We are mowing / ನಾವು ಕೊಯ್ಯುತ್ತಿದ್ದೇವೆ",
+      "They are mowing / ಅವರು ಕೊಯ್ಯುತ್ತಿದ್ದಾರೆ",
+      "He is mowing / ಅವನು ಕೊಯ್ಯುತ್ತಿದ್ದಾನೆ",
+      "She is mowing / ಅವಳು ಕೊಯ್ಯುತ್ತಿದ್ದಾಳೆ",
+      "It is mowing / ಅದು ಕೊಯ್ಯುತ್ತಿದೆ",
+      "The farmer is mowing / ರೈತ ಕೊಯ್ಯುತ್ತಿದ್ದಾನೆ",
+      "People are mowing / ಜನರು ಕೊಯ್ಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is mowing / ಯಾರೋ ಕೊಯ್ಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is mowing / ಯಾರೂ ಕೊಯ್ಯುತ್ತಿಲ್ಲ",
+      "Everybody is mowing / ಎಲ್ಲರೂ ಕೊಯ್ಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Multiply / ಗುಣಿಸು",
+    "forms": [
+      "I am multiplying / ನಾನು ಗುಣಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are multiplying / ನೀನು ಗುಣಿಸುತ್ತಿದ್ದೀಯ",
+      "We are multiplying / ನಾವು ಗುಣಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are multiplying / ಅವರು ಗುಣಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is multiplying / ಅವನು ಗುಣಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is multiplying / ಅವಳು ಗುಣಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is multiplying / ಅದು ಗುಣಿಸುತ್ತಿದೆ",
+      "The student is multiplying / ವಿದ್ಯಾರ್ಥಿ ಗುಣಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are multiplying / ಜನರು ಗುಣಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is multiplying / ಯಾರೋ ಗುಣಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is multiplying / ಯಾರೂ ಗುಣಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is multiplying / ಎಲ್ಲರೂ ಗುಣಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Murmur / ಗುಣುಗುಣು",
+    "forms": [
+      "I am murmuring / ನಾನು ಗುಣುಗುಣುತ್ತಿದ್ದೇನೆ",
+      "You are murmuring / ನೀನು ಗುಣುಗುಣುತ್ತಿದ್ದೀಯ",
+      "We are murmuring / ನಾವು ಗುಣುಗುಣುತ್ತಿದ್ದೇವೆ",
+      "They are murmuring / ಅವರು ಗುಣುಗುಣುತ್ತಿದ್ದಾರೆ",
+      "He is murmuring / ಅವನು ಗುಣುಗುಣುತ್ತಿದ್ದಾನೆ",
+      "She is murmuring / ಅವಳು ಗುಣುಗುಣುತ್ತಿದ್ದಾಳೆ",
+      "It is murmuring / ಅದು ಗುಣುಗುಣುತ್ತಿದೆ",
+      "The child is murmuring / ಮಗು ಗುಣುಗುಣುತ್ತಿದೆ",
+      "People are murmuring / ಜನರು ಗುಣುಗುಣುತ್ತಿದ್ದಾರೆ",
+      "Someone is murmuring / ಯಾರೋ ಗುಣುಗುಣುತ್ತಿದ್ದಾರೆ",
+      "Nobody is murmuring / ಯಾರೂ ಗುಣುಗುಣುತ್ತಿಲ್ಲ",
+      "Everybody is murmuring / ಎಲ್ಲರೂ ಗುಣುಗುಣುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Nail / ಉಗುರು",
+    "forms": [
+      "I am nailing / ನಾನು ಉಗುರುವುತ್ತಿದ್ದೇನೆ",
+      "You are nailing / ನೀನು ಉಗುರುವುತ್ತಿದ್ದೀಯ",
+      "We are nailing / ನಾವು ಉಗುರುವುತ್ತಿದ್ದೇವೆ",
+      "They are nailing / ಅವರು ಉಗುರುವುತ್ತಿದ್ದಾರೆ",
+      "He is nailing / ಅವನು ಉಗುರುವುತ್ತಿದ್ದಾನೆ",
+      "She is nailing / ಅವಳು ಉಗುರುವುತ್ತಿದ್ದಾಳೆ",
+      "It is nailing / ಅದು ಉಗುರುವುತ್ತಿದೆ",
+      "The carpenter is nailing / ಸೂತ್ರದಾರ ಉಗುರುವುತ್ತಿದ್ದಾನೆ",
+      "People are nailing / ಜನರು ಉಗುರುವುತ್ತಿದ್ದಾರೆ",
+      "Someone is nailing / ಯಾರೋ ಉಗುರುವುತ್ತಿದ್ದಾರೆ",
+      "Nobody is nailing / ಯಾರೂ ಉಗುರುವುತ್ತಿಲ್ಲ",
+      "Everybody is nailing / ಎಲ್ಲರೂ ಉಗುರುವುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Nap / ತೂಕಡಿಸು",
+    "forms": [
+      "I am napping / ನಾನು ತೂಕಡಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are napping / ನೀನು ತೂಕಡಿಸುತ್ತಿದ್ದೀಯ",
+      "We are napping / ನಾವು ತೂಕಡಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are napping / ಅವರು ತೂಕಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is napping / ಅವನು ತೂಕಡಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is napping / ಅವಳು ತೂಕಡಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is napping / ಅದು ತೂಕಡಿಸುತ್ತಿದೆ",
+      "The baby is napping / ಮಗು ತೂಕಡಿಸುತ್ತಿದೆ",
+      "People are napping / ಜನರು ತೂಕಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is napping / ಯಾರೋ ತೂಕಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is napping / ಯಾರೂ ತೂಕಡಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is napping / ಎಲ್ಲರೂ ತೂಕಡಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Need / ಅಗತ್ಯವಾಗು",
+    "forms": [
+      "I am needing / ನಾನು ಅಗತ್ಯವಾಗುತ್ತಿದ್ದೇನೆ",
+      "You are needing / ನೀನು ಅಗತ್ಯವಾಗುತ್ತಿದ್ದೀಯ",
+      "We are needing / ನಾವು ಅಗತ್ಯವಾಗುತ್ತಿದ್ದೇವೆ",
+      "They are needing / ಅವರು ಅಗತ್ಯವಾಗುತ್ತಿದ್ದಾರೆ",
+      "He is needing / ಅವನು ಅಗತ್ಯವಾಗುತ್ತಿದ್ದಾನೆ",
+      "She is needing / ಅವಳು ಅಗತ್ಯವಾಗುತ್ತಿದ್ದಾಳೆ",
+      "It is needing / ಅದು ಅಗತ್ಯವಾಗುತ್ತಿದೆ",
+      "The patient is needing / ರೋಗಿ ಅಗತ್ಯವಾಗುತ್ತಿದ್ದಾನೆ",
+      "People are needing / ಜನರು ಅಗತ್ಯವಾಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is needing / ಯಾರೋ ಅಗತ್ಯವಾಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is needing / ಯಾರೂ ಅಗತ್ಯವಾಗುತ್ತಿಲ್ಲ",
+      "Everybody is needing / ಎಲ್ಲರೂ ಅಗತ್ಯವಾಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Neglect / ನಿರ್ಲಕ್ಷಿಸು",
+    "forms": [
+      "I am neglecting / ನಾನು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are neglecting / ನೀನು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದೀಯ",
+      "We are neglecting / ನಾವು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are neglecting / ಅವರು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is neglecting / ಅವನು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is neglecting / ಅವಳು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is neglecting / ಅದು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದೆ",
+      "The owner is neglecting / ಮಾಲೀಕ ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are neglecting / ಜನರು ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is neglecting / ಯಾರೋ ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is neglecting / ಯಾರೂ ನಿರ್ಲಕ್ಷಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is neglecting / ಎಲ್ಲರೂ ನಿರ್ಲಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Nip / ಕಚ್ಚು",
+    "forms": [
+      "I am nipping / ನಾನು ಕಚ್ಚುತ್ತಿದ್ದೇನೆ",
+      "You are nipping / ನೀನು ಕಚ್ಚುತ್ತಿದ್ದೀಯ",
+      "We are nipping / ನಾವು ಕಚ್ಚುತ್ತಿದ್ದೇವೆ",
+      "They are nipping / ಅವರು ಕಚ್ಚುತ್ತಿದ್ದಾರೆ",
+      "He is nipping / ಅವನು ಕಚ್ಚುತ್ತಿದ್ದಾನೆ",
+      "She is nipping / ಅವಳು ಕಚ್ಚುತ್ತಿದ್ದಾಳೆ",
+      "It is nipping / ಅದು ಕಚ್ಚುತ್ತಿದೆ",
+      "The dog is nipping / ನಾಯಿ ಕಚ್ಚುತ್ತಿದೆ",
+      "People are nipping / ಜನರು ಕಚ್ಚುತ್ತಿದ್ದಾರೆ",
+      "Someone is nipping / ಯಾರೋ ಕಚ್ಚುತ್ತಿದ್ದಾರೆ",
+      "Nobody is nipping / ಯಾರೂ ಕಚ್ಚುತ್ತಿಲ್ಲ",
+      "Everybody is nipping / ಎಲ್ಲರೂ ಕಚ್ಚುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Nod / ತಲೆದೂಗು",
+    "forms": [
+      "I am nodding / ನಾನು ತಲೆದೂಗುತ್ತಿದ್ದೇನೆ",
+      "You are nodding / ನೀನು ತಲೆದೂಗುತ್ತಿದ್ದೀಯ",
+      "We are nodding / ನಾವು ತಲೆದೂಗುತ್ತಿದ್ದೇವೆ",
+      "They are nodding / ಅವರು ತಲೆದೂಗುತ್ತಿದ್ದಾರೆ",
+      "He is nodding / ಅವನು ತಲೆದೂಗುತ್ತಿದ್ದಾನೆ",
+      "She is nodding / ಅವಳು ತಲೆದೂಗುತ್ತಿದ್ದಾಳೆ",
+      "It is nodding / ಅದು ತಲೆದೂಗುತ್ತಿದೆ",
+      "The teacher is nodding / ಶಿಕ್ಷಕ ತಲೆದೂಗುತ್ತಿದ್ದಾನೆ",
+      "People are nodding / ಜನರು ತಲೆದೂಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is nodding / ಯಾರೋ ತಲೆದೂಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is nodding / ಯಾರೂ ತಲೆದೂಗುತ್ತಿಲ್ಲ",
+      "Everybody is nodding / ಎಲ್ಲರೂ ತಲೆದೂಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Note / ಗಮನಿಸು",
+    "forms": [
+      "I am noting / ನಾನು ಗಮನಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are noting / ನೀನು ಗಮನಿಸುತ್ತಿದ್ದೀಯ",
+      "We are noting / ನಾವು ಗಮನಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are noting / ಅವರು ಗಮನಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is noting / ಅವನು ಗಮನಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is noting / ಅವಳು ಗಮನಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is noting / ಅದು ಗಮನಿಸುತ್ತಿದೆ",
+      "The student is noting / ವಿದ್ಯಾರ್ಥಿ ಗಮನಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are noting / ಜನರು ಗಮನಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is noting / ಯಾರೋ ಗಮನಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is noting / ಯಾರೂ ಗಮನಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is noting / ಎಲ್ಲರೂ ಗಮನಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Notice / ಗಮನಿಸು",
+    "forms": [
+      "I am noticing / ನಾನು ಗಮನಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are noticing / ನೀನು ಗಮನಿಸುತ್ತಿದ್ದೀಯ",
+      "We are noticing / ನಾವು ಗಮನಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are noticing / ಅವರು ಗಮನಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is noticing / ಅವನು ಗಮನಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is noticing / ಅವಳು ಗಮನಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is noticing / ಅದು ಗಮನಿಸುತ್ತಿದೆ",
+      "The guard is noticing / ಗಾರ್ಡ್ ಗಮನಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are noticing / ಜನರು ಗಮನಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is noticing / ಯಾರೋ ಗಮನಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is noticing / ಯಾರೂ ಗಮನಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is noticing / ಎಲ್ಲರೂ ಗಮನಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Notify / ತಿಳಿಸು",
+    "forms": [
+      "I am notifying / ನಾನು ತಿಳಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are notifying / ನೀನು ತಿಳಿಸುತ್ತಿದ್ದೀಯ",
+      "We are notifying / ನಾವು ತಿಳಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are notifying / ಅವರು ತಿಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is notifying / ಅವನು ತಿಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is notifying / ಅವಳು ತಿಳಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is notifying / ಅದು ತಿಳಿಸುತ್ತಿದೆ",
+      "The officer is notifying / ಅಧಿಕಾರಿ ತಿಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are notifying / ಜನರು ತಿಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is notifying / ಯಾರೋ ತಿಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is notifying / ಯಾರೂ ತಿಳಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is notifying / ಎಲ್ಲರೂ ತಿಳಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Nourish / ಪೋಷಿಸು",
+    "forms": [
+      "I am nourishing / ನಾನು ಪೋಷಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are nourishing / ನೀನು ಪೋಷಿಸುತ್ತಿದ್ದೀಯ",
+      "We are nourishing / ನಾವು ಪೋಷಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are nourishing / ಅವರು ಪೋಷಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is nourishing / ಅವನು ಪೋಷಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is nourishing / ಅವಳು ಪೋಷಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is nourishing / ಅದು ಪೋಷಿಸುತ್ತಿದೆ",
+      "The mother is nourishing / ತಾಯಿ ಪೋಷಿಸುತ್ತಿದ್ದಾಳೆ",
+      "People are nourishing / ಜನರು ಪೋಷಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is nourishing / ಯಾರೋ ಪೋಷಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is nourishing / ಯಾರೂ ಪೋಷಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is nourishing / ಎಲ್ಲರೂ ಪೋಷಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Nurse / ಸಾಕು",
+    "forms": [
+      "I am nursing / ನಾನು ಸಾಕುತ್ತಿದ್ದೇನೆ",
+      "You are nursing / ನೀನು ಸಾಕುತ್ತಿದ್ದೀಯ",
+      "We are nursing / ನಾವು ಸಾಕುತ್ತಿದ್ದೇವೆ",
+      "They are nursing / ಅವರು ಸಾಕುತ್ತಿದ್ದಾರೆ",
+      "He is nursing / ಅವನು ಸಾಕುತ್ತಿದ್ದಾನೆ",
+      "She is nursing / ಅವಳು ಸಾಕುತ್ತಿದ್ದಾಳೆ",
+      "It is nursing / ಅದು ಸಾಕುತ್ತಿದೆ",
+      "The nurse is nursing / ನರ್ಸ್ ಸಾಕುತ್ತಿದ್ದಾಳೆ",
+      "People are nursing / ಜನರು ಸಾಕುತ್ತಿದ್ದಾರೆ",
+      "Someone is nursing / ಯಾರೋ ಸಾಕುತ್ತಿದ್ದಾರೆ",
+      "Nobody is nursing / ಯಾರೂ ಸಾಕುತ್ತಿಲ್ಲ",
+      "Everybody is nursing / ಎಲ್ಲರೂ ಸಾಕುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Obey / ಪಾಲಿಸು",
+    "forms": [
+      "I am obeying / ನಾನು ಪಾಲಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are obeying / ನೀನು ಪಾಲಿಸುತ್ತಿದ್ದೀಯ",
+      "We are obeying / ನಾವು ಪಾಲಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are obeying / ಅವರು ಪಾಲಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is obeying / ಅವನು ಪಾಲಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is obeying / ಅವಳು ಪಾಲಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is obeying / ಅದು ಪಾಲಿಸುತ್ತಿದೆ",
+      "The child is obeying / ಮಗು ಪಾಲಿಸುತ್ತಿದೆ",
+      "People are obeying / ಜನರು ಪಾಲಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is obeying / ಯಾರೋ ಪಾಲಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is obeying / ಯಾರೂ ಪಾಲಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is obeying / ಎಲ್ಲರೂ ಪಾಲಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Oblige / ಕಡ್ಡಾಯಗೊಳಿಸು",
+    "forms": [
+      "I am obliging / ನಾನು ಕಡ್ಡಾಯಗೊಳಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are obliging / ನೀನು ಕಡ್ಡಾಯಗೊಳಿಸುತ್ತಿದ್ದೀಯ",
+      "We are obliging / ನಾವು ಕಡ್ಡಾಯಗೊಳಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are obliging / ಅವರು ಕಡ್ಡಾಯಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is obliging / ಅವನು ಕಡ್ಡಾಯಗೊಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is obliging / ಅವಳು ಕಡ್ಡಾಯಗೊಳಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is obliging / ಅದು ಕಡ್ಡಾಯಗೊಳಿಸುತ್ತಿದೆ",
+      "The law is obliging / ಕಾನೂನು ಕಡ್ಡಾಯಗೊಳಿಸುತ್ತಿದೆ",
+      "People are obliging / ಜನರು ಕಡ್ಡಾಯಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is obliging / ಯಾರೋ ಕಡ್ಡಾಯಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is obliging / ಯಾರೂ ಕಡ್ಡಾಯಗೊಳಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is obliging / ಎಲ್ಲರೂ ಕಡ್ಡಾಯಗೊಳಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Observe / ಗಮನಿಸು",
+    "forms": [
+      "I am observing / ನಾನು ಗಮನಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are observing / ನೀನು ಗಮನಿಸುತ್ತಿದ್ದೀಯ",
+      "We are observing / ನಾವು ಗಮನಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are observing / ಅವರು ಗಮನಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is observing / ಅವನು ಗಮನಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is observing / ಅವಳು ಗಮನಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is observing / ಅದು ಗಮನಿಸುತ್ತಿದೆ",
+      "The scientist is observing / ವಿಜ್ಞಾನಿ ಗಮನಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are observing / ಜನರು ಗಮನಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is observing / ಯಾರೋ ಗಮನಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is observing / ಯಾರೂ ಗಮನಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is observing / ಎಲ್ಲರೂ ಗಮನಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Obstruct / ಅಡ್ಡಿಮಾಡು",
+    "forms": [
+      "I am obstructing / ನಾನು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are obstructing / ನೀನು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are obstructing / ನಾವು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are obstructing / ಅವರು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is obstructing / ಅವನು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is obstructing / ಅವಳು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is obstructing / ಅದು ಅಡ್ಡಿಮಾಡುತ್ತಿದೆ",
+      "The police is obstructing / ಪೋಲೀಸ್ ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "People are obstructing / ಜನರು ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is obstructing / ಯಾರೋ ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is obstructing / ಯಾರೂ ಅಡ್ಡಿಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is obstructing / ಎಲ್ಲರೂ ಅಡ್ಡಿಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Obtain / ಪಡೆ",
+    "forms": [
+      "I am obtaining / ನಾನು ಪಡೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are obtaining / ನೀನು ಪಡೆಯುತ್ತಿದ್ದೀಯ",
+      "We are obtaining / ನಾವು ಪಡೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are obtaining / ಅವರು ಪಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is obtaining / ಅವನು ಪಡೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is obtaining / ಅವಳು ಪಡೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is obtaining / ಅದು ಪಡೆಯುತ್ತಿದೆ",
+      "The student is obtaining / ವಿದ್ಯಾರ್ಥಿ ಪಡೆಯುತ್ತಿದ್ದಾನೆ",
+      "People are obtaining / ಜನರು ಪಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is obtaining / ಯಾರೋ ಪಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is obtaining / ಯಾರೂ ಪಡೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is obtaining / ಎಲ್ಲರೂ ಪಡೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Occupy / ಆಕ್ರಮಿಸು",
+    "forms": [
+      "I am occupying / ನಾನು ಆಕ್ರಮಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are occupying / ನೀನು ಆಕ್ರಮಿಸುತ್ತಿದ್ದೀಯ",
+      "We are occupying / ನಾವು ಆಕ್ರಮಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are occupying / ಅವರು ಆಕ್ರಮಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is occupying / ಅವನು ಆಕ್ರಮಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is occupying / ಅವಳು ಆಕ್ರಮಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is occupying / ಅದು ಆಕ್ರಮಿಸುತ್ತಿದೆ",
+      "The army is occupying / ಸೈನ್ಯ ಆಕ್ರಮಿಸುತ್ತಿದೆ",
+      "People are occupying / ಜನರು ಆಕ್ರಮಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is occupying / ಯಾರೋ ಆಕ್ರಮಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is occupying / ಯಾರೂ ಆಕ್ರಮಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is occupying / ಎಲ್ಲರೂ ಆಕ್ರಮಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Occur / ಸಂಭವಿಸು",
+    "forms": [
+      "I am occurring / ನಾನು ಸಂಭವಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are occurring / ನೀನು ಸಂಭವಿಸುತ್ತಿದ್ದೀಯ",
+      "We are occurring / ನಾವು ಸಂಭವಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are occurring / ಅವರು ಸಂಭವಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is occurring / ಅವನು ಸಂಭವಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is occurring / ಅವಳು ಸಂಭವಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is occurring / ಅದು ಸಂಭವಿಸುತ್ತಿದೆ",
+      "The event is occurring / ಕಾರ್ಯಕ್ರಮ ಸಂಭವಿಸುತ್ತಿದೆ",
+      "People are occurring / ಜನರು ಸಂಭವಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is occurring / ಯಾರೋ ಸಂಭವಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is occurring / ಯಾರೂ ಸಂಭವಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is occurring / ಎಲ್ಲರೂ ಸಂಭವಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Offer / ನೀಡು",
+    "forms": [
+      "I am offering / ನಾನು ನೀಡುತ್ತಿದ್ದೇನೆ",
+      "You are offering / ನೀನು ನೀಡುತ್ತಿದ್ದೀಯ",
+      "We are offering / ನಾವು ನೀಡುತ್ತಿದ್ದೇವೆ",
+      "They are offering / ಅವರು ನೀಡುತ್ತಿದ್ದಾರೆ",
+      "He is offering / ಅವನು ನೀಡುತ್ತಿದ್ದಾನೆ",
+      "She is offering / ಅವಳು ನೀಡುತ್ತಿದ್ದಾಳೆ",
+      "It is offering / ಅದು ನೀಡುತ್ತಿದೆ",
+      "The company is offering / ಕಂಪನಿ ನೀಡುತ್ತಿದೆ",
+      "People are offering / ಜನರು ನೀಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is offering / ಯಾರೋ ನೀಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is offering / ಯಾರೂ ನೀಡುತ್ತಿಲ್ಲ",
+      "Everybody is offering / ಎಲ್ಲರೂ ನೀಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Offset / ತಿದ್ದುಪಡಿ ಮಾಡು",
+    "forms": [
+      "I am offsetting / ನಾನು ತಿದ್ದುಪಡಿ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are offsetting / ನೀನು ತಿದ್ದುಪಡಿ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are offsetting / ನಾವು ತಿದ್ದುಪಡಿ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are offsetting / ಅವರು ತಿದ್ದುಪಡಿ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is offsetting / ಅವನು ತಿದ್ದುಪಡಿ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is offsetting / ಅವಳು ತಿದ್ದುಪಡಿ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is offsetting / ಅದು ತಿದ್ದುಪಡಿ ಮಾಡುತ್ತಿದೆ",
+      "The accountant is offsetting / ಲೆಕ್ಕಿಗ ತಿದ್ದುಪಡಿ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are offsetting / ಜನರು ತಿದ್ದುಪಡಿ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is offsetting / ಯಾರೋ ತಿದ್ದುಪಡಿ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is offsetting / ಯಾರೂ ತಿದ್ದುಪಡಿ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is offsetting / ಎಲ್ಲರೂ ತಿದ್ದುಪಡಿ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Omit / ಬಿಟ್ಟುಬಿಡು",
+    "forms": [
+      "I am omitting / ನಾನು ಬಿಟ್ಟುಬಿಡುತ್ತಿದ್ದೇನೆ",
+      "You are omitting / ನೀನು ಬಿಟ್ಟುಬಿಡುತ್ತಿದ್ದೀಯ",
+      "We are omitting / ನಾವು ಬಿಟ್ಟುಬಿಡುತ್ತಿದ್ದೇವೆ",
+      "They are omitting / ಅವರು ಬಿಟ್ಟುಬಿಡುತ್ತಿದ್ದಾರೆ",
+      "He is omitting / ಅವನು ಬಿಟ್ಟುಬಿಡುತ್ತಿದ್ದಾನೆ",
+      "She is omitting / ಅವಳು ಬಿಟ್ಟುಬಿಡುತ್ತಿದ್ದಾಳೆ",
+      "It is omitting / ಅದು ಬಿಟ್ಟುಬಿಡುತ್ತಿದೆ",
+      "The editor is omitting / ಸಂಪಾದಕ ಬಿಟ್ಟುಬಿಡುತ್ತಿದ್ದಾನೆ",
+      "People are omitting / ಜನರು ಬಿಟ್ಟುಬಿಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is omitting / ಯಾರೋ ಬಿಟ್ಟುಬಿಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is omitting / ಯಾರೂ ಬಿಟ್ಟುಬಿಡುತ್ತಿಲ್ಲ",
+      "Everybody is omitting / ಎಲ್ಲರೂ ಬಿಟ್ಟುಬಿಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Ooze / ಸ್ರವಿಸು",
+    "forms": [
+      "I am oozing / ನಾನು ಸ್ರವಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are oozing / ನೀನು ಸ್ರವಿಸುತ್ತಿದ್ದೀಯ",
+      "We are oozing / ನಾವು ಸ್ರವಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are oozing / ಅವರು ಸ್ರವಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is oozing / ಅವನು ಸ್ರವಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is oozing / ಅವಳು ಸ್ರವಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is oozing / ಅದು ಸ್ರವಿಸುತ್ತಿದೆ",
+      "The wound is oozing / ಗಾಯ ಸ್ರವಿಸುತ್ತಿದೆ",
+      "People are oozing / ಜನರು ಸ್ರವಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is oozing / ಯಾರೋ ಸ್ರವಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is oozing / ಯಾರೂ ಸ್ರವಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is oozing / ಎಲ್ಲರೂ ಸ್ರವಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Open / ತೆರೆ",
+    "forms": [
+      "I am opening / ನಾನು ತೆರೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are opening / ನೀನು ತೆರೆಯುತ್ತಿದ್ದೀಯ",
+      "We are opening / ನಾವು ತೆರೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are opening / ಅವರು ತೆರೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is opening / ಅವನು ತೆರೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is opening / ಅವಳು ತೆರೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is opening / ಅದು ತೆರೆಯುತ್ತಿದೆ",
+      "The shop is opening / ಅಂಗಡಿ ತೆರೆಯುತ್ತಿದೆ",
+      "People are opening / ಜನರು ತೆರೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is opening / ಯಾರೋ ತೆರೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is opening / ಯಾರೂ ತೆರೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is opening / ಎಲ್ಲರೂ ತೆರೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Operate / ಕಾರ್ಯನಿರ್ವಹಿಸು",
+    "forms": [
+      "I am operating / ನಾನು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are operating / ನೀನು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದೀಯ",
+      "We are operating / ನಾವು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are operating / ಅವರು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is operating / ಅವನು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is operating / ಅವಳು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is operating / ಅದು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ",
+      "The machine is operating / ಯಂತ್ರ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ",
+      "People are operating / ಜನರು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is operating / ಯಾರೋ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is operating / ಯಾರೂ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is operating / ಎಲ್ಲರೂ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Opine / ಅಭಿಪ್ರಾಯ ತಿಳಿಸು",
+    "forms": [
+      "I am opining / ನಾನು ಅಭಿಪ್ರಾಯ ತಿಳಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are opining / ನೀನು ಅಭಿಪ್ರಾಯ ತಿಳಿಸುತ್ತಿದ್ದೀಯ",
+      "We are opining / ನಾವು ಅಭಿಪ್ರಾಯ ತಿಳಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are opining / ಅವರು ಅಭಿಪ್ರಾಯ ತಿಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is opining / ಅವನು ಅಭಿಪ್ರಾಯ ತಿಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is opining / ಅವಳು ಅಭಿಪ್ರಾಯ ತಿಳಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is opining / ಅದು ಅಭಿಪ್ರಾಯ ತಿಳಿಸುತ್ತಿದೆ",
+      "The expert is opining / ತಜ್ಞ ಅಭಿಪ್ರಾಯ ತಿಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are opining / ಜನರು ಅಭಿಪ್ರಾಯ ತಿಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is opining / ಯಾರೋ ಅಭಿಪ್ರಾಯ ತಿಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is opining / ಯಾರೂ ಅಭಿಪ್ರಾಯ ತಿಳಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is opining / ಎಲ್ಲರೂ ಅಭಿಪ್ರಾಯ ತಿಳಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Oppress / ಅತ್ಯಾಚಾರ ಮಾಡು",
+    "forms": [
+      "I am oppressing / ನಾನು ಅತ್ಯಾಚಾರ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are oppressing / ನೀನು ಅತ್ಯಾಚಾರ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are oppressing / ನಾವು ಅತ್ಯಾಚಾರ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are oppressing / ಅವರು ಅತ್ಯಾಚಾರ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is oppressing / ಅವನು ಅತ್ಯಾಚಾರ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is oppressing / ಅವಳು ಅತ್ಯಾಚಾರ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is oppressing / ಅದು ಅತ್ಯಾಚಾರ ಮಾಡುತ್ತಿದೆ",
+      "The ruler is oppressing / ಆಡಳಿತಗಾರ ಅತ್ಯಾಚಾರ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are oppressing / ಜನರು ಅತ್ಯಾಚಾರ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is oppressing / ಯಾರೋ ಅತ್ಯಾಚಾರ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is oppressing / ಯಾರೂ ಅತ್ಯಾಚಾರ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is oppressing / ಎಲ್ಲರೂ ಅತ್ಯಾಚಾರ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Opt / ಆಯ್ಕೆ ಮಾಡು",
+    "forms": [
+      "I am opting / ನಾನು ಆಯ್ಕೆ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are opting / ನೀನು ಆಯ್ಕೆ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are opting / ನಾವು ಆಯ್ಕೆ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are opting / ಅವರು ಆಯ್ಕೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is opting / ಅವನು ಆಯ್ಕೆ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is opting / ಅವಳು ಆಯ್ಕೆ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is opting / ಅದು ಆಯ್ಕೆ ಮಾಡುತ್ತಿದೆ",
+      "The customer is opting / ಗ್ರಾಹಕ ಆಯ್ಕೆ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are opting / ಜನರು ಆಯ್ಕೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is opting / ಯಾರೋ ಆಯ್ಕೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is opting / ಯಾರೂ ಆಯ್ಕೆ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is opting / ಎಲ್ಲರೂ ಆಯ್ಕೆ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Optimize / ಅತ್ಯುತ್ತಮಗೊಳಿಸು",
+    "forms": [
+      "I am optimizing / ನಾನು ಅತ್ಯುತ್ತಮಗೊಳಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are optimizing / ನೀನು ಅತ್ಯುತ್ತಮಗೊಳಿಸುತ್ತಿದ್ದೀಯ",
+      "We are optimizing / ನಾವು ಅತ್ಯುತ್ತಮಗೊಳಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are optimizing / ಅವರು ಅತ್ಯುತ್ತಮಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is optimizing / ಅವನು ಅತ್ಯುತ್ತಮಗೊಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is optimizing / ಅವಳು ಅತ್ಯುತ್ತಮಗೊಳಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is optimizing / ಅದು ಅತ್ಯುತ್ತಮಗೊಳಿಸುತ್ತಿದೆ",
+      "The engineer is optimizing / ಎಂಜಿನಿಯರ್ ಅತ್ಯುತ್ತಮಗೊಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are optimizing / ಜನರು ಅತ್ಯುತ್ತಮಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is optimizing / ಯಾರೋ ಅತ್ಯುತ್ತಮಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is optimizing / ಯಾರೂ ಅತ್ಯುತ್ತಮಗೊಳಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is optimizing / ಎಲ್ಲರೂ ಅತ್ಯುತ್ತಮಗೊಳಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Order / ಆದೇಶಿಸು",
+    "forms": [
+      "I am ordering / ನಾನು ಆದೇಶಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are ordering / ನೀನು ಆದೇಶಿಸುತ್ತಿದ್ದೀಯ",
+      "We are ordering / ನಾವು ಆದೇಶಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are ordering / ಅವರು ಆದೇಶಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is ordering / ಅವನು ಆದೇಶಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is ordering / ಅವಳು ಆದೇಶಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is ordering / ಅದು ಆದೇಶಿಸುತ್ತಿದೆ",
+      "The officer is ordering / ಅಧಿಕಾರಿ ಆದೇಶಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are ordering / ಜನರು ಆದೇಶಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is ordering / ಯಾರೋ ಆದೇಶಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is ordering / ಯಾರೂ ಆದೇಶಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is ordering / ಎಲ್ಲರೂ ಆದೇಶಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Organize / ಸಂಘಟಿಸು",
+    "forms": [
+      "I am organizing / ನಾನು ಸಂಘಟಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are organizing / ನೀನು ಸಂಘಟಿಸುತ್ತಿದ್ದೀಯ",
+      "We are organizing / ನಾವು ಸಂಘಟಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are organizing / ಅವರು ಸಂಘಟಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is organizing / ಅವನು ಸಂಘಟಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is organizing / ಅವಳು ಸಂಘಟಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is organizing / ಅದು ಸಂಘಟಿಸುತ್ತಿದೆ",
+      "The manager is organizing / ಮ್ಯಾನೇಜರ್ ಸಂಘಟಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are organizing / ಜನರು ಸಂಘಟಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is organizing / ಯಾರೋ ಸಂಘಟಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is organizing / ಯಾರೂ ಸಂಘಟಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is organizing / ಎಲ್ಲರೂ ಸಂಘಟಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Originate / ಹುಟ್ಟುಹಾಕು",
+    "forms": [
+      "I am originating / ನಾನು ಹುಟ್ಟುಹಾಕುತ್ತಿದ್ದೇನೆ",
+      "You are originating / ನೀನು ಹುಟ್ಟುಹಾಕುತ್ತಿದ್ದೀಯ",
+      "We are originating / ನಾವು ಹುಟ್ಟುಹಾಕುತ್ತಿದ್ದೇವೆ",
+      "They are originating / ಅವರು ಹುಟ್ಟುಹಾಕುತ್ತಿದ್ದಾರೆ",
+      "He is originating / ಅವನು ಹುಟ್ಟುಹಾಕುತ್ತಿದ್ದಾನೆ",
+      "She is originating / ಅವಳು ಹುಟ್ಟುಹಾಕುತ್ತಿದ್ದಾಳೆ",
+      "It is originating / ಅದು ಹುट್ಟುಹಾಕುತ್ತಿದೆ",
+      "The artist is originating / ಕಲಾವಿದ ಹುಟ್ಟುಹಾಕುತ್ತಿದ್ದಾನೆ",
+      "People are originating / ಜನರು ಹುಟ್ಟುಹಾಕುತ್ತಿದ್ದಾರೆ",
+      "Someone is originating / ಯಾರೋ ಹುಟ್ಟುಹಾಕುತ್ತಿದ್ದಾರೆ",
+      "Nobody is originating / ಯಾರೂ ಹುಟ್ಟುಹಾಕುತ್ತಿಲ್ಲ",
+      "Everybody is originating / ಎಲ್ಲರೂ ಹುಟ್ಟುಹಾಕುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Output / ಉತ್ಪಾದಿಸು",
+    "forms": [
+      "I am outputting / ನಾನು ಉತ್ಪಾದಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are outputting / ನೀನು ಉತ್ಪಾದಿಸುತ್ತಿದ್ದೀಯ",
+      "We are outputting / ನಾವು ಉತ್ಪಾದಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are outputting / ಅವರು ಉತ್ಪಾದಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is outputting / ಅವನು ಉತ್ಪಾದಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is outputting / ಅವಳು ಉತ್ಪಾದಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is outputting / ಅದು ಉತ್ಪಾದಿಸುತ್ತಿದೆ",
+      "The factory is outputting / ಕಾರ್ಖಾನೆ ಉತ್ಪಾದಿಸುತ್ತಿದೆ",
+      "People are outputting / ಜನರು ಉತ್ಪಾದಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is outputting / ಯಾರೋ ಉತ್ಪಾದಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is outputting / ಯಾರೂ ಉತ್ಪಾದಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is outputting / ಎಲ್ಲರೂ ಉತ್ಪಾದಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Overflow / ತುಂಬಿ ಹರಿ",
+    "forms": [
+      "I am overflowing / ನಾನು ತುಂಬಿ ಹರಿಯುತ್ತಿದ್ದೇನೆ",
+      "You are overflowing / ನೀನು ತುಂಬಿ ಹರಿಯುತ್ತಿದ್ದೀಯ",
+      "We are overflowing / ನಾವು ತುಂಬಿ ಹರಿಯುತ್ತಿದ್ದೇವೆ",
+      "They are overflowing / ಅವರು ತುಂಬಿ ಹರಿಯುತ್ತಿದ್ದಾರೆ",
+      "He is overflowing / ಅವನು ತುಂಬಿ ಹರಿಯುತ್ತಿದ್ದಾನೆ",
+      "She is overflowing / ಅವಳು ತುಂಬಿ ಹರಿಯುತ್ತಿದ್ದಾಳೆ",
+      "It is overflowing / ಅದು ತುಂಬಿ ಹರಿಯುತ್ತಿದೆ",
+      "The river is overflowing / ನದಿ ತುಂಬಿ ಹರಿಯುತ್ತಿದೆ",
+      "People are overflowing / ಜನರು ತುಂಬಿ ಹರಿಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is overflowing / ಯಾರೋ ತುಂಬಿ ಹರಿಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is overflowing / ಯಾರೂ ತುಂಬಿ ಹರಿಯುತ್ತಿಲ್ಲ",
+      "Everybody is overflowing / ಎಲ್ಲರೂ ತುಂಬಿ ಹರಿಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Overtake / ಮುಂದೆ ಹೋಗು",
+    "forms": [
+      "I am overtaking / ನಾನು ಮುಂದೆ ಹೋಗುತ್ತಿದ್ದೇನೆ",
+      "You are overtaking / ನೀನು ಮುಂದೆ ಹೋಗುತ್ತಿದ್ದೀಯ",
+      "We are overtaking / ನಾವು ಮುಂದೆ ಹೋಗುತ್ತಿದ್ದೇವೆ",
+      "They are overtaking / ಅವರು ಮುಂದೆ ಹೋಗುತ್ತಿದ್ದಾರೆ",
+      "He is overtaking / ಅವನು ಮುಂದೆ ಹೋಗುತ್ತಿದ್ದಾನೆ",
+      "She is overtaking / ಅವಳು ಮುಂದೆ ಹೋಗುತ್ತಿದ್ದಾಳೆ",
+      "It is overtaking / ಅದು ಮುಂದೆ ಹೋಗುತ್ತಿದೆ",
+      "The car is overtaking / ಕಾರು ಮುಂದೆ ಹೋಗುತ್ತಿದೆ",
+      "People are overtaking / ಜನರು ಮುಂದೆ ಹೋಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is overtaking / ಯಾರೋ ಮುಂದೆ ಹೋಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is overtaking / ಯಾರೂ ಮುಂದೆ ಹೋಗುತ್ತಿಲ್ಲ",
+      "Everybody is overtaking / ಎಲ್ಲರೂ ಮುಂದೆ ಹೋಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Owe / ಬಾಕಿ ಹೊಂದು",
+    "forms": [
+      "I am owing / ನಾನು ಬಾಕಿ ಹೊಂದುತ್ತಿದ್ದೇನೆ",
+      "You are owing / ನೀನು ಬಾಕಿ ಹೊಂದುತ್ತಿದ್ದೀಯ",
+      "We are owing / ನಾವು ಬಾಕಿ ಹೊಂದುತ್ತಿದ್ದೇವೆ",
+      "They are owing / ಅವರು ಬಾಕಿ ಹೊಂದುತ್ತಿದ್ದಾರೆ",
+      "He is owing / ಅವನು ಬಾಕಿ ಹೊಂದುತ್ತಿದ್ದಾನೆ",
+      "She is owing / ಅವಳು ಬಾಕಿ ಹೊಂದುತ್ತಿದ್ದಾಳೆ",
+      "It is owing / ಅದು ಬಾಕಿ ಹೊಂದುತ್ತಿದೆ",
+      "The customer is owing / ಗ್ರಾಹಕ ಬಾಕಿ ಹೊಂದುತ್ತಿದ್ದಾನೆ",
+      "People are owing / ಜನರು ಬಾಕಿ ಹೊಂದುತ್ತಿದ್ದಾರೆ",
+      "Someone is owing / ಯಾರೋ ಬಾಕಿ ಹೊಂದುತ್ತಿದ್ದಾರೆ",
+      "Nobody is owing / ಯಾರೂ ಬಾಕಿ ಹೊಂದುತ್ತಿಲ್ಲ",
+      "Everybody is owing / ಎಲ್ಲರೂ ಬಾಕಿ ಹೊಂದುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Own / ಹೊಂದು",
+    "forms": [
+      "I am owning / ನಾನು ಹೊಂದುತ್ತಿದ್ದೇನೆ",
+      "You are owning / ನೀನು ಹೊಂದುತ್ತಿದ್ದೀಯ",
+      "We are owning / ನಾವು ಹೊಂದುತ್ತಿದ್ದೇವೆ",
+      "They are owning / ಅವರು ಹೊಂದುತ್ತಿದ್ದಾರೆ",
+      "He is owning / ಅವನು ಹೊಂದುತ್ತಿದ್ದಾನೆ",
+      "She is owning / ಅವಳು ಹೊಂದುತ್ತಿದ್ದಾಳೆ",
+      "It is owning / ಅದು ಹೊಂದುತ್ತಿದೆ",
+      "The landlord is owning / ಜಮೀನ್ದಾರ ಹೊಂದುತ್ತಿದ್ದಾನೆ",
+      "People are owning / ಜನರು ಹೊಂದುತ್ತಿದ್ದಾರೆ",
+      "Someone is owning / ಯಾರೋ ಹೊಂದುತ್ತಿದ್ದಾರೆ",
+      "Nobody is owning / ಯಾರೂ ಹೊಂದುತ್ತಿಲ್ಲ",
+      "Everybody is owning / ಎಲ್ಲರೂ ಹೊಂದುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Pacify / ಶಾಂತಗೊಳಿಸು",
+    "forms": [
+      "I am pacifying / ನಾನು ಶಾಂತಗೊಳಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are pacifying / ನೀನು ಶಾಂತಗೊಳಿಸುತ್ತಿದ್ದೀಯ",
+      "We are pacifying / ನಾವು ಶಾಂತಗೊಳಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are pacifying / ಅವರು ಶಾಂತಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is pacifying / ಅವನು ಶಾಂತಗೊಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is pacifying / ಅವಳು ಶಾಂತಗೊಳಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is pacifying / ಅದು ಶಾಂತಗೊಳಿಸುತ್ತಿದೆ",
+      "The mediator is pacifying / ಮಧ್ಯಸ್ಥ ಶಾಂತಗೊಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are pacifying / ಜನರು ಶಾಂತಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is pacifying / ಯಾರೋ ಶಾಂತಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is pacifying / ಯಾರೂ ಶಾಂತಗೊಳಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is pacifying / ಎಲ್ಲರೂ ಶಾಂತಗೊಳಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Paint / ಬಣ್ಣ ಬಳಿ",
+    "forms": [
+      "I am painting / ನಾನು ಬಣ್ಣ ಬಳಿಯುತ್ತಿದ್ದೇನೆ",
+      "You are painting / ನೀನು ಬಣ್ಣ ಬಳಿಯುತ್ತಿದ್ದೀಯ",
+      "We are painting / ನಾವು ಬಣ್ಣ ಬಳಿಯುತ್ತಿದ್ದೇವೆ",
+      "They are painting / ಅವರು ಬಣ್ಣ ಬಳಿಯುತ್ತಿದ್ದಾರೆ",
+      "He is painting / ಅವನು ಬಣ್ಣ ಬಳಿಯುತ್ತಿದ್ದಾನೆ",
+      "She is painting / ಅವಳು ಬಣ್ಣ ಬಳಿಯುತ್ತಿದ್ದಾಳೆ",
+      "It is painting / ಅದು ಬಣ್ಣ ಬಳಿಯುತ್ತಿದೆ",
+      "The artist is painting / ಕಲಾವಿದ ಬಣ್ಣ ಬಳಿಯುತ್ತಿದ್ದಾನೆ",
+      "People are painting / ಜನರು ಬಣ್ಣ ಬಳಿಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is painting / ಯಾರೋ ಬಣ್ಣ ಬಳಿಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is painting / ಯಾರೂ ಬಣ್ಣ ಬಳಿಯುತ್ತಿಲ್ಲ",
+      "Everybody is painting / ಎಲ್ಲರೂ ಬಣ್ಣ ಬಳಿಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Pardon / ಕ್ಷಮಿಸು",
+    "forms": [
+      "I am pardoning / ನಾನು ಕ್ಷಮಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are pardoning / ನೀನು ಕ್ಷಮಿಸುತ್ತಿದ್ದೀಯ",
+      "We are pardoning / ನಾವು ಕ್ಷಮಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are pardoning / ಅವರು ಕ್ಷಮಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is pardoning / ಅವನು ಕ್ಷಮಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is pardoning / ಅವಳು ಕ್ಷಮಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is pardoning / ಅದು ಕ್ಷಮಿಸುತ್ತಿದೆ",
+      "The judge is pardoning / ನ್ಯಾಯಾಧೀಶ ಕ್ಷಮಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are pardoning / ಜನರು ಕ್ಷಮಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is pardoning / ಯಾರೋ ಕ್ಷಮಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is pardoning / ಯಾರೂ ಕ್ಷಮಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is pardoning / ಎಲ್ಲರೂ ಕ್ಷಮಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Part / ಭಾಗ",
+    "forms": [
+      "I am parting / ನಾನು ಭಾಗ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are parting / ನೀನು ಭಾಗ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are parting / ನಾವು ಭಾಗ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are parting / ಅವರು ಭಾಗ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is parting / ಅವನು ಭಾಗ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is parting / ಅವಳು ಭಾಗ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is parting / ಅದು ಭಾಗ ಮಾಡುತ್ತಿದೆ",
+      "The crowd is parting / ಜನಸಂದಣಿ ಭಾಗವಾಗುತ್ತಿದೆ",
+      "People are parting / ಜನರು ಭಾಗ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is parting / ಯಾರೋ ಭಾಗ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is parting / ಯಾರೂ ಭಾಗ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is parting / ಎಲ್ಲರೂ ಭಾಗ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Partake / ಪಾಲ್ಗೊಳ್ಳು",
+    "forms": [
+      "I am partaking / ನಾನು ಪಾಲ್ಗೊಳ್ಳುತ್ತಿದ್ದೇನೆ",
+      "You are partaking / ನೀನು ಪಾಲ್ಗೊಳ್ಳುತ್ತಿದ್ದೀಯ",
+      "We are partaking / ನಾವು ಪಾಲ್ಗೊಳ್ಳುತ್ತಿದ್ದೇವೆ",
+      "They are partaking / ಅವರು ಪಾಲ್ಗೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "He is partaking / ಅವನು ಪಾಲ್ಗೊಳ್ಳುತ್ತಿದ್ದಾನೆ",
+      "She is partaking / ಅವಳು ಪಾಲ್ಗೊಳ್ಳುತ್ತಿದ್ದಾಳೆ",
+      "It is partaking / ಅದು ಪಾಲ್ಗೊಳ್ಳುತ್ತಿದೆ",
+      "The guest is partaking / ಅತಿಥಿ ಪಾಲ್ಗೊಳ್ಳುತ್ತಿದ್ದಾನೆ",
+      "People are partaking / ಜನರು ಪಾಲ್ಗೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Someone is partaking / ಯಾರೋ ಪಾಲ್ಗೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Nobody is partaking / ಯಾರೂ ಪಾಲ್ಗೊಳ್ಳುತ್ತಿಲ್ಲ",
+      "Everybody is partaking / ಎಲ್ಲರೂ ಪಾಲ್ಗೊಳ್ಳುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Participate / ಭಾಗವಹಿಸು",
+    "forms": [
+      "I am participating / ನಾನು ಭಾಗವಹಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are participating / ನೀನು ಭಾಗವಹಿಸುತ್ತಿದ್ದೀಯ",
+      "We are participating / ನಾವು ಭಾಗವಹಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are participating / ಅವರು ಭಾಗವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is participating / ಅವನು ಭಾಗವಹಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is participating / ಅವಳು ಭಾಗವಹಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is participating / ಅದು ಭಾಗವಹಿಸುತ್ತಿದೆ",
+      "The student is participating / ವಿದ್ಯಾರ್ಥಿ ಭಾಗವಹಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are participating / ಜನರು ಭಾಗವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is participating / ಯಾರೋ ಭಾಗವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is participating / ಯಾರೂ ಭಾಗವಹಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is participating / ಎಲ್ಲರೂ ಭಾಗವಹಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Pass / ಹಾದುಹೋಗು",
+    "forms": [
+      "I am passing / ನಾನು ಹಾದುಹೋಗುತ್ತಿದ್ದೇನೆ",
+      "You are passing / ನೀನು ಹಾದುಹೋಗುತ್ತಿದ್ದೀಯ",
+      "We are passing / ನಾವು ಹಾದುಹೋಗುತ್ತಿದ್ದೇವೆ",
+      "They are passing / ಅವರು ಹಾದುಹೋಗುತ್ತಿದ್ದಾರೆ",
+      "He is passing / ಅವನು ಹಾದುಹೋಗುತ್ತಿದ್ದಾನೆ",
+      "She is passing / ಅವಳು ಹಾದುಹೋಗುತ್ತಿದ್ದಾಳೆ",
+      "It is passing / ಅದು ಹಾದುಹೋಗುತ್ತಿದೆ",
+      "The car is passing / ಕಾರು ಹಾದುಹೋಗುತ್ತಿದೆ",
+      "People are passing / ಜನರು ಹಾದುಹೋಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is passing / ಯಾರೋ ಹಾದುಹೋಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is passing / ಯಾರೂ ಹಾದುಹೋಗುತ್ತಿಲ್ಲ",
+      "Everybody is passing / ಎಲ್ಲರೂ ಹಾದುಹೋಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Paste / ಅಂಟಿಸು",
+    "forms": [
+      "I am pasting / ನಾನು ಅಂಟಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are pasting / ನೀನು ಅಂಟಿಸುತ್ತಿದ್ದೀಯ",
+      "We are pasting / ನಾವು ಅಂಟಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are pasting / ಅವರು ಅಂಟಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is pasting / ಅವನು ಅಂಟಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is pasting / ಅವಳು ಅಂಟಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is pasting / ಅದು ಅಂಟಿಸುತ್ತಿದೆ",
+      "The child is pasting / ಮಗು ಅಂಟಿಸುತ್ತಿದೆ",
+      "People are pasting / ಜನರು ಅಂಟಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is pasting / ಯಾರೋ ಅಂಟಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is pasting / ಯಾರೂ ಅಂಟಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is pasting / ಎಲ್ಲರೂ ಅಂಟಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Pat / ತಟ್ಟು",
+    "forms": [
+      "I am patting / ನಾನು ತಟ್ಟುತ್ತಿದ್ದೇನೆ",
+      "You are patting / ನೀನು ತಟ್ಟುತ್ತಿದ್ದೀಯ",
+      "We are patting / ನಾವು ತಟ್ಟುತ್ತಿದ್ದೇವೆ",
+      "They are patting / ಅವರು ತಟ್ಟುತ್ತಿದ್ದಾರೆ",
+      "He is patting / ಅವನು ತಟ್ಟುತ್ತಿದ್ದಾನೆ",
+      "She is patting / ಅವಳು ತಟ್ಟುತ್ತಿದ್ದಾಳೆ",
+      "It is patting / ಅದು ತಟ್ಟುತ್ತಿದೆ",
+      "The mother is patting / ತಾಯಿ ತಟ್ಟುತ್ತಿದ್ದಾಳೆ",
+      "People are patting / ಜನರು ತಟ್ಟುತ್ತಿದ್ದಾರೆ",
+      "Someone is patting / ಯಾರೋ ತಟ್ಟುತ್ತಿದ್ದಾರೆ",
+      "Nobody is patting / ಯಾರೂ ತಟ್ಟುತ್ತಿಲ್ಲ",
+      "Everybody is patting / ಎಲ್ಲರೂ ತಟ್ಟುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Patch / ಒತ್ತು",
+    "forms": [
+      "I am patching / ನಾನು ಒತ್ತುತ್ತಿದ್ದೇನೆ",
+      "You are patching / ನೀನು ಒತ್ತುತ್ತಿದ್ದೀಯ",
+      "We are patching / ನಾವು ಒತ್ತುತ್ತಿದ್ದೇವೆ",
+      "They are patching / ಅವರು ಒತ್ತುತ್ತಿದ್ದಾರೆ",
+      "He is patching / ಅವನು ಒತ್ತುತ್ತಿದ್ದಾನೆ",
+      "She is patching / ಅವಳು ಒತ್ತುತ್ತಿದ್ದಾಳೆ",
+      "It is patching / ಅದು ಒತ್ತುತ್ತಿದೆ",
+      "The tailor is patching / ದರ್ಜಿ ಒತ್ತುತ್ತಿದ್ದಾನೆ",
+      "People are patching / ಜನರು ಒತ್ತುತ್ತಿದ್ದಾರೆ",
+      "Someone is patching / ಯಾರೋ ಒತ್ತುತ್ತಿದ್ದಾರೆ",
+      "Nobody is patching / ಯಾರೂ ಒತ್ತುತ್ತಿಲ್ಲ",
+      "Everybody is patching / ಎಲ್ಲರೂ ಒತ್ತುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Pause / ವಿರಾಮ ತೆಗೆ",
+    "forms": [
+      "I am pausing / ನಾನು ವಿರಾಮ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದೇನೆ",
+      "You are pausing / ನೀನು ವಿರಾಮ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದೀಯ",
+      "We are pausing / ನಾವು ವಿರಾಮ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದೇವೆ",
+      "They are pausing / ಅವರು ವಿರಾಮ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "He is pausing / ಅವನು ವಿರಾಮ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದಾನೆ",
+      "She is pausing / ಅವಳು ವಿರಾಮ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದಾಳೆ",
+      "It is pausing / ಅದು ವಿರಾಮ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದೆ",
+      "The speaker is pausing / ಸ್ಪೀಕರ್ ವಿರಾಮ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದಾನೆ",
+      "People are pausing / ಜನರು ವಿರಾಮ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Someone is pausing / ಯಾರೋ ವಿರಾಮ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",
+      "Nobody is pausing / ಯಾರೂ ವಿರಾಮ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿಲ್ಲ",
+      "Everybody is pausing / ಎಲ್ಲರೂ ವಿರಾಮ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Pay / ಪಾವತಿಸು",
+    "forms": [
+      "I am paying / ನಾನು ಪಾವತಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are paying / ನೀನು ಪಾವತಿಸುತ್ತಿದ್ದೀಯ",
+      "We are paying / ನಾವು ಪಾವತಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are paying / ಅವರು ಪಾವತಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is paying / ಅವನು ಪಾವತಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is paying / ಅವಳು ಪಾವತಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is paying / ಅದು ಪಾವತಿಸುತ್ತಿದೆ",
+      "The customer is paying / ಗ್ರಾಹಕ ಪಾವತಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are paying / ಜನರು ಪಾವತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is paying / ಯಾರೋ ಪಾವತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is paying / ಯಾರೂ ಪಾವತಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is paying / ಎಲ್ಲರೂ ಪಾವತಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Peep / ಕಣ್ಣಾಡಿಸು",
+    "forms": [
+      "I am peeping / ನಾನು ಕಣ್ಣಾಡಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are peeping / ನೀನು ಕಣ್ಣಾಡಿಸುತ್ತಿದ್ದೀಯ",
+      "We are peeping / ನಾವು ಕಣ್ಣಾಡಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are peeping / ಅವರು ಕಣ್ಣಾಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is peeping / ಅವನು ಕಣ್ಣಾಡಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is peeping / ಅವಳು ಕಣ್ಣಾಡಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is peeping / ಅದು ಕಣ್ಣಾಡಿಸುತ್ತಿದೆ",
+      "The child is peeping / ಮಗು ಕಣ್ಣಾಡಿಸುತ್ತಿದೆ",
+      "People are peeping / ಜನರು ಕಣ್ಣಾಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is peeping / ಯಾರೋ ಕಣ್ಣಾಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is peeping / ಯಾರೂ ಕಣ್ಣಾಡಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is peeping / ಎಲ್ಲರೂ ಕಣ್ಣಾಡಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Perish / ನಾಶವಾಗು",
+    "forms": [
+      "I am perishing / ನಾನು ನಾಶವಾಗುತ್ತಿದ್ದೇನೆ",
+      "You are perishing / ನೀನು ನಾಶವಾಗುತ್ತಿದ್ದೀಯ",
+      "We are perishing / ನಾವು ನಾಶವಾಗುತ್ತಿದ್ದೇವೆ",
+      "They are perishing / ಅವರು ನಾಶವಾಗುತ್ತಿದ್ದಾರೆ",
+      "He is perishing / ಅವನು ನಾಶವಾಗುತ್ತಿದ್ದಾನೆ",
+      "She is perishing / ಅವಳು ನಾಶವಾಗುತ್ತಿದ್ದಾಳೆ",
+      "It is perishing / ಅದು ನಾಶವಾಗುತ್ತಿದೆ",
+      "The plant is perishing / ಸಸ್ಯ ನಾಶವಾಗುತ್ತಿದೆ",
+      "People are perishing / ಜನರು ನಾಶವಾಗುತ್ತಿದ್ದಾರೆ",
+      "Someone is perishing / ಯಾರೋ ನಾಶವಾಗುತ್ತಿದ್ದಾರೆ",
+      "Nobody is perishing / ಯಾರೂ ನಾಶವಾಗುತ್ತಿಲ್ಲ",
+      "Everybody is perishing / ಎಲ್ಲರೂ ನಾಶವಾಗುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Permit / ಅನುಮತಿಸು",
+    "forms": [
+      "I am permitting / ನಾನು ಅನುಮತಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are permitting / ನೀನು ಅನುಮತಿಸುತ್ತಿದ್ದೀಯ",
+      "We are permitting / ನಾವು ಅನುಮತಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are permitting / ಅವರು ಅನುಮತಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is permitting / ಅವನು ಅನುಮತಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is permitting / ಅವಳು ಅನುಮತಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is permitting / ಅದು ಅನುಮತಿಸುತ್ತಿದೆ",
+      "The officer is permitting / ಅಧಿಕಾರಿ ಅನುಮತಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are permitting / ಜನರು ಅನುಮತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is permitting / ಯಾರೋ ಅನುಮತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is permitting / ಯಾರೂ ಅನುಮತಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is permitting / ಎಲ್ಲರೂ ಅನುಮತಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Persuade / ಒಪ್ಪಿಸು",
+    "forms": [
+      "I am persuading / ನಾನು ಒಪ್ಪಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are persuading / ನೀನು ಒಪ್ಪಿಸುತ್ತಿದ್ದೀಯ",
+      "We are persuading / ನಾವು ಒಪ್ಪಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are persuading / ಅವರು ಒಪ್ಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is persuading / ಅವನು ಒಪ್ಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is persuading / ಅವಳು ಒಪ್ಪಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is persuading / ಅದು ಒಪ್ಪಿಸುತ್ತಿದೆ",
+      "The salesman is persuading / ಮಾರಾಟಗಾರ ಒಪ್ಪಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are persuading / ಜನರು ಒಪ್ಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is persuading / ಯಾರೋ ಒಪ್ಪಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is persuading / ಯಾರೂ ಒಪ್ಪಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is persuading / ಎಲ್ಲರೂ ಒಪ್ಪಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Phone / ಫೋನ್ ಮಾಡು",
+    "forms": [
+      "I am phoning / ನಾನು ಫೋನ್ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are phoning / ನೀನು ಫೋನ್ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are phoning / ನಾವು ಫೋನ್ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are phoning / ಅವರು ಫೋನ್ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is phoning / ಅವನು ಫೋನ್ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is phoning / ಅವಳು ಫೋನ್ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is phoning / ಅದು ಫೋನ್ ಮಾಡುತ್ತಿದೆ",
+      "The caller is phoning / ಕರೆ ಮಾಡುವವನು ಫೋನ್ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are phoning / ಜನರು ಫೋನ್ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is phoning / ಯಾರೋ ಫೋನ್ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is phoning / ಯಾರೂ ಫೋನ್ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is phoning / ಎಲ್ಲರೂ ಫೋನ್ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Place / ಇಡು",
+    "forms": [
+      "I am placing / ನಾನು ಇಡುತ್ತಿದ್ದೇನೆ",
+      "You are placing / ನೀನು ಇಡುತ್ತಿದ್ದೀಯ",
+      "We are placing / ನಾವು ಇಡುತ್ತಿದ್ದೇವೆ",
+      "They are placing / ಅವರು ಇಡುತ್ತಿದ್ದಾರೆ",
+      "He is placing / ಅವನು ಇಡುತ್ತಿದ್ದಾನೆ",
+      "She is placing / ಅವಳು ಇಡುತ್ತಿದ್ದಾಳೆ",
+      "It is placing / ಅದು ಇಡುತ್ತಿದೆ",
+      "The worker is placing / ಕಾರ್ಮಿಕ ಇಡುತ್ತಿದ್ದಾನೆ",
+      "People are placing / ಜನರು ಇಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is placing / ಯಾರೋ ಇಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is placing / ಯಾರೂ ಇಡುತ್ತಿಲ್ಲ",
+      "Everybody is placing / ಎಲ್ಲರೂ ಇಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Plan / ಯೋಜಿಸು",
+    "forms": [
+      "I am planning / ನಾನು ಯೋಜಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are planning / ನೀನು ಯೋಜಿಸುತ್ತಿದ್ದೀಯ",
+      "We are planning / ನಾವು ಯೋಜಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are planning / ಅವರು ಯೋಜಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is planning / ಅವನು ಯೋಜಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is planning / ಅವಳು ಯೋಜಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is planning / ಅದು ಯೋಜಿಸುತ್ತಿದೆ",
+      "The manager is planning / ಮ್ಯಾನೇಜರ್ ಯೋಜಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are planning / ಜನರು ಯೋಜಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is planning / ಯಾರೋ ಯೋಜಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is planning / ಯಾರೂ ಯೋಜಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is planning / ಎಲ್ಲರೂ ಯೋಜಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Play / ಆಡು",
+    "forms": [
+      "I am playing / ನಾನು ಆಡುತ್ತಿದ್ದೇನೆ",
+      "You are playing / ನೀನು ಆಡುತ್ತಿದ್ದೀಯ",
+      "We are playing / ನಾವು ಆಡುತ್ತಿದ್ದೇವೆ",
+      "They are playing / ಅವರು ಆಡುತ್ತಿದ್ದಾರೆ",
+      "He is playing / ಅವನು ಆಡುತ್ತಿದ್ದಾನೆ",
+      "She is playing / ಅವಳು ಆಡುತ್ತಿದ್ದಾಳೆ",
+      "It is playing / ಅದು ಆಡುತ್ತಿದೆ",
+      "The child is playing / ಮಗು ಆಡುತ್ತಿದೆ",
+      "People are playing / ಜನರು ಆಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is playing / ಯಾರೋ ಆಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is playing / ಯಾರೂ ಆಡುತ್ತಿಲ್ಲ",
+      "Everybody is playing / ಎಲ್ಲರೂ ಆಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Plead / ವಿನಂತಿಸು",
+    "forms": [
+      "I am pleading / ನಾನು ವಿನಂತಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are pleading / ನೀನು ವಿನಂತಿಸುತ್ತಿದ್ದೀಯ",
+      "We are pleading / ನಾವು ವಿನಂತಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are pleading / ಅವರು ವಿನಂತಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is pleading / ಅವನು ವಿನಂತಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is pleading / ಅವಳು ವಿನಂತಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is pleading / ಅದು ವಿನಂತಿಸುತ್ತಿದೆ",
+      "The lawyer is pleading / ವಕೀಲ ವಿನಂತಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are pleading / ಜನರು ವಿನಂತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is pleading / ಯಾರೋ ವಿನಂತಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is pleading / ಯಾರೂ ವಿನಂತಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is pleading / ಎಲ್ಲರೂ ವಿನಂತಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Please / ದಯವಿಟ್ಟು",
+    "forms": [
+      "I am pleasing / ನಾನು ದಯವಿಟ್ಟು ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are pleasing / ನೀನು ದಯವಿಟ್ಟು ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are pleasing / ನಾವು ದಯವಿಟ್ಟು ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are pleasing / ಅವರು ದಯವಿಟ್ಟು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is pleasing / ಅವನು ದಯವಿಟ್ಟು ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is pleasing / ಅವಳು ದಯವಿಟ್ಟು ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is pleasing / ಅದು ದಯವಿಟ್ಟು ಮಾಡುತ್ತಿದೆ",
+      "The host is pleasing / ಯಜಮಾನ ದಯವಿಟ್ಟು ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are pleasing / ಜನರು ದಯವಿಟ್ಟು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is pleasing / ಯಾರೋ ದಯವಿಟ್ಟು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is pleasing / ಯಾರೂ ದಯವಿಟ್ಟು ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is pleasing / ಎಲ್ಲರೂ ದಯವಿಟ್ಟು ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Plod / ಭಾರವಾಗಿ ನಡೆ",
+    "forms": [
+      "I am plodding / ನಾನು ಭಾರವಾಗಿ ನಡೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are plodding / ನೀನು ಭಾರವಾಗಿ ನಡೆಯುತ್ತಿದ್ದೀಯ",
+      "We are plodding / ನಾವು ಭಾರವಾಗಿ ನಡೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are plodding / ಅವರು ಭಾರವಾಗಿ ನಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is plodding / ಅವನು ಭಾರವಾಗಿ ನಡೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is plodding / ಅವಳು ಭಾರವಾಗಿ ನಡೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is plodding / ಅದು ಭಾರವಾಗಿ ನಡೆಯುತ್ತಿದೆ",
+      "The ox is plodding / ಎತ್ತು ಭಾರವಾಗಿ ನಡೆಯುತ್ತಿದೆ",
+      "People are plodding / ಜನರು ಭಾರವಾಗಿ ನಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is plodding / ಯಾರೋ ಭಾರವಾಗಿ ನಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is plodding / ಯಾರೂ ಭಾರವಾಗಿ ನಡೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is plodding / ಎಲ್ಲರೂ ಭಾರವಾಗಿ ನಡೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Plot / ಪಿತೂರಿ ಮಾಡು",
+    "forms": [
+      "I am plotting / ನಾನು ಪಿತೂರಿ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are plotting / ನೀನು ಪಿತೂರಿ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are plotting / ನಾವು ಪಿತೂರಿ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are plotting / ಅವರು ಪಿತೂರಿ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is plotting / ಅವನು ಪಿತೂರಿ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is plotting / ಅವಳು ಪಿತೂರಿ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is plotting / ಅದು ಪಿತೂರಿ ಮಾಡುತ್ತಿದೆ",
+      "The villain is plotting / ಖಳನಾಯಕ ಪಿತೂರಿ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are plotting / ಜನರು ಪಿತೂರಿ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is plotting / ಯಾರೋ ಪಿತೂರಿ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is plotting / ಯಾರೂ ಪಿತೂರಿ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is plotting / ಎಲ್ಲರೂ ಪಿತೂರಿ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Pluck / ಕೀಳು",
+    "forms": [
+      "I am plucking / ನಾನು ಕೀಳುತ್ತಿದ್ದೇನೆ",
+      "You are plucking / ನೀನು ಕೀಳುತ್ತಿದ್ದೀಯ",
+      "We are plucking / ನಾವು ಕೀಳುತ್ತಿದ್ದೇವೆ",
+      "They are plucking / ಅವರು ಕೀಳುತ್ತಿದ್ದಾರೆ",
+      "He is plucking / ಅವನು ಕೀಳುತ್ತಿದ್ದಾನೆ",
+      "She is plucking / ಅವಳು ಕೀಳುತ್ತಿದ್ದಾಳೆ",
+      "It is plucking / ಅದು ಕೀಳುತ್ತಿದೆ",
+      "The gardener is plucking / ತೋಟಗಾರ ಕೀಳುತ್ತಿದ್ದಾನೆ",
+      "People are plucking / ಜನರು ಕೀಳುತ್ತಿದ್ದಾರೆ",
+      "Someone is plucking / ಯಾರೋ ಕೀಳುತ್ತಿದ್ದಾರೆ",
+      "Nobody is plucking / ಯಾರೂ ಕೀಳುತ್ತಿಲ್ಲ",
+      "Everybody is plucking / ಎಲ್ಲರೂ ಕೀಳುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Ply / ಸಾಗಿಸು",
+    "forms": [
+      "I am plying / ನಾನು ಸಾಗಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are plying / ನೀನು ಸಾಗಿಸುತ್ತಿದ್ದೀಯ",
+      "We are plying / ನಾವು ಸಾಗಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are plying / ಅವರು ಸಾಗಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is plying / ಅವನು ಸಾಗಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is plying / ಅವಳು ಸಾಗಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is plying / ಅದು ಸಾಗಿಸುತ್ತಿದೆ",
+      "The boat is plying / ದೋಣಿ ಸಾಗಿಸುತ್ತಿದೆ",
+      "People are plying / ಜನರು ಸಾಗಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is plying / ಯಾರೋ ಸಾಗಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is plying / ಯಾರೂ ಸಾಗಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is plying / ಎಲ್ಲರೂ ಸಾಗಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Point / ತೋರಿಸು",
+    "forms": [
+      "I am pointing / ನಾನು ತೋರಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are pointing / ನೀನು ತೋರಿಸುತ್ತಿದ್ದೀಯ",
+      "We are pointing / ನಾವು ತೋರಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are pointing / ಅವರು ತೋರಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is pointing / ಅವನು ತೋರಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is pointing / ಅವಳು ತೋರಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is pointing / ಅದು ತೋರಿಸುತ್ತಿದೆ",
+      "The teacher is pointing / ಶಿಕ್ಷಕ ತೋರಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are pointing / ಜನರು ತೋರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is pointing / ಯಾರೋ ತೋರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is pointing / ಯಾರೂ ತೋರಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is pointing / ಎಲ್ಲರೂ ತೋರಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Polish / ಹೊಳಪು ಮಾಡು",
+    "forms": [
+      "I am polishing / ನಾನು ಹೊಳಪು ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are polishing / ನೀನು ಹೊಳಪು ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are polishing / ನಾವು ಹೊಳಪು ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are polishing / ಅವರು ಹೊಳಪು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is polishing / ಅವನು ಹೊಳಪು ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is polishing / ಅವಳು ಹೊಳಪು ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is polishing / ಅದು ಹೊಳಪು ಮಾಡುತ್ತಿದೆ",
+      "The worker is polishing / ಕಾರ್ಮಿಕ ಹೊಳಪು ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are polishing / ಜನರು ಹೊಳಪು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is polishing / ಯಾರೋ ಹೊಳಪು ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is polishing / ಯಾರೂ ಹೊಳಪು ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is polishing / ಎಲ್ಲರೂ ಹೊಳಪು ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Pollute / ಮಲಿನಗೊಳಿಸು",
+    "forms": [
+      "I am polluting / ನಾನು ಮಲಿನಗೊಳಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are polluting / ನೀನು ಮಲಿನಗೊಳಿಸುತ್ತಿದ್ದೀಯ",
+      "We are polluting / ನಾವು ಮಲಿನಗೊಳಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are polluting / ಅವರು ಮಲಿನಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is polluting / ಅವನು ಮಲಿನಗೊಳಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is polluting / ಅವಳು ಮಲಿನಗೊಳಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is polluting / ಅದು ಮಲಿನಗೊಳಿಸುತ್ತಿದೆ",
+      "The factory is polluting / ಕಾರ್ಖಾನೆ ಮಲಿನಗೊಳಿಸುತ್ತಿದೆ",
+      "People are polluting / ಜನರು ಮಲಿನಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is polluting / ಯಾರೋ ಮಲಿನಗೊಳಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is polluting / ಯಾರೂ ಮಲಿನಗೊಳಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is polluting / ಎಲ್ಲರೂ ಮಲಿನಗೊಳಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Ponder / ಆಲೋಚಿಸು",
+    "forms": [
+      "I am pondering / ನಾನು ಆಲೋಚಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are pondering / ನೀನು ಆಲೋಚಿಸುತ್ತಿದ್ದೀಯ",
+      "We are pondering / ನಾವು ಆಲೋಚಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are pondering / ಅವರು ಆಲೋಚಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is pondering / ಅವನು ಆಲೋಚಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is pondering / ಅವಳು ಆಲೋಚಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is pondering / ಅದು ಆಲೋಚಿಸುತ್ತಿದೆ",
+      "The philosopher is pondering / ತತ್ವಜ್ಞಾನಿ ಆಲೋಚಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are pondering / ಜನರು ಆಲೋಚಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is pondering / ಯಾರೋ ಆಲೋಚಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is pondering / ಯಾರೂ ಆಲೋಚಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is pondering / ಎಲ್ಲರೂ ಆಲೋಚಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Pour / ಸುರಿ",
+    "forms": [
+      "I am pouring / ನಾನು ಸುರಿಯುತ್ತಿದ್ದೇನೆ",
+      "You are pouring / ನೀನು ಸುರಿಯುತ್ತಿದ್ದೀಯ",
+      "We are pouring / ನಾವು ಸುರಿಯುತ್ತಿದ್ದೇವೆ",
+      "They are pouring / ಅವರು ಸುರಿಯುತ್ತಿದ್ದಾರೆ",
+      "He is pouring / ಅವನು ಸುರಿಯುತ್ತಿದ್ದಾನೆ",
+      "She is pouring / ಅವಳು ಸುರಿಯುತ್ತಿದ್ದಾಳೆ",
+      "It is pouring / ಅದು ಸುರಿಯುತ್ತಿದೆ",
+      "The rain is pouring / ಮಳೆ ಸುರಿಯುತ್ತಿದೆ",
+      "People are pouring / ಜನರು ಸುರಿಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is pouring / ಯಾರೋ ಸುರಿಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is pouring / ಯಾರೂ ಸುರಿಯುತ್ತಿಲ್ಲ",
+      "Everybody is pouring / ಎಲ್ಲರೂ ಸುರಿಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Pout / ಮುಖ ತಿರುಚು",
+    "forms": [
+      "I am pouting / ನಾನು ಮುಖ ತಿರುಚುತ್ತಿದ್ದೇನೆ",
+      "You are pouting / ನೀನು ಮುಖ ತಿರುಚುತ್ತಿದ್ದೀಯ",
+      "We are pouting / ನಾವು ಮುಖ ತಿರುಚುತ್ತಿದ್ದೇವೆ",
+      "They are pouting / ಅವರು ಮುಖ ತಿರುಚುತ್ತಿದ್ದಾರೆ",
+      "He is pouting / ಅವನು ಮುಖ ತಿರುಚುತ್ತಿದ್ದಾನೆ",
+      "She is pouting / ಅವಳು ಮುಖ ತಿರುಚುತ್ತಿದ್ದಾಳೆ",
+      "It is pouting / ಅದು ಮುಖ ತಿರುಚುತ್ತಿದೆ",
+      "The child is pouting / ಮಗು ಮುಖ ತಿರುಚುತ್ತಿದೆ",
+      "People are pouting / ಜನರು ಮುಖ ತಿರುಚುತ್ತಿದ್ದಾರೆ",
+      "Someone is pouting / ಯಾರೋ ಮುಖ ತಿರುಚುತ್ತಿದ್ದಾರೆ",
+      "Nobody is pouting / ಯಾರೂ ಮುಖ ತಿರುಚುತ್ತಿಲ್ಲ",
+      "Everybody is pouting / ಎಲ್ಲರೂ ಮುಖ ತಿರುಚುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Practise / ಅಭ್ಯಾಸ ಮಾಡು",
+    "forms": [
+      "I am practising / ನಾನು ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are practising / ನೀನು ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are practising / ನಾವು ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are practising / ಅವರು ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is practising / ಅವನು ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is practising / ಅವಳು ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is practising / ಅದು ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿದೆ",
+      "The student is practising / ವಿದ್ಯಾರ್ಥಿ ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are practising / ಜನರು ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is practising / ಯಾರೋ ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is practising / ಯಾರೂ ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is practising / ಎಲ್ಲರೂ ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Praise / ಹೊಗಳು",
+    "forms": [
+      "I am praising / ನಾನು ಹೊಗಳುತ್ತಿದ್ದೇನೆ",
+      "You are praising / ನೀನು ಹೊಗಳುತ್ತಿದ್ದೀಯ",
+      "We are praising / ನಾವು ಹೊಗಳುತ್ತಿದ್ದೇವೆ",
+      "They are praising / ಅವರು ಹೊಗಳುತ್ತಿದ್ದಾರೆ",
+      "He is praising / ಅವನು ಹೊಗಳುತ್ತಿದ್ದಾನೆ",
+      "She is praising / ಅವಳು ಹೊಗಳುತ್ತಿದ್ದಾಳೆ",
+      "It is praising / ಅದು ಹೊಗಳುತ್ತಿದೆ",
+      "The teacher is praising / ಶಿಕ್ಷಕ ಹೊಗಳುತ್ತಿದ್ದಾನೆ",
+      "People are praising / ಜನರು ಹೊಗಳುತ್ತಿದ್ದಾರೆ",
+      "Someone is praising / ಯಾರೋ ಹೊಗಳುತ್ತಿದ್ದಾರೆ",
+      "Nobody is praising / ಯಾರೂ ಹೊಗಳುತ್ತಿಲ್ಲ",
+      "Everybody is praising / ಎಲ್ಲರೂ ಹೊಗಳುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Pray / ಪ್ರಾರ್ಥಿಸು",
+    "forms": [
+      "I am praying / ನಾನು ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are praying / ನೀನು ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದೀಯ",
+      "We are praying / ನಾವು ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are praying / ಅವರು ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is praying / ಅವನು ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is praying / ಅವಳು ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is praying / ಅದು ಪ್ರಾರ್ಥಿಸುತ್ತಿದೆ",
+      "The devotee is praying / ಭಕ್ತ ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are praying / ಜನರು ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is praying / ಯಾರೋ ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is praying / ಯಾರೂ ಪ್ರಾರ್ಥಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is praying / ಎಲ್ಲರೂ ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Preach / ಉಪದೇಶಿಸು",
+    "forms": [
+      "I am preaching / ನಾನು ಉಪದೇಶಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are preaching / ನೀನು ಉಪದೇಶಿಸುತ್ತಿದ್ದೀಯ",
+      "We are preaching / ನಾವು ಉಪದೇಶಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are preaching / ಅವರು ಉಪದೇಶಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is preaching / ಅವನು ಉಪದೇಶಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is preaching / ಅವಳು ಉಪದೇಶಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is preaching / ಅದು ಉಪದೇಶಿಸುತ್ತಿದೆ",
+      "The priest is preaching / ಪುರೋಹಿತ ಉಪದೇಶಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are preaching / ಜನರು ಉಪದೇಶಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is preaching / ಯಾರೋ ಉಪದೇಶಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is preaching / ಯಾರೂ ಉಪದೇಶಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is preaching / ಎಲ್ಲರೂ ಉಪದೇಶಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Prefer / ಆದ್ಯತೆ ನೀಡು",
+    "forms": [
+      "I am preferring / ನಾನು ಆದ್ಯತೆ ನೀಡುತ್ತಿದ್ದೇನೆ",
+      "You are preferring / ನೀನು ಆದ್ಯತೆ ನೀಡುತ್ತಿದ್ದೀಯ",
+      "We are preferring / ನಾವು ಆದ್ಯತೆ ನೀಡುತ್ತಿದ್ದೇವೆ",
+      "They are preferring / ಅವರು ಆದ್ಯತೆ ನೀಡುತ್ತಿದ್ದಾರೆ",
+      "He is preferring / ಅವನು ಆದ್ಯತೆ ನೀಡುತ್ತಿದ್ದಾನೆ",
+      "She is preferring / ಅವಳು ಆದ್ಯತೆ ನೀಡುತ್ತಿದ್ದಾಳೆ",
+      "It is preferring / ಅದು ಆದ್ಯತೆ ನೀಡುತ್ತಿದೆ",
+      "The customer is preferring / ಗ್ರಾಹಕ ಆದ್ಯತೆ ನೀಡುತ್ತಿದ್ದಾನೆ",
+      "People are preferring / ಜನರು ಆದ್ಯತೆ ನೀಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is preferring / ಯಾರೋ ಆದ್ಯತೆ ನೀಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is preferring / ಯಾರೂ ಆದ್ಯತೆ ನೀಡುತ್ತಿಲ್ಲ",
+      "Everybody is preferring / ಎಲ್ಲರೂ ಆದ್ಯತೆ ನೀಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Prepare / ತಯಾರಿಸು",
+    "forms": [
+      "I am preparing / ನಾನು ತಯಾರಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are preparing / ನೀನು ತಯಾರಿಸುತ್ತಿದ್ದೀಯ",
+      "We are preparing / ನಾವು ತಯಾರಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are preparing / ಅವರು ತಯಾರಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is preparing / ಅವನು ತಯಾರಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is preparing / ಅವಳು ತಯಾರಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is preparing / ಅದು ತಯಾರಿಸುತ್ತಿದೆ",
+      "The cook is preparing / ಬಾಣಸಿಗ ತಯಾರಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are preparing / ಜನರು ತಯಾರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is preparing / ಯಾರೋ ತಯಾರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is preparing / ಯಾರೂ ತಯಾರಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is preparing / ಎಲ್ಲರೂ ತಯಾರಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Prescribe / ನಿಯಮಿಸು",
+    "forms": [
+      "I am prescribing / ನಾನು ನಿಯಮಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are prescribing / ನೀನು ನಿಯಮಿಸುತ್ತಿದ್ದೀಯ",
+      "We are prescribing / ನಾವು ನಿಯಮಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are prescribing / ಅವರು ನಿಯಮಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is prescribing / ಅವನು ನಿಯಮಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is prescribing / ಅವಳು ನಿಯಮಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is prescribing / ಅದು ನಿಯಮಿಸುತ್ತಿದೆ",
+      "The doctor is prescribing / ವೈದ್ಯ ನಿಯಮಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are prescribing / ಜನರು ನಿಯಮಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is prescribing / ಯಾರೋ ನಿಯಮಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is prescribing / ಯಾರೂ ನಿಯಮಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is prescribing / ಎಲ್ಲರೂ ನಿಯಮಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Present / ಪ್ರಸ್ತುತಪಡಿಸು",
+    "forms": [
+      "I am presenting / ನಾನು ಪ್ರಸ್ತುತಪಡಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are presenting / ನೀನು ಪ್ರಸ್ತುತಪಡಿಸುತ್ತಿದ್ದೀಯ",
+      "We are presenting / ನಾವು ಪ್ರಸ್ತುತಪಡಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are presenting / ಅವರು ಪ್ರಸ್ತುತಪಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is presenting / ಅವನು ಪ್ರಸ್ತುತಪಡಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is presenting / ಅವಳು ಪ್ರಸ್ತುತಪಡಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is presenting / ಅದು ಪ್ರಸ್ತುತಪಡಿಸುತ್ತಿದೆ",
+      "The speaker is presenting / ಸ್ಪೀಕರ್ ಪ್ರಸ್ತುತಪಡಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are presenting / ಜನರು ಪ್ರಸ್ತುತಪಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is presenting / ಯಾರೋ ಪ್ರಸ್ತುತಪಡಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is presenting / ಯಾರೂ ಪ್ರಸ್ತುತಪಡಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is presenting / ಎಲ್ಲರೂ ಪ್ರಸ್ತುತಪಡಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Preserve / ಸಂರಕ್ಷಿಸು",
+    "forms": [
+      "I am preserving / ನಾನು ಸಂರಕ್ಷಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are preserving / ನೀನು ಸಂರಕ್ಷಿಸುತ್ತಿದ್ದೀಯ",
+      "We are preserving / ನಾವು ಸಂರಕ್ಷಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are preserving / ಅವರು ಸಂರಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is preserving / ಅವನು ಸಂರಕ್ಷಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is preserving / ಅವಳು ಸಂರಕ್ಷಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is preserving / ಅದು ಸಂರಕ್ಷಿಸುತ್ತಿದೆ",
+      "The museum is preserving / ವಸ್ತುಸಂಗ್ರಹಾಲಯ ಸಂರಕ್ಷಿಸುತ್ತಿದೆ",
+      "People are preserving / ಜನರು ಸಂರಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is preserving / ಯಾರೋ ಸಂরಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is preserving / ಯಾರೂ ಸಂರಕ್ಷಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is preserving / ಎಲ್ಲರೂ ಸಂರಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Preset / ಪೂರ್ವಸಿದ್ಧತೆ ಮಾಡು",
+    "forms": [
+      "I am presetting / ನಾನು ಪೂರ್ವಸಿದ್ಧತೆ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+      "You are presetting / ನೀನು ಪೂರ್ವಸಿದ್ಧತೆ ಮಾಡುತ್ತಿದ್ದೀಯ",
+      "We are presetting / ನಾವು ಪೂರ್ವಸಿದ್ಧತೆ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+      "They are presetting / ಅವರು ಪೂರ್ವಸಿದ್ಧತೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "He is presetting / ಅವನು ಪೂರ್ವಸಿದ್ಧತೆ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "She is presetting / ಅವಳು ಪೂರ್ವಸಿದ್ಧತೆ ಮಾಡುತ್ತಿದ್ದಾಳೆ",
+      "It is presetting / ಅದು ಪೂರ್ವಸಿದ್ಧತೆ ಮಾಡುತ್ತಿದೆ",
+      "The technician is presetting / ತಂತ್ರಜ್ಞ ಪೂರ್ವಸಿದ್ಧತೆ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+      "People are presetting / ಜನರು ಪೂರ್ವಸಿದ್ಧತೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Someone is presetting / ಯಾರೋ ಪೂರ್ವಸಿದ್ಧತೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+      "Nobody is presetting / ಯಾರೂ ಪೂರ್ವಸಿದ್ಧತೆ ಮಾಡುತ್ತಿಲ್ಲ",
+      "Everybody is presetting / ಎಲ್ಲರೂ ಪೂರ್ವಸಿದ್ಧತೆ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Preside / ಅಧ್ಯಕ್ಷತೆ ವಹಿಸು",
+    "forms": [
+      "I am presiding / ನಾನು ಅಧ್ಯಕ್ಷತೆ ವಹಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are presiding / ನೀನು ಅಧ್ಯಕ್ಷತೆ ವಹಿಸುತ್ತಿದ್ದೀಯ",
+      "We are presiding / ನಾವು ಅಧ್ಯಕ್ಷತೆ ವಹಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are presiding / ಅವರು ಅಧ್ಯಕ್ಷತೆ ವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is presiding / ಅವನು ಅಧ್ಯಕ್ಷತೆ ವಹಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is presiding / ಅವಳು ಅಧ್ಯಕ್ಷತೆ ವಹಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is presiding / ಅದು ಅಧ್ಯಕ್ಷತೆ ವಹಿಸುತ್ತಿದೆ",
+      "The chairman is presiding / ಅಧ್ಯಕ್ಷ ಅಧ್ಯಕ್ಷತೆ ವಹಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are presiding / ಜನರು ಅಧ್ಯಕ್ಷತೆ ವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is presiding / ಯಾರೋ ಅಧ್ಯಕ್ಷತೆ ವಹಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is presiding / ಯಾರೂ ಅಧ್ಯಕ್ಷತೆ ವಹಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is presiding / ಎಲ್ಲರೂ ಅಧ್ಯಕ್ಷತೆ ವಹಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Press / ಒತ್ತು",
+    "forms": [
+      "I am pressing / ನಾನು ಒತ್ತುತ್ತಿದ್ದೇನೆ",
+      "You are pressing / ನೀನು ಒತ್ತುತ್ತಿದ್ದೀಯ",
+      "We are pressing / ನಾವು ಒತ್ತುತ್ತಿದ್ದೇವೆ",
+      "They are pressing / ಅವರು ಒತ್ತುತ್ತಿದ್ದಾರೆ",
+      "He is pressing / ಅವನು ಒತ್ತುತ್ತಿದ್ದಾನೆ",
+      "She is pressing / ಅವಳು ಒತ್ತುತ್ತಿದ್ದಾಳೆ",
+      "It is pressing / ಅದು ಒತ್ತುತ್ತಿದೆ",
+      "The worker is pressing / ಕಾರ್ಮಿಕ ಒತ್ತುತ್ತಿದ್ದಾನೆ",
+      "People are pressing / ಜನರು ಒತ್ತುತ್ತಿದ್ದಾರೆ",
+      "Someone is pressing / ಯಾರೋ ಒತ್ತುತ್ತಿದ್ದಾರೆ",
+      "Nobody is pressing / ಯಾರೂ ಒತ್ತುತ್ತಿಲ್ಲ",
+      "Everybody is pressing / ಎಲ್ಲರೂ ಒತ್ತುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Pretend / ನಟಿಸು",
+    "forms": [
+      "I am pretending / ನಾನು ನಟಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are pretending / ನೀನು ನಟಿಸುತ್ತಿದ್ದೀಯ",
+      "We are pretending / ನಾವು ನಟಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are pretending / ಅವರು ನಟಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is pretending / ಅವನು ನಟಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is pretending / ಅವಳು ನಟಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is pretending / ಅದು ನಟಿಸುತ್ತಿದೆ",
+      "The actor is pretending / ನಟ ನಟಿಸುತ್ತಿದ್ದಾನೆ",
+      "People are pretending / ಜನರು ನಟಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is pretending / ಯಾರೋ ನಟಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is pretending / ಯಾರೂ ನಟಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is pretending / ಎಲ್ಲರೂ ನಟಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Prevent / ತಡೆ",
+    "forms": [
+      "I am preventing / ನಾನು ತಡೆಯುತ್ತಿದ್ದೇನೆ",
+      "You are preventing / ನೀನು ತಡೆಯುತ್ತಿದ್ದೀಯ",
+      "We are preventing / ನಾವು ತಡೆಯುತ್ತಿದ್ದೇವೆ",
+      "They are preventing / ಅವರು ತಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "He is preventing / ಅವನು ತಡೆಯುತ್ತಿದ್ದಾನೆ",
+      "She is preventing / ಅವಳು ತಡೆಯುತ್ತಿದ್ದಾಳೆ",
+      "It is preventing / ಅದು ತಡೆಯುತ್ತಿದೆ",
+      "The police is preventing / ಪೋಲೀಸ್ ತಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "People are preventing / ಜನರು ತಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is preventing / ಯಾರೋ ತಡೆಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is preventing / ಯಾರೂ ತಡೆಯುತ್ತಿಲ್ಲ",
+      "Everybody is preventing / ಎಲ್ಲರೂ ತಡೆಯುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Print / ಮುದ್ರಿಸು",
+    "forms": [
+      "I am printing / ನಾನು ಮುದ್ರಿಸುತ್ತಿದ್ದೇನೆ",
+      "You are printing / ನೀನು ಮುದ್ರಿಸುತ್ತಿದ್ದೀಯ",
+      "We are printing / ನಾವು ಮುದ್ರಿಸುತ್ತಿದ್ದೇವೆ",
+      "They are printing / ಅವರು ಮುದ್ರಿಸುತ್ತಿದ್ದಾರೆ",
+      "He is printing / ಅವನು ಮುದ್ರಿಸುತ್ತಿದ್ದಾನೆ",
+      "She is printing / ಅವಳು ಮುದ್ರಿಸುತ್ತಿದ್ದಾಳೆ",
+      "It is printing / ಅದು ಮುದ್ರಿಸುತ್ತಿದೆ",
+      "The machine is printing / ಯಂತ್ರ ಮುದ್ರಿಸುತ್ತಿದೆ",
+      "People are printing / ಜನರು ಮುದ್ರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Someone is printing / ಯಾರೋ ಮುದ್ರಿಸುತ್ತಿದ್ದಾರೆ",
+      "Nobody is printing / ಯಾರೂ ಮುದ್ರಿಸುತ್ತಿಲ್ಲ",
+      "Everybody is printing / ಎಲ್ಲರೂ ಮುದ್ರಿಸುತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Proceed / ಮುಂದುವರಿ",
+    "forms": [
+      "I am proceeding / ನಾನು ಮುಂದುವರಿಯುತ್ತಿದ್ದೇನೆ",
+      "You are proceeding / ನೀನು ಮುಂದುವರಿಯುತ್ತಿದ್ದೀಯ",
+      "We are proceeding / ನಾವು ಮುಂದುವರಿಯುತ್ತಿದ್ದೇವೆ",
+      "They are proceeding / ಅವರು ಮುಂದುವರಿಯುತ್ತಿದ್ದಾರೆ",
+      "He is proceeding / ಅವನು ಮುಂದುವರಿಯುತ್ತಿದ್ದಾನೆ",
+      "She is proceeding / ಅವಳು ಮುಂದುವರಿಯುತ್ತಿದ್ದಾಳೆ",
+      "It is proceeding / ಅದು ಮುಂದುವರಿಯುತ್ತಿದೆ",
+      "The work is proceeding / ಕೆಲಸ ಮುಂದುವರಿಯುತ್ತಿದೆ",
+      "People are proceeding / ಜನರು ಮುಂದುವರಿಯುತ್ತಿದ್ದಾರೆ",
+      "Someone is proceeding / ಯಾರೋ ಮುಂದುವರಿಯುತ್ತಿದ್ದಾರೆ",
+      "Nobody is proceeding / ಯಾರೂ ಮುಂದುವರಿಯುತ್ತಿಲ್ಲ",
+      "Everybody is proceeding / ಎಲ್ಲರೂ ಮುಂದುವರಿಯುತ್ತಿದ್ದಾರೆ"
+    ]
   }
 ]
