@@ -16,7 +16,7 @@ export default function Header() {
   }
 
   return (
-    <header className="bg-gradient-to-r from-purple-700/80 via-pink-600/80 to-indigo-700/80 backdrop-blur-lg border-b border-white/20 shadow-lg px-6 py-4 font-pop animate-fade-in">
+    <header className="bg-white/20 backdrop-blur-lg border-b border-white/30 shadow-lg px-6 py-4 font-pop animate-fade-in">
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         
         {/* LOGO with glowing gradient ring */}
@@ -24,9 +24,9 @@ export default function Header() {
           <div className="w-12 h-12 bg-gradient-to-br from-yellow-400 via-pink-500 to-purple-500 rounded-full flex items-center justify-center shadow-lg ring-2 ring-white/40 animate-spin-slow hover:scale-105 transition-transform duration-300">
             <span className="text-white font-bold text-lg drop-shadow">L</span>
           </div>
-          <div className="text-2xl font-bold tracking-wide text-white drop-shadow-md">
-            Lingua<span className="text-pink-300">Pro</span>
-          </div>
+          <div className="text-2xl font-bold tracking-wide text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.6)]">
+  Lingua<span className="text-pink-400">Pro</span>
+</div>
         </div>
 
         {/* Nav links */}
