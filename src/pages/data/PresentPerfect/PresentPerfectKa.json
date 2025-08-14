@@ -4537,5 +4537,2300 @@
       "Nobody has driven / ಯಾರೂ ಓಡಿಸಿಲ್ಲ",
       "Everybody has driven / ಎಲ್ಲರೂ ಓಡಿಸಿದ್ದಾರೆ"
     ]
+  },
+  {
+    "verb": "Drop / ಬೀಳಿಸು",
+    "forms": [
+      "I have dropped / ನಾನು ಬೀಳಿಸಿದ್ದೇನೆ",
+      "You have dropped / ನೀನು ಬೀಳಿಸಿದ್ದೀಯ",
+      "We have dropped / ನಾವು ಬೀಳಿಸಿದ್ದೇವೆ",
+      "They have dropped / ಅವರು ಬೀಳಿಸಿದ್ದಾರೆ",
+      "He has dropped / ಅವನು ಬೀಳಿಸಿದ್ದಾನೆ",
+      "She has dropped / ಅವಳು ಬೀಳಿಸಿದ್ದಾಳೆ",
+      "It has dropped / ಅದು ಬೀಳಿಸಿದೆ",
+      "The ball has dropped / ಚೆಂಡು ಬೀಳಿಸಿದೆ",
+      "People have dropped / ಜನರು ಬೀಳಿಸಿದ್ದಾರೆ",
+      "Someone has dropped / ಯಾರೋ ಬೀಳಿಸಿದ್ದಾರೆ",
+      "Nobody has dropped / ಯಾರೂ ಬೀಳಿಸಿಲ್ಲ",
+      "Everybody has dropped / ಎಲ್ಲರೂ ಬೀಳಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Dry / ಒಣಗಿಸು",
+    "forms": [
+      "I have dried / ನಾನು ಒಣಗಿಸಿದ್ದೇನೆ",
+      "You have dried / ನೀನು ಒಣಗಿಸಿದ್ದೀಯ",
+      "We have dried / ನಾವು ಒಣಗಿಸಿದ್ದೇವೆ",
+      "They have dried / ಅವರು ಒಣಗಿಸಿದ್ದಾರೆ",
+      "He has dried / ಅವನು ಒಣಗಿಸಿದ್ದಾನೆ",
+      "She has dried / ಅವಳು ಒಣಗಿಸಿದ್ದಾಳೆ",
+      "It has dried / ಅದು ಒಣಗಿಸಿದೆ",
+      "The clothes have dried / ಬಟ್ಟೆಗಳು ಒಣಗಿಸಿವೆ",
+      "People have dried / ಜನರು ಒಣಗಿಸಿದ್ದಾರೆ",
+      "Someone has dried / ಯಾರೋ ಒಣಗಿಸಿದ್ದಾರೆ",
+      "Nobody has dried / ಯಾರೂ ಒಣಗಿಸಿಲ್ಲ",
+      "Everybody has dried / ಎಲ್ಲರೂ ಒಣಗಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Dump / ಎಸೆ",
+    "forms": [
+      "I have dumped / ನಾನು ಎಸೆದಿದ್ದೇನೆ",
+      "You have dumped / ನೀನು ಎಸೆದಿದ್ದೀಯ",
+      "We have dumped / ನಾವು ಎಸೆದಿದ್ದೇವೆ",
+      "They have dumped / ಅವರು ಎಸೆದಿದ್ದಾರೆ",
+      "He has dumped / ಅವನು ಎಸೆದಿದ್ದಾನೆ",
+      "She has dumped / ಅವಳು ಎಸೆದಿದ್ದಾಳೆ",
+      "It has dumped / ಅದು ಎಸೆದಿದೆ",
+      "The truck has dumped / ಲಾರಿ ಎಸೆದಿದೆ",
+      "People have dumped / ಜನರು ಎಸೆದಿದ್ದಾರೆ",
+      "Someone has dumped / ಯಾರೋ ಎಸೆದಿದ್ದಾರೆ",
+      "Nobody has dumped / ಯಾರೂ ಎಸೆದಿಲ್ಲ",
+      "Everybody has dumped / ಎಲ್ಲರೂ ಎಸೆದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Dwell / ವಾಸಿಸು",
+    "forms": [
+      "I have dwelt / ನಾನು ವಾಸಿಸಿದ್ದೇನೆ",
+      "You have dwelt / ನೀನು ವಾಸಿಸಿದ್ದೀಯ",
+      "We have dwelt / ನಾವು ವಾಸಿಸಿದ್ದೇವೆ",
+      "They have dwelt / ಅವರು ವಾಸಿಸಿದ್ದಾರೆ",
+      "He has dwelt / ಅವನು ವಾಸಿಸಿದ್ದಾನೆ",
+      "She has dwelt / ಅವಳು ವಾಸಿಸಿದ್ದಾಳೆ",
+      "It has dwelt / ಅದು ವಾಸಿಸಿದೆ",
+      "The family has dwelt / ಕುಟುಂಬವು ವಾಸಿಸಿದೆ",
+      "People have dwelt / ಜನರು ವಾಸಿಸಿದ್ದಾರೆ",
+      "Someone has dwelt / ಯಾರೋ ವಾಸಿಸಿದ್ದಾರೆ",
+      "Nobody has dwelt / ಯಾರೂ ವಾಸಿಸಿಲ್ಲ",
+      "Everybody has dwelt / ಎಲ್ಲರೂ ವಾಸಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Dye / ಬಣ್ಣಹಾಕು",
+    "forms": [
+      "I have dyed / ನಾನು ಬಣ್ಣಹಾಕಿದ್ದೇನೆ",
+      "You have dyed / ನೀನು ಬಣ್ಣಹಾಕಿದ್ದೀಯ",
+      "We have dyed / ನಾವು ಬಣ್ಣಹಾಕಿದ್ದೇವೆ",
+      "They have dyed / ಅವರು ಬಣ್ಣಹಾಕಿದ್ದಾರೆ",
+      "He has dyed / ಅವನು ಬಣ್ಣಹಾಕಿದ್ದಾನೆ",
+      "She has dyed / ಅವಳು ಬಣ್ಣಹಾಕಿದ್ದಾಳೆ",
+      "It has dyed / ಅದು ಬಣ್ಣಹಾಕಿದೆ",
+      "The cloth has dyed / ಬಟ್ಟೆ ಬಣ್ಣಹಾಕಿದೆ",
+      "People have dyed / ಜನರು ಬಣ್ಣಹಾಕಿದ್ದಾರೆ",
+      "Someone has dyed / ಯಾರೋ ಬಣ್ಣಹಾಕಿದ್ದಾರೆ",
+      "Nobody has dyed / ಯಾರೂ ಬಣ್ಣಹಾಕಿಲ್ಲ",
+      "Everybody has dyed / ಎಲ್ಲರೂ ಬಣ್ಣಹಾಕಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Earn / ಸಂಪಾದಿಸು",
+    "forms": [
+      "I have earned / ನಾನು ಸಂಪಾದಿಸಿದ್ದೇನೆ",
+      "You have earned / ನೀನು ಸಂಪಾದಿಸಿದ್ದೀಯ",
+      "We have earned / ನಾವು ಸಂಪಾದಿಸಿದ್ದೇವೆ",
+      "They have earned / ಅವರು ಸಂಪಾದಿಸಿದ್ದಾರೆ",
+      "He has earned / ಅವನು ಸಂಪಾದಿಸಿದ್ದಾನೆ",
+      "She has earned / ಅವಳು ಸಂಪಾದಿಸಿದ್ದಾಳೆ",
+      "It has earned / ಅದು ಸಂಪಾದಿಸಿದೆ",
+      "The company has earned / ಕಂಪನಿ ಸಂಪಾದಿಸಿದೆ",
+      "People have earned / ಜನರು ಸಂಪಾದಿಸಿದ್ದಾರೆ",
+      "Someone has earned / ಯಾರೋ ಸಂಪಾದಿಸಿದ್ದಾರೆ",
+      "Nobody has earned / ಯಾರೂ ಸಂಪಾದಿಸಿಲ್ಲ",
+      "Everybody has earned / ಎಲ್ಲರೂ ಸಂಪಾದಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Eat / ತಿನ್ನು",
+    "forms": [
+      "I have eaten / ನಾನು ತಿಂದಿದ್ದೇನೆ",
+      "You have eaten / ನೀನು ತಿಂದಿದ್ದೀಯ",
+      "We have eaten / ನಾವು ತಿಂದಿದ್ದೇವೆ",
+      "They have eaten / ಅವರು ತಿಂದಿದ್ದಾರೆ",
+      "He has eaten / ಅವನು ತಿಂದಿದ್ದಾನೆ",
+      "She has eaten / ಅವಳು ತಿಂದಿದ್ದಾಳೆ",
+      "It has eaten / ಅದು ತಿಂದಿದೆ",
+      "The child has eaten / ಮಗು ತಿಂದಿದೆ",
+      "People have eaten / ಜನರು ತಿಂದಿದ್ದಾರೆ",
+      "Someone has eaten / ಯಾರೋ ತಿಂದಿದ್ದಾರೆ",
+      "Nobody has eaten / ಯಾರೂ ತಿಂದಿಲ್ಲ",
+      "Everybody has eaten / ಎಲ್ಲರೂ ತಿಂದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Educate / ಶಿಕ್ಷಣ ನೀಡು",
+    "forms": [
+      "I have educated / ನಾನು ಶಿಕ್ಷಣ ನೀಡಿದ್ದೇನೆ",
+      "You have educated / ನೀನು ಶಿಕ್ಷಣ ನೀಡಿದ್ದೀಯ",
+      "We have educated / ನಾವು ಶಿಕ್ಷಣ ನೀಡಿದ್ದೇವೆ",
+      "They have educated / ಅವರು ಶಿಕ್ಷಣ ನೀಡಿದ್ದಾರೆ",
+      "He has educated / ಅವನು ಶಿಕ್ಷಣ ನೀಡಿದ್ದಾನೆ",
+      "She has educated / ಅವಳು ಶಿಕ್ಷಣ ನೀಡಿದ್ದಾಳೆ",
+      "It has educated / ಅದು ಶಿಕ್ಷಣ ನೀಡಿದೆ",
+      "The school has educated / ಶಾಲೆ ಶಿಕ್ಷಣ ನೀಡಿದೆ",
+      "People have educated / ಜನರು ಶಿಕ್ಷಣ ನೀಡಿದ್ದಾರೆ",
+      "Someone has educated / ಯಾರೋ ಶಿಕ್ಷಣ ನೀಡಿದ್ದಾರೆ",
+      "Nobody has educated / ಯಾರೂ ಶಿಕ್ಷಣ ನೀಡಿಲ್ಲ",
+      "Everybody has educated / ಎಲ್ಲರೂ ಶಿಕ್ಷಣ ನೀಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Empower / ಅಧಿಕಾರ ನೀಡು",
+    "forms": [
+      "I have empowered / ನಾನು ಅಧಿಕಾರ ನೀಡಿದ್ದೇನೆ",
+      "You have empowered / ನೀನು ಅಧಿಕಾರ ನೀಡಿದ್ದೀಯ",
+      "We have empowered / ನಾವು ಅಧಿಕಾರ ನೀಡಿದ್ದೇವೆ",
+      "They have empowered / ಅವರು ಅಧಿಕಾರ ನೀಡಿದ್ದಾರೆ",
+      "He has empowered / ಅವನು ಅಧಿಕಾರ ನೀಡಿದ್ದಾನೆ",
+      "She has empowered / ಅವಳು ಅಧಿಕಾರ ನೀಡಿದ್ದಾಳೆ",
+      "It has empowered / ಅದು ಅಧಿಕಾರ ನೀಡಿದೆ",
+      "The government has empowered / ಸರ್ಕಾರ ಅಧಿಕಾರ ನೀಡಿದೆ",
+      "People have empowered / ಜನರು ಅಧಿಕಾರ ನೀಡಿದ್ದಾರೆ",
+      "Someone has empowered / ಯಾರೋ ಅಧಿಕಾರ ನೀಡಿದ್ದಾರೆ",
+      "Nobody has empowered / ಯಾರೂ ಅಧಿಕಾರ ನೀಡಿಲ್ಲ",
+      "Everybody has empowered / ಎಲ್ಲರೂ ಅಧಿಕಾರ ನೀಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Empty / ಖಾಲಿ ಮಾಡು",
+    "forms": [
+      "I have emptied / ನಾನು ಖಾಲಿ ಮಾಡಿದ್ದೇನೆ",
+      "You have emptied / ನೀನು ಖಾಲಿ ಮಾಡಿದ್ದೀಯ",
+      "We have emptied / ನಾವು ಖಾಲಿ ಮಾಡಿದ್ದೇವೆ",
+      "They have emptied / ಅವರು ಖಾಲಿ ಮಾಡಿದ್ದಾರೆ",
+      "He has emptied / ಅವನು ಖಾಲಿ ಮಾಡಿದ್ದಾನೆ",
+      "She has emptied / ಅವಳು ಖಾಲಿ ಮಾಡಿದ್ದಾಳೆ",
+      "It has emptied / ಅದು ಖಾಲಿ ಮಾಡಿದೆ",
+      "The bottle has emptied / ಬಾಟಲಿ ಖಾಲಿ ಮಾಡಿದೆ",
+      "People have emptied / ಜನರು ಖಾಲಿ ಮಾಡಿದ್ದಾರೆ",
+      "Someone has emptied / ಯಾರೋ ಖಾಲಿ ಮಾಡಿದ್ದಾರೆ",
+      "Nobody has emptied / ಯಾರೂ ಖಾಲಿ ಮಾಡಿಲ್ಲ",
+      "Everybody has emptied / ಎಲ್ಲರೂ ಖಾಲಿ ಮಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Encircle / ಸುತ್ತುವರಿ",
+    "forms": [
+      "I have encircled / ನಾನು ಸುತ್ತುವರಿದ್ದೇನೆ",
+      "You have encircled / ನೀನು ಸುತ್ತುವರಿದ್ದೀಯ",
+      "We have encircled / ನಾವು ಸುತ್ತುವರಿದ್ದೇವೆ",
+      "They have encircled / ಅವರು ಸುತ್ತುವರಿದ್ದಾರೆ",
+      "He has encircled / ಅವನು ಸುತ್ತುವರಿದ್ದಾನೆ",
+      "She has encircled / ಅವಳು ಸುತ್ತುವರಿದ್ದಾಳೆ",
+      "It has encircled / ಅದು ಸುತ್ತುವರಿದೆ",
+      "The army has encircled / ಸೈನ್ಯ ಸುತ್ತುವರಿದೆ",
+      "People have encircled / ಜನರು ಸುತ್ತುವರಿದ್ದಾರೆ",
+      "Someone has encircled / ಯಾರೋ ಸುತ್ತುವರಿದ್ದಾರೆ",
+      "Nobody has encircled / ಯಾರೂ ಸುತ್ತುವರಿಲ್ಲ",
+      "Everybody has encircled / ಎಲ್ಲರೂ ಸುತ್ತುವರಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Encourage / ಪ್ರೋತ್ಸಾಹಿಸು",
+    "forms": [
+      "I have encouraged / ನಾನು ಪ್ರೋತ್ಸಾಹಿಸಿದ್ದೇನೆ",
+      "You have encouraged / ನೀನು ಪ್ರೋತ್ಸಾಹಿಸಿದ್ದೀಯ",
+      "We have encouraged / ನಾವು ಪ್ರೋತ್ಸಾಹಿಸಿದ್ದೇವೆ",
+      "They have encouraged / ಅವರು ಪ್ರೋತ್ಸಾಹಿಸಿದ್ದಾರೆ",
+      "He has encouraged / ಅವನು ಪ್ರೋತ್ಸಾಹಿಸಿದ್ದಾನೆ",
+      "She has encouraged / ಅವಳು ಪ್ರೋತ್ಸಾಹಿಸಿದ್ದಾಳೆ",
+      "It has encouraged / ಅದು ಪ್ರೋತ್ಸಾಹಿಸಿದೆ",
+      "The teacher has encouraged / ಶಿಕ್ಷಕ ಪ್ರೋತ್ಸಾಹಿಸಿದ್ದಾರೆ",
+      "People have encouraged / ಜನರು ಪ್ರೋತ್ಸಾಹಿಸಿದ್ದಾರೆ",
+      "Someone has encouraged / ಯಾರೋ ಪ್ರೋತ್ಸಾಹಿಸಿದ್ದಾರೆ",
+      "Nobody has encouraged / ಯಾರೂ ಪ್ರೋತ್ಸಾಹಿಸಿಲ್ಲ",
+      "Everybody has encouraged / ಎಲ್ಲರೂ ಪ್ರೋತ್ಸಾಹಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Encroach / ಅತಿಕ್ರಮಿಸು",
+    "forms": [
+      "I have encroached / ನಾನು ಅತಿಕ್ರಮಿಸಿದ್ದೇನೆ",
+      "You have encroached / ನೀನು ಅತಿಕ್ರಮಿಸಿದ್ದೀಯ",
+      "We have encroached / ನಾವು ಅತಿಕ್ರಮಿಸಿದ್ದೇವೆ",
+      "They have encroached / ಅವರು ಅತಿಕ್ರಮಿಸಿದ್ದಾರೆ",
+      "He has encroached / ಅವನು ಅತಿಕ್ರಮಿಸಿದ್ದಾನೆ",
+      "She has encroached / ಅವಳು ಅತಿಕ್ರಮಿಸಿದ್ದಾಳೆ",
+      "It has encroached / ಅದು ಅತಿಕ್ರಮಿಸಿದೆ",
+      "The land has encroached / ಭೂಮಿ ಅತಿಕ್ರಮಿಸಿದೆ",
+      "People have encroached / ಜನರು ಅತಿಕ್ರಮಿಸಿದ್ದಾರೆ",
+      "Someone has encroached / ಯಾರೋ ಅತಿಕ್ರಮಿಸಿದ್ದಾರೆ",
+      "Nobody has encroached / ಯಾರೂ ಅತಿಕ್ರಮಿಸಿಲ್ಲ",
+      "Everybody has encroached / ಎಲ್ಲರೂ ಅತಿಕ್ರಮಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Endanger / ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸು",
+    "forms": [
+      "I have endangered / ನಾನು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸಿದ್ದೇನೆ",
+      "You have endangered / ನೀನು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸಿದ್ದೀಯ",
+      "We have endangered / ನಾವು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸಿದ್ದೇವೆ",
+      "They have endangered / ಅವರು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸಿದ್ದಾರೆ",
+      "He has endangered / ಅವನು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸಿದ್ದಾನೆ",
+      "She has endangered / ಅವಳು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸಿದ್ದಾಳೆ",
+      "It has endangered / ಅದು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸಿದೆ",
+      "The fire has endangered / ಬೆಂಕಿ ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸಿದೆ",
+      "People have endangered / ಜನರು ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸಿದ್ದಾರೆ",
+      "Someone has endangered / ಯಾರೋ ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸಿದ್ದಾರೆ",
+      "Nobody has endangered / ಯಾರೂ ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸಿಲ್ಲ",
+      "Everybody has endangered / ಎಲ್ಲರೂ ಅಪಾಯಕ್ಕೆ ಒಳಪಡಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Endorse / ಅನುಮೋದಿಸು",
+    "forms": [
+      "I have endorsed / ನಾನು ಅನುಮೋದಿಸಿದ್ದೇನೆ",
+      "You have endorsed / ನೀನು ಅನುಮೋದಿಸಿದ್ದೀಯ",
+      "We have endorsed / ನಾವು ಅನುಮೋದಿಸಿದ್ದೇವೆ",
+      "They have endorsed / ಅವರು ಅನುಮೋದಿಸಿದ್ದಾರೆ",
+      "He has endorsed / ಅವನು ಅನುಮೋದಿಸಿದ್ದಾನೆ",
+      "She has endorsed / ಅವಳು ಅನುಮೋದಿಸಿದ್ದಾಳೆ",
+      "It has endorsed / ಅದು ಅನುಮೋದಿಸಿದೆ",
+      "The bank has endorsed / ಬ್ಯಾಂಕ್ ಅನುಮೋದಿಸಿದೆ",
+      "People have endorsed / ಜನರು ಅನುಮೋದಿಸಿದ್ದಾರೆ",
+      "Someone has endorsed / ಯಾರೋ ಅನುಮೋದಿಸಿದ್ದಾರೆ",
+      "Nobody has endorsed / ಯಾರೂ ಅನುಮೋದಿಸಿಲ್ಲ",
+      "Everybody has endorsed / ಎಲ್ಲರೂ ಅನುಮೋದಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Endure / ಸಹಿಸು",
+    "forms": [
+      "I have endured / ನಾನು ಸಹಿಸಿದ್ದೇನೆ",
+      "You have endured / ನೀನು ಸಹಿಸಿದ್ದೀಯ",
+      "We have endured / ನಾವು ಸಹಿಸಿದ್ದೇವೆ",
+      "They have endured / ಅವರು ಸಹಿಸಿದ್ದಾರೆ",
+      "He has endured / ಅವನು ಸಹಿಸಿದ್ದಾನೆ",
+      "She has endured / ಅವಳು ಸಹಿಸಿದ್ದಾಳೆ",
+      "It has endured / ಅದು ಸಹಿಸಿದೆ",
+      "The patient has endured / ರೋಗಿ ಸಹಿಸಿದ್ದಾನೆ",
+      "People have endured / ಜನರು ಸಹಿಸಿದ್ದಾರೆ",
+      "Someone has endured / ಯಾರೋ ಸಹಿಸಿದ್ದಾರೆ",
+      "Nobody has endured / ಯಾರೂ ಸಹಿಸಿಲ್ಲ",
+      "Everybody has endured / ಎಲ್ಲರೂ ಸಹಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Engrave / ಕೆತ್ತನೆ ಮಾಡು",
+    "forms": [
+      "I have engraved / ನಾನು ಕೆತ್ತನೆ ಮಾಡಿದ್ದೇನೆ",
+      "You have engraved / ನೀನು ಕೆತ್ತನೆ ಮಾಡಿದ್ದೀಯ",
+      "We have engraved / ನಾವು ಕೆತ್ತನೆ ಮಾಡಿದ್ದೇವೆ",
+      "They have engraved / ಅವರು ಕೆತ್ತನೆ ಮಾಡಿದ್ದಾರೆ",
+      "He has engraved / ಅವನು ಕೆತ್ತನೆ ಮಾಡಿದ್ದಾನೆ",
+      "She has engraved / ಅವಳು ಕೆತ್ತನೆ ಮಾಡಿದ್ದಾಳೆ",
+      "It has engraved / ಅದು ಕೆತ್ತನೆ ಮಾಡಿದೆ",
+      "The artist has engraved / ಕಲಾವಿದ ಕೆತ್ತನೆ ಮಾಡಿದ್ದಾರೆ",
+      "People have engraved / ಜನರು ಕೆತ್ತನೆ ಮಾಡಿದ್ದಾರೆ",
+      "Someone has engraved / ಯಾರೋ ಕೆತ್ತನೆ ಮಾಡಿದ್ದಾರೆ",
+      "Nobody has engraved / ಯಾರೂ ಕೆತ್ತನೆ ಮಾಡಿಲ್ಲ",
+      "Everybody has engraved / ಎಲ್ಲರೂ ಕೆತ್ತನೆ ಮಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Enjoy / ಆನಂದಿಸು",
+    "forms": [
+      "I have enjoyed / ನಾನು ಆನಂದಿಸಿದ್ದೇನೆ",
+      "You have enjoyed / ನೀನು ಆನಂದಿಸಿದ್ದೀಯ",
+      "We have enjoyed / ನಾವು ಆನಂದಿಸಿದ್ದೇವೆ",
+      "They have enjoyed / ಅವರು ಆನಂದಿಸಿದ್ದಾರೆ",
+      "He has enjoyed / ಅವನು ಆನಂದಿಸಿದ್ದಾನೆ",
+      "She has enjoyed / ಅವಳು ಆನಂದಿಸಿದ್ದಾಳೆ",
+      "It has enjoyed / ಅದು ಆನಂದಿಸಿದೆ",
+      "The crowd has enjoyed / ಗುಂಪು ಆನಂದಿಸಿದೆ",
+      "People have enjoyed / ಜನರು ಆನಂದಿಸಿದ್ದಾರೆ",
+      "Someone has enjoyed / ಯಾರೋ ಆನಂದಿಸಿದ್ದಾರೆ",
+      "Nobody has enjoyed / ಯಾರೂ ಆನಂದಿಸಿಲ್ಲ",
+      "Everybody has enjoyed / ಎಲ್ಲರೂ ಆನಂದಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Enlarge / ದೊಡ್ಡದು ಮಾಡು",
+    "forms": [
+      "I have enlarged / ನಾನು ದೊಡ್ಡದು ಮಾಡಿದ್ದೇನೆ",
+      "You have enlarged / ನೀನು ದೊಡ್ಡದು ಮಾಡಿದ್ದೀಯ",
+      "We have enlarged / ನಾವು ದೊಡ್ಡದು ಮಾಡಿದ್ದೇವೆ",
+      "They have enlarged / ಅವರು ದೊಡ್ಡದು ಮಾಡಿದ್ದಾರೆ",
+      "He has enlarged / ಅವನು ದೊಡ್ಡದು ಮಾಡಿದ್ದಾನೆ",
+      "She has enlarged / ಅವಳು ದೊಡ್ಡದು ಮಾಡಿದ್ದಾಳೆ",
+      "It has enlarged / ಅದು ದೊಡ್ಡದು ಮಾಡಿದೆ",
+      "The photo has enlarged / ಫೋಟೋ ದೊಡ್ಡದು ಮಾಡಿದೆ",
+      "People have enlarged / ಜನರು ದೊಡ್ಡದು ಮಾಡಿದ್ದಾರೆ",
+      "Someone has enlarged / ಯಾರೋ ದೊಡ್ಡದು ಮಾಡಿದ್ದಾರೆ",
+      "Nobody has enlarged / ಯಾರೂ ದೊಡ್ಡದು ಮಾಡಿಲ್ಲ",
+      "Everybody has enlarged / ಎಲ್ಲರೂ ದೊಡ್ಡದು ಮಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Enlighten / ತಿಳಿವಳಿಕೆ ನೀಡು",
+    "forms": [
+      "I have enlightened / ನಾನು ತಿಳಿವಳಿಕೆ ನೀಡಿದ್ದೇನೆ",
+      "You have enlightened / ನೀನು ತಿಳಿವಳಿಕೆ ನೀಡಿದ್ದೀಯ",
+      "We have enlightened / ನಾವು ತಿಳಿವಳಿಕೆ ನೀಡಿದ್ದೇವೆ",
+      "They have enlightened / ಅವರು ತಿಳಿವಳಿಕೆ ನೀಡಿದ್ದಾರೆ",
+      "He has enlightened / ಅವನು ತಿಳಿವಳಿಕೆ ನೀಡಿದ್ದಾನೆ",
+      "She has enlightened / ಅವಳು ತಿಳಿವಳಿಕೆ ನೀಡಿದ್ದಾಳೆ",
+      "It has enlightened / ಅದು ತಿಳಿವಳಿಕೆ ನೀಡಿದೆ",
+      "The guru has enlightened / ಗುರು ತಿಳಿವಳಿಕೆ ನೀಡಿದ್ದಾರೆ",
+      "People have enlightened / ಜನರು ತಿಳಿವಳಿಕೆ ನೀಡಿದ್ದಾರೆ",
+      "Someone has enlightened / ಯಾರೋ ತಿಳಿವಳಿಕೆ ನೀಡಿದ್ದಾರೆ",
+      "Nobody has enlightened / ಯಾರೂ ತಿಳಿವಳಿಕೆ ನೀಡಿಲ್ಲ",
+      "Everybody has enlightened / ಎಲ್ಲರೂ ತಿಳಿವಳಿಕೆ ನೀಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Enter / ಪ್ರವೇಶಿಸು",
+    "forms": [
+      "I have entered / ನಾನು ಪ್ರವೇಶಿಸಿದ್ದೇನೆ",
+      "You have entered / ನೀನು ಪ್ರವೇಶಿಸಿದ್ದೀಯ",
+      "We have entered / ನಾವು ಪ್ರವೇಶಿಸಿದ್ದೇವೆ",
+      "They have entered / ಅವರು ಪ್ರವೇಶಿಸಿದ್ದಾರೆ",
+      "He has entered / ಅವನು ಪ್ರವೇಶಿಸಿದ್ದಾನೆ",
+      "She has entered / ಅವಳು ಪ್ರವೇಶಿಸಿದ್ದಾಳೆ",
+      "It has entered / ಅದು ಪ್ರವೇಶಿಸಿದೆ",
+      "The guest has entered / ಅತಿಥಿ ಪ್ರವೇಶಿಸಿದ್ದಾರೆ",
+      "People have entered / ಜನರು ಪ್ರವೇಶಿಸಿದ್ದಾರೆ",
+      "Someone has entered / ಯಾರೋ ಪ್ರವೇಶಿಸಿದ್ದಾರೆ",
+      "Nobody has entered / ಯಾರೂ ಪ್ರವೇಶಿಸಿಲ್ಲ",
+      "Everybody has entered / ಎಲ್ಲರೂ ಪ್ರವೇಶಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Envy / ಅಸೂಯೆ ಪಡು",
+    "forms": [
+      "I have envied / ನಾನು ಅಸೂಯೆ ಪಟ್ಟಿದ್ದೇನೆ",
+      "You have envied / ನೀನು ಅಸೂಯೆ ಪಟ್ಟಿದ್ದೀಯ",
+      "We have envied / ನಾವು ಅಸೂಯೆ ಪಟ್ಟಿದ್ದೇವೆ",
+      "They have envied / ಅವರು ಅಸೂಯೆ ಪಟ್ಟಿದ್ದಾರೆ",
+      "He has envied / ಅವನು ಅಸೂಯೆ ಪಟ್ಟಿದ್ದಾನೆ",
+      "She has envied / ಅವಳು ಅಸೂಯೆ ಪಟ್ಟಿದ್ದಾಳೆ",
+      "It has envied / ಅದು ಅಸೂಯೆ ಪಟ್ಟಿದೆ",
+      "The neighbor has envied / ನೆರೆಯವರು ಅಸೂಯೆ ಪಟ್ಟಿದ್ದಾರೆ",
+      "People have envied / ಜನರು ಅಸೂಯೆ ಪಟ್ಟಿದ್ದಾರೆ",
+      "Someone has envied / ಯಾರೋ ಅಸೂಯೆ ಪಟ್ಟಿದ್ದಾರೆ",
+      "Nobody has envied / ಯಾರೂ ಅಸೂಯೆ ಪಟ್ಟಿಲ್ಲ",
+      "Everybody has envied / ಎಲ್ಲರೂ ಅಸೂಯೆ ಪಟ್ಟಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Erase / ಅಳಿಸು",
+    "forms": [
+      "I have erased / ನಾನು ಅಳಿಸಿದ್ದೇನೆ",
+      "You have erased / ನೀನು ಅಳಿಸಿದ್ದೀಯ",
+      "We have erased / ನಾವು ಅಳಿಸಿದ್ದೇವೆ",
+      "They have erased / ಅವರು ಅಳಿಸಿದ್ದಾರೆ",
+      "He has erased / ಅವನು ಅಳಿಸಿದ್ದಾನೆ",
+      "She has erased / ಅವಳು ಅಳಿಸಿದ್ದಾಳೆ",
+      "It has erased / ಅದು ಅಳಿಸಿದೆ",
+      "The teacher has erased / ಶಿಕ್ಷಕ ಅಳಿಸಿದ್ದಾರೆ",
+      "People have erased / ಜನರು ಅಳಿಸಿದ್ದಾರೆ",
+      "Someone has erased / ಯಾರೋ ಅಳಿಸಿದ್ದಾರೆ",
+      "Nobody has erased / ಯಾರೂ ಅಳಿಸಿಲ್ಲ",
+      "Everybody has erased / ಎಲ್ಲರೂ ಅಳಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Escape / ತಪ್ಪಿಸಿಕೊಳ್ಳು",
+    "forms": [
+      "I have escaped / ನಾನು ತಪ್ಪಿಸಿಕೊಂಡಿದ್ದೇನೆ",
+      "You have escaped / ನೀನು ತಪ್ಪಿಸಿಕೊಂಡಿದ್ದೀಯ",
+      "We have escaped / ನಾವು ತಪ್ಪಿಸಿಕೊಂಡಿದ್ದೇವೆ",
+      "They have escaped / ಅವರು ತಪ್ಪಿಸಿಕೊಂಡಿದ್ದಾರೆ",
+      "He has escaped / ಅವನು ತಪ್ಪಿಸಿಕೊಂಡಿದ್ದಾನೆ",
+      "She has escaped / ಅವಳು ತಪ್ಪಿಸಿಕೊಂಡಿದ್ದಾಳೆ",
+      "It has escaped / ಅದು ತಪ್ಪಿಸಿಕೊಂಡಿದೆ",
+      "The prisoner has escaped / ಕೈದಿ ತಪ್ಪಿಸಿಕೊಂಡಿದ್ದಾನೆ",
+      "People have escaped / ಜನರು ತಪ್ಪಿಸಿಕೊಂಡಿದ್ದಾರೆ",
+      "Someone has escaped / ಯಾರೋ ತಪ್ಪಿಸಿಕೊಂಡಿದ್ದಾರೆ",
+      "Nobody has escaped / ಯಾರೂ ತಪ್ಪಿಸಿಕೊಂಡಿಲ್ಲ",
+      "Everybody has escaped / ಎಲ್ಲರೂ ತಪ್ಪಿಸಿಕೊಂಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Evaporate / ಆವಿಯಾಗು",
+    "forms": [
+      "I have evaporated / ನಾನು ಆವಿಯಾಗಿದ್ದೇನೆ",
+      "You have evaporated / ನೀನು ಆವಿಯಾಗಿದ್ದೀಯ",
+      "We have evaporated / ನಾವು ಆವಿಯಾಗಿದ್ದೇವೆ",
+      "They have evaporated / ಅವರು ಆವಿಯಾಗಿದ್ದಾರೆ",
+      "He has evaporated / ಅವನು ಆವಿಯಾಗಿದ್ದಾನೆ",
+      "She has evaporated / ಅವಳು ಆವಿಯಾಗಿದ್ದಾಳೆ",
+      "It has evaporated / ಅದು ಆವಿಯಾಗಿದೆ",
+      "The water has evaporated / ನೀರು ಆವಿಯಾಗಿದೆ",
+      "People have evaporated / ಜನರು ಆವಿಯಾಗಿದ್ದಾರೆ",
+      "Someone has evaporated / ಯಾರೋ ಆವಿಯಾಗಿದ್ದಾರೆ",
+      "Nobody has evaporated / ಯಾರೂ ಆವಿಯಾಗಿಲ್ಲ",
+      "Everybody has evaporated / ಎಲ್ಲರೂ ಆವಿಯಾಗಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Exchange / ವಿನಿಮಯ ಮಾಡು",
+    "forms": [
+      "I have exchanged / ನಾನು ವಿನಿಮಯ ಮಾಡಿದ್ದೇನೆ",
+      "You have exchanged / ನೀನು ವಿನಿಮಯ ಮಾಡಿದ್ದೀಯ",
+      "We have exchanged / ನಾವು ವಿನಿಮಯ ಮಾಡಿದ್ದೇವೆ",
+      "They have exchanged / ಅವರು ವಿನಿಮಯ ಮಾಡಿದ್ದಾರೆ",
+      "He has exchanged / ಅವನು ವಿನಿಮಯ ಮಾಡಿದ್ದಾನೆ",
+      "She has exchanged / ಅವಳು ವಿನಿಮಯ ಮಾಡಿದ್ದಾಳೆ",
+      "It has exchanged / ಅದು ವಿನಿಮಯ ಮಾಡಿದೆ",
+      "The shop has exchanged / ಅಂಗಡಿ ವಿನಿಮಯ ಮಾಡಿದೆ",
+      "People have exchanged / ಜನರು ವಿನಿಮಯ ಮಾಡಿದ್ದಾರೆ",
+      "Someone has exchanged / ಯಾರೋ ವಿನಿಮಯ ಮಾಡಿದ್ದಾರೆ",
+      "Nobody has exchanged / ಯಾರೂ ವಿನಿಮಯ ಮಾಡಿಲ್ಲ",
+      "Everybody has exchanged / ಎಲ್ಲರೂ ವಿನಿಮಯ ಮಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Exclaim / ಆಶ್ಚರ್ಯದಿಂದ ಕೂಗು",
+    "forms": [
+      "I have exclaimed / ನಾನು ಆಶ್ಚರ್ಯದಿಂದ ಕೂಗಿದ್ದೇನೆ",
+      "You have exclaimed / ನೀನು ಆಶ್ಚರ್ಯದಿಂದ ಕೂಗಿದ್ದೀಯ",
+      "We have exclaimed / ನಾವು ಆಶ್ಚರ್ಯದಿಂದ ಕೂಗಿದ್ದೇವೆ",
+      "They have exclaimed / ಅವರು ಆಶ್ಚರ್ಯದಿಂದ ಕೂಗಿದ್ದಾರೆ",
+      "He has exclaimed / ಅವನು ಆಶ್ಚರ್ಯದಿಂದ ಕೂಗಿದ್ದಾನೆ",
+      "She has exclaimed / ಅವಳು ಆಶ್ಚರ್ಯದಿಂದ ಕೂಗಿದ್ದಾಳೆ",
+      "It has exclaimed / ಅದು ಆಶ್ಚರ್ಯದಿಂದ ಕೂಗಿದೆ",
+      "The child has exclaimed / ಮಗು ಆಶ್ಚರ್ಯದಿಂದ ಕೂಗಿದೆ",
+      "People have exclaimed / ಜನರು ಆಶ್ಚರ್ಯದಿಂದ ಕೂಗಿದ್ದಾರೆ",
+      "Someone has exclaimed / ಯಾರೋ ಆಶ್ಚರ್ಯದಿಂದ ಕೂಗಿದ್ದಾರೆ",
+      "Nobody has exclaimed / ಯಾರೂ ಆಶ್ಚರ್ಯದಿಂದ ಕೂಗಿಲ್ಲ",
+      "Everybody has exclaimed / ಎಲ್ಲರೂ ಆಶ್ಚರ್ಯದಿಂದ ಕೂಗಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Exclude / ಹೊರಗಿಡು",
+    "forms": [
+      "I have excluded / ನಾನು ಹೊರಗಿಟ್ಟಿದ್ದೇನೆ",
+      "You have excluded / ನೀನು ಹೊರಗಿಟ್ಟಿದ್ದೀಯ",
+      "We have excluded / ನಾವು ಹೊರಗಿಟ್ಟಿದ್ದೇವೆ",
+      "They have excluded / ಅವರು ಹೊರಗಿಟ್ಟಿದ್ದಾರೆ",
+      "He has excluded / ಅವನು ಹೊರಗಿಟ್ಟಿದ್ದಾನೆ",
+      "She has excluded / ಅವಳು ಹೊರಗಿಟ್ಟಿದ್ದಾಳೆ",
+      "It has excluded / ಅದು ಹೊರಗಿಟ್ಟಿದೆ",
+      "The team has excluded / ತಂಡ ಹೊರಗಿಟ್ಟಿದೆ",
+      "People have excluded / ಜನರು ಹೊರಗಿಟ್ಟಿದ್ದಾರೆ",
+      "Someone has excluded / ಯಾರೋ ಹೊರಗಿಟ್ಟಿದ್ದಾರೆ",
+      "Nobody has excluded / ಯಾರೂ ಹೊರಗಿಡಲಿಲ್ಲ",
+      "Everybody has excluded / ಎಲ್ಲರೂ ಹೊರಗಿಟ್ಟಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Exist / ಅಸ್ತಿತ್ವದಲ್ಲಿರು",
+    "forms": [
+      "I have existed / ನಾನು ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದೇನೆ",
+      "You have existed / ನೀನು ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದೀಯ",
+      "We have existed / ನಾವು ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದೇವೆ",
+      "They have existed / ಅವರು ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದಾರೆ",
+      "He has existed / ಅವನು ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದಾನೆ",
+      "She has existed / ಅವಳು ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದಾಳೆ",
+      "It has existed / ಅದು ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ",
+      "The tradition has existed / ಸಂಪ್ರದಾಯ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ",
+      "People have existed / ಜನರು ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದಾರೆ",
+      "Someone has existed / ಯಾರೋ ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದಾರೆ",
+      "Nobody has existed / ಯಾರೂ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ",
+      "Everybody has existed / ಎಲ್ಲರೂ ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Expand / ವಿಸ್ತರಿಸು",
+    "forms": [
+      "I have expanded / ನಾನು ವಿಸ್ತರಿಸಿದ್ದೇನೆ",
+      "You have expanded / ನೀನು ವಿಸ್ತರಿಸಿದ್ದೀಯ",
+      "We have expanded / ನಾವು ವಿಸ್ತರಿಸಿದ್ದೇವೆ",
+      "They have expanded / ಅವರು ವಿಸ್ತರಿಸಿದ್ದಾರೆ",
+      "He has expanded / ಅವನು ವಿಸ್ತರಿಸಿದ್ದಾನೆ",
+      "She has expanded / ಅವಳು ವಿಸ್ತರಿಸಿದ್ದಾಳೆ",
+      "It has expanded / ಅದು ವಿಸ್ತರಿಸಿದೆ",
+      "The business has expanded / ವ್ಯವಹಾರ ವಿಸ್ತರಿಸಿದೆ",
+      "People have expanded / ಜನರು ವಿಸ್ತರಿಸಿದ್ದಾರೆ",
+      "Someone has expanded / ಯಾರೋ ವಿಸ್ತರಿಸಿದ್ದಾರೆ",
+      "Nobody has expanded / ಯಾರೂ ವಿಸ್ತರಿಸಿಲ್ಲ",
+      "Everybody has expanded / ಎಲ್ಲರೂ ವಿಸ್ತರಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Expect / ನಿರೀಕ್ಷಿಸು",
+    "forms": [
+      "I have expected / ನಾನು ನಿರೀಕ್ಷಿಸಿದ್ದೇನೆ",
+      "You have expected / ನೀನು ನಿರೀಕ್ಷಿಸಿದ್ದೀಯ",
+      "We have expected / ನಾವು ನಿರೀಕ್ಷಿಸಿದ್ದೇವೆ",
+      "They have expected / ಅವರು ನಿರೀಕ್ಷಿಸಿದ್ದಾರೆ",
+      "He has expected / ಅವನು ನಿರೀಕ್ಷಿಸಿದ್ದಾನೆ",
+      "She has expected / ಅವಳು ನಿರೀಕ್ಷಿಸಿದ್ದಾಳೆ",
+      "It has expected / ಅದು ನಿರೀಕ್ಷಿಸಿದೆ",
+      "The parents have expected / ಪೋಷಕರು ನಿರೀಕ್ಷಿಸಿದ್ದಾರೆ",
+      "People have expected / ಜನರು ನಿರೀಕ್ಷಿಸಿದ್ದಾರೆ",
+      "Someone has expected / ಯಾರೋ ನಿರೀಕ್ಷಿಸಿದ್ದಾರೆ",
+      "Nobody has expected / ಯಾರೂ ನಿರೀಕ್ಷಿಸಿಲ್ಲ",
+      "Everybody has expected / ಎಲ್ಲರೂ ನಿರೀಕ್ಷಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Explain / ವಿವರಿಸು",
+    "forms": [
+      "I have explained / ನಾನು ವಿವರಿಸಿದ್ದೇನೆ",
+      "You have explained / ನೀನು ವಿವರಿಸಿದ್ದೀಯ",
+      "We have explained / ನಾವು ವಿವರಿಸಿದ್ದೇವೆ",
+      "They have explained / ಅವರು ವಿವರಿಸಿದ್ದಾರೆ",
+      "He has explained / ಅವನು ವಿವರಿಸಿದ್ದಾನೆ",
+      "She has explained / ಅವಳು ವಿವರಿಸಿದ್ದಾಳೆ",
+      "It has explained / ಅದು ವಿವರಿಸಿದೆ",
+      "The teacher has explained / ಶಿಕ್ಷಕ ವಿವರಿಸಿದ್ದಾರೆ",
+      "People have explained / ಜನರು ವಿವರಿಸಿದ್ದಾರೆ",
+      "Someone has explained / ಯಾರೋ ವಿವರಿಸಿದ್ದಾರೆ",
+      "Nobody has explained / ಯಾರೂ ವಿವರಿಸಿಲ್ಲ",
+      "Everybody has explained / ಎಲ್ಲರೂ ವಿವರಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Explore / ಅನ್ವೇಷಿಸು",
+    "forms": [
+      "I have explored / ನಾನು ಅನ್ವೇಷಿಸಿದ್ದೇನೆ",
+      "You have explored / ನೀನು ಅನ್ವೇಷಿಸಿದ್ದೀಯ",
+      "We have explored / ನಾವು ಅನ್ವೇಷಿಸಿದ್ದೇವೆ",
+      "They have explored / ಅವರು ಅನ್ವೇಷಿಸಿದ್ದಾರೆ",
+      "He has explored / ಅವನು ಅನ್ವೇಷಿಸಿದ್ದಾನೆ",
+      "She has explored / ಅವಳು ಅನ್ವೇಷಿಸಿದ್ದಾಳೆ",
+      "It has explored / ಅದು ಅನ್ವೇಷಿಸಿದೆ",
+      "The scientist has explored / ವಿಜ್ಞಾನಿ ಅನ್ವೇಷಿಸಿದ್ದಾರೆ",
+      "People have explored / ಜನರು ಅನ್ವೇಷಿಸಿದ್ದಾರೆ",
+      "Someone has explored / ಯಾರೋ ಅನ್ವೇಷಿಸಿದ್ದಾರೆ",
+      "Nobody has explored / ಯಾರೂ ಅನ್ವೇಷಿಸಿಲ್ಲ",
+      "Everybody has explored / ಎಲ್ಲರೂ ಅನ್ವೇಷಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Express / ವ್ಯಕ್ತಪಡಿಸು",
+    "forms": [
+      "I have expressed / ನಾನು ವ್ಯಕ್ತಪಡಿಸಿದ್ದೇನೆ",
+      "You have expressed / ನೀನು ವ್ಯಕ್ತಪಡಿಸಿದ್ದೀಯ",
+      "We have expressed / ನಾವು ವ್ಯಕ್ತಪಡಿಸಿದ್ದೇವೆ",
+      "They have expressed / ಅವರು ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ",
+      "He has expressed / ಅವನು ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾನೆ",
+      "She has expressed / ಅವಳು ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾಳೆ",
+      "It has expressed / ಅದು ವ್ಯಕ್ತಪಡಿಸಿದೆ",
+      "The artist has expressed / ಕಲಾವಿದ ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ",
+      "People have expressed / ಜನರು ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ",
+      "Someone has expressed / ಯಾರೋ ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ",
+      "Nobody has expressed / ಯಾರೂ ವ್ಯಕ್ತಪಡಿಸಿಲ್ಲ",
+      "Everybody has expressed / ಎಲ್ಲರೂ ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Extend / ವಿಸ್ತರಿಸು",
+    "forms": [
+      "I have extended / ನಾನು ವಿಸ್ತರಿಸಿದ್ದೇನೆ",
+      "You have extended / ನೀನು ವಿಸ್ತರಿಸಿದ್ದೀಯ",
+      "We have extended / ನಾವು ವಿಸ್ತರಿಸಿದ್ದೇವೆ",
+      "They have extended / ಅವರು ವಿಸ್ತರಿಸಿದ್ದಾರೆ",
+      "He has extended / ಅವನು ವಿಸ್ತರಿಸಿದ್ದಾನೆ",
+      "She has extended / ಅವಳು ವಿಸ್ತರಿಸಿದ್ದಾಳೆ",
+      "It has extended / ಅದು ವಿಸ್ತರಿಸಿದೆ",
+      "The road has extended / ರಸ್ತೆ ವಿಸ್ತರಿಸಿದೆ",
+      "People have extended / ಜನರು ವಿಸ್ತರಿಸಿದ್ದಾರೆ",
+      "Someone has extended / ಯಾರೋ ವಿಸ್ತರಿಸಿದ್ದಾರೆ",
+      "Nobody has extended / ಯಾರೂ ವಿಸ್ತರಿಸಿಲ್ಲ",
+      "Everybody has extended / ಎಲ್ಲರೂ ವಿಸ್ತರಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Eye / ನೋಡು",
+    "forms": [
+      "I have eyed / ನಾನು ನೋಡಿದ್ದೇನೆ",
+      "You have eyed / ನೀನು ನೋಡಿದ್ದೀಯ",
+      "We have eyed / ನಾವು ನೋಡಿದ್ದೇವೆ",
+      "They have eyed / ಅವರು ನೋಡಿದ್ದಾರೆ",
+      "He has eyed / ಅವನು ನೋಡಿದ್ದಾನೆ",
+      "She has eyed / ಅವಳು ನೋಡಿದ್ದಾಳೆ",
+      "It has eyed / ಅದು ನೋಡಿದೆ",
+      "The cat has eyed / ಬೆಕ್ಕು ನೋಡಿದೆ",
+      "People have eyed / ಜನರು ನೋಡಿದ್ದಾರೆ",
+      "Someone has eyed / ಯಾರೋ ನೋಡಿದ್ದಾರೆ",
+      "Nobody has eyed / ಯಾರೂ ನೋಡಿಲ್ಲ",
+      "Everybody has eyed / ಎಲ್ಲರೂ ನೋಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Face / ಎದುರಿಸು",
+    "forms": [
+      "I have faced / ನಾನು ಎದುರಿಸಿದ್ದೇನೆ",
+      "You have faced / ನೀನು ಎದುರಿಸಿದ್ದೀಯ",
+      "We have faced / ನಾವು ಎದುರಿಸಿದ್ದೇವೆ",
+      "They have faced / ಅವರು ಎದುರಿಸಿದ್ದಾರೆ",
+      "He has faced / ಅವನು ಎದುರಿಸಿದ್ದಾನೆ",
+      "She has faced / ಅವಳು ಎದುರಿಸಿದ್ದಾಳೆ",
+      "It has faced / ಅದು ಎದುರಿಸಿದೆ",
+      "The team has faced / ತಂಡ ಎದುರಿಸಿದೆ",
+      "People have faced / ಜನರು ಎದುರಿಸಿದ್ದಾರೆ",
+      "Someone has faced / ಯಾರೋ ಎದುರಿಸಿದ್ದಾರೆ",
+      "Nobody has faced / ಯಾರೂ ಎದುರಿಸಿಲ್ಲ",
+      "Everybody has faced / ಎಲ್ಲರೂ ಎದುರಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fail / ವಿಫಲವಾಗು",
+    "forms": [
+      "I have failed / ನಾನು ವಿಫಲವಾಗಿದ್ದೇನೆ",
+      "You have failed / ನೀನು ವಿಫಲವಾಗಿದ್ದೀಯ",
+      "We have failed / ನಾವು ವಿಫಲವಾಗಿದ್ದೇವೆ",
+      "They have failed / ಅವರು ವಿಫಲವಾಗಿದ್ದಾರೆ",
+      "He has failed / ಅವನು ವಿಫಲವಾಗಿದ್ದಾನೆ",
+      "She has failed / ಅವಳು ವಿಫಲವಾಗಿದ್ದಾಳೆ",
+      "It has failed / ಅದು ವಿಫಲವಾಗಿದೆ",
+      "The plan has failed / ಯೋಜನೆ ವಿಫಲವಾಗಿದೆ",
+      "People have failed / ಜನರು ವಿಫಲವಾಗಿದ್ದಾರೆ",
+      "Someone has failed / ಯಾರೋ ವಿಫಲವಾಗಿದ್ದಾರೆ",
+      "Nobody has failed / ಯಾರೂ ವಿಫಲವಾಗಿಲ್ಲ",
+      "Everybody has failed / ಎಲ್ಲರೂ ವಿಫಲವಾಗಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Faint / ಮೂರ್ಛೆ ಹೋಗು",
+    "forms": [
+      "I have fainted / ನಾನು ಮೂರ್ಛೆ ಹೋಗಿದ್ದೇನೆ",
+      "You have fainted / ನೀನು ಮೂರ್ಛೆ ಹೋಗಿದ್ದೀಯ",
+      "We have fainted / ನಾವು ಮೂರ್ಛೆ ಹೋಗಿದ್ದೇವೆ",
+      "They have fainted / ಅವರು ಮೂರ್ಛೆ ಹೋಗಿದ್ದಾರೆ",
+      "He has fainted / ಅವನು ಮೂರ್ಛೆ ಹೋಗಿದ್ದಾನೆ",
+      "She has fainted / ಅವಳು ಮೂರ್ಛೆ ಹೋಗಿದ್ದಾಳೆ",
+      "It has fainted / ಅದು ಮೂರ್ಛೆ ಹೋಗಿದೆ",
+      "The patient has fainted / ರೋಗಿ ಮೂರ್ಛೆ ಹೋಗಿದ್ದಾನೆ",
+      "People have fainted / ಜನರು ಮೂರ್ಛೆ ಹೋಗಿದ್ದಾರೆ",
+      "Someone has fainted / ಯಾರೋ ಮೂರ್ಛೆ ಹೋಗಿದ್ದಾರೆ",
+      "Nobody has fainted / ಯಾರೂ ಮೂರ್ಛೆ ಹೋಗಿಲ್ಲ",
+      "Everybody has fainted / ಎಲ್ಲರೂ ಮೂರ್ಛೆ ಹೋಗಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fall / ಬೀಳು",
+    "forms": [
+      "I have fallen / ನಾನು ಬಿದ್ದಿದ್ದೇನೆ",
+      "You have fallen / ನೀನು ಬಿದ್ದಿದ್ದೀಯ",
+      "We have fallen / ನಾವು ಬಿದ್ದಿದ್ದೇವೆ",
+      "They have fallen / ಅವರು ಬಿದ್ದಿದ್ದಾರೆ",
+      "He has fallen / ಅವನು ಬಿದ್ದಿದ್ದಾನೆ",
+      "She has fallen / ಅವಳು ಬಿದ್ದಿದ್ದಾಳೆ",
+      "It has fallen / ಅದು ಬಿದ್ದಿದೆ",
+      "The leaf has fallen / ಎಲೆ ಬಿದ್ದಿದೆ",
+      "People have fallen / ಜನರು ಬಿದ್ದಿದ್ದಾರೆ",
+      "Someone has fallen / ಯಾರೋ ಬಿದ್ದಿದ್ದಾರೆ",
+      "Nobody has fallen / ಯಾರೂ ಬೀಳಲಿಲ್ಲ",
+      "Everybody has fallen / ಎಲ್ಲರೂ ಬಿದ್ದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fan / ಚಿಮ್ಮು",
+    "forms": [
+      "I have fanned / ನಾನು ಚಿಮ್ಮಿದ್ದೇನೆ",
+      "You have fanned / ನೀನು ಚಿಮ್ಮಿದ್ದೀಯ",
+      "We have fanned / ನಾವು ಚಿಮ್ಮಿದ್ದೇವೆ",
+      "They have fanned / ಅವರು ಚಿಮ್ಮಿದ್ದಾರೆ",
+      "He has fanned / ಅವನು ಚಿಮ್ಮಿದ್ದಾನೆ",
+      "She has fanned / ಅವಳು ಚಿಮ್ಮಿದ್ದಾಳೆ",
+      "It has fanned / ಅದು ಚಿಮ್ಮಿದೆ",
+      "The machine has fanned / ಯಂತ್ರ ಚಿಮ್ಮಿದೆ",
+      "People have fanned / ಜನರು ಚಿಮ್ಮಿದ್ದಾರೆ",
+      "Someone has fanned / ಯಾರೋ ಚಿಮ್ಮಿದ್ದಾರೆ",
+      "Nobody has fanned / ಯಾರೂ ಚಿಮ್ಮಿಲ್ಲ",
+      "Everybody has fanned / ಎಲ್ಲರೂ ಚಿಮ್ಮಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fancy / ಇಷ್ಟಪಡು",
+    "forms": [
+      "I have fancied / ನಾನು ಇಷ್ಟಪಟ್ಟಿದ್ದೇನೆ",
+      "You have fancied / ನೀನು ಇಷ್ಟಪಟ್ಟಿದ್ದೀಯ",
+      "We have fancied / ನಾವು ಇಷ್ಟಪಟ್ಟಿದ್ದೇವೆ",
+      "They have fancied / ಅವರು ಇಷ್ಟಪಟ್ಟಿದ್ದಾರೆ",
+      "He has fancied / ಅವನು ಇಷ್ಟಪಟ್ಟಿದ್ದಾನೆ",
+      "She has fancied / ಅವಳು ಇಷ್ಟಪಟ್ಟಿದ್ದಾಳೆ",
+      "It has fancied / ಅದು ಇಷ್ಟಪಟ್ಟಿದೆ",
+      "The child has fancied / ಮಗು ಇಷ್ಟಪಟ್ಟಿದೆ",
+      "People have fancied / ಜನರು ಇಷ್ಟಪಟ್ಟಿದ್ದಾರೆ",
+      "Someone has fancied / ಯಾರೋ ಇಷ್ಟಪಟ್ಟಿದ್ದಾರೆ",
+      "Nobody has fancied / ಯಾರೂ ಇಷ್ಟಪಡಲಿಲ್ಲ",
+      "Everybody has fancied / ಎಲ್ಲರೂ ಇಷ್ಟಪಟ್ಟಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Favour / ಆದರಿಸು",
+    "forms": [
+      "I have favoured / ನಾನು ಆದರಿಸಿದ್ದೇನೆ",
+      "You have favoured / ನೀನು ಆದರಿಸಿದ್ದೀಯ",
+      "We have favoured / ನಾವು ಆದರಿಸಿದ್ದೇವೆ",
+      "They have favoured / ಅವರು ಆದರಿಸಿದ್ದಾರೆ",
+      "He has favoured / ಅವನು ಆದರಿಸಿದ್ದಾನೆ",
+      "She has favoured / ಅವಳು ಆದರಿಸಿದ್ದಾಳೆ",
+      "It has favoured / ಅದು ಆದರಿಸಿದೆ",
+      "The teacher has favoured / ಶಿಕ್ಷಕ ಆದರಿಸಿದ್ದಾರೆ",
+      "People have favoured / ಜನರು ಆದರಿಸಿದ್ದಾರೆ",
+      "Someone has favoured / ಯಾರೋ ಆದರಿಸಿದ್ದಾರೆ",
+      "Nobody has favoured / ಯಾರೂ ಆದರಿಸಿಲ್ಲ",
+      "Everybody has favoured / ಎಲ್ಲರೂ ಆದರಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fax / ಫ್ಯಾಕ್ಸ್ ಕಳುಹಿಸು",
+    "forms": [
+      "I have faxed / ನಾನು ಫ್ಯಾಕ್ಸ್ ಕಳುಹಿಸಿದ್ದೇನೆ",
+      "You have faxed / ನೀನು ಫ್ಯಾಕ್ಸ್ ಕಳುಹಿಸಿದ್ದೀಯ",
+      "We have faxed / ನಾವು ಫ್ಯಾಕ್ಸ್ ಕಳುಹಿಸಿದ್ದೇವೆ",
+      "They have faxed / ಅವರು ಫ್ಯಾಕ್ಸ್ ಕಳುಹಿಸಿದ್ದಾರೆ",
+      "He has faxed / ಅವನು ಫ್ಯಾಕ್ಸ್ ಕಳುಹಿಸಿದ್ದಾನೆ",
+      "She has faxed / ಅವಳು ಫ್ಯಾಕ್ಸ್ ಕಳುಹಿಸಿದ್ದಾಳೆ",
+      "It has faxed / ಅದು ಫ್ಯಾಕ್ಸ್ ಕಳುಹಿಸಿದೆ",
+      "The office has faxed / ಕಚೇರಿ ಫ್ಯಾಕ್ಸ್ ಕಳುಹಿಸಿದೆ",
+      "People have faxed / ಜನರು ಫ್ಯಾಕ್ಸ್ ಕಳುಹಿಸಿದ್ದಾರೆ",
+      "Someone has faxed / ಯಾರೋ ಫ್ಯಾಕ್ಸ್ ಕಳುಹಿಸಿದ್ದಾರೆ",
+      "Nobody has faxed / ಯಾರೂ ಫ್ಯಾಕ್ಸ್ ಕಳುಹಿಸಿಲ್ಲ",
+      "Everybody has faxed / ಎಲ್ಲರೂ ಫ್ಯಾಕ್ಸ್ ಕಳುಹಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Feed / ತಿನ್ನಿಸು",
+    "forms": [
+      "I have fed / ನಾನು ತಿನ್ನಿಸಿದ್ದೇನೆ",
+      "You have fed / ನೀನು ತಿನ್ನಿಸಿದ್ದೀಯ",
+      "We have fed / ನಾವು ತಿನ್ನಿಸಿದ್ದೇವೆ",
+      "They have fed / ಅವರು ತಿನ್ನಿಸಿದ್ದಾರೆ",
+      "He has fed / ಅವನು ತಿನ್ನಿಸಿದ್ದಾನೆ",
+      "She has fed / ಅವಳು ತಿನ್ನಿಸಿದ್ದಾಳೆ",
+      "It has fed / ಅದು ತಿನ್ನಿಸಿದೆ",
+      "The mother has fed / ತಾಯಿ ತಿನ್ನಿಸಿದ್ದಾಳೆ",
+      "People have fed / ಜನರು ತಿನ್ನಿಸಿದ್ದಾರೆ",
+      "Someone has fed / ಯಾರೋ ತಿನ್ನಿಸಿದ್ದಾರೆ",
+      "Nobody has fed / ಯಾರೂ ತಿನ್ನಿಸಿಲ್ಲ",
+      "Everybody has fed / ಎಲ್ಲರೂ ತಿನ್ನಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Feel / ಅನುಭವಿಸು",
+    "forms": [
+      "I have felt / ನಾನು ಅನುಭವಿಸಿದ್ದೇನೆ",
+      "You have felt / ನೀನು ಅನುಭವಿಸಿದ್ದೀಯ",
+      "We have felt / ನಾವು ಅನುಭವಿಸಿದ್ದೇವೆ",
+      "They have felt / ಅವರು ಅನುಭವಿಸಿದ್ದಾರೆ",
+      "He has felt / ಅವನು ಅನುಭವಿಸಿದ್ದಾನೆ",
+      "She has felt / ಅವಳು ಅನುಭವಿಸಿದ್ದಾಳೆ",
+      "It has felt / ಅದು ಅನುಭವಿಸಿದೆ",
+      "The child has felt / ಮಗು ಅನುಭವಿಸಿದೆ",
+      "People have felt / ಜನರು ಅನುಭವಿಸಿದ್ದಾರೆ",
+      "Someone has felt / ಯಾರೋ ಅನುಭವಿಸಿದ್ದಾರೆ",
+      "Nobody has felt / ಯಾರೂ ಅನುಭವಿಸಿಲ್ಲ",
+      "Everybody has felt / ಎಲ್ಲರೂ ಅನುಭವಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Ferry / ಹಡಗಿನಲ್ಲಿ ಸಾಗಿಸು",
+    "forms": [
+      "I have ferried / ನಾನು ಹಡಗಿನಲ್ಲಿ ಸಾಗಿಸಿದ್ದೇನೆ",
+      "You have ferried / ನೀನು ಹಡಗಿನಲ್ಲಿ ಸಾಗಿಸಿದ್ದೀಯ",
+      "We have ferried / ನಾವು ಹಡಗಿನಲ್ಲಿ ಸಾಗಿಸಿದ್ದೇವೆ",
+      "They have ferried / ಅವರು ಹಡಗಿನಲ್ಲಿ ಸಾಗಿಸಿದ್ದಾರೆ",
+      "He has ferried / ಅವನು ಹಡಗಿನಲ್ಲಿ ಸಾಗಿಸಿದ್ದಾನೆ",
+      "She has ferried / ಅವಳು ಹಡಗಿನಲ್ಲಿ ಸಾಗಿಸಿದ್ದಾಳೆ",
+      "It has ferried / ಅದು ಹಡಗಿನಲ್ಲಿ ಸಾಗಿಸಿದೆ",
+      "The boat has ferried / ಹಡಗು ಸಾಗಿಸಿದೆ",
+      "People have ferried / ಜನರು ಹಡಗಿನಲ್ಲಿ ಸಾಗಿಸಿದ್ದಾರೆ",
+      "Someone has ferried / ಯಾರೋ ಹಡಗಿನಲ್ಲಿ ಸಾಗಿಸಿದ್ದಾರೆ",
+      "Nobody has ferried / ಯಾರೂ ಹಡಗಿನಲ್ಲಿ ಸಾಗಿಸಿಲ್ಲ",
+      "Everybody has ferried / ಎಲ್ಲರೂ ಹಡಗಿನಲ್ಲಿ ಸಾಗಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fetch / ತರು",
+    "forms": [
+      "I have fetched / ನಾನು ತಂದಿದ್ದೇನೆ",
+      "You have fetched / ನೀನು ತಂದಿದ್ದೀಯ",
+      "We have fetched / ನಾವು ತಂದಿದ್ದೇವೆ",
+      "They have fetched / ಅವರು ತಂದಿದ್ದಾರೆ",
+      "He has fetched / ಅವನು ತಂದಿದ್ದಾನೆ",
+      "She has fetched / ಅವಳು ತಂದಿದ್ದಾಳೆ",
+      "It has fetched / ಅದು ತಂದಿದೆ",
+      "The dog has fetched / ನಾಯಿ ತಂದಿದೆ",
+      "People have fetched / ಜನರು ತಂದಿದ್ದಾರೆ",
+      "Someone has fetched / ಯಾರೋ ತಂದಿದ್ದಾರೆ",
+      "Nobody has fetched / ಯಾರೂ ತಂದಿಲ್ಲ",
+      "Everybody has fetched / ಎಲ್ಲರೂ ತಂದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fight / ಹೋರಾಡು",
+    "forms": [
+      "I have fought / ನಾನು ಹೋರಾಡಿದ್ದೇನೆ",
+      "You have fought / ನೀನು ಹೋರಾಡಿದ್ದೀಯ",
+      "We have fought / ನಾವು ಹೋರಾಡಿದ್ದೇವೆ",
+      "They have fought / ಅವರು ಹೋರಾಡಿದ್ದಾರೆ",
+      "He has fought / ಅವನು ಹೋರಾಡಿದ್ದಾನೆ",
+      "She has fought / ಅವಳು ಹೋರಾಡಿದ್ದಾಳೆ",
+      "It has fought / ಅದು ಹೋರಾಡಿದೆ",
+      "The soldier has fought / ಸೈನಿಕ ಹೋರಾಡಿದ್ದಾನೆ",
+      "People have fought / ಜನರು ಹೋರಾಡಿದ್ದಾರೆ",
+      "Someone has fought / ಯಾರೋ ಹೋರಾಡಿದ್ದಾರೆ",
+      "Nobody has fought / ಯಾರೂ ಹೋರಾಡಿಲ್ಲ",
+      "Everybody has fought / ಎಲ್ಲರೂ ಹೋರಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fill / ತುಂಬು",
+    "forms": [
+      "I have filled / ನಾನು ತುಂಬಿದ್ದೇನೆ",
+      "You have filled / ನೀನು ತುಂಬಿದ್ದೀಯ",
+      "We have filled / ನಾವು ತುಂಬಿದ್ದೇವೆ",
+      "They have filled / ಅವರು ತುಂಬಿದ್ದಾರೆ",
+      "He has filled / ಅವನು ತುಂಬಿದ್ದಾನೆ",
+      "She has filled / ಅವಳು ತುಂಬಿದ್ದಾಳೆ",
+      "It has filled / ಅದು ತುಂಬಿದೆ",
+      "The bottle has filled / ಬಾಟಲಿ ತುಂಬಿದೆ",
+      "People have filled / ಜನರು ತುಂಬಿದ್ದಾರೆ",
+      "Someone has filled / ಯಾರೋ ತುಂಬಿದ್ದಾರೆ",
+      "Nobody has filled / ಯಾರೂ ತುಂಬಿಲ್ಲ",
+      "Everybody has filled / ಎಲ್ಲರೂ ತುಂಬಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Find / ಹುಡುಕು",
+    "forms": [
+      "I have found / ನಾನು ಹುಡುಕಿದ್ದೇನೆ",
+      "You have found / ನೀನು ಹುಡುಕಿದ್ದೀಯ",
+      "We have found / ನಾವು ಹುಡುಕಿದ್ದೇವೆ",
+      "They have found / ಅವರು ಹುಡುಕಿದ್ದಾರೆ",
+      "He has found / ಅವನು ಹುಡುಕಿದ್ದಾನೆ",
+      "She has found / ಅವಳು ಹುಡುಕಿದ್ದಾಳೆ",
+      "It has found / ಅದು ಹುಡುಕಿದೆ",
+      "The child has found / ಮಗು ಹುಡುಕಿದೆ",
+      "People have found / ಜನರು ಹುಡುಕಿದ್ದಾರೆ",
+      "Someone has found / ಯಾರೋ ಹುಡುಕಿದ್ದಾರೆ",
+      "Nobody has found / ಯಾರೂ ಹುಡುಕಿಲ್ಲ",
+      "Everybody has found / ಎಲ್ಲರೂ ಹುಡುಕಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Finish / ಮುಗಿಸು",
+    "forms": [
+      "I have finished / ನಾನು ಮುಗಿಸಿದ್ದೇನೆ",
+      "You have finished / ನೀನು ಮುಗಿಸಿದ್ದೀಯ",
+      "We have finished / ನಾವು ಮುಗಿಸಿದ್ದೇವೆ",
+      "They have finished / ಅವರು ಮುಗಿಸಿದ್ದಾರೆ",
+      "He has finished / ಅವನು ಮುಗಿಸಿದ್ದಾನೆ",
+      "She has finished / ಅವಳು ಮುಗಿಸಿದ್ದಾಳೆ",
+      "It has finished / ಅದು ಮುಗಿಸಿದೆ",
+      "The work has finished / ಕೆಲಸ ಮುಗಿಸಿದೆ",
+      "People have finished / ಜನರು ಮುಗಿಸಿದ್ದಾರೆ",
+      "Someone has finished / ಯಾರೋ ಮುಗಿಸಿದ್ದಾರೆ",
+      "Nobody has finished / ಯಾರೂ ಮುಗಿಸಿಲ್ಲ",
+      "Everybody has finished / ಎಲ್ಲರೂ ಮುಗಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fish / ಮೀನು ಹಿಡಿ",
+    "forms": [
+      "I have fished / ನಾನು ಮೀನು ಹಿಡಿದಿದ್ದೇನೆ",
+      "You have fished / ನೀನು ಮೀನು ಹಿಡಿದಿದ್ದೀಯ",
+      "We have fished / ನಾವು ಮೀನು ಹಿಡಿದಿದ್ದೇವೆ",
+      "They have fished / ಅವರು ಮೀನು ಹಿಡಿದಿದ್ದಾರೆ",
+      "He has fished / ಅವನು ಮೀನು ಹಿಡಿದಿದ್ದಾನೆ",
+      "She has fished / ಅವಳು ಮೀನು ಹಿಡಿದಿದ್ದಾಳೆ",
+      "It has fished / ಅದು ಮೀನು ಹಿಡಿದಿದೆ",
+      "The fisherman has fished / ಮೀನುಗಾರ ಮೀನು ಹಿಡಿದಿದ್ದಾನೆ",
+      "People have fished / ಜನರು ಮೀನು ಹಿಡಿದಿದ್ದಾರೆ",
+      "Someone has fished / ಯಾರೋ ಮೀನು ಹಿಡಿದಿದ್ದಾರೆ",
+      "Nobody has fished / ಯಾರೂ ಮೀನು ಹಿಡಿದಿಲ್ಲ",
+      "Everybody has fished / ಎಲ್ಲರೂ ಮೀನು ಹಿಡಿದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fit / ಹೊಂದಿಸು",
+    "forms": [
+      "I have fitted / ನಾನು ಹೊಂದಿಸಿದ್ದೇನೆ",
+      "You have fitted / ನೀನು ಹೊಂದಿಸಿದ್ದೀಯ",
+      "We have fitted / ನಾವು ಹೊಂದಿಸಿದ್ದೇವೆ",
+      "They have fitted / ಅವರು ಹೊಂದಿಸಿದ್ದಾರೆ",
+      "He has fitted / ಅವನು ಹೊಂದಿಸಿದ್ದಾನೆ",
+      "She has fitted / ಅವಳು ಹೊಂದಿಸಿದ್ದಾಳೆ",
+      "It has fitted / ಅದು ಹೊಂದಿಸಿದೆ",
+      "The dress has fitted / ಉಡುಗೆ ಹೊಂದಿಸಿದೆ",
+      "People have fitted / ಜನರು ಹೊಂದಿಸಿದ್ದಾರೆ",
+      "Someone has fitted / ಯಾರೋ ಹೊಂದಿಸಿದ್ದಾರೆ",
+      "Nobody has fitted / ಯಾರೂ ಹೊಂದಿಸಿಲ್ಲ",
+      "Everybody has fitted / ಎಲ್ಲರೂ ಹೊಂದಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fix / ಸರಿಪಡಿಸು",
+    "forms": [
+      "I have fixed / ನಾನು ಸರಿಪಡಿಸಿದ್ದೇನೆ",
+      "You have fixed / ನೀನು ಸರಿಪಡಿಸಿದ್ದೀಯ",
+      "We have fixed / ನಾವು ಸರಿಪಡಿಸಿದ್ದೇವೆ",
+      "They have fixed / ಅವರು ಸರಿಪಡಿಸಿದ್ದಾರೆ",
+      "He has fixed / ಅವನು ಸರಿಪಡಿಸಿದ್ದಾನೆ",
+      "She has fixed / ಅವಳು ಸರಿಪಡಿಸಿದ್ದಾಳೆ",
+      "It has fixed / ಅದು ಸರಿಪಡಿಸಿದೆ",
+      "The mechanic has fixed / ಮೆಕ್ಯಾನಿಕ್ ಸರಿಪಡಿಸಿದ್ದಾನೆ",
+      "People have fixed / ಜನರು ಸರಿಪಡಿಸಿದ್ದಾರೆ",
+      "Someone has fixed / ಯಾರೋ ಸರಿಪಡಿಸಿದ್ದಾರೆ",
+      "Nobody has fixed / ಯಾರೂ ಸರಿಪಡಿಸಿಲ್ಲ",
+      "Everybody has fixed / ಎಲ್ಲರೂ ಸರಿಪಡಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fizz / ನೊರೆ",
+    "forms": [
+      "I have fizzed / ನಾನು ನೊರೆದಿದ್ದೇನೆ",
+      "You have fizzed / ನೀನು ನೊರೆದಿದ್ದೀಯ",
+      "We have fizzed / ನಾವು ನೊರೆದಿದ್ದೇವೆ",
+      "They have fizzed / ಅವರು ನೊರೆದಿದ್ದಾರೆ",
+      "He has fizzed / ಅವನು ನೊರೆದಿದ್ದಾನೆ",
+      "She has fizzed / ಅವಳು ನೊರೆದಿದ್ದಾಳೆ",
+      "It has fizzed / ಅದು ನೊರೆದಿದೆ",
+      "The soda has fizzed / ಸೋಡಾ ನೊರೆದಿದೆ",
+      "People have fizzed / ಜನರು ನೊರೆದಿದ್ದಾರೆ",
+      "Someone has fizzed / ಯಾರೋ ನೊರೆದಿದ್ದಾರೆ",
+      "Nobody has fizzed / ಯಾರೂ ನೊರೆದಿಲ್ಲ",
+      "Everybody has fizzed / ಎಲ್ಲರೂ ನೊರೆದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Flap / ಬೀಸು",
+    "forms": [
+      "I have flapped / ನಾನು ಬೀಸಿದ್ದೇನೆ",
+      "You have flapped / ನೀನು ಬೀಸಿದ್ದೀಯ",
+      "We have flapped / ನಾವು ಬೀಸಿದ್ದೇವೆ",
+      "They have flapped / ಅವರು ಬೀಸಿದ್ದಾರೆ",
+      "He has flapped / ಅವನು ಬೀಸಿದ್ದಾನೆ",
+      "She has flapped / ಅವಳು ಬೀಸಿದ್ದಾಳೆ",
+      "It has flapped / ಅದು ಬೀಸಿದೆ",
+      "The bird has flapped / ಹಕ್ಕಿ ಬೀಸಿದೆ",
+      "People have flapped / ಜನರು ಬೀಸಿದ್ದಾರೆ",
+      "Someone has flapped / ಯಾರೋ ಬೀಸಿದ್ದಾರೆ",
+      "Nobody has flapped / ಯಾರೂ ಬೀಸಿಲ್ಲ",
+      "Everybody has flapped / ಎಲ್ಲರೂ ಬೀಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Flash / ಮಿಂಚು",
+    "forms": [
+      "I have flashed / ನಾನು ಮಿಂಚಿದ್ದೇನೆ",
+      "You have flashed / ನೀನು ಮಿಂಚಿದ್ದೀಯ",
+      "We have flashed / ನಾವು ಮಿಂಚಿದ್ದೇವೆ",
+      "They have flashed / ಅವರು ಮಿಂಚಿದ್ದಾರೆ",
+      "He has flashed / ಅವನು ಮಿಂಚಿದ್ದಾನೆ",
+      "She has flashed / ಅವಳು ಮಿಂಚಿದ್ದಾಳೆ",
+      "It has flashed / ಅದು ಮಿಂಚಿದೆ",
+      "The light has flashed / ಬೆಳಕು ಮಿಂಚಿದೆ",
+      "People have flashed / ಜನರು ಮಿಂಚಿದ್ದಾರೆ",
+      "Someone has flashed / ಯಾರೋ ಮಿಂಚಿದ್ದಾರೆ",
+      "Nobody has flashed / ಯಾರೂ ಮಿಂಚಿಲ್ಲ",
+      "Everybody has flashed / ಎಲ್ಲರೂ ಮಿಂಚಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Flee / ಓಡಿಹೋಗು",
+    "forms": [
+      "I have fled / ನಾನು ಓಡಿಹೋಗಿದ್ದೇನೆ",
+      "You have fled / ನೀನು ಓಡಿಹೋಗಿದ್ದೀಯ",
+      "We have fled / ನಾವು ಓಡಿಹೋಗಿದ್ದೇವೆ",
+      "They have fled / ಅವರು ಓಡಿಹೋಗಿದ್ದಾರೆ",
+      "He has fled / ಅವನು ಓಡಿಹೋಗಿದ್ದಾನೆ",
+      "She has fled / ಅವಳು ಓಡಿಹೋಗಿದ್ದಾಳೆ",
+      "It has fled / ಅದು ಓಡಿಹೋಗಿದೆ",
+      "The thief has fled / ಕಳ್ಳ ಓಡಿಹೋಗಿದ್ದಾನೆ",
+      "People have fled / ಜನರು ಓಡಿಹೋಗಿದ್ದಾರೆ",
+      "Someone has fled / ಯಾರೋ ಓಡಿಹೋಗಿದ್ದಾರೆ",
+      "Nobody has fled / ಯಾರೂ ಓಡಿಹೋಗಿಲ್ಲ",
+      "Everybody has fled / ಎಲ್ಲರೂ ಓಡಿಹೋಗಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fling / ಎಸೆ",
+    "forms": [
+      "I have flung / ನಾನು ಎಸೆದಿದ್ದೇನೆ",
+      "You have flung / ನೀನು ಎಸೆದಿದ್ದೀಯ",
+      "We have flung / ನಾವು ಎಸೆದಿದ್ದೇವೆ",
+      "They have flung / ಅವರು ಎಸೆದಿದ್ದಾರೆ",
+      "He has flung / ಅವನು ಎಸೆದಿದ್ದಾನೆ",
+      "She has flung / ಅವಳು ಎಸೆದಿದ್ದಾಳೆ",
+      "It has flung / ಅದು ಎಸೆದಿದೆ",
+      "The boy has flung / ಹುಡುಗ ಎಸೆದಿದ್ದಾನೆ",
+      "People have flung / ಜನರು ಎಸೆದಿದ್ದಾರೆ",
+      "Someone has flung / ಯಾರೋ ಎಸೆದಿದ್ದಾರೆ",
+      "Nobody has flung / ಯಾರೂ ಎಸೆದಿಲ್ಲ",
+      "Everybody has flung / ಎಲ್ಲರೂ ಎಸೆದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Float / ತೇಲು",
+    "forms": [
+      "I have floated / ನಾನು ತೇಲಿದ್ದೇನೆ",
+      "You have floated / ನೀನು ತೇಲಿದ್ದೀಯ",
+      "We have floated / ನಾವು ತೇಲಿದ್ದೇವೆ",
+      "They have floated / ಅವರು ತೇಲಿದ್ದಾರೆ",
+      "He has floated / ಅವನು ತೇಲಿದ್ದಾನೆ",
+      "She has floated / ಅವಳು ತೇಲಿದ್ದಾಳೆ",
+      "It has floated / ಅದು ತೇಲಿದೆ",
+      "The boat has floated / ಹಡಗು ತೇಲಿದೆ",
+      "People have floated / ಜನರು ತೇಲಿದ್ದಾರೆ",
+      "Someone has floated / ಯಾರೋ ತೇಲಿದ್ದಾರೆ",
+      "Nobody has floated / ಯಾರೂ ತೇಲಿಲ್ಲ",
+      "Everybody has floated / ಎಲ್ಲರೂ ತೇಲಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Flop / ಫ್ಲಾಪ್",
+    "forms": [
+      "I have flopped / ನಾನು ಫ್ಲಾಪ್ ಆಗಿದ್ದೇನೆ",
+      "You have flopped / ನೀನು ಫ್ಲಾಪ್ ಆಗಿದ್ದೀಯ",
+      "We have flopped / ನಾವು ಫ್ಲಾಪ್ ಆಗಿದ್ದೇವೆ",
+      "They have flopped / ಅವರು ಫ್ಲಾಪ್ ಆಗಿದ್ದಾರೆ",
+      "He has flopped / ಅವನು ಫ್ಲಾಪ್ ಆಗಿದ್ದಾನೆ",
+      "She has flopped / ಅವಳು ಫ್ಲಾಪ್ ಆಗಿದ್ದಾಳೆ",
+      "It has flopped / ಅದು ಫ್ಲಾಪ್ ಆಗಿದೆ",
+      "The movie has flopped / ಚಲನಚಿತ್ರ ಫ್ಲಾಪ್ ಆಗಿದೆ",
+      "People have flopped / ಜನರು ಫ್ಲಾಪ್ ಆಗಿದ್ದಾರೆ",
+      "Someone has flopped / ಯಾರೋ ಫ್ಲಾಪ್ ಆಗಿದ್ದಾರೆ",
+      "Nobody has flopped / ಯಾರೂ ಫ್ಲಾಪ್ ಆಗಿಲ್ಲ",
+      "Everybody has flopped / ಎಲ್ಲರೂ ಫ್ಲಾಪ್ ಆಗಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fly / ಹಾರು",
+    "forms": [
+      "I have flown / ನಾನು ಹಾರಿದ್ದೇನೆ",
+      "You have flown / ನೀನು ಹಾರಿದ್ದೀಯ",
+      "We have flown / ನಾವು ಹಾರಿದ್ದೇವೆ",
+      "They have flown / ಅವರು ಹಾರಿದ್ದಾರೆ",
+      "He has flown / ಅವನು ಹಾರಿದ್ದಾನೆ",
+      "She has flown / ಅವಳು ಹಾರಿದ್ದಾಳೆ",
+      "It has flown / ಅದು ಹಾರಿದೆ",
+      "The bird has flown / ಹಕ್ಕಿ ಹಾರಿದೆ",
+      "People have flown / ಜನರು ಹಾರಿದ್ದಾರೆ",
+      "Someone has flown / ಯಾರೋ ಹಾರಿದ್ದಾರೆ",
+      "Nobody has flown / ಯಾರೂ ಹಾರಿಲ್ಲ",
+      "Everybody has flown / ಎಲ್ಲರೂ ಹಾರಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fold / ಮಡಚು",
+    "forms": [
+      "I have folded / ನಾನು ಮಡಚಿದ್ದೇನೆ",
+      "You have folded / ನೀನು ಮಡಚಿದ್ದೀಯ",
+      "We have folded / ನಾವು ಮಡಚಿದ್ದೇವೆ",
+      "They have folded / ಅವರು ಮಡಚಿದ್ದಾರೆ",
+      "He has folded / ಅವನು ಮಡಚಿದ್ದಾನೆ",
+      "She has folded / ಅವಳು ಮಡಚಿದ್ದಾಳೆ",
+      "It has folded / ಅದು ಮಡಚಿದೆ",
+      "The paper has folded / ಕಾಗದ ಮಡಚಿದೆ",
+      "People have folded / ಜನರು ಮಡಚಿದ್ದಾರೆ",
+      "Someone has folded / ಯಾರೋ ಮಡಚಿದ್ದಾರೆ",
+      "Nobody has folded / ಯಾರೂ ಮಡಚಿಲ್ಲ",
+      "Everybody has folded / ಎಲ್ಲರೂ ಮಡಚಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Follow / ಅನುಸರಿಸು",
+    "forms": [
+      "I have followed / ನಾನು ಅನುಸರಿಸಿದ್ದೇನೆ",
+      "You have followed / ನೀನು ಅನುಸರಿಸಿದ್ದೀಯ",
+      "We have followed / ನಾವು ಅನುಸರಿಸಿದ್ದೇವೆ",
+      "They have followed / ಅವರು ಅನುಸರಿಸಿದ್ದಾರೆ",
+      "He has followed / ಅವನು ಅನುಸರಿಸಿದ್ದಾನೆ",
+      "She has followed / ಅವಳು ಅನುಸರಿಸಿದ್ದಾಳೆ",
+      "It has followed / ಅದು ಅನುಸರಿಸಿದೆ",
+      "The dog has followed / ನಾಯಿ ಅನುಸರಿಸಿದೆ",
+      "People have followed / ಜನರು ಅನುಸರಿಸಿದ್ದಾರೆ",
+      "Someone has followed / ಯಾರೋ ಅನುಸರಿಸಿದ್ದಾರೆ",
+      "Nobody has followed / ಯಾರೂ ಅನುಸರಿಸಿಲ್ಲ",
+      "Everybody has followed / ಎಲ್ಲರೂ ಅನುಸರಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Forbid / ನಿಷೇಧಿಸು",
+    "forms": [
+      "I have forbidden / ನಾನು ನಿಷೇಧಿಸಿದ್ದೇನೆ",
+      "You have forbidden / ನೀನು ನಿಷೇಧಿಸಿದ್ದೀಯ",
+      "We have forbidden / ನಾವು ನಿಷೇಧಿಸಿದ್ದೇವೆ",
+      "They have forbidden / ಅವರು ನಿಷೇಧಿಸಿದ್ದಾರೆ",
+      "He has forbidden / ಅವನು ನಿಷೇಧಿಸಿದ್ದಾನೆ",
+      "She has forbidden / ಅವಳು ನಿಷೇಧಿಸಿದ್ದಾಳೆ",
+      "It has forbidden / ಅದು ನಿಷೇಧಿಸಿದೆ",
+      "The teacher has forbidden / ಶಿಕ್ಷಕ ನಿಷೇಧಿಸಿದ್ದಾರೆ",
+      "People have forbidden / ಜನರು ನಿಷೇಧಿಸಿದ್ದಾರೆ",
+      "Someone has forbidden / ಯಾರೋ ನಿಷೇಧಿಸಿದ್ದಾರೆ",
+      "Nobody has forbidden / ಯಾರೂ ನಿಷೇಧಿಸಿಲ್ಲ",
+      "Everybody has forbidden / ಎಲ್ಲರೂ ನಿಷೇಧಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Force / ಬಲವಂತ ಮಾಡು",
+    "forms": [
+      "I have forced / ನಾನು ಬಲವಂತ ಮಾಡಿದ್ದೇನೆ",
+      "You have forced / ನೀನು ಬಲವಂತ ಮಾಡಿದ್ದೀಯ",
+      "We have forced / ನಾವು ಬಲವಂತ ಮಾಡಿದ್ದೇವೆ",
+      "They have forced / ಅವರು ಬಲವಂತ ಮಾಡಿದ್ದಾರೆ",
+      "He has forced / ಅವನು ಬಲವಂತ ಮಾಡಿದ್ದಾನೆ",
+      "She has forced / ಅವಳು ಬಲವಂತ ಮಾಡಿದ್ದಾಳೆ",
+      "It has forced / ಅದು ಬಲವಂತ ಮಾಡಿದೆ",
+      "The police have forced / ಪೊಲೀಸರು ಬಲವಂತ ಮಾಡಿದ್ದಾರೆ",
+      "People have forced / ಜನರು ಬಲವಂತ ಮಾಡಿದ್ದಾರೆ",
+      "Someone has forced / ಯಾರೋ ಬಲವಂತ ಮಾಡಿದ್ದಾರೆ",
+      "Nobody has forced / ಯಾರೂ ಬಲವಂತ ಮಾಡಿಲ್ಲ",
+      "Everybody has forced / ಎಲ್ಲರೂ ಬಲವಂತ ಮಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Forecast / ಮುನ್ಸೂಚಿಸು",
+    "forms": [
+      "I have forecast / ನಾನು ಮುನ್ಸೂಚಿಸಿದ್ದೇನೆ",
+      "You have forecast / ನೀನು ಮುನ್ಸೂಚಿಸಿದ್ದೀಯ",
+      "We have forecast / ನಾವು ಮುನ್ಸೂಚಿಸಿದ್ದೇವೆ",
+      "They have forecast / ಅವರು ಮುನ್ಸೂಚಿಸಿದ್ದಾರೆ",
+      "He has forecast / ಅವನು ಮುನ್ಸೂಚಿಸಿದ್ದಾನೆ",
+      "She has forecast / ಅವಳು ಮುನ್ಸೂಚಿಸಿದ್ದಾಳೆ",
+      "It has forecast / ಅದು ಮುನ್ಸೂಚಿಸಿದೆ",
+      "The weatherman has forecast / ಹವಾಮಾನ ವಿಜ್ಞಾನಿ ಮುನ್ಸೂಚಿಸಿದ್ದಾರೆ",
+      "People have forecast / ಜನರು ಮುನ್ಸೂಚಿಸಿದ್ದಾರೆ",
+      "Someone has forecast / ಯಾರೋ ಮುನ್ಸೂಚಿಸಿದ್ದಾರೆ",
+      "Nobody has forecast / ಯಾರೂ ಮುನ್ಸೂಚಿಸಿಲ್ಲ",
+      "Everybody has forecast / ಎಲ್ಲರೂ ಮುನ್ಸೂಚಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Foretell / ಭವಿಷ್ಯ ಹೇಳು",
+    "forms": [
+      "I have foretold / ನಾನು ಭವಿಷ್ಯ ಹೇಳಿದ್ದೇನೆ",
+      "You have foretold / ನೀನು ಭವಿಷ್ಯ ಹೇಳಿದ್ದೀಯ",
+      "We have foretold / ನಾವು ಭವಿಷ್ಯ ಹೇಳಿದ್ದೇವೆ",
+      "They have foretold / ಅವರು ಭವಿಷ್ಯ ಹೇಳಿದ್ದಾರೆ",
+      "He has foretold / ಅವನು ಭವಿಷ್ಯ ಹೇಳಿದ್ದಾನೆ",
+      "She has foretold / ಅವಳು ಭವಿಷ್ಯ ಹೇಳಿದ್ದಾಳೆ",
+      "It has foretold / ಅದು ಭವಿಷ್ಯ ಹೇಳಿದೆ",
+      "The astrologer has foretold / ಜ್ಯೋತಿಷಿ ಭವಿಷ್ಯ ಹೇಳಿದ್ದಾರೆ",
+      "People have foretold / ಜನರು ಭವಿಷ್ಯ ಹೇಳಿದ್ದಾರೆ",
+      "Someone has foretold / ಯಾರೋ ಭವಿಷ್ಯ ಹೇಳಿದ್ದಾರೆ",
+      "Nobody has foretold / ಯಾರೂ ಭವಿಷ್ಯ ಹೇಳಿಲ್ಲ",
+      "Everybody has foretold / ಎಲ್ಲರೂ ಭವಿಷ್ಯ ಹೇಳಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Forget / ಮರೆ",
+    "forms": [
+      "I have forgotten / ನಾನು ಮರೆತಿದ್ದೇನೆ",
+      "You have forgotten / ನೀನು ಮರೆತಿದ್ದೀಯ",
+      "We have forgotten / ನಾವು ಮರೆತಿದ್ದೇವೆ",
+      "They have forgotten / ಅವರು ಮರೆತಿದ್ದಾರೆ",
+      "He has forgotten / ಅವನು ಮರೆತಿದ್ದಾನೆ",
+      "She has forgotten / ಅವಳು ಮರೆತಿದ್ದಾಳೆ",
+      "It has forgotten / ಅದು ಮರೆತಿದೆ",
+      "The child has forgotten / ಮಗು ಮರೆತಿದೆ",
+      "People have forgotten / ಜನರು ಮರೆತಿದ್ದಾರೆ",
+      "Someone has forgotten / ಯಾರೋ ಮರೆತಿದ್ದಾರೆ",
+      "Nobody has forgotten / ಯಾರೂ ಮರೆತಿಲ್ಲ",
+      "Everybody has forgotten / ಎಲ್ಲರೂ ಮರೆತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Forgive / ಕ್ಷಮಿಸು",
+    "forms": [
+      "I have forgiven / ನಾನು ಕ್ಷಮಿಸಿದ್ದೇನೆ",
+      "You have forgiven / ನೀನು ಕ್ಷಮಿಸಿದ್ದೀಯ",
+      "We have forgiven / ನಾವು ಕ್ಷಮಿಸಿದ್ದೇವೆ",
+      "They have forgiven / ಅವರು ಕ್ಷಮಿಸಿದ್ದಾರೆ",
+      "He has forgiven / ಅವನು ಕ್ಷಮಿಸಿದ್ದಾನೆ",
+      "She has forgiven / ಅವಳು ಕ್ಷಮಿಸಿದ್ದಾಳೆ",
+      "It has forgiven / ಅದು ಕ್ಷಮಿಸಿದೆ",
+      "The judge has forgiven / ನ್ಯಾಯಾಧೀಶ ಕ್ಷಮಿಸಿದ್ದಾರೆ",
+      "People have forgiven / ಜನರು ಕ್ಷಮಿಸಿದ್ದಾರೆ",
+      "Someone has forgiven / ಯಾರೋ ಕ್ಷಮಿಸಿದ್ದಾರೆ",
+      "Nobody has forgiven / ಯಾರೂ ಕ್ಷಮಿಸಿಲ್ಲ",
+      "Everybody has forgiven / ಎಲ್ಲರೂ ಕ್ಷಮಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Forlese / ಕಳೆದುಕೊಳ್ಳು",
+    "forms": [
+      "I have forlorn / ನಾನು ಕಳೆದುಕೊಂಡಿದ್ದೇನೆ",
+      "You have forlorn / ನೀನು ಕಳೆದುಕೊಂಡಿದ್ದೀಯ",
+      "We have forlorn / ನಾವು ಕಳೆದುಕೊಂಡಿದ್ದೇವೆ",
+      "They have forlorn / ಅವರು ಕಳೆದುಕೊಂಡಿದ್ದಾರೆ",
+      "He has forlorn / ಅವನು ಕಳೆದುಕೊಂಡಿದ್ದಾನೆ",
+      "She has forlorn / ಅವಳು ಕಳೆದುಕೊಂಡಿದ್ದಾಳೆ",
+      "It has forlorn / ಅದು ಕಳೆದುಕೊಂಡಿದೆ",
+      "The man has forlorn / ಮನುಷ್ಯ ಕಳೆದುಕೊಂಡಿದ್ದಾನೆ",
+      "People have forlorn / ಜನರು ಕಳೆದುಕೊಂಡಿದ್ದಾರೆ",
+      "Someone has forlorn / ಯಾರೋ ಕಳೆದುಕೊಂಡಿದ್ದಾರೆ",
+      "Nobody has forlorn / ಯಾರೂ ಕಳೆದುಕೊಂಡಿಲ್ಲ",
+      "Everybody has forlorn / ಎಲ್ಲರೂ ಕಳೆದುಕೊಂಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Form / ರೂಪಿಸು",
+    "forms": [
+      "I have formed / ನಾನು ರೂಪಿಸಿದ್ದೇನೆ",
+      "You have formed / ನೀನು ರೂಪಿಸಿದ್ದೀಯ",
+      "We have formed / ನಾವು ರೂಪಿಸಿದ್ದೇವೆ",
+      "They have formed / ಅವರು ರೂಪಿಸಿದ್ದಾರೆ",
+      "He has formed / ಅವನು ರೂಪಿಸಿದ್ದಾನೆ",
+      "She has formed / ಅವಳು ರೂಪಿಸಿದ್ದಾಳೆ",
+      "It has formed / ಅದು ರೂಪಿಸಿದೆ",
+      "The committee has formed / ಸಮಿತಿ ರೂಪಿಸಿದೆ",
+      "People have formed / ಜನರು ರೂಪಿಸಿದ್ದಾರೆ",
+      "Someone has formed / ಯಾರೋ ರೂಪಿಸಿದ್ದಾರೆ",
+      "Nobody has formed / ಯಾರೂ ರೂಪಿಸಿಲ್ಲ",
+      "Everybody has formed / ಎಲ್ಲರೂ ರೂಪಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Forsake / ತ್ಯಜಿಸು",
+    "forms": [
+      "I have forsaken / ನಾನು ತ್ಯಜಿಸಿದ್ದೇನೆ",
+      "You have forsaken / ನೀನು ತ್ಯಜಿಸಿದ್ದೀಯ",
+      "We have forsaken / ನಾವು ತ್ಯಜಿಸಿದ್ದೇವೆ",
+      "They have forsaken / ಅವರು ತ್ಯಜಿಸಿದ್ದಾರೆ",
+      "He has forsaken / ಅವನು ತ್ಯಜಿಸಿದ್ದಾನೆ",
+      "She has forsaken / ಅವಳು ತ್ಯಜಿಸಿದ್ದಾಳೆ",
+      "It has forsaken / ಅದು ತ್ಯಜಿಸಿದೆ",
+      "The king has forsaken / ರಾಜ ತ್ಯಜಿಸಿದ್ದಾನೆ",
+      "People have forsaken / ಜನರು ತ್ಯಜಿಸಿದ್ದಾರೆ",
+      "Someone has forsaken / ಯಾರೋ ತ್ಯಜಿಸಿದ್ದಾರೆ",
+      "Nobody has forsaken / ಯಾರೂ ತ್ಯಜಿಸಿಲ್ಲ",
+      "Everybody has forsaken / ಎಲ್ಲರೂ ತ್ಯಜಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Found / ಸ್ಥಾಪಿಸು",
+    "forms": [
+      "I have founded / ನಾನು ಸ್ಥಾಪಿಸಿದ್ದೇನೆ",
+      "You have founded / ನೀನು ಸ್ಥಾಪಿಸಿದ್ದೀಯ",
+      "We have founded / ನಾವು ಸ್ಥಾಪಿಸಿದ್ದೇವೆ",
+      "They have founded / ಅವರು ಸ್ಥಾಪಿಸಿದ್ದಾರೆ",
+      "He has founded / ಅವನು ಸ್ಥಾಪಿಸಿದ್ದಾನೆ",
+      "She has founded / ಅವಳು ಸ್ಥಾಪಿಸಿದ್ದಾಳೆ",
+      "It has founded / ಅದು ಸ್ಥಾಪಿಸಿದೆ",
+      "The company has founded / ಕಂಪನಿ ಸ್ಥಾಪಿಸಿದೆ",
+      "People have founded / ಜನರು ಸ್ಥಾಪಿಸಿದ್ದಾರೆ",
+      "Someone has founded / ಯಾರೋ ಸ್ಥಾಪಿಸಿದ್ದಾರೆ",
+      "Nobody has founded / ಯಾರೂ ಸ್ಥಾಪಿಸಿಲ್ಲ",
+      "Everybody has founded / ಎಲ್ಲರೂ ಸ್ಥಾಪಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Frame / ಚೌಕಟ್ಟು ಮಾಡು",
+    "forms": [
+      "I have framed / ನಾನು ಚೌಕಟ್ಟು ಮಾಡಿದ್ದೇನೆ",
+      "You have framed / ನೀನು ಚೌಕಟ್ಟು ಮಾಡಿದ್ದೀಯ",
+      "We have framed / ನಾವು ಚೌಕಟ್ಟು ಮಾಡಿದ್ದೇವೆ",
+      "They have framed / ಅವರು ಚೌಕಟ್ಟು ಮಾಡಿದ್ದಾರೆ",
+      "He has framed / ಅವನು ಚೌಕಟ್ಟು ಮಾಡಿದ್ದಾನೆ",
+      "She has framed / ಅವಳು ಚೌಕಟ್ಟು ಮಾಡಿದ್ದಾಳೆ",
+      "It has framed / ಅದು ಚೌಕಟ್ಟು ಮಾಡಿದೆ",
+      "The carpenter has framed / ಸೂತ್ರದಾರ ಚೌಕಟ್ಟು ಮಾಡಿದ್ದಾನೆ",
+      "People have framed / ಜನರು ಚೌಕಟ್ಟು ಮಾಡಿದ್ದಾರೆ",
+      "Someone has framed / ಯಾರೋ ಚೌಕಟ್ಟು ಮಾಡಿದ್ದಾರೆ",
+      "Nobody has framed / ಯಾರೂ ಚೌಕಟ್ಟು ಮಾಡಿಲ್ಲ",
+      "Everybody has framed / ಎಲ್ಲರೂ ಚೌಕಟ್ಟು ಮಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Free / ಮುಕ್ತಗೊಳಿಸು",
+    "forms": [
+      "I have freed / ನಾನು ಮುಕ್ತಗೊಳಿಸಿದ್ದೇನೆ",
+      "You have freed / ನೀನು ಮುಕ್ತಗೊಳಿಸಿದ್ದೀಯ",
+      "We have freed / ನಾವು ಮುಕ್ತಗೊಳಿಸಿದ್ದೇವೆ",
+      "They have freed / ಅವರು ಮುಕ್ತಗೊಳಿಸಿದ್ದಾರೆ",
+      "He has freed / ಅವನು ಮುಕ್ತಗೊಳಿಸಿದ್ದಾನೆ",
+      "She has freed / ಅವಳು ಮುಕ್ತಗೊಳಿಸಿದ್ದಾಳೆ",
+      "It has freed / ಅದು ಮುಕ್ತಗೊಳಿಸಿದೆ",
+      "The judge has freed / ನ್ಯಾಯಾಧೀಶ ಮುಕ್ತಗೊಳಿಸಿದ್ದಾರೆ",
+      "People have freed / ಜನರು ಮುಕ್ತಗೊಳಿಸಿದ್ದಾರೆ",
+      "Someone has freed / ಯಾರೋ ಮುಕ್ತಗೊಳಿಸಿದ್ದಾರೆ",
+      "Nobody has freed / ಯಾರೂ ಮುಕ್ತಗೊಳಿಸಿಲ್ಲ",
+      "Everybody has freed / ಎಲ್ಲರೂ ಮುಕ್ತಗೊಳಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Freeze / ಹೆಪ್ಪುಗಟ್ಟು",
+    "forms": [
+      "I have frozen / ನಾನು ಹೆಪ್ಪುಗಟ್ಟಿದ್ದೇನೆ",
+      "You have frozen / ನೀನು ಹೆಪ್ಪುಗಟ್ಟಿದ್ದೀಯ",
+      "We have frozen / ನಾವು ಹೆಪ್ಪುಗಟ್ಟಿದ್ದೇವೆ",
+      "They have frozen / ಅವರು ಹೆಪ್ಪುಗಟ್ಟಿದ್ದಾರೆ",
+      "He has frozen / ಅವನು ಹೆಪ್ಪುಗಟ್ಟಿದ್ದಾನೆ",
+      "She has frozen / ಅವಳು ಹೆಪ್ಪುಗಟ್ಟಿದ್ದಾಳೆ",
+      "It has frozen / ಅದು ಹೆಪ್ಪುಗಟ್ಟಿದೆ",
+      "The water has frozen / ನೀರು ಹೆಪ್ಪುಗಟ್ಟಿದೆ",
+      "People have frozen / ಜನರು ಹೆಪ್ಪುಗಟ್ಟಿದ್ದಾರೆ",
+      "Someone has frozen / ಯಾರೋ ಹೆಪ್ಪುಗಟ್ಟಿದ್ದಾರೆ",
+      "Nobody has frozen / ಯಾರೂ ಹೆಪ್ಪುಗಟ್ಟಿಲ್ಲ",
+      "Everybody has frozen / ಎಲ್ಲರೂ ಹೆಪ್ಪುಗಟ್ಟಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Frighten / ಭಯಪಡಿಸು",
+    "forms": [
+      "I have frightened / ನಾನು ಭಯಪಡಿಸಿದ್ದೇನೆ",
+      "You have frightened / ನೀನು ಭಯಪಡಿಸಿದ್ದೀಯ",
+      "We have frightened / ನಾವು ಭಯಪಡಿಸಿದ್ದೇವೆ",
+      "They have frightened / ಅವರು ಭಯಪಡಿಸಿದ್ದಾರೆ",
+      "He has frightened / ಅವನು ಭಯಪಡಿಸಿದ್ದಾನೆ",
+      "She has frightened / ಅವಳು ಭಯಪಡಿಸಿದ್ದಾಳೆ",
+      "It has frightened / ಅದು ಭಯಪಡಿಸಿದೆ",
+      "The ghost has frightened / ಪಿಶಾಚಿ ಭಯಪಡಿಸಿದೆ",
+      "People have frightened / ಜನರು ಭಯಪಡಿಸಿದ್ದಾರೆ",
+      "Someone has frightened / ಯಾರೋ ಭಯಪಡಿಸಿದ್ದಾರೆ",
+      "Nobody has frightened / ಯಾರೂ ಭಯಪಡಿಸಿಲ್ಲ",
+      "Everybody has frightened / ಎಲ್ಲರೂ ಭಯಪಡಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fry / ಬೇಯಿಸು",
+    "forms": [
+      "I have fried / ನಾನು ಬೇಯಿಸಿದ್ದೇನೆ",
+      "You have fried / ನೀನು ಬೇಯಿಸಿದ್ದೀಯ",
+      "We have fried / ನಾವು ಬೇಯಿಸಿದ್ದೇವೆ",
+      "They have fried / ಅವರು ಬೇಯಿಸಿದ್ದಾರೆ",
+      "He has fried / ಅವನು ಬೇಯಿಸಿದ್ದಾನೆ",
+      "She has fried / ಅವಳು ಬೇಯಿಸಿದ್ದಾಳೆ",
+      "It has fried / ಅದು ಬೇಯಿಸಿದೆ",
+      "The cook has fried / ಅಡುಗೆಗಾರ ಬೇಯಿಸಿದ್ದಾನೆ",
+      "People have fried / ಜನರು ಬೇಯಿಸಿದ್ದಾರೆ",
+      "Someone has fried / ಯಾರೋ ಬೇಯಿಸಿದ್ದಾರೆ",
+      "Nobody has fried / ಯಾರೂ ಬೇಯಿಸಿಲ್ಲ",
+      "Everybody has fried / ಎಲ್ಲರೂ ಬೇಯಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Fulfil / ಪೂರೈಸು",
+    "forms": [
+      "I have fulfilled / ನಾನು ಪೂರೈಸಿದ್ದೇನೆ",
+      "You have fulfilled / ನೀನು ಪೂರೈಸಿದ್ದೀಯ",
+      "We have fulfilled / ನಾವು ಪೂರೈಸಿದ್ದೇವೆ",
+      "They have fulfilled / ಅವರು ಪೂರೈಸಿದ್ದಾರೆ",
+      "He has fulfilled / ಅವನು ಪೂರೈಸಿದ್ದಾನೆ",
+      "She has fulfilled / ಅವಳು ಪೂರೈಸಿದ್ದಾಳೆ",
+      "It has fulfilled / ಅದು ಪೂರೈಸಿದೆ",
+      "The student has fulfilled / ವಿದ್ಯಾರ್ಥಿ ಪೂರೈಸಿದ್ದಾನೆ",
+      "People have fulfilled / ಜನರು ಪೂರೈಸಿದ್ದಾರೆ",
+      "Someone has fulfilled / ಯಾರೋ ಪೂರೈಸಿದ್ದಾರೆ",
+      "Nobody has fulfilled / ಯಾರೂ ಪೂರೈಸಿಲ್ಲ",
+      "Everybody has fulfilled / ಎಲ್ಲರೂ ಪೂರೈಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Gag / ಬಾಯಿ ಮುಚ್ಚು",
+    "forms": [
+      "I have gagged / ನಾನು ಬಾಯಿ ಮುಚ್ಚಿದ್ದೇನೆ",
+      "You have gagged / ನೀನು ಬಾಯಿ ಮುಚ್ಚಿದ್ದೀಯ",
+      "We have gagged / ನಾವು ಬಾಯಿ ಮುಚ್ಚಿದ್ದೇವೆ",
+      "They have gagged / ಅವರು ಬಾಯಿ ಮುಚ್ಚಿದ್ದಾರೆ",
+      "He has gagged / ಅವನು ಬಾಯಿ ಮುಚ್ಚಿದ್ದಾನೆ",
+      "She has gagged / ಅವಳು ಬಾಯಿ ಮುಚ್ಚಿದ್ದಾಳೆ",
+      "It has gagged / ಅದು ಬಾಯಿ ಮುಚ್ಚಿದೆ",
+      "The kidnapper has gagged / ಅಪಹರಣಕಾರ ಬಾಯಿ ಮುಚ್ಚಿದ್ದಾನೆ",
+      "People have gagged / ಜನರು ಬಾಯಿ ಮುಚ್ಚಿದ್ದಾರೆ",
+      "Someone has gagged / ಯಾರೋ ಬಾಯಿ ಮುಚ್ಚಿದ್ದಾರೆ",
+      "Nobody has gagged / ಯಾರೂ ಬಾಯಿ ಮುಚ್ಚಿಲ್ಲ",
+      "Everybody has gagged / ಎಲ್ಲರೂ ಬಾಯಿ ಮುಚ್ಚಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Gain / ಗಳಿಸು",
+    "forms": [
+      "I have gained / ನಾನು ಗಳಿಸಿದ್ದೇನೆ",
+      "You have gained / ನೀನು ಗಳಿಸಿದ್ದೀಯ",
+      "We have gained / ನಾವು ಗಳಿಸಿದ್ದೇವೆ",
+      "They have gained / ಅವರು ಗಳಿಸಿದ್ದಾರೆ",
+      "He has gained / ಅವನು ಗಳಿಸಿದ್ದಾನೆ",
+      "She has gained / ಅವಳು ಗಳಿಸಿದ್ದಾಳೆ",
+      "It has gained / ಅದು ಗಳಿಸಿದೆ",
+      "The player has gained / ಆಟಗಾರ ಗಳಿಸಿದ್ದಾನೆ",
+      "People have gained / ಜನರು ಗಳಿಸಿದ್ದಾರೆ",
+      "Someone has gained / ಯಾರೋ ಗಳಿಸಿದ್ದಾರೆ",
+      "Nobody has gained / ಯಾರೂ ಗಳಿಸಿಲ್ಲ",
+      "Everybody has gained / ಎಲ್ಲರೂ ಗಳಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Gainsay / ವಿರೋಧಿಸು",
+    "forms": [
+      "I have gainsaid / ನಾನು ವಿರೋಧಿಸಿದ್ದೇನೆ",
+      "You have gainsaid / ನೀನು ವಿರೋಧಿಸಿದ್ದೀಯ",
+      "We have gainsaid / ನಾವು ವಿರೋಧಿಸಿದ್ದೇವೆ",
+      "They have gainsaid / ಅವರು ವಿರೋಧಿಸಿದ್ದಾರೆ",
+      "He has gainsaid / ಅವನು ವಿರೋಧಿಸಿದ್ದಾನೆ",
+      "She has gainsaid / ಅವಳು ವಿರೋಧಿಸಿದ್ದಾಳೆ",
+      "It has gainsaid / ಅದು ವಿರೋಧಿಸಿದೆ",
+      "The lawyer has gainsaid / ವಕೀಲ ವಿರೋಧಿಸಿದ್ದಾರೆ",
+      "People have gainsaid / ಜನರು ವಿರೋಧಿಸಿದ್ದಾರೆ",
+      "Someone has gainsaid / ಯಾರೋ ವಿರೋಧಿಸಿದ್ದಾರೆ",
+      "Nobody has gainsaid / ಯಾರೂ ವಿರೋಧಿಸಿಲ್ಲ",
+      "Everybody has gainsaid / ಎಲ್ಲರೂ ವಿರೋಧಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Gash / ಗಾಯಮಾಡು",
+    "forms": [
+      "I have gashed / ನಾನು ಗಾಯಮಾಡಿದ್ದೇನೆ",
+      "You have gashed / ನೀನು ಗಾಯಮಾಡಿದ್ದೀಯ",
+      "We have gashed / ನಾವು ಗಾಯಮಾಡಿದ್ದೇವೆ",
+      "They have gashed / ಅವರು ಗಾಯಮಾಡಿದ್ದಾರೆ",
+      "He has gashed / ಅವನು ಗಾಯಮಾಡಿದ್ದಾನೆ",
+      "She has gashed / ಅವಳು ಗಾಯಮಾಡಿದ್ದಾಳೆ",
+      "It has gashed / ಅದು ಗಾಯಮಾಡಿದೆ",
+      "The knife has gashed / ಚಾಕು ಗಾಯಮಾಡಿದೆ",
+      "People have gashed / ಜನರು ಗಾಯಮಾಡಿದ್ದಾರೆ",
+      "Someone has gashed / ಯಾರೋ ಗಾಯಮಾಡಿದ್ದಾರೆ",
+      "Nobody has gashed / ಯಾರೂ ಗಾಯಮಾಡಿಲ್ಲ",
+      "Everybody has gashed / ಎಲ್ಲರೂ ಗಾಯಮಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Gaze / ನೋಡು",
+    "forms": [
+      "I have gazed / ನಾನು ನೋಡಿದ್ದೇನೆ",
+      "You have gazed / ನೀನು ನೋಡಿದ್ದೀಯ",
+      "We have gazed / ನಾವು ನೋಡಿದ್ದೇವೆ",
+      "They have gazed / ಅವರು ನೋಡಿದ್ದಾರೆ",
+      "He has gazed / ಅವನು ನೋಡಿದ್ದಾನೆ",
+      "She has gazed / ಅವಳು ನೋಡಿದ್ದಾಳೆ",
+      "It has gazed / ಅದು ನೋಡಿದೆ",
+      "The child has gazed / ಮಗು ನೋಡಿದೆ",
+      "People have gazed / ಜನರು ನೋಡಿದ್ದಾರೆ",
+      "Someone has gazed / ಯಾರೋ ನೋಡಿದ್ದಾರೆ",
+      "Nobody has gazed / ಯಾರೂ ನೋಡಿಲ್ಲ",
+      "Everybody has gazed / ಎಲ್ಲರೂ ನೋಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Get / ಪಡೆ",
+    "forms": [
+      "I have gotten / ನಾನು ಪಡೆದಿದ್ದೇನೆ",
+      "You have gotten / ನೀನು ಪಡೆದಿದ್ದೀಯ",
+      "We have gotten / ನಾವು ಪಡೆದಿದ್ದೇವೆ",
+      "They have gotten / ಅವರು ಪಡೆದಿದ್ದಾರೆ",
+      "He has gotten / ಅವನು ಪಡೆದಿದ್ದಾನೆ",
+      "She has gotten / ಅವಳು ಪಡೆದಿದ್ದಾಳೆ",
+      "It has gotten / ಅದು ಪಡೆದಿದೆ",
+      "The student has gotten / ವಿದ್ಯಾರ್ಥಿ ಪಡೆದಿದ್ದಾನೆ",
+      "People have gotten / ಜನರು ಪಡೆದಿದ್ದಾರೆ",
+      "Someone has gotten / ಯಾರೋ ಪಡೆದಿದ್ದಾರೆ",
+      "Nobody has gotten / ಯಾರೂ ಪಡೆದಿಲ್ಲ",
+      "Everybody has gotten / ಎಲ್ಲರೂ ಪಡೆದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Give / ಕೊಡು",
+    "forms": [
+      "I have given / ನಾನು ಕೊಟ್ಟಿದ್ದೇನೆ",
+      "You have given / ನೀನು ಕೊಟ್ಟಿದ್ದೀಯ",
+      "We have given / ನಾವು ಕೊಟ್ಟಿದ್ದೇವೆ",
+      "They have given / ಅವರು ಕೊಟ್ಟಿದ್ದಾರೆ",
+      "He has given / ಅವನು ಕೊಟ್ಟಿದ್ದಾನೆ",
+      "She has given / ಅವಳು ಕೊಟ್ಟಿದ್ದಾಳೆ",
+      "It has given / ಅದು ಕೊಟ್ಟಿದೆ",
+      "The teacher has given / ಶಿಕ್ಷಕ ಕೊಟ್ಟಿದ್ದಾರೆ",
+      "People have given / ಜನರು ಕೊಟ್ಟಿದ್ದಾರೆ",
+      "Someone has given / ಯಾರೋ ಕೊಟ್ಟಿದ್ದಾರೆ",
+      "Nobody has given / ಯಾರೂ ಕೊಟ್ಟಿಲ್ಲ",
+      "Everybody has given / ಎಲ್ಲರೂ ಕೊಟ್ಟಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Glance / ನೋಟ ಬೀರು",
+    "forms": [
+      "I have glanced / ನಾನು ನೋಟ ಬೀರಿದ್ದೇನೆ",
+      "You have glanced / ನೀನು ನೋಟ ಬೀರಿದ್ದೀಯ",
+      "We have glanced / ನಾವು ನೋಟ ಬೀರಿದ್ದೇವೆ",
+      "They have glanced / ಅವರು ನೋಟ ಬೀರಿದ್ದಾರೆ",
+      "He has glanced / ಅವನು ನೋಟ ಬೀರಿದ್ದಾನೆ",
+      "She has glanced / ಅವಳು ನೋಟ ಬೀರಿದ್ದಾಳೆ",
+      "It has glanced / ಅದು ನೋಟ ಬೀರಿದೆ",
+      "The man has glanced / ಮನುಷ್ಯ ನೋಟ ಬೀರಿದ್ದಾನೆ",
+      "People have glanced / ಜನರು ನೋಟ ಬೀರಿದ್ದಾರೆ",
+      "Someone has glanced / ಯಾರೋ ನೋಟ ಬೀರಿದ್ದಾರೆ",
+      "Nobody has glanced / ಯಾರೂ ನೋಟ ಬೀರಿಲ್ಲ",
+      "Everybody has glanced / ಎಲ್ಲರೂ ನೋಟ ಬೀರಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Glitter / ಮಿಂಚು",
+    "forms": [
+      "I have glittered / ನಾನು ಮಿಂಚಿದ್ದೇನೆ",
+      "You have glittered / ನೀನು ಮಿಂಚಿದ್ದೀಯ",
+      "We have glittered / ನಾವು ಮಿಂಚಿದ್ದೇವೆ",
+      "They have glittered / ಅವರು ಮಿಂಚಿದ್ದಾರೆ",
+      "He has glittered / ಅವನು ಮಿಂಚಿದ್ದಾನೆ",
+      "She has glittered / ಅವಳು ಮಿಂಚಿದ್ದಾಳೆ",
+      "It has glittered / ಅದು ಮಿಂಚಿದೆ",
+      "The star has glittered / ನಕ್ಷತ್ರ ಮಿಂಚಿದೆ",
+      "People have glittered / ಜನರು ಮಿಂಚಿದ್ದಾರೆ",
+      "Someone has glittered / ಯಾರೋ ಮಿಂಚಿದ್ದಾರೆ",
+      "Nobody has glittered / ಯಾರೂ ಮಿಂಚಿಲ್ಲ",
+      "Everybody has glittered / ಎಲ್ಲರೂ ಮಿಂಚಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Glow / ಹೊಳೆ",
+    "forms": [
+      "I have glowed / ನಾನು ಹೊಳೆದಿದ್ದೇನೆ",
+      "You have glowed / ನೀನು ಹೊಳೆದಿದ್ದೀಯ",
+      "We have glowed / ನಾವು ಹೊಳೆದಿದ್ದೇವೆ",
+      "They have glowed / ಅವರು ಹೊಳೆದಿದ್ದಾರೆ",
+      "He has glowed / ಅವನು ಹೊಳೆದಿದ್ದಾನೆ",
+      "She has glowed / ಅವಳು ಹೊಳೆದಿದ್ದಾಳೆ",
+      "It has glowed / ಅದು ಹೊಳೆದಿದೆ",
+      "The light has glowed / ದೀಪ ಹೊಳೆದಿದೆ",
+      "People have glowed / ಜನರು ಹೊಳೆದಿದ್ದಾರೆ",
+      "Someone has glowed / ಯಾರೋ ಹೊಳೆದಿದ್ದಾರೆ",
+      "Nobody has glowed / ಯಾರೂ ಹೊಳೆದಿಲ್ಲ",
+      "Everybody has glowed / ಎಲ್ಲರೂ ಹೊಳೆದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Go / ಹೋಗು",
+    "forms": [
+      "I have gone / ನಾನು ಹೋಗಿದ್ದೇನೆ",
+      "You have gone / ನೀನು ಹೋಗಿದ್ದೀಯ",
+      "We have gone / ನಾವು ಹೋಗಿದ್ದೇವೆ",
+      "They have gone / ಅವರು ಹೋಗಿದ್ದಾರೆ",
+      "He has gone / ಅವನು ಹೋಗಿದ್ದಾನೆ",
+      "She has gone / ಅವಳು ಹೋಗಿದ್ದಾಳೆ",
+      "It has gone / ಅದು ಹೋಗಿದೆ",
+      "The boy has gone / ಹುಡುಗ ಹೋಗಿದ್ದಾನೆ",
+      "People have gone / ಜನರು ಹೋಗಿದ್ದಾರೆ",
+      "Someone has gone / ಯಾರೋ ಹೋಗಿದ್ದಾರೆ",
+      "Nobody has gone / ಯಾರೂ ಹೋಗಿಲ್ಲ",
+      "Everybody has gone / ಎಲ್ಲರೂ ಹೋಗಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Google / ಗೂಗಲ್ ಮಾಡು",
+    "forms": [
+      "I have googled / ನಾನು ಗೂಗಲ್ ಮಾಡಿದ್ದೇನೆ",
+      "You have googled / ನೀನು ಗೂಗಲ್ ಮಾಡಿದ್ದೀಯ",
+      "We have googled / ನಾವು ಗೂಗಲ್ ಮಾಡಿದ್ದೇವೆ",
+      "They have googled / ಅವರು ಗೂಗಲ್ ಮಾಡಿದ್ದಾರೆ",
+      "He has googled / ಅವನು ಗೂಗಲ್ ಮಾಡಿದ್ದಾನೆ",
+      "She has googled / ಅವಳು ಗೂಗಲ್ ಮಾಡಿದ್ದಾಳೆ",
+      "It has googled / ಅದು ಗೂಗಲ್ ಮಾಡಿದೆ",
+      "The student has googled / ವಿದ್ಯಾರ್ಥಿ ಗೂಗಲ್ ಮಾಡಿದ್ದಾನೆ",
+      "People have googled / ಜನರು ಗೂಗಲ್ ಮಾಡಿದ್ದಾರೆ",
+      "Someone has googled / ಯಾರೋ ಗೂಗಲ್ ಮಾಡಿದ್ದಾರೆ",
+      "Nobody has googled / ಯಾರೂ ಗೂಗಲ್ ಮಾಡಿಲ್ಲ",
+      "Everybody has googled / ಎಲ್ಲರೂ ಗೂಗಲ್ ಮಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Govern / ಆಳು",
+    "forms": [
+      "I have governed / ನಾನು ಆಳಿದ್ದೇನೆ",
+      "You have governed / ನೀನು ಆಳಿದ್ದೀಯ",
+      "We have governed / ನಾವು ಆಳಿದ್ದೇವೆ",
+      "They have governed / ಅವರು ಆಳಿದ್ದಾರೆ",
+      "He has governed / ಅವನು ಆಳಿದ್ದಾನೆ",
+      "She has governed / ಅವಳು ಆಳಿದ್ದಾಳೆ",
+      "It has governed / ಅದು ಆಳಿದೆ",
+      "The king has governed / ರಾಜ ಆಳಿದ್ದಾನೆ",
+      "People have governed / ಜನರು ಆಳಿದ್ದಾರೆ",
+      "Someone has governed / ಯಾರೋ ಆಳಿದ್ದಾರೆ",
+      "Nobody has governed / ಯಾರೂ ಆಳಿಲ್ಲ",
+      "Everybody has governed / ಎಲ್ಲರೂ ಆಳಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Grab / ಹಿಡಿ",
+    "forms": [
+      "I have grabbed / ನಾನು ಹಿಡಿದಿದ್ದೇನೆ",
+      "You have grabbed / ನೀನು ಹಿಡಿದಿದ್ದೀಯ",
+      "We have grabbed / ನಾವು ಹಿಡಿದಿದ್ದೇವೆ",
+      "They have grabbed / ಅವರು ಹಿಡಿದಿದ್ದಾರೆ",
+      "He has grabbed / ಅವನು ಹಿಡಿದಿದ್ದಾನೆ",
+      "She has grabbed / ಅವಳು ಹಿಡಿದಿದ್ದಾಳೆ",
+      "It has grabbed / ಅದು ಹಿಡಿದಿದೆ",
+      "The child has grabbed / ಮಗು ಹಿಡಿದಿದೆ",
+      "People have grabbed / ಜನರು ಹಿಡಿದಿದ್ದಾರೆ",
+      "Someone has grabbed / ಯಾರೋ ಹಿಡಿದಿದ್ದಾರೆ",
+      "Nobody has grabbed / ಯಾರೂ ಹಿಡಿದಿಲ್ಲ",
+      "Everybody has grabbed / ಎಲ್ಲರೂ ಹಿಡಿದಿದ್ದಾರೆ"
+    ]
+  },
+   {
+    "verb": "Grade / ದರ್ಜೆ ಕೊಡು",
+    "forms": [
+      "I have graded / ನಾನು ದರ್ಜೆ ಕೊಟ್ಟಿದ್ದೇನೆ",
+      "You have graded / ನೀನು ದರ್ಜೆ ಕೊಟ್ಟಿದ್ದೀಯ",
+      "We have graded / ನಾವು ದರ್ಜೆ ಕೊಟ್ಟಿದ್ದೇವೆ",
+      "They have graded / ಅವರು ದರ್ಜೆ ಕೊಟ್ಟಿದ್ದಾರೆ",
+      "He has graded / ಅವನು ದರ್ಜೆ ಕೊಟ್ಟಿದ್ದಾನೆ",
+      "She has graded / ಅವಳು ದರ್ಜೆ ಕೊಟ್ಟಿದ್ದಾಳೆ",
+      "It has graded / ಅದು ದರ್ಜೆ ಕೊಟ್ಟಿದೆ",
+      "The teacher has graded / ಶಿಕ್ಷಕ ದರ್ಜೆ ಕೊಟ್ಟಿದ್ದಾನೆ",
+      "People have graded / ಜನರು ದರ್ಜೆ ಕೊಟ್ಟಿದ್ದಾರೆ",
+      "Someone has graded / ಯಾರೋ ದರ್ಜೆ ಕೊಟ್ಟಿದ್ದಾರೆ",
+      "Nobody has graded / ಯಾರೂ ದರ್ಜೆ ಕೊಡಿಲ್ಲ",
+      "Everybody has graded / ಎಲ್ಲರೂ ದರ್ಜೆ ಕೊಟ್ಟಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Grant / ನೀಡು",
+    "forms": [
+      "I have granted / ನಾನು ನೀಡಿದ್ದೇನೆ",
+      "You have granted / ನೀನು ನೀಡಿದ್ದೀಯ",
+      "We have granted / ನಾವು ನೀಡಿದ್ದೇವೆ",
+      "They have granted / ಅವರು ನೀಡಿದ್ದಾರೆ",
+      "He has granted / ಅವನು ನೀಡಿದ್ದಾನೆ",
+      "She has granted / ಅವಳು ನೀಡಿದ್ದಾಳೆ",
+      "It has granted / ಅದು ನೀಡಿದೆ",
+      "The government has granted / ಸರ್ಕಾರ ನೀಡಿದೆ",
+      "People have granted / ಜನರು ನೀಡಿದ್ದಾರೆ",
+      "Someone has granted / ಯಾರೋ ನೀಡಿದ್ದಾರೆ",
+      "Nobody has granted / ಯಾರೂ ನೀಡಿಲ್ಲ",
+      "Everybody has granted / ಎಲ್ಲರೂ ನೀಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Greet / ಸ್ವಾಗತಿಸು",
+    "forms": [
+      "I have greeted / ನಾನು ಸ್ವಾಗತಿಸಿದ್ದೇನೆ",
+      "You have greeted / ನೀನು ಸ್ವಾಗತಿಸಿದ್ದೀಯ",
+      "We have greeted / ನಾವು ಸ್ವಾಗತಿಸಿದ್ದೇವೆ",
+      "They have greeted / ಅವರು ಸ್ವಾಗತಿಸಿದ್ದಾರೆ",
+      "He has greeted / ಅವನು ಸ್ವಾಗತಿಸಿದ್ದಾನೆ",
+      "She has greeted / ಅವಳು ಸ್ವಾಗತಿಸಿದ್ದಾಳೆ",
+      "It has greeted / ಅದು ಸ್ವಾಗತಿಸಿದೆ",
+      "The host has greeted / ಯಜಮಾನ ಸ್ವಾಗತಿಸಿದ್ದಾನೆ",
+      "People have greeted / ಜನರು ಸ್ವಾಗತಿಸಿದ್ದಾರೆ",
+      "Someone has greeted / ಯಾರೋ ಸ್ವಾಗತಿಸಿದ್ದಾರೆ",
+      "Nobody has greeted / ಯಾರೂ ಸ್ವಾಗತಿಸಿಲ್ಲ",
+      "Everybody has greeted / ಎಲ್ಲರೂ ಸ್ವಾಗತಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Grind / ಪುಡಿಮಾಡು",
+    "forms": [
+      "I have ground / ನಾನು ಪುಡಿಮಾಡಿದ್ದೇನೆ",
+      "You have ground / ನೀನು ಪುಡಿಮಾಡಿದ್ದೀಯ",
+      "We have ground / ನಾವು ಪುಡಿಮಾಡಿದ್ದೇವೆ",
+      "They have ground / ಅವರು ಪುಡಿಮಾಡಿದ್ದಾರೆ",
+      "He has ground / ಅವನು ಪುಡಿಮಾಡಿದ್ದಾನೆ",
+      "She has ground / ಅವಳು ಪುಡಿಮಾಡಿದ್ದಾಳೆ",
+      "It has ground / ಅದು ಪುಡಿಮಾಡಿದೆ",
+      "The machine has ground / ಯಂತ್ರ ಪುಡಿಮಾಡಿದೆ",
+      "People have ground / ಜನರು ಪುಡಿಮಾಡಿದ್ದಾರೆ",
+      "Someone has ground / ಯಾರೋ ಪುಡಿಮಾಡಿದ್ದಾರೆ",
+      "Nobody has ground / ಯಾರೂ ಪುಡಿಮಾಡಿಲ್ಲ",
+      "Everybody has ground / ಎಲ್ಲರೂ ಪುಡಿಮಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Grip / ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿ",
+    "forms": [
+      "I have gripped / ನಾನು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದಿದ್ದೇನೆ",
+      "You have gripped / ನೀನು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದಿದ್ದೀಯ",
+      "We have gripped / ನಾವು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದಿದ್ದೇವೆ",
+      "They have gripped / ಅವರು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದಿದ್ದಾರೆ",
+      "He has gripped / ಅವನು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದಿದ್ದಾನೆ",
+      "She has gripped / ಅವಳು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದಿದ್ದಾಳೆ",
+      "It has gripped / ಅದು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದಿದೆ",
+      "The player has gripped / ಆಟಗಾರ ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದಿದ್ದಾನೆ",
+      "People have gripped / ಜನರು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದಿದ್ದಾರೆ",
+      "Someone has gripped / ಯಾರೋ ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದಿದ್ದಾರೆ",
+      "Nobody has gripped / ಯಾರೂ ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದಿಲ್ಲ",
+      "Everybody has gripped / ಎಲ್ಲರೂ ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Grow / ಬೆಳೆ",
+    "forms": [
+      "I have grown / ನಾನು ಬೆಳೆದಿದ್ದೇನೆ",
+      "You have grown / ನೀನು ಬೆಳೆದಿದ್ದೀಯ",
+      "We have grown / ನಾವು ಬೆಳೆದಿದ್ದೇವೆ",
+      "They have grown / ಅವರು ಬೆಳೆದಿದ್ದಾರೆ",
+      "He has grown / ಅವನು ಬೆಳೆದಿದ್ದಾನೆ",
+      "She has grown / ಅವಳು ಬೆಳೆದಿದ್ದಾಳೆ",
+      "It has grown / ಅದು ಬೆಳೆದಿದೆ",
+      "The plant has grown / ಸಸ್ಯ ಬೆಳೆದಿದೆ",
+      "People have grown / ಜನರು ಬೆಳೆದಿದ್ದಾರೆ",
+      "Someone has grown / ಯಾರೋ ಬೆಳೆದಿದ್ದಾರೆ",
+      "Nobody has grown / ಯಾರೂ ಬೆಳೆದಿಲ್ಲ",
+      "Everybody has grown / ಎಲ್ಲರೂ ಬೆಳೆದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Guard / ಕಾಪಾಡು",
+    "forms": [
+      "I have guarded / ನಾನು ಕಾಪಾಡಿದ್ದೇನೆ",
+      "You have guarded / ನೀನು ಕಾಪಾಡಿದ್ದೀಯ",
+      "We have guarded / ನಾವು ಕಾಪಾಡಿದ್ದೇವೆ",
+      "They have guarded / ಅವರು ಕಾಪಾಡಿದ್ದಾರೆ",
+      "He has guarded / ಅವನು ಕಾಪಾಡಿದ್ದಾನೆ",
+      "She has guarded / ಅವಳು ಕಾಪಾಡಿದ್ದಾಳೆ",
+      "It has guarded / ಅದು ಕಾಪಾಡಿದೆ",
+      "The soldier has guarded / ಸೈನಿಕ ಕಾಪಾಡಿದ್ದಾನೆ",
+      "People have guarded / ಜನರು ಕಾಪಾಡಿದ್ದಾರೆ",
+      "Someone has guarded / ಯಾರೋ ಕಾಪಾಡಿದ್ದಾರೆ",
+      "Nobody has guarded / ಯಾರೂ ಕಾಪಾಡಿಲ್ಲ",
+      "Everybody has guarded / ಎಲ್ಲರೂ ಕಾಪಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Guess / ಊಹಿಸು",
+    "forms": [
+      "I have guessed / ನಾನು ಊಹಿಸಿದ್ದೇನೆ",
+      "You have guessed / ನೀನು ಊಹಿಸಿದ್ದೀಯ",
+      "We have guessed / ನಾವು ಊಹಿಸಿದ್ದೇವೆ",
+      "They have guessed / ಅವರು ಊಹಿಸಿದ್ದಾರೆ",
+      "He has guessed / ಅವನು ಊಹಿಸಿದ್ದಾನೆ",
+      "She has guessed / ಅವಳು ಊಹಿಸಿದ್ದಾಳೆ",
+      "It has guessed / ಅದು ಊಹಿಸಿದೆ",
+      "The child has guessed / ಮಗು ಊಹಿಸಿದೆ",
+      "People have guessed / ಜನರು ಊಹಿಸಿದ್ದಾರೆ",
+      "Someone has guessed / ಯಾರೋ ಊಹಿಸಿದ್ದಾರೆ",
+      "Nobody has guessed / ಯಾರೂ ಊಹಿಸಿಲ್ಲ",
+      "Everybody has guessed / ಎಲ್ಲರೂ ಊಹಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Guide / ಮಾರ್ಗದರ್ಶನ ನೀಡು",
+    "forms": [
+      "I have guided / ನಾನು ಮಾರ್ಗದರ್ಶನ ನೀಡಿದ್ದೇನೆ",
+      "You have guided / ನೀನು ಮಾರ್ಗದರ್ಶನ ನೀಡಿದ್ದೀಯ",
+      "We have guided / ನಾವು ಮಾರ್ಗದರ್ಶನ ನೀಡಿದ್ದೇವೆ",
+      "They have guided / ಅವರು ಮಾರ್ಗದರ್ಶನ ನೀಡಿದ್ದಾರೆ",
+      "He has guided / ಅವನು ಮಾರ್ಗದರ್ಶನ ನೀಡಿದ್ದಾನೆ",
+      "She has guided / ಅವಳು ಮಾರ್ಗದರ್ಶನ ನೀಡಿದ್ದಾಳೆ",
+      "It has guided / ಅದು ಮಾರ್ಗದರ್ಶನ ನೀಡಿದೆ",
+      "The teacher has guided / ಶಿಕ್ಷಕ ಮಾರ್ಗದರ್ಶನ ನೀಡಿದ್ದಾನೆ",
+      "People have guided / ಜನರು ಮಾರ್ಗದರ್ಶನ ನೀಡಿದ್ದಾರೆ",
+      "Someone has guided / ಯಾರೋ ಮಾರ್ಗದರ್ಶನ ನೀಡಿದ್ದಾರೆ",
+      "Nobody has guided / ಯಾರೂ ಮಾರ್ಗದರ್ಶನ ನೀಡಿಲ್ಲ",
+      "Everybody has guided / ಎಲ್ಲರೂ ಮಾರ್ಗದರ್ಶನ ನೀಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Handle / ನಿಭಾಯಿಸು",
+    "forms": [
+      "I have handled / ನಾನು ನಿಭಾಯಿಸಿದ್ದೇನೆ",
+      "You have handled / ನೀನು ನಿಭಾಯಿಸಿದ್ದೀಯ",
+      "We have handled / ನಾವು ನಿಭಾಯಿಸಿದ್ದೇವೆ",
+      "They have handled / ಅವರು ನಿಭಾಯಿಸಿದ್ದಾರೆ",
+      "He has handled / ಅವನು ನಿಭಾಯಿಸಿದ್ದಾನೆ",
+      "She has handled / ಅವಳು ನಿಭಾಯಿಸಿದ್ದಾಳೆ",
+      "It has handled / ಅದು ನಿಭಾಯಿಸಿದೆ",
+      "The manager has handled / ಮ್ಯಾನೇಜರ್ ನಿಭಾಯಿಸಿದ್ದಾನೆ",
+      "People have handled / ಜನರು ನಿಭಾಯಿಸಿದ್ದಾರೆ",
+      "Someone has handled / ಯಾರೋ ನಿಭಾಯಿಸಿದ್ದಾರೆ",
+      "Nobody has handled / ಯಾರೂ ನಿಭಾಯಿಸಿಲ್ಲ",
+      "Everybody has handled / ಎಲ್ಲರೂ ನಿಭಾಯಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hang / ತೂಗು",
+    "forms": [
+      "I have hung / ನಾನು ತೂಗಿದ್ದೇನೆ",
+      "You have hung / ನೀನು ತೂಗಿದ್ದೀಯ",
+      "We have hung / ನಾವು ತೂಗಿದ್ದೇವೆ",
+      "They have hung / ಅವರು ತೂಗಿದ್ದಾರೆ",
+      "He has hung / ಅವನು ತೂಗಿದ್ದಾನೆ",
+      "She has hung / ಅವಳು ತೂಗಿದ್ದಾಳೆ",
+      "It has hung / ಅದು ತೂಗಿದೆ",
+      "The picture has hung / ಚಿತ್ರ ತೂಗಿದೆ",
+      "People have hung / ಜನರು ತೂಗಿದ್ದಾರೆ",
+      "Someone has hung / ಯಾರೋ ತೂಗಿದ್ದಾರೆ",
+      "Nobody has hung / ಯಾರೂ ತೂಗಿಲ್ಲ",
+      "Everybody has hung / ಎಲ್ಲರೂ ತೂಗಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Happen / ಸಂಭವಿಸು",
+    "forms": [
+      "I have happened / ನಾನು ಸಂಭವಿಸಿದ್ದೇನೆ",
+      "You have happened / ನೀನು ಸಂಭವಿಸಿದ್ದೀಯ",
+      "We have happened / ನಾವು ಸಂಭವಿಸಿದ್ದೇವೆ",
+      "They have happened / ಅವರು ಸಂಭವಿಸಿದ್ದಾರೆ",
+      "He has happened / ಅವನು ಸಂಭವಿಸಿದ್ದಾನೆ",
+      "She has happened / ಅವಳು ಸಂಭವಿಸಿದ್ದಾಳೆ",
+      "It has happened / ಅದು ಸಂಭವಿಸಿದೆ",
+      "The incident has happened / ಘಟನೆ ಸಂಭವಿಸಿದೆ",
+      "People have happened / ಜನರು ಸಂಭವಿಸಿದ್ದಾರೆ",
+      "Someone has happened / ಯಾರೋ ಸಂಭವಿಸಿದ್ದಾರೆ",
+      "Nobody has happened / ಯಾರೂ ಸಂಭವಿಸಿಲ್ಲ",
+      "Everybody has happened / ಎಲ್ಲರೂ ಸಂಭವಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Harm / ಹಾನಿ ಮಾಡು",
+    "forms": [
+      "I have harmed / ನಾನು ಹಾನಿ ಮಾಡಿದ್ದೇನೆ",
+      "You have harmed / ನೀನು ಹಾನಿ ಮಾಡಿದ್ದೀಯ",
+      "We have harmed / ನಾವು ಹಾನಿ ಮಾಡಿದ್ದೇವೆ",
+      "They have harmed / ಅವರು ಹಾನಿ ಮಾಡಿದ್ದಾರೆ",
+      "He has harmed / ಅವನು ಹಾನಿ ಮಾಡಿದ್ದಾನೆ",
+      "She has harmed / ಅವಳು ಹಾನಿ ಮಾಡಿದ್ದಾಳೆ",
+      "It has harmed / ಅದು ಹಾನಿ ಮಾಡಿದೆ",
+      "The action has harmed / ಕ್ರಿಯೆ ಹಾನಿ ಮಾಡಿದೆ",
+      "People have harmed / ಜನರು ಹಾನಿ ಮಾಡಿದ್ದಾರೆ",
+      "Someone has harmed / ಯಾರೋ ಹಾನಿ ಮಾಡಿದ್ದಾರೆ",
+      "Nobody has harmed / ಯಾರೂ ಹಾನಿ ಮಾಡಿಲ್ಲ",
+      "Everybody has harmed / ಎಲ್ಲರೂ ಹಾನಿ ಮಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hatch / ಮೊಟ್ಟೆಯೊಡೆ",
+    "forms": [
+      "I have hatched / ನಾನು ಮೊಟ್ಟೆಯೊಡೆದಿದ್ದೇನೆ",
+      "You have hatched / ನೀನು ಮೊಟ್ಟೆಯೊಡೆದಿದ್ದೀಯ",
+      "We have hatched / ನಾವು ಮೊಟ್ಟೆಯೊಡೆದಿದ್ದೇವೆ",
+      "They have hatched / ಅವರು ಮೊಟ್ಟೆಯೊಡೆದಿದ್ದಾರೆ",
+      "He has hatched / ಅವನು ಮೊಟ್ಟೆಯೊಡೆದಿದ್ದಾನೆ",
+      "She has hatched / ಅವಳು ಮೊಟ್ಟೆಯೊಡೆದಿದ್ದಾಳೆ",
+      "It has hatched / ಅದು ಮೊಟ್ಟೆಯೊಡೆದಿದೆ",
+      "The egg has hatched / ಮೊಟ್ಟೆ ಮೊಟ್ಟೆಯೊಡೆದಿದೆ",
+      "People have hatched / ಜನರು ಮೊಟ್ಟೆಯೊಡೆದಿದ್ದಾರೆ",
+      "Someone has hatched / ಯಾರೋ ಮೊಟ್ಟೆಯೊಡೆದಿದ್ದಾರೆ",
+      "Nobody has hatched / ಯಾರೂ ಮೊಟ್ಟೆಯೊಡೆದಿಲ್ಲ",
+      "Everybody has hatched / ಎಲ್ಲರೂ ಮೊಟ್ಟೆಯೊಡೆದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hate / ದ್ವೇಷಿಸು",
+    "forms": [
+      "I have hated / ನಾನು ದ್ವೇಷಿಸಿದ್ದೇನೆ",
+      "You have hated / ನೀನು ದ್ವೇಷಿಸಿದ್ದೀಯ",
+      "We have hated / ನಾವು ದ್ವೇಷಿಸಿದ್ದೇವೆ",
+      "They have hated / ಅವರು ದ್ವೇಷಿಸಿದ್ದಾರೆ",
+      "He has hated / ಅವನು ದ್ವೇಷಿಸಿದ್ದಾನೆ",
+      "She has hated / ಅವಳು ದ್ವೇಷಿಸಿದ್ದಾಳೆ",
+      "It has hated / ಅದು ದ್ವೇಷಿಸಿದೆ",
+      "The person has hated / ವ್ಯಕ್ತಿ ದ್ವೇಷಿಸಿದ್ದಾನೆ",
+      "People have hated / ಜನರು ದ್ವೇಷಿಸಿದ್ದಾರೆ",
+      "Someone has hated / ಯಾರೋ ದ್ವೇಷಿಸಿದ್ದಾರೆ",
+      "Nobody has hated / ಯಾರೂ ದ್ವೇಷಿಸಿಲ್ಲ",
+      "Everybody has hated / ಎಲ್ಲರೂ ದ್ವೇಷಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Have / ಹೊಂದಿರು",
+    "forms": [
+      "I have had / ನಾನು ಹೊಂದಿದ್ದೇನೆ",
+      "You have had / ನೀನು ಹೊಂದಿದ್ದೀಯ",
+      "We have had / ನಾವು ಹೊಂದಿದ್ದೇವೆ",
+      "They have had / ಅವರು ಹೊಂದಿದ್ದಾರೆ",
+      "He has had / ಅವನು ಹೊಂದಿದ್ದಾನೆ",
+      "She has had / ಅವಳು ಹೊಂದಿದ್ದಾಳೆ",
+      "It has had / ಅದು ಹೊಂದಿದೆ",
+      "The child has had / ಮಗು ಹೊಂದಿದೆ",
+      "People have had / ಜನರು ಹೊಂದಿದ್ದಾರೆ",
+      "Someone has had / ಯಾರೋ ಹೊಂದಿದ್ದಾರೆ",
+      "Nobody has had / ಯಾರೂ ಹೊಂದಿಲ್ಲ",
+      "Everybody has had / ಎಲ್ಲರೂ ಹೊಂದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Heal / ಗುಣಪಡಿಸು",
+    "forms": [
+      "I have healed / ನಾನು ಗುಣಪಡಿಸಿದ್ದೇನೆ",
+      "You have healed / ನೀನು ಗುಣಪಡಿಸಿದ್ದೀಯ",
+      "We have healed / ನಾವು ಗುಣಪಡಿಸಿದ್ದೇವೆ",
+      "They have healed / ಅವರು ಗುಣಪಡಿಸಿದ್ದಾರೆ",
+      "He has healed / ಅವನು ಗುಣಪಡಿಸಿದ್ದಾನೆ",
+      "She has healed / ಅವಳು ಗುಣಪಡಿಸಿದ್ದಾಳೆ",
+      "It has healed / ಅದು ಗುಣಪಡಿಸಿದೆ",
+      "The doctor has healed / ವೈದ್ಯ ಗುಣಪಡಿಸಿದ್ದಾನೆ",
+      "People have healed / ಜನರು ಗುಣಪಡಿಸಿದ್ದಾರೆ",
+      "Someone has healed / ಯಾರೋ ಗುಣಪಡಿಸಿದ್ದಾರೆ",
+      "Nobody has healed / ಯಾರೂ ಗುಣಪಡಿಸಿಲ್ಲ",
+      "Everybody has healed / ಎಲ್ಲರೂ ಗುಣಪಡಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hear / ಕೇಳು",
+    "forms": [
+      "I have heard / ನಾನು ಕೇಳಿದ್ದೇನೆ",
+      "You have heard / ನೀನು ಕೇಳಿದ್ದೀಯ",
+      "We have heard / ನಾವು ಕೇಳಿದ್ದೇವೆ",
+      "They have heard / ಅವರು ಕೇಳಿದ್ದಾರೆ",
+      "He has heard / ಅವನು ಕೇಳಿದ್ದಾನೆ",
+      "She has heard / ಅವಳು ಕೇಳಿದ್ದಾಳೆ",
+      "It has heard / ಅದು ಕೇಳಿದೆ",
+      "The student has heard / ವಿದ್ಯಾರ್ಥಿ ಕೇಳಿದ್ದಾನೆ",
+      "People have heard / ಜನರು ಕೇಳಿದ್ದಾರೆ",
+      "Someone has heard / ಯಾರೋ ಕೇಳಿದ್ದಾರೆ",
+      "Nobody has heard / ಯಾರೂ ಕೇಳಿಲ್ಲ",
+      "Everybody has heard / ಎಲ್ಲರೂ ಕೇಳಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Heave / ಎತ್ತು",
+    "forms": [
+      "I have heaved / ನಾನು ಎತ್ತಿದ್ದೇನೆ",
+      "You have heaved / ನೀನು ಎತ್ತಿದ್ದೀಯ",
+      "We have heaved / ನಾವು ಎತ್ತಿದ್ದೇವೆ",
+      "They have heaved / ಅವರು ಎತ್ತಿದ್ದಾರೆ",
+      "He has heaved / ಅವನು ಎತ್ತಿದ್ದಾನೆ",
+      "She has heaved / ಅವಳು ಎತ್ತಿದ್ದಾಳೆ",
+      "It has heaved / ಅದು ಎತ್ತಿದೆ",
+      "The worker has heaved / ಕಾರ್ಮಿಕ ಎತ್ತಿದ್ದಾನೆ",
+      "People have heaved / ಜನರು ಎತ್ತಿದ್ದಾರೆ",
+      "Someone has heaved / ಯಾರೋ ಎತ್ತಿದ್ದಾರೆ",
+      "Nobody has heaved / ಯಾರೂ ಎತ್ತಿಲ್ಲ",
+      "Everybody has heaved / ಎಲ್ಲರೂ ಎತ್ತಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Help / ಸಹಾಯ ಮಾಡು",
+    "forms": [
+      "I have helped / ನಾನು ಸಹಾಯ ಮಾಡಿದ್ದೇನೆ",
+      "You have helped / ನೀನು ಸಹಾಯ ಮಾಡಿದ್ದೀಯ",
+      "We have helped / ನಾವು ಸಹಾಯ ಮಾಡಿದ್ದೇವೆ",
+      "They have helped / ಅವರು ಸಹಾಯ ಮಾಡಿದ್ದಾರೆ",
+      "He has helped / ಅವನು ಸಹಾಯ ಮಾಡಿದ್ದಾನೆ",
+      "She has helped / ಅವಳು ಸಹಾಯ ಮಾಡಿದ್ದಾಳೆ",
+      "It has helped / ಅದು ಸಹಾಯ ಮಾಡಿದೆ",
+      "The friend has helped / ಸ್ನೇಹಿತ ಸಹಾಯ ಮಾಡಿದ್ದಾನೆ",
+      "People have helped / ಜನರು ಸಹಾಯ ಮಾಡಿದ್ದಾರೆ",
+      "Someone has helped / ಯಾರೋ ಸಹಾಯ ಮಾಡಿದ್ದಾರೆ",
+      "Nobody has helped / ಯಾರೂ ಸಹಾಯ ಮಾಡಿಲ್ಲ",
+      "Everybody has helped / ಎಲ್ಲರೂ ಸಹಾಯ ಮಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hew / ಕೊಯ್ಯು",
+    "forms": [
+      "I have hewed / ನಾನು ಕೊಯ್ದಿದ್ದೇನೆ",
+      "You have hewed / ನೀನು ಕೊಯ್ದಿದ್ದೀಯ",
+      "We have hewed / ನಾವು ಕೊಯ್ದಿದ್ದೇವೆ",
+      "They have hewed / ಅವರು ಕೊಯ್ದಿದ್ದಾರೆ",
+      "He has hewed / ಅವನು ಕೊಯ್ದಿದ್ದಾನೆ",
+      "She has hewed / ಅವಳು ಕೊಯ್ದಿದ್ದಾಳೆ",
+      "It has hewed / ಅದು ಕೊಯ್ದಿದೆ",
+      "The woodcutter has hewed / ಮರಕೊಯ್ಯುವವನು ಕೊಯ್ದಿದ್ದಾನೆ",
+      "People have hewed / ಜನರು ಕೊಯ್ದಿದ್ದಾರೆ",
+      "Someone has hewed / ಯಾರೋ ಕೊಯ್ದಿದ್ದಾರೆ",
+      "Nobody has hewed / ಯಾರೂ ಕೊಯ್ದಿಲ್ಲ",
+      "Everybody has hewed / ಎಲ್ಲರೂ ಕೊಯ್ದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hide / ಮರೆಮಾಡು",
+    "forms": [
+      "I have hidden / ನಾನು ಮರೆಮಾಡಿದ್ದೇನೆ",
+      "You have hidden / ನೀನು ಮರೆಮಾಡಿದ್ದೀಯ",
+      "We have hidden / ನಾವು ಮರೆಮಾಡಿದ್ದೇವೆ",
+      "They have hidden / ಅವರು ಮರೆಮಾಡಿದ್ದಾರೆ",
+      "He has hidden / ಅವನು ಮರೆಮಾಡಿದ್ದಾನೆ",
+      "She has hidden / ಅವಳು ಮರೆಮಾಡಿದ್ದಾಳೆ",
+      "It has hidden / ಅದು ಮರೆಮಾಡಿದೆ",
+      "The child has hidden / ಮಗು ಮರೆಮಾಡಿದೆ",
+      "People have hidden / ಜನರು ಮರೆಮಾಡಿದ್ದಾರೆ",
+      "Someone has hidden / ಯಾರೋ ಮರೆಮಾಡಿದ್ದಾರೆ",
+      "Nobody has hidden / ಯಾರೂ ಮರೆಮಾಡಿಲ್ಲ",
+      "Everybody has hidden / ಎಲ್ಲರೂ ಮರೆಮಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hinder / ಅಡ್ಡಿಮಾಡು",
+    "forms": [
+      "I have hindered / ನಾನು ಅಡ್ಡಿಮಾಡಿದ್ದೇನೆ",
+      "You have hindered / ನೀನು ಅಡ್ಡಿಮಾಡಿದ್ದೀಯ",
+      "We have hindered / ನಾವು ಅಡ್ಡಿಮಾಡಿದ್ದೇವೆ",
+      "They have hindered / ಅವರು ಅಡ್ಡಿಮಾಡಿದ್ದಾರೆ",
+      "He has hindered / ಅವನು ಅಡ್ಡಿಮಾಡಿದ್ದಾನೆ",
+      "She has hindered / ಅವಳು ಅಡ್ಡಿಮಾಡಿದ್ದಾಳೆ",
+      "It has hindered / ಅದು ಅಡ್ಡಿಮಾಡಿದೆ",
+      "The obstacle has hindered / ಅಡಚಣೆ ಅಡ್ಡಿಮಾಡಿದೆ",
+      "People have hindered / ಜನರು ಅಡ್ಡಿಮಾಡಿದ್ದಾರೆ",
+      "Someone has hindered / ಯಾರೋ ಅಡ್ಡಿಮಾಡಿದ್ದಾರೆ",
+      "Nobody has hindered / ಯಾರೂ ಅಡ್ಡಿಮಾಡಿಲ್ಲ",
+      "Everybody has hindered / ಎಲ್ಲರೂ ಅಡ್ಡಿಮಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hiss / ಸಿಳ್ಳು ಹೊಡೆ",
+    "forms": [
+      "I have hissed / ನಾನು ಸಿಳ್ಳು ಹೊಡೆದಿದ್ದೇನೆ",
+      "You have hissed / ನೀನು ಸಿಳ್ಳು ಹೊಡೆದಿದ್ದೀಯ",
+      "We have hissed / ನಾವು ಸಿಳ್ಳು ಹೊಡೆದಿದ್ದೇವೆ",
+      "They have hissed / ಅವರು ಸಿಳ್ಳು ಹೊಡೆದಿದ್ದಾರೆ",
+      "He has hissed / ಅವನು ಸಿಳ್ಳು ಹೊಡೆದಿದ್ದಾನೆ",
+      "She has hissed / ಅವಳು ಸಿಳ್ಳು ಹೊಡೆದಿದ್ದಾಳೆ",
+      "It has hissed / ಅದು ಸಿಳ್ಳು ಹೊಡೆದಿದೆ",
+      "The snake has hissed / ಹಾವು ಸಿಳ್ಳು ಹೊಡೆದಿದೆ",
+      "People have hissed / ಜನರು ಸಿಳ್ಳು ಹೊಡೆದಿದ್ದಾರೆ",
+      "Someone has hissed / ಯಾರೋ ಸಿಳ್ಳು ಹೊಡೆದಿದ್ದಾರೆ",
+      "Nobody has hissed / ಯಾರೂ ಸಿಳ್ಳು ಹೊಡೆದಿಲ್ಲ",
+      "Everybody has hissed / ಎಲ್ಲರೂ ಸಿಳ್ಳು ಹೊಡೆದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hit / ಹೊಡೆ",
+    "forms": [
+      "I have hit / ನಾನು ಹೊಡೆದಿದ್ದೇನೆ",
+      "You have hit / ನೀನು ಹೊಡೆದಿದ್ದೀಯ",
+      "We have hit / ನಾವು ಹೊಡೆದಿದ್ದೇವೆ",
+      "They have hit / ಅವರು ಹೊಡೆದಿದ್ದಾರೆ",
+      "He has hit / ಅವನು ಹೊಡೆದಿದ್ದಾನೆ",
+      "She has hit / ಅವಳು ಹೊಡೆದಿದ್ದಾಳೆ",
+      "It has hit / ಅದು ಹೊಡೆದಿದೆ",
+      "The ball has hit / ಚೆಂಡು ಹೊಡೆದಿದೆ",
+      "People have hit / ಜನರು ಹೊಡೆದಿದ್ದಾರೆ",
+      "Someone has hit / ಯಾರೋ ಹೊಡೆದಿದ್ದಾರೆ",
+      "Nobody has hit / ಯಾರೂ ಹೊಡೆದಿಲ್ಲ",
+      "Everybody has hit / ಎಲ್ಲರೂ ಹೊಡೆದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hoax / ಮೋಸಗೊಳಿಸು",
+    "forms": [
+      "I have hoaxed / ನಾನು ಮೋಸಗೊಳಿಸಿದ್ದೇನೆ",
+      "You have hoaxed / ನೀನು ಮೋಸಗೊಳಿಸಿದ್ದೀಯ",
+      "We have hoaxed / ನಾವು ಮೋಸಗೊಳಿಸಿದ್ದೇವೆ",
+      "They have hoaxed / ಅವರು ಮೋಸಗೊಳಿಸಿದ್ದಾರೆ",
+      "He has hoaxed / ಅವನು ಮೋಸಗೊಳಿಸಿದ್ದಾನೆ",
+      "She has hoaxed / ಅವಳು ಮೋಸಗೊಳಿಸಿದ್ದಾಳೆ",
+      "It has hoaxed / ಅದು ಮೋಸಗೊಳಿಸಿದೆ",
+      "The fraudster has hoaxed / ವಂಚಕ ಮೋಸಗೊಳಿಸಿದ್ದಾನೆ",
+      "People have hoaxed / ಜನರು ಮೋಸಗೊಳಿಸಿದ್ದಾರೆ",
+      "Someone has hoaxed / ಯಾರೋ ಮೋಸಗೊಳಿಸಿದ್ದಾರೆ",
+      "Nobody has hoaxed / ಯಾರೂ ಮೋಸಗೊಳಿಸಿಲ್ಲ",
+      "Everybody has hoaxed / ಎಲ್ಲರೂ ಮೋಸಗೊಳಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hold / ಹಿಡಿ",
+    "forms": [
+      "I have held / ನಾನು ಹಿಡಿದಿದ್ದೇನೆ",
+      "You have held / ನೀನು ಹಿಡಿದಿದ್ದೀಯ",
+      "We have held / ನಾವು ಹಿಡಿದಿದ್ದೇವೆ",
+      "They have held / ಅವರು ಹಿಡಿದಿದ್ದಾರೆ",
+      "He has held / ಅವನು ಹಿಡಿದಿದ್ದಾನೆ",
+      "She has held / ಅವಳು ಹಿಡಿದಿದ್ದಾಳೆ",
+      "It has held / ಅದು ಹಿಡಿದಿದೆ",
+      "The child has held / ಮಗು ಹಿಡಿದಿದೆ",
+      "People have held / ಜನರು ಹಿಡಿದಿದ್ದಾರೆ",
+      "Someone has held / ಯಾರೋ ಹಿಡಿದಿದ್ದಾರೆ",
+      "Nobody has held / ಯಾರೂ ಹಿಡಿದಿಲ್ಲ",
+      "Everybody has held / ಎಲ್ಲರೂ ಹಿಡಿದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hop / ಜಿಗಿ",
+    "forms": [
+      "I have hopped / ನಾನು ಜಿಗಿದಿದ್ದೇನೆ",
+      "You have hopped / ನೀನು ಜಿಗಿದಿದ್ದೀಯ",
+      "We have hopped / ನಾವು ಜಿಗಿದಿದ್ದೇವೆ",
+      "They have hopped / ಅವರು ಜಿಗಿದಿದ್ದಾರೆ",
+      "He has hopped / ಅವನು ಜಿಗಿದಿದ್ದಾನೆ",
+      "She has hopped / ಅವಳು ಜಿಗಿದಿದ್ದಾಳೆ",
+      "It has hopped / ಅದು ಜಿಗಿದಿದೆ",
+      "The rabbit has hopped / ಮೊಲ ಜಿಗಿದಿದೆ",
+      "People have hopped / ಜನರು ಜಿಗಿದಿದ್ದಾರೆ",
+      "Someone has hopped / ಯಾರೋ ಜಿಗಿದಿದ್ದಾರೆ",
+      "Nobody has hopped / ಯಾರೂ ಜಿಗಿದಿಲ್ಲ",
+      "Everybody has hopped / ಎಲ್ಲರೂ ಜಿಗಿದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hope / ಆಶಿಸು",
+    "forms": [
+      "I have hoped / ನಾನು ಆಶಿಸಿದ್ದೇನೆ",
+      "You have hoped / ನೀನು ಆಶಿಸಿದ್ದೀಯ",
+      "We have hoped / ನಾವು ಆಶಿಸಿದ್ದೇವೆ",
+      "They have hoped / ಅವರು ಆಶಿಸಿದ್ದಾರೆ",
+      "He has hoped / ಅವನು ಆಶಿಸಿದ್ದಾನೆ",
+      "She has hoped / ಅವಳು ಆಶಿಸಿದ್ದಾಳೆ",
+      "It has hoped / ಅದು ಆಶಿಸಿದೆ",
+      "The student has hoped / ವಿದ್ಯಾರ್ಥಿ ಆಶಿಸಿದ್ದಾನೆ",
+      "People have hoped / ಜನರು ಆಶಿಸಿದ್ದಾರೆ",
+      "Someone has hoped / ಯಾರೋ ಆಶಿಸಿದ್ದಾರೆ",
+      "Nobody has hoped / ಯಾರೂ ಆಶಿಸಿಲ್ಲ",
+      "Everybody has hoped / ಎಲ್ಲರೂ ಆಶಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Horrify / ಭಯಭ್ರಾಂತಗೊಳಿಸು",
+    "forms": [
+      "I have horrified / ನಾನು ಭಯಭ್ರಾಂತಗೊಳಿಸಿದ್ದೇನೆ",
+      "You have horrified / ನೀನು ಭಯಭ್ರಾಂತಗೊಳಿಸಿದ್ದೀಯ",
+      "We have horrified / ನಾವು ಭಯಭ್ರಾಂತಗೊಳಿಸಿದ್ದೇವೆ",
+      "They have horrified / ಅವರು ಭಯಭ್ರಾಂತಗೊಳಿಸಿದ್ದಾರೆ",
+      "He has horrified / ಅವನು ಭಯಭ್ರಾಂತಗೊಳಿಸಿದ್ದಾನೆ",
+      "She has horrified / ಅವಳು ಭಯಭ್ರಾಂತಗೊಳಿಸಿದ್ದಾಳೆ",
+      "It has horrified / ಅದು ಭಯಭ್ರಾಂತಗೊಳಿಸಿದೆ",
+      "The movie has horrified / ಚಲನಚಿತ್ರ ಭಯಭ್ರಾಂತಗೊಳಿಸಿದೆ",
+      "People have horrified / ಜನರು ಭಯಭ್ರಾಂತಗೊಳಿಸಿದ್ದಾರೆ",
+      "Someone has horrified / ಯಾರೋ ಭಯಭ್ರಾಂತಗೊಳಿಸಿದ್ದಾರೆ",
+      "Nobody has horrified / ಯಾರೂ ಭಯಭ್ರಾಂತಗೊಳಿಸಿಲ್ಲ",
+      "Everybody has horrified / ಎಲ್ಲರೂ ಭಯಭ್ರಾಂತಗೊಳಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hug / ಅಪ್ಪಿಕೊಳ್ಳು",
+    "forms": [
+      "I have hugged / ನಾನು ಅಪ್ಪಿಕೊಂಡಿದ್ದೇನೆ",
+      "You have hugged / ನೀನು ಅಪ್ಪಿಕೊಂಡಿದ್ದೀಯ",
+      "We have hugged / ನಾವು ಅಪ್ಪಿಕೊಂಡಿದ್ದೇವೆ",
+      "They have hugged / ಅವರು ಅಪ್ಪಿಕೊಂಡಿದ್ದಾರೆ",
+      "He has hugged / ಅವನು ಅಪ್ಪಿಕೊಂಡಿದ್ದಾನೆ",
+      "She has hugged / ಅವಳು ಅಪ್ಪಿಕೊಂಡಿದ್ದಾಳೆ",
+      "It has hugged / ಅದು ಅಪ್ಪಿಕೊಂಡಿದೆ",
+      "The mother has hugged / ತಾಯಿ ಅಪ್ಪಿಕೊಂಡಿದ್ದಾಳೆ",
+      "People have hugged / ಜನರು ಅಪ್ಪಿಕೊಂಡಿದ್ದಾರೆ",
+      "Someone has hugged / ಯಾರೋ ಅಪ್ಪಿಕೊಂಡಿದ್ದಾರೆ",
+      "Nobody has hugged / ಯಾರೂ ಅಪ್ಪಿಕೊಂಡಿಲ್ಲ",
+      "Everybody has hugged / ಎಲ್ಲರೂ ಅಪ್ಪಿಕೊಂಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hum / ಗುನುಗು",
+    "forms": [
+      "I have hummed / ನಾನು ಗುನುಗಿದ್ದೇನೆ",
+      "You have hummed / ನೀನು ಗುನುಗಿದ್ದೀಯ",
+      "We have hummed / ನಾವು ಗುನುಗಿದ್ದೇವೆ",
+      "They have hummed / ಅವರು ಗುನುಗಿದ್ದಾರೆ",
+      "He has hummed / ಅವನು ಗುನುಗಿದ್ದಾನೆ",
+      "She has hummed / ಅವಳು ಗುನುಗಿದ್ದಾಳೆ",
+      "It has hummed / ಅದು ಗುನುಗಿದೆ",
+      "The singer has hummed / ಗಾಯಕ ಗುನುಗಿದ್ದಾನೆ",
+      "People have hummed / ಜನರು ಗುನುಗಿದ್ದಾರೆ",
+      "Someone has hummed / ಯಾರೋ ಗುನುಗಿದ್ದಾರೆ",
+      "Nobody has hummed / ಯಾರೂ ಗುನುಗಿಲ್ಲ",
+      "Everybody has hummed / ಎಲ್ಲರೂ ಗುನುಗಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Humiliate / ಅವಮಾನಿಸು",
+    "forms": [
+      "I have humiliated / ನಾನು ಅವಮಾನಿಸಿದ್ದೇನೆ",
+      "You have humiliated / ನೀನು ಅವಮಾನಿಸಿದ್ದೀಯ",
+      "We have humiliated / ನಾವು ಅವಮಾನಿಸಿದ್ದೇವೆ",
+      "They have humiliated / ಅವರು ಅವಮಾನಿಸಿದ್ದಾರೆ",
+      "He has humiliated / ಅವನು ಅವಮಾನಿಸಿದ್ದಾನೆ",
+      "She has humiliated / ಅವಳು ಅವಮಾನಿಸಿದ್ದಾಳೆ",
+      "It has humiliated / ಅದು ಅವಮಾನಿಸಿದೆ",
+      "The boss has humiliated / ಮುಖ್ಯಸ್ಥ ಅವಮಾನಿಸಿದ್ದಾನೆ",
+      "People have humiliated / ಜನರು ಅವಮಾನಿಸಿದ್ದಾರೆ",
+      "Someone has humiliated / ಯಾರೋ ಅವಮಾನಿಸಿದ್ದಾರೆ",
+      "Nobody has humiliated / ಯಾರೂ ಅವಮಾನಿಸಿಲ್ಲ",
+      "Everybody has humiliated / ಎಲ್ಲರೂ ಅವಮಾನಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hunt / ಬೇಟೆಯಾಡು",
+    "forms": [
+      "I have hunted / ನಾನು ಬೇಟೆಯಾಡಿದ್ದೇನೆ",
+      "You have hunted / ನೀನು ಬೇಟೆಯಾಡಿದ್ದೀಯ",
+      "We have hunted / ನಾವು ಬೇಟೆಯಾಡಿದ್ದೇವೆ",
+      "They have hunted / ಅವರು ಬೇಟೆಯಾಡಿದ್ದಾರೆ",
+      "He has hunted / ಅವನು ಬೇಟೆಯಾಡಿದ್ದಾನೆ",
+      "She has hunted / ಅವಳು ಬೇಟೆಯಾಡಿದ್ದಾಳೆ",
+      "It has hunted / ಅದು ಬೇಟೆಯಾಡಿದೆ",
+      "The tiger has hunted / ಹುಲಿ ಬೇಟೆಯಾಡಿದೆ",
+      "People have hunted / ಜನರು ಬೇಟೆಯಾಡಿದ್ದಾರೆ",
+      "Someone has hunted / ಯಾರೋ ಬೇಟೆಯಾಡಿದ್ದಾರೆ",
+      "Nobody has hunted / ಯಾರೂ ಬೇಟೆಯಾಡಿಲ್ಲ",
+      "Everybody has hunted / ಎಲ್ಲರೂ ಬೇಟೆಯಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hurl / ಎಸೆ",
+    "forms": [
+      "I have hurled / ನಾನು ಎಸೆದಿದ್ದೇನೆ",
+      "You have hurled / ನೀನು ಎಸೆದಿದ್ದೀಯ",
+      "We have hurled / ನಾವು ಎಸೆದಿದ್ದೇವೆ",
+      "They have hurled / ಅವರು ಎಸೆದಿದ್ದಾರೆ",
+      "He has hurled / ಅವನು ಎಸೆದಿದ್ದಾನೆ",
+      "She has hurled / ಅವಳು ಎಸೆದಿದ್ದಾಳೆ",
+      "It has hurled / ಅದು ಎಸೆದಿದೆ",
+      "The player has hurled / ಆಟಗಾರ ಎಸೆದಿದ್ದಾನೆ",
+      "People have hurled / ಜನರು ಎಸೆದಿದ್ದಾರೆ",
+      "Someone has hurled / ಯಾರೋ ಎಸೆದಿದ್ದಾರೆ",
+      "Nobody has hurled / ಯಾರೂ ಎಸೆದಿಲ್ಲ",
+      "Everybody has hurled / ಎಲ್ಲರೂ ಎಸೆದಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hurry / ಹೊರಟುಹೋಗು",
+    "forms": [
+      "I have hurried / ನಾನು ಹೊರಟುಹೋಗಿದ್ದೇನೆ",
+      "You have hurried / ನೀನು ಹೊರಟುಹೋಗಿದ್ದೀಯ",
+      "We have hurried / ನಾವು ಹೊರಟುಹೋಗಿದ್ದೇವೆ",
+      "They have hurried / ಅವರು ಹೊರಟುಹೋಗಿದ್ದಾರೆ",
+      "He has hurried / ಅವನು ಹೊರಟುಹೋಗಿದ್ದಾನೆ",
+      "She has hurried / ಅವಳು ಹೊರಟುಹೋಗಿದ್ದಾಳೆ",
+      "It has hurried / ಅದು ಹೊರಟುಹೋಗಿದೆ",
+      "The man has hurried / ಮನುಷ್ಯ ಹೊರಟುಹೋಗಿದ್ದಾನೆ",
+      "People have hurried / ಜನರು ಹೊರಟುಹೋಗಿದ್ದಾರೆ",
+      "Someone has hurried / ಯಾರೋ ಹೊರಟುಹೋಗಿದ್ದಾರೆ",
+      "Nobody has hurried / ಯಾರೂ ಹೊರಟುಹೋಗಿಲ್ಲ",
+      "Everybody has hurried / ಎಲ್ಲರೂ ಹೊರಟುಹೋಗಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hurt / ನೋವುಂಟುಮಾಡು",
+    "forms": [
+      "I have hurt / ನಾನು ನೋವುಂಟುಮಾಡಿದ್ದೇನೆ",
+      "You have hurt / ನೀನು ನೋವುಂಟುಮಾಡಿದ್ದೀಯ",
+      "We have hurt / ನಾವು ನೋವುಂಟುಮಾಡಿದ್ದೇವೆ",
+      "They have hurt / ಅವರು ನೋವುಂಟುಮಾಡಿದ್ದಾರೆ",
+      "He has hurt / ಅವನು ನೋವುಂಟುಮಾಡಿದ್ದಾನೆ",
+      "She has hurt / ಅವಳು ನೋವುಂಟುಮಾಡಿದ್ದಾಳೆ",
+      "It has hurt / ಅದು ನೋವುಂಟುಮಾಡಿದೆ",
+      "The injury has hurt / ಗಾಯ ನೋವುಂಟುಮಾಡಿದೆ",
+      "People have hurt / ಜನರು ನೋವುಂಟುಮಾಡಿದ್ದಾರೆ",
+      "Someone has hurt / ಯಾರೋ ನೋವುಂಟುಮಾಡಿದ್ದಾರೆ",
+      "Nobody has hurt / ಯಾರೂ ನೋವುಂಟುಮಾಡಿಲ್ಲ",
+      "Everybody has hurt / ಎಲ್ಲರೂ ನೋವುಂಟುಮಾಡಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hush / ಶಾಂತವಾಗು",
+    "forms": [
+      "I have hushed / ನಾನು ಶಾಂತವಾಗಿದ್ದೇನೆ",
+      "You have hushed / ನೀನು ಶಾಂತವಾಗಿದ್ದೀಯ",
+      "We have hushed / ನಾವು ಶಾಂತವಾಗಿದ್ದೇವೆ",
+      "They have hushed / ಅವರು ಶಾಂತವಾಗಿದ್ದಾರೆ",
+      "He has hushed / ಅವನು ಶಾಂತವಾಗಿದ್ದಾನೆ",
+      "She has hushed / ಅವಳು ಶಾಂತವಾಗಿದ್ದಾಳೆ",
+      "It has hushed / ಅದು ಶಾಂತವಾಗಿದೆ",
+      "The crowd has hushed / ಜನಸಂದಣಿ ಶಾಂತವಾಗಿದೆ",
+      "People have hushed / ಜನರು ಶಾಂತವಾಗಿದ್ದಾರೆ",
+      "Someone has hushed / ಯಾರೋ ಶಾಂತವಾಗಿದ್ದಾರೆ",
+      "Nobody has hushed / ಯಾರೂ ಶಾಂತವಾಗಿಲ್ಲ",
+      "Everybody has hushed / ಎಲ್ಲರೂ ಶಾಂತವಾಗಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hustle / ಶ್ರಮಿಸು",
+    "forms": [
+      "I have hustled / ನಾನು ಶ್ರಮಿಸಿದ್ದೇನೆ",
+      "You have hustled / ನೀನು ಶ್ರಮಿಸಿದ್ದೀಯ",
+      "We have hustled / ನಾವು ಶ್ರಮಿಸಿದ್ದೇವೆ",
+      "They have hustled / ಅವರು ಶ್ರಮಿಸಿದ್ದಾರೆ",
+      "He has hustled / ಅವನು ಶ್ರಮಿಸಿದ್ದಾನೆ",
+      "She has hustled / ಅವಳು ಶ್ರಮಿಸಿದ್ದಾಳೆ",
+      "It has hustled / ಅದು ಶ್ರಮಿಸಿದೆ",
+      "The worker has hustled / ಕಾರ್ಮಿಕ ಶ್ರಮಿಸಿದ್ದಾನೆ",
+      "People have hustled / ಜನರು ಶ್ರಮಿಸಿದ್ದಾರೆ",
+      "Someone has hustled / ಯಾರೋ ಶ್ರಮಿಸಿದ್ದಾರೆ",
+      "Nobody has hustled / ಯಾರೂ ಶ್ರಮಿಸಿಲ್ಲ",
+      "Everybody has hustled / ಎಲ್ಲರೂ ಶ್ರಮಿಸಿದ್ದಾರೆ"
+    ]
+  },
+  {
+    "verb": "Hypnotize / ಮೋಹಗೊಳಿಸು",
+    "forms": [
+      "I have hypnotized / ನಾನು ಮೋಹಗೊಳಿಸಿದ್ದೇನೆ",
+      "You have hypnotized / ನೀನು ಮೋಹಗೊಳಿಸಿದ್ದೀಯ",
+      "We have hypnotized / ನಾವು ಮೋಹಗೊಳಿಸಿದ್ದೇವೆ",
+      "They have hypnotized / ಅವರು ಮೋಹಗೊಳಿಸಿದ್ದಾರೆ",
+      "He has hypnotized / ಅವನು ಮೋಹಗೊಳಿಸಿದ್ದಾನೆ",
+      "She has hypnotized / ಅವಳು ಮೋಹಗೊಳಿಸಿದ್ದಾಳೆ",
+      "It has hypnotized / ಅದು ಮೋಹಗೊಳಿಸಿದೆ",
+      "The magician has hypnotized / ಮಾಂತ್ರಿಕ ಮೋಹಗೊಳಿಸಿದ್ದಾನೆ",
+      "People have hypnotized / ಜನರು ಮೋಹಗೊಳಿಸಿದ್ದಾರೆ",
+      "Someone has hypnotized / ಯಾರೋ ಮೋಹಗೊಳಿಸಿದ್ದಾರೆ",
+      "Nobody has hypnotized / ಯಾರೂ ಮೋಹಗೊಳಿಸಿಲ್ಲ",
+      "Everybody has hypnotized / ಎಲ್ಲರೂ ಮೋಹಗೊಳಿಸಿದ್ದಾರೆ"
+    ]
   }
 ]
