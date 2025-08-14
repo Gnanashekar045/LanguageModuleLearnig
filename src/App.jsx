@@ -8,11 +8,16 @@ import LanguageLayout from "./pages/LanguageLayout";
 import BasicGrammar from "./pages/topics/BasicGrammar";
 import PastTense from "./pages/topics/PastTense";
 import PresentTense from "./pages/topics/PresentTense";
-import FutureTense from "./pages/topics/FutureTense";
+import FutureTense from "./pages/topics/FutureSimple";
 import PresentContinuous from "./pages/topics/PresentContinuous";
 import PresentPerfect from "./pages/topics/PresentPerfect";
 import PresentPerfectContinuous from "./pages/topics/PresentPerfectContinuous";
 import PastContinuous from "./pages/topics/PastContinuous";
+import PastPerfect from "./pages/topics/PastPerfect";
+import PastPerfectContinuous from "./pages/topics/PastPerfectContinuous";
+import FutureContinuous from "./pages/topics/FutureContinuous";
+import FuturePerfect from "./pages/topics/FuturePerfect";
+import FuturePerfectContinuous from "./pages/topics/FuturePerfectContinuous";
 
 
 
@@ -35,7 +40,12 @@ export default function App() {
             <Route path="PresentPerfectContinuous-tense" element={<PresentPerfectContinuous/>} />
             <Route path="past-tense" element={<PastTense />} />
             <Route path="past-continuous" element={<PastContinuous />} />
+            <Route path="past-perfect" element={<PastPerfect />} />
+            <Route path="past-perfect-Continue" element={<PastPerfectContinuous />} />
             <Route path="future-tense" element={<FutureTense />} />
+            <Route path="future-contionuous" element={<FutureContinuous />} />
+            <Route path="future-Perfect" element={<FuturePerfect />} />
+            <Route path="future-Perfect-continuous" element={<FuturePerfectContinuous />} />
           </Route>
 
           <Route path="*" element={<Navigate to="/" replace />} />

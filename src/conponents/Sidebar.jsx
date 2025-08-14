@@ -9,7 +9,12 @@ const topics = [
   { label: "Present Perfect Continueous", slug: "PresentPerfectContinuous-tense" },
   { label: "Past Simple", slug: "past-tense" },
   { label: "Past Contionueous", slug: "past-continuous" },
+  { label: "Past Perfect", slug: "past-perfect" },
+  { label: "Past Perfect Continuous", slug: "past-perfect-Continue" },
   { label: "Future Simple", slug: "future-tense" },
+  { label: "Future Continueous", slug: "future-contionuous" },
+  { label: "Future Perfect", slug: "future-Perfect" },
+  { label: "Future Perfect Continous", slug: "future-Perfect-continuous" },
 ];
 
 export default function Sidebar({ lang }) {
