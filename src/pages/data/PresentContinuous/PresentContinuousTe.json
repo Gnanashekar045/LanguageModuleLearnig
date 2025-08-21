@@ -5064,5 +5064,1704 @@
       "Nobody is expanding / ఎవరూ విస్తరించుడం లేదు",
       "Everybody is expanding / అందరూ విస్తరించుతోన్నారు"
     ]
+  },{
+    "verb": "Expect / ఆశించు",
+    "forms": [
+      "I am expecting / నేను ఆశించుతోన్నాను",
+      "You are expecting / నువ్వు ఆశించుతోన్నావు",
+      "We are expecting / మేము ఆశించుతోన్నాము",
+      "They are expecting / వారు ఆశించుతోన్నారు",
+      "He is expecting / అతను ఆశించుతోన్నాడు",
+      "She is expecting / ఆమె ఆశించుతోంది",
+      "It is expecting / అది ఆశించుతోంది",
+      "The work is expecting / పని ఆశించుతోంది",
+      "People are expecting / ప్రజలు ఆశించుతోన్నారు",
+      "Someone is expecting / ఎవరో ఆశించుతోన్నారు",
+      "Nobody is expecting / ఎవరూ ఆశించుడం లేదు",
+      "Everybody is expecting / అందరూ ఆశించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Explain / వివరించు",
+    "forms": [
+      "I am explaining / నేను వివరించుతోన్నాను",
+      "You are explaining / నువ్వు వివరించుతోన్నావు",
+      "We are explaining / మేము వివరించుతోన్నాము",
+      "They are explaining / వారు వివరించుతోన్నారు",
+      "He is explaining / అతను వివరించుతోన్నాడు",
+      "She is explaining / ఆమె వివరించుతోంది",
+      "It is explaining / అది వివరించుతోంది",
+      "The work is explaining / పని వివరించుతోంది",
+      "People are explaining / ప్రజలు వివరించుతోన్నారు",
+      "Someone is explaining / ఎవరో వివరించుతోన్నారు",
+      "Nobody is explaining / ఎవరూ వివరించుడం లేదు",
+      "Everybody is explaining / అందరూ వివరించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Explore / అన్వేషించు",
+    "forms": [
+      "I am exploreing / నేను అన్వేషించుతోన్నాను",
+      "You are exploreing / నువ్వు అన్వేషించుతోన్నావు",
+      "We are exploreing / మేము అన్వేషించుతోన్నాము",
+      "They are exploreing / వారు అన్వేషించుతోన్నారు",
+      "He is exploreing / అతను అన్వేషించుతోన్నాడు",
+      "She is exploreing / ఆమె అన్వేషించుతోంది",
+      "It is exploreing / అది అన్వేషించుతోంది",
+      "The work is exploreing / పని అన్వేషించుతోంది",
+      "People are exploreing / ప్రజలు అన్వేషించుతోన్నారు",
+      "Someone is exploreing / ఎవరో అన్వేషించుతోన్నారు",
+      "Nobody is exploreing / ఎవరూ అన్వేషించుడం లేదు",
+      "Everybody is exploreing / అందరూ అన్వేషించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Express / వ్యక్తపరచు",
+    "forms": [
+      "I am expressing / నేను వ్యక్తపరచుతోన్నాను",
+      "You are expressing / నువ్వు వ్యక్తపరచుతోన్నావు",
+      "We are expressing / మేము వ్యక్తపరచుతోన్నాము",
+      "They are expressing / వారు వ్యక్తపరచుతోన్నారు",
+      "He is expressing / అతను వ్యక్తపరచుతోన్నాడు",
+      "She is expressing / ఆమె వ్యక్తపరచుతోంది",
+      "It is expressing / అది వ్యక్తపరచుతోంది",
+      "The work is expressing / పని వ్యక్తపరచుతోంది",
+      "People are expressing / ప్రజలు వ్యక్తపరచుతోన్నారు",
+      "Someone is expressing / ఎవరో వ్యక్తపరచుతోన్నారు",
+      "Nobody is expressing / ఎవరూ వ్యక్తపరచుడం లేదు",
+      "Everybody is expressing / అందరూ వ్యక్తపరచుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Extend / విస్తరించు",
+    "forms": [
+      "I am extending / నేను విస్తరించుతోన్నాను",
+      "You are extending / నువ్వు విస్తరించుతోన్నావు",
+      "We are extending / మేము విస్తరించుతోన్నాము",
+      "They are extending / వారు విస్తరించుతోన్నారు",
+      "He is extending / అతను విస్తరించుతోన్నాడు",
+      "She is extending / ఆమె విస్తరించుతోంది",
+      "It is extending / అది విస్తరించుతోంది",
+      "The work is extending / పని విస్తరించుతోంది",
+      "People are extending / ప్రజలు విస్తరించుతోన్నారు",
+      "Someone is extending / ఎవరో విస్తరించుతోన్నారు",
+      "Nobody is extending / ఎవరూ విస్తరించుడం లేదు",
+      "Everybody is extending / అందరూ విస్తరించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Eye / కళ్ళతో చూడు",
+    "forms": [
+      "I am eyeing / నేను కళ్ళతో చూడుతోన్నాను",
+      "You are eyeing / నువ్వు కళ్ళతో చూడుతోన్నావు",
+      "We are eyeing / మేము కళ్ళతో చూడుతోన్నాము",
+      "They are eyeing / వారు కళ్ళతో చూడుతోన్నారు",
+      "He is eyeing / అతను కళ్ళతో చూడుతోన్నాడు",
+      "She is eyeing / ఆమె కళ్ళతో చూడుతోంది",
+      "It is eyeing / అది కళ్ళతో చూడుతోంది",
+      "The work is eyeing / పని కళ్ళతో చూడుతోంది",
+      "People are eyeing / ప్రజలు కళ్ళతో చూడుతోన్నారు",
+      "Someone is eyeing / ఎవరో కళ్ళతో చూడుతోన్నారు",
+      "Nobody is eyeing / ఎవరూ కళ్ళతో చూడుడం లేదు",
+      "Everybody is eyeing / అందరూ కళ్ళతో చూడుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Face / ఎదుర్కొను",
+    "forms": [
+      "I am faceing / నేను ఎదుర్కొనుతోన్నాను",
+      "You are faceing / నువ్వు ఎదుర్కొనుతోన్నావు",
+      "We are faceing / మేము ఎదుర్కొనుతోన్నాము",
+      "They are faceing / వారు ఎదుర్కొనుతోన్నారు",
+      "He is faceing / అతను ఎదుర్కొనుతోన్నాడు",
+      "She is faceing / ఆమె ఎదుర్కొనుతోంది",
+      "It is faceing / అది ఎదుర్కొనుతోంది",
+      "The work is faceing / పని ఎదుర్కొనుతోంది",
+      "People are faceing / ప్రజలు ఎదుర్కొనుతోన్నారు",
+      "Someone is faceing / ఎవరో ఎదుర్కొనుతోన్నారు",
+      "Nobody is faceing / ఎవరూ ఎదుర్కొనుడం లేదు",
+      "Everybody is faceing / అందరూ ఎదుర్కొనుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fail / విఫలమవ్వు",
+    "forms": [
+      "I am failing / నేను విఫలమవ్వుతోన్నాను",
+      "You are failing / నువ్వు విఫలమవ్వుతోన్నావు",
+      "We are failing / మేము విఫలమవ్వుతోన్నాము",
+      "They are failing / వారు విఫలమవ్వుతోన్నారు",
+      "He is failing / అతను విఫలమవ్వుతోన్నాడు",
+      "She is failing / ఆమె విఫలమవ్వుతోంది",
+      "It is failing / అది విఫలమవ్వుతోంది",
+      "The work is failing / పని విఫలమవ్వుతోంది",
+      "People are failing / ప్రజలు విఫలమవ్వుతోన్నారు",
+      "Someone is failing / ఎవరో విఫలమవ్వుతోన్నారు",
+      "Nobody is failing / ఎవరూ విఫలమవ్వుడం లేదు",
+      "Everybody is failing / అందరూ విఫలమవ్వుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Faint / మూర్ఛపో",
+    "forms": [
+      "I am fainting / నేను మూర్ఛపోతోన్నాను",
+      "You are fainting / నువ్వు మూర్ఛపోతోన్నావు",
+      "We are fainting / మేము మూర్ఛపోతోన్నాము",
+      "They are fainting / వారు మూర్ఛపోతోన్నారు",
+      "He is fainting / అతను మూర్ఛపోతోన్నాడు",
+      "She is fainting / ఆమె మూర్ఛపోతోంది",
+      "It is fainting / అది మూర్ఛపోతోంది",
+      "The work is fainting / పని మూర్ఛపోతోంది",
+      "People are fainting / ప్రజలు మూర్ఛపోతోన్నారు",
+      "Someone is fainting / ఎవరో మూర్ఛపోతోన్నారు",
+      "Nobody is fainting / ఎవరూ మూర్ఛపోడం లేదు",
+      "Everybody is fainting / అందరూ మూర్ఛపోతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fall / పడిపో",
+    "forms": [
+      "I am falling / నేను పడిపోతోన్నాను",
+      "You are falling / నువ్వు పడిపోతోన్నావు",
+      "We are falling / మేము పడిపోతోన్నాము",
+      "They are falling / వారు పడిపోతోన్నారు",
+      "He is falling / అతను పడిపోతోన్నాడు",
+      "She is falling / ఆమె పడిపోతోంది",
+      "It is falling / అది పడిపోతోంది",
+      "The work is falling / పని పడిపోతోంది",
+      "People are falling / ప్రజలు పడిపోతోన్నారు",
+      "Someone is falling / ఎవరో పడిపోతోన్నారు",
+      "Nobody is falling / ఎవరూ పడిపోడం లేదు",
+      "Everybody is falling / అందరూ పడిపోతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fan / వీసుకో",
+    "forms": [
+      "I am faning / నేను వీసుకోతోన్నాను",
+      "You are faning / నువ్వు వీసుకోతోన్నావు",
+      "We are faning / మేము వీసుకోతోన్నాము",
+      "They are faning / వారు వీసుకోతోన్నారు",
+      "He is faning / అతను వీసుకోతోన్నాడు",
+      "She is faning / ఆమె వీసుకోతోంది",
+      "It is faning / అది వీసుకోతోంది",
+      "The work is faning / పని వీసుకోతోంది",
+      "People are faning / ప్రజలు వీసుకోతోన్నారు",
+      "Someone is faning / ఎవరో వీసుకోతోన్నారు",
+      "Nobody is faning / ఎవరూ వీసుకోడం లేదు",
+      "Everybody is faning / అందరూ వీసుకోతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fancy / అలంకరించు",
+    "forms": [
+      "I am fancying / నేను అలంకరించుతోన్నాను",
+      "You are fancying / నువ్వు అలంకరించుతోన్నావు",
+      "We are fancying / మేము అలంకరించుతోన్నాము",
+      "They are fancying / వారు అలంకరించుతోన్నారు",
+      "He is fancying / అతను అలంకరించుతోన్నాడు",
+      "She is fancying / ఆమె అలంకరించుతోంది",
+      "It is fancying / అది అలంకరించుతోంది",
+      "The work is fancying / పని అలంకరించుతోంది",
+      "People are fancying / ప్రజలు అలంకరించుతోన్నారు",
+      "Someone is fancying / ఎవరో అలంకరించుతోన్నారు",
+      "Nobody is fancying / ఎవరూ అలంకరించుడం లేదు",
+      "Everybody is fancying / అందరూ అలంకరించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Favour / అనుకూలించు",
+    "forms": [
+      "I am favouring / నేను అనుకూలించుతోన్నాను",
+      "You are favouring / నువ్వు అనుకూలించుతోన్నావు",
+      "We are favouring / మేము అనుకూలించుతోన్నాము",
+      "They are favouring / వారు అనుకూలించుతోన్నారు",
+      "He is favouring / అతను అనుకూలించుతోన్నాడు",
+      "She is favouring / ఆమె అనుకూలించుతోంది",
+      "It is favouring / అది అనుకూలించుతోంది",
+      "The work is favouring / పని అనుకూలించుతోంది",
+      "People are favouring / ప్రజలు అనుకూలించుతోన్నారు",
+      "Someone is favouring / ఎవరో అనుకూలించుతోన్నారు",
+      "Nobody is favouring / ఎవరూ అనుకూలించుడం లేదు",
+      "Everybody is favouring / అందరూ అనుకూలించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fax / ఫ్యాక్స్ పంపు",
+    "forms": [
+      "I am faxing / నేను ఫ్యాక్స్ పంపుతోన్నాను",
+      "You are faxing / నువ్వు ఫ్యాక్స్ పంపుతోన్నావు",
+      "We are faxing / మేము ఫ్యాక్స్ పంపుతోన్నాము",
+      "They are faxing / వారు ఫ్యాక్స్ పంపుతోన్నారు",
+      "He is faxing / అతను ఫ్యాక్స్ పంపుతోన్నాడు",
+      "She is faxing / ఆమె ఫ్యాక్స్ పంపుతోంది",
+      "It is faxing / అది ఫ్యాక్స్ పంపుతోంది",
+      "The work is faxing / పని ఫ్యాక్స్ పంపుతోంది",
+      "People are faxing / ప్రజలు ఫ్యాక్స్ పంపుతోన్నారు",
+      "Someone is faxing / ఎవరో ఫ్యాక్స్ పంపుతోన్నారు",
+      "Nobody is faxing / ఎవరూ ఫ్యాక్స్ పంపుడం లేదు",
+      "Everybody is faxing / అందరూ ఫ్యాక్స్ పంపుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Feed / తినిపించు",
+    "forms": [
+      "I am feeding / నేను తినిపించుతోన్నాను",
+      "You are feeding / నువ్వు తినిపించుతోన్నావు",
+      "We are feeding / మేము తినిపించుతోన్నాము",
+      "They are feeding / వారు తినిపించుతోన్నారు",
+      "He is feeding / అతను తినిపించుతోన్నాడు",
+      "She is feeding / ఆమె తినిపించుతోంది",
+      "It is feeding / అది తినిపించుతోంది",
+      "The work is feeding / పని తినిపించుతోంది",
+      "People are feeding / ప్రజలు తినిపించుతోన్నారు",
+      "Someone is feeding / ఎవరో తినిపించుతోన్నారు",
+      "Nobody is feeding / ఎవరూ తినిపించుడం లేదు",
+      "Everybody is feeding / అందరూ తినిపించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Feel / అనుభవించు",
+    "forms": [
+      "I am feeling / నేను అనుభవించుతోన్నాను",
+      "You are feeling / నువ్వు అనుభవించుతోన్నావు",
+      "We are feeling / మేము అనుభవించుతోన్నాము",
+      "They are feeling / వారు అనుభవించుతోన్నారు",
+      "He is feeling / అతను అనుభవించుతోన్నాడు",
+      "She is feeling / ఆమె అనుభవించుతోంది",
+      "It is feeling / అది అనుభవించుతోంది",
+      "The work is feeling / పని అనుభవించుతోంది",
+      "People are feeling / ప్రజలు అనుభవించుతోన్నారు",
+      "Someone is feeling / ఎవరో అనుభవించుతోన్నారు",
+      "Nobody is feeling / ఎవరూ అనుభవించుడం లేదు",
+      "Everybody is feeling / అందరూ అనుభవించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Ferry / తీసుకెళ్ళు",
+    "forms": [
+      "I am ferrying / నేను తీసుకెళ్ళుతోన్నాను",
+      "You are ferrying / నువ్వు తీసుకెళ్ళుతోన్నావు",
+      "We are ferrying / మేము తీసుకెళ్ళుతోన్నాము",
+      "They are ferrying / వారు తీసుకెళ్ళుతోన్నారు",
+      "He is ferrying / అతను తీసుకెళ్ళుతోన్నాడు",
+      "She is ferrying / ఆమె తీసుకెళ్ళుతోంది",
+      "It is ferrying / అది తీసుకెళ్ళుతోంది",
+      "The work is ferrying / పని తీసుకెళ్ళుతోంది",
+      "People are ferrying / ప్రజలు తీసుకెళ్ళుతోన్నారు",
+      "Someone is ferrying / ఎవరో తీసుకెళ్ళుతోన్నారు",
+      "Nobody is ferrying / ఎవరూ తీసుకెళ్ళుడం లేదు",
+      "Everybody is ferrying / అందరూ తీసుకెళ్ళుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fetch / తీసుకురా",
+    "forms": [
+      "I am fetching / నేను తీసుకురాతోన్నాను",
+      "You are fetching / నువ్వు తీసుకురాతోన్నావు",
+      "We are fetching / మేము తీసుకురాతోన్నాము",
+      "They are fetching / వారు తీసుకురాతోన్నారు",
+      "He is fetching / అతను తీసుకురాతోన్నాడు",
+      "She is fetching / ఆమె తీసుకురాతోంది",
+      "It is fetching / అది తీసుకురాతోంది",
+      "The work is fetching / పని తీసుకురాతోంది",
+      "People are fetching / ప్రజలు తీసుకురాతోన్నారు",
+      "Someone is fetching / ఎవరో తీసుకురాతోన్నారు",
+      "Nobody is fetching / ఎవరూ తీసుకురాడం లేదు",
+      "Everybody is fetching / అందరూ తీసుకురాతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fight / పోరాడు",
+    "forms": [
+      "I am fighting / నేను పోరాడుతోన్నాను",
+      "You are fighting / నువ్వు పోరాడుతోన్నావు",
+      "We are fighting / మేము పోరాడుతోన్నాము",
+      "They are fighting / వారు పోరాడుతోన్నారు",
+      "He is fighting / అతను పోరాడుతోన్నాడు",
+      "She is fighting / ఆమె పోరాడుతోంది",
+      "It is fighting / అది పోరాడుతోంది",
+      "The work is fighting / పని పోరాడుతోంది",
+      "People are fighting / ప్రజలు పోరాడుతోన్నారు",
+      "Someone is fighting / ఎవరో పోరాడుతోన్నారు",
+      "Nobody is fighting / ఎవరూ పోరాడుడం లేదు",
+      "Everybody is fighting / అందరూ పోరాడుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fill / నింపు",
+    "forms": [
+      "I am filling / నేను నింపుతోన్నాను",
+      "You are filling / నువ్వు నింపుతోన్నావు",
+      "We are filling / మేము నింపుతోన్నాము",
+      "They are filling / వారు నింపుతోన్నారు",
+      "He is filling / అతను నింపుతోన్నాడు",
+      "She is filling / ఆమె నింపుతోంది",
+      "It is filling / అది నింపుతోంది",
+      "The work is filling / పని నింపుతోంది",
+      "People are filling / ప్రజలు నింపుతోన్నారు",
+      "Someone is filling / ఎవరో నింపుతోన్నారు",
+      "Nobody is filling / ఎవరూ నింపుడం లేదు",
+      "Everybody is filling / అందరూ నింపుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Find / కనుగొను",
+    "forms": [
+      "I am finding / నేను కనుగొనుతోన్నాను",
+      "You are finding / నువ్వు కనుగొనుతోన్నావు",
+      "We are finding / మేము కనుగొనుతోన్నాము",
+      "They are finding / వారు కనుగొనుతోన్నారు",
+      "He is finding / అతను కనుగొనుతోన్నాడు",
+      "She is finding / ఆమె కనుగొనుతోంది",
+      "It is finding / అది కనుగొనుతోంది",
+      "The work is finding / పని కనుగొనుతోంది",
+      "People are finding / ప్రజలు కనుగొనుతోన్నారు",
+      "Someone is finding / ఎవరో కనుగొనుతోన్నారు",
+      "Nobody is finding / ఎవరూ కనుగొనుడం లేదు",
+      "Everybody is finding / అందరూ కనుగొనుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Finish / ముగించు",
+    "forms": [
+      "I am finishing / నేను ముగించుతోన్నాను",
+      "You are finishing / నువ్వు ముగించుతోన్నావు",
+      "We are finishing / మేము ముగించుతోన్నాము",
+      "They are finishing / వారు ముగించుతోన్నారు",
+      "He is finishing / అతను ముగించుతోన్నాడు",
+      "She is finishing / ఆమె ముగించుతోంది",
+      "It is finishing / అది ముగించుతోంది",
+      "The work is finishing / పని ముగించుతోంది",
+      "People are finishing / ప్రజలు ముగించుతోన్నారు",
+      "Someone is finishing / ఎవరో ముగించుతోన్నారు",
+      "Nobody is finishing / ఎవరూ ముగించుడం లేదు",
+      "Everybody is finishing / అందరూ ముగించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fish / చేపలు పట్టుకో",
+    "forms": [
+      "I am fishing / నేను చేపలు పట్టుకోతోన్నాను",
+      "You are fishing / నువ్వు చేపలు పట్టుకోతోన్నావు",
+      "We are fishing / మేము చేపలు పట్టుకోతోన్నాము",
+      "They are fishing / వారు చేపలు పట్టుకోతోన్నారు",
+      "He is fishing / అతను చేపలు పట్టుకోతోన్నాడు",
+      "She is fishing / ఆమె చేపలు పట్టుకోతోంది",
+      "It is fishing / అది చేపలు పట్టుకోతోంది",
+      "The work is fishing / పని చేపలు పట్టుకోతోంది",
+      "People are fishing / ప్రజలు చేపలు పట్టుకోతోన్నారు",
+      "Someone is fishing / ఎవరో చేపలు పట్టుకోతోన్నారు",
+      "Nobody is fishing / ఎవరూ చేపలు పట్టుకోడం లేదు",
+      "Everybody is fishing / అందరూ చేపలు పట్టుకోతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fit / సరిపడు",
+    "forms": [
+      "I am fiting / నేను సరిపడుతోన్నాను",
+      "You are fiting / నువ్వు సరిపడుతోన్నావు",
+      "We are fiting / మేము సరిపడుతోన్నాము",
+      "They are fiting / వారు సరిపడుతోన్నారు",
+      "He is fiting / అతను సరిపడుతోన్నాడు",
+      "She is fiting / ఆమె సరిపడుతోంది",
+      "It is fiting / అది సరిపడుతోంది",
+      "The work is fiting / పని సరిపడుతోంది",
+      "People are fiting / ప్రజలు సరిపడుతోన్నారు",
+      "Someone is fiting / ఎవరో సరిపడుతోన్నారు",
+      "Nobody is fiting / ఎవరూ సరిపడుడం లేదు",
+      "Everybody is fiting / అందరూ సరిపడుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fix / బాగుచేయు",
+    "forms": [
+      "I am fixing / నేను బాగుచేయుతోన్నాను",
+      "You are fixing / నువ్వు బాగుచేయుతోన్నావు",
+      "We are fixing / మేము బాగుచేయుతోన్నాము",
+      "They are fixing / వారు బాగుచేయుతోన్నారు",
+      "He is fixing / అతను బాగుచేయుతోన్నాడు",
+      "She is fixing / ఆమె బాగుచేయుతోంది",
+      "It is fixing / అది బాగుచేయుతోంది",
+      "The work is fixing / పని బాగుచేయుతోంది",
+      "People are fixing / ప్రజలు బాగుచేయుతోన్నారు",
+      "Someone is fixing / ఎవరో బాగుచేయుతోన్నారు",
+      "Nobody is fixing / ఎవరూ బాగుచేయుడం లేదు",
+      "Everybody is fixing / అందరూ బాగుచేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fizz / శబ్దం చేయు",
+    "forms": [
+      "I am fizzing / నేను శబ్దం చేయుతోన్నాను",
+      "You are fizzing / నువ్వు శబ్దం చేయుతోన్నావు",
+      "We are fizzing / మేము శబ్దం చేయుతోన్నాము",
+      "They are fizzing / వారు శబ్దం చేయుతోన్నారు",
+      "He is fizzing / అతను శబ్దం చేయుతోన్నాడు",
+      "She is fizzing / ఆమె శబ్దం చేయుతోంది",
+      "It is fizzing / అది శబ్దం చేయుతోంది",
+      "The work is fizzing / పని శబ్దం చేయుతోంది",
+      "People are fizzing / ప్రజలు శబ్దం చేయుతోన్నారు",
+      "Someone is fizzing / ఎవరో శబ్దం చేయుతోన్నారు",
+      "Nobody is fizzing / ఎవరూ శబ్దం చేయుడం లేదు",
+      "Everybody is fizzing / అందరూ శబ్దం చేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Flap / గాలిలో ఎగురు",
+    "forms": [
+      "I am flaping / నేను గాలిలో ఎగురుతోన్నాను",
+      "You are flaping / నువ్వు గాలిలో ఎగురుతోన్నావు",
+      "We are flaping / మేము గాలిలో ఎగురుతోన్నాము",
+      "They are flaping / వారు గాలిలో ఎగురుతోన్నారు",
+      "He is flaping / అతను గాలిలో ఎగురుతోన్నాడు",
+      "She is flaping / ఆమె గాలిలో ఎగురుతోంది",
+      "It is flaping / అది గాలిలో ఎగురుతోంది",
+      "The work is flaping / పని గాలిలో ఎగురుతోంది",
+      "People are flaping / ప్రజలు గాలిలో ఎగురుతోన్నారు",
+      "Someone is flaping / ఎవరో గాలిలో ఎగురుతోన్నారు",
+      "Nobody is flaping / ఎవరూ గాలిలో ఎగురుడం లేదు",
+      "Everybody is flaping / అందరూ గాలిలో ఎగురుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Flash / మెరుపు ఇవ్వు",
+    "forms": [
+      "I am flashing / నేను మెరుపు ఇవ్వుతోన్నాను",
+      "You are flashing / నువ్వు మెరుపు ఇవ్వుతోన్నావు",
+      "We are flashing / మేము మెరుపు ఇవ్వుతోన్నాము",
+      "They are flashing / వారు మెరుపు ఇవ్వుతోన్నారు",
+      "He is flashing / అతను మెరుపు ఇవ్వుతోన్నాడు",
+      "She is flashing / ఆమె మెరుపు ఇవ్వుతోంది",
+      "It is flashing / అది మెరుపు ఇవ్వుతోంది",
+      "The work is flashing / పని మెరుపు ఇవ్వుతోంది",
+      "People are flashing / ప్రజలు మెరుపు ఇవ్వుతోన్నారు",
+      "Someone is flashing / ఎవరో మెరుపు ఇవ్వుతోన్నారు",
+      "Nobody is flashing / ఎవరూ మెరుపు ఇవ్వుడం లేదు",
+      "Everybody is flashing / అందరూ మెరుపు ఇవ్వుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Flee / తప్పించుకో",
+    "forms": [
+      "I am fleeing / నేను తప్పించుకోతోన్నాను",
+      "You are fleeing / నువ్వు తప్పించుకోతోన్నావు",
+      "We are fleeing / మేము తప్పించుకోతోన్నాము",
+      "They are fleeing / వారు తప్పించుకోతోన్నారు",
+      "He is fleeing / అతను తప్పించుకోతోన్నాడు",
+      "She is fleeing / ఆమె తప్పించుకోతోంది",
+      "It is fleeing / అది తప్పించుకోతోంది",
+      "The work is fleeing / పని తప్పించుకోతోంది",
+      "People are fleeing / ప్రజలు తప్పించుకోతోన్నారు",
+      "Someone is fleeing / ఎవరో తప్పించుకోతోన్నారు",
+      "Nobody is fleeing / ఎవరూ తప్పించుకోడం లేదు",
+      "Everybody is fleeing / అందరూ తప్పించుకోతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fling / ఎగరేయు",
+    "forms": [
+      "I am flinging / నేను ఎగరేయుతోన్నాను",
+      "You are flinging / నువ్వు ఎగరేయుతోన్నావు",
+      "We are flinging / మేము ఎగరేయుతోన్నాము",
+      "They are flinging / వారు ఎగరేయుతోన్నారు",
+      "He is flinging / అతను ఎగరేయుతోన్నాడు",
+      "She is flinging / ఆమె ఎగరేయుతోంది",
+      "It is flinging / అది ఎగరేయుతోంది",
+      "The work is flinging / పని ఎగరేయుతోంది",
+      "People are flinging / ప్రజలు ఎగరేయుతోన్నారు",
+      "Someone is flinging / ఎవరో ఎగరేయుతోన్నారు",
+      "Nobody is flinging / ఎవరూ ఎగరేయుడం లేదు",
+      "Everybody is flinging / అందరూ ఎగరేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Float / తేలిపో",
+    "forms": [
+      "I am floating / నేను తేలిపోతోన్నాను",
+      "You are floating / నువ్వు తేలిపోతోన్నావు",
+      "We are floating / మేము తేలిపోతోన్నాము",
+      "They are floating / వారు తేలిపోతోన్నారు",
+      "He is floating / అతను తేలిపోతోన్నాడు",
+      "She is floating / ఆమె తేలిపోతోంది",
+      "It is floating / అది తేలిపోతోంది",
+      "The work is floating / పని తేలిపోతోంది",
+      "People are floating / ప్రజలు తేలిపోతోన్నారు",
+      "Someone is floating / ఎవరో తేలిపోతోన్నారు",
+      "Nobody is floating / ఎవరూ తేలిపోడం లేదు",
+      "Everybody is floating / అందరూ తేలిపోతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Flop / విఫలమవ్వు",
+    "forms": [
+      "I am floping / నేను విఫలమవ్వుతోన్నాను",
+      "You are floping / నువ్వు విఫలమవ్వుతోన్నావు",
+      "We are floping / మేము విఫలమవ్వుతోన్నాము",
+      "They are floping / వారు విఫలమవ్వుతోన్నారు",
+      "He is floping / అతను విఫలమవ్వుతోన్నాడు",
+      "She is floping / ఆమె విఫలమవ్వుతోంది",
+      "It is floping / అది విఫలమవ్వుతోంది",
+      "The work is floping / పని విఫలమవ్వుతోంది",
+      "People are floping / ప్రజలు విఫలమవ్వుతోన్నారు",
+      "Someone is floping / ఎవరో విఫలమవ్వుతోన్నారు",
+      "Nobody is floping / ఎవరూ విఫలమవ్వుడం లేదు",
+      "Everybody is floping / అందరూ విఫలమవ్వుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fly / ఎగురు",
+    "forms": [
+      "I am flying / నేను ఎగురుతోన్నాను",
+      "You are flying / నువ్వు ఎగురుతోన్నావు",
+      "We are flying / మేము ఎగురుతోన్నాము",
+      "They are flying / వారు ఎగురుతోన్నారు",
+      "He is flying / అతను ఎగురుతోన్నాడు",
+      "She is flying / ఆమె ఎగురుతోంది",
+      "It is flying / అది ఎగురుతోంది",
+      "The work is flying / పని ఎగురుతోంది",
+      "People are flying / ప్రజలు ఎగురుతోన్నారు",
+      "Someone is flying / ఎవరో ఎగురుతోన్నారు",
+      "Nobody is flying / ఎవరూ ఎగురుడం లేదు",
+      "Everybody is flying / అందరూ ఎగురుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fold / మడత పెట్టు",
+    "forms": [
+      "I am folding / నేను మడత పెట్టుతోన్నాను",
+      "You are folding / నువ్వు మడత పెట్టుతోన్నావు",
+      "We are folding / మేము మడత పెట్టుతోన్నాము",
+      "They are folding / వారు మడత పెట్టుతోన్నారు",
+      "He is folding / అతను మడత పెట్టుతోన్నాడు",
+      "She is folding / ఆమె మడత పెట్టుతోంది",
+      "It is folding / అది మడత పెట్టుతోంది",
+      "The work is folding / పని మడత పెట్టుతోంది",
+      "People are folding / ప్రజలు మడత పెట్టుతోన్నారు",
+      "Someone is folding / ఎవరో మడత పెట్టుతోన్నారు",
+      "Nobody is folding / ఎవరూ మడత పెట్టుడం లేదు",
+      "Everybody is folding / అందరూ మడత పెట్టుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Follow / అనుసరించు",
+    "forms": [
+      "I am following / నేను అనుసరించుతోన్నాను",
+      "You are following / నువ్వు అనుసరించుతోన్నావు",
+      "We are following / మేము అనుసరించుతోన్నాము",
+      "They are following / వారు అనుసరించుతోన్నారు",
+      "He is following / అతను అనుసరించుతోన్నాడు",
+      "She is following / ఆమె అనుసరించుతోంది",
+      "It is following / అది అనుసరించుతోంది",
+      "The work is following / పని అనుసరించుతోంది",
+      "People are following / ప్రజలు అనుసరించుతోన్నారు",
+      "Someone is following / ఎవరో అనుసరించుతోన్నారు",
+      "Nobody is following / ఎవరూ అనుసరించుడం లేదు",
+      "Everybody is following / అందరూ అనుసరించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Forbid / నిషేధించు",
+    "forms": [
+      "I am forbiding / నేను నిషేధించుతోన్నాను",
+      "You are forbiding / నువ్వు నిషేధించుతోన్నావు",
+      "We are forbiding / మేము నిషేధించుతోన్నాము",
+      "They are forbiding / వారు నిషేధించుతోన్నారు",
+      "He is forbiding / అతను నిషేధించుతోన్నాడు",
+      "She is forbiding / ఆమె నిషేధించుతోంది",
+      "It is forbiding / అది నిషేధించుతోంది",
+      "The work is forbiding / పని నిషేధించుతోంది",
+      "People are forbiding / ప్రజలు నిషేధించుతోన్నారు",
+      "Someone is forbiding / ఎవరో నిషేధించుతోన్నారు",
+      "Nobody is forbiding / ఎవరూ నిషేధించుడం లేదు",
+      "Everybody is forbiding / అందరూ నిషేధించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Force / బలవంతం చేయు",
+    "forms": [
+      "I am forceing / నేను బలవంతం చేయుతోన్నాను",
+      "You are forceing / నువ్వు బలవంతం చేయుతోన్నావు",
+      "We are forceing / మేము బలవంతం చేయుతోన్నాము",
+      "They are forceing / వారు బలవంతం చేయుతోన్నారు",
+      "He is forceing / అతను బలవంతం చేయుతోన్నాడు",
+      "She is forceing / ఆమె బలవంతం చేయుతోంది",
+      "It is forceing / అది బలవంతం చేయుతోంది",
+      "The work is forceing / పని బలవంతం చేయుతోంది",
+      "People are forceing / ప్రజలు బలవంతం చేయుతోన్నారు",
+      "Someone is forceing / ఎవరో బలవంతం చేయుతోన్నారు",
+      "Nobody is forceing / ఎవరూ బలవంతం చేయుడం లేదు",
+      "Everybody is forceing / అందరూ బలవంతం చేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Forecast / అంచనా వేయు",
+    "forms": [
+      "I am forecasting / నేను అంచనా వేయుతోన్నాను",
+      "You are forecasting / నువ్వు అంచనా వేయుతోన్నావు",
+      "We are forecasting / మేము అంచనా వేయుతోన్నాము",
+      "They are forecasting / వారు అంచనా వేయుతోన్నారు",
+      "He is forecasting / అతను అంచనా వేయుతోన్నాడు",
+      "She is forecasting / ఆమె అంచనా వేయుతోంది",
+      "It is forecasting / అది అంచనా వేయుతోంది",
+      "The work is forecasting / పని అంచనా వేయుతోంది",
+      "People are forecasting / ప్రజలు అంచనా వేయుతోన్నారు",
+      "Someone is forecasting / ఎవరో అంచనా వేయుతోన్నారు",
+      "Nobody is forecasting / ఎవరూ అంచనా వేయుడం లేదు",
+      "Everybody is forecasting / అందరూ అంచనా వేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Foretell / ముందుగా చెప్పు",
+    "forms": [
+      "I am foretelling / నేను ముందుగా చెప్పుతోన్నాను",
+      "You are foretelling / నువ్వు ముందుగా చెప్పుతోన్నావు",
+      "We are foretelling / మేము ముందుగా చెప్పుతోన్నాము",
+      "They are foretelling / వారు ముందుగా చెప్పుతోన్నారు",
+      "He is foretelling / అతను ముందుగా చెప్పుతోన్నాడు",
+      "She is foretelling / ఆమె ముందుగా చెప్పుతోంది",
+      "It is foretelling / అది ముందుగా చెప్పుతోంది",
+      "The work is foretelling / పని ముందుగా చెప్పుతోంది",
+      "People are foretelling / ప్రజలు ముందుగా చెప్పుతోన్నారు",
+      "Someone is foretelling / ఎవరో ముందుగా చెప్పుతోన్నారు",
+      "Nobody is foretelling / ఎవరూ ముందుగా చెప్పుడం లేదు",
+      "Everybody is foretelling / అందరూ ముందుగా చెప్పుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Forget / మరచిపో",
+    "forms": [
+      "I am forgeting / నేను మరచిపోతోన్నాను",
+      "You are forgeting / నువ్వు మరచిపోతోన్నావు",
+      "We are forgeting / మేము మరచిపోతోన్నాము",
+      "They are forgeting / వారు మరచిపోతోన్నారు",
+      "He is forgeting / అతను మరచిపోతోన్నాడు",
+      "She is forgeting / ఆమె మరచిపోతోంది",
+      "It is forgeting / అది మరచిపోతోంది",
+      "The work is forgeting / పని మరచిపోతోంది",
+      "People are forgeting / ప్రజలు మరచిపోతోన్నారు",
+      "Someone is forgeting / ఎవరో మరచిపోతోన్నారు",
+      "Nobody is forgeting / ఎవరూ మరచిపోడం లేదు",
+      "Everybody is forgeting / అందరూ మరచిపోతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Forgive / క్షమించు",
+    "forms": [
+      "I am forgiveing / నేను క్షమించుతోన్నాను",
+      "You are forgiveing / నువ్వు క్షమించుతోన్నావు",
+      "We are forgiveing / మేము క్షమించుతోన్నాము",
+      "They are forgiveing / వారు క్షమించుతోన్నారు",
+      "He is forgiveing / అతను క్షమించుతోన్నాడు",
+      "She is forgiveing / ఆమె క్షమించుతోంది",
+      "It is forgiveing / అది క్షమించుతోంది",
+      "The work is forgiveing / పని క్షమించుతోంది",
+      "People are forgiveing / ప్రజలు క్షమించుతోన్నారు",
+      "Someone is forgiveing / ఎవరో క్షమించుతోన్నారు",
+      "Nobody is forgiveing / ఎవరూ క్షమించుడం లేదు",
+      "Everybody is forgiveing / అందరూ క్షమించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Forlese / తప్పిపోవు",
+    "forms": [
+      "I am forleseing / నేను తప్పిపోవుతోన్నాను",
+      "You are forleseing / నువ్వు తప్పిపోవుతోన్నావు",
+      "We are forleseing / మేము తప్పిపోవుతోన్నాము",
+      "They are forleseing / వారు తప్పిపోవుతోన్నారు",
+      "He is forleseing / అతను తప్పిపోవుతోన్నాడు",
+      "She is forleseing / ఆమె తప్పిపోవుతోంది",
+      "It is forleseing / అది తప్పిపోవుతోంది",
+      "The work is forleseing / పని తప్పిపోవుతోంది",
+      "People are forleseing / ప్రజలు తప్పిపోవుతోన్నారు",
+      "Someone is forleseing / ఎవరో తప్పిపోవుతోన్నారు",
+      "Nobody is forleseing / ఎవరూ తప్పిపోవుడం లేదు",
+      "Everybody is forleseing / అందరూ తప్పిపోవుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Form / ఆకారం ఇవ్వు",
+    "forms": [
+      "I am forming / నేను ఆకారం ఇవ్వుతోన్నాను",
+      "You are forming / నువ్వు ఆకారం ఇవ్వుతోన్నావు",
+      "We are forming / మేము ఆకారం ఇవ్వుతోన్నాము",
+      "They are forming / వారు ఆకారం ఇవ్వుతోన్నారు",
+      "He is forming / అతను ఆకారం ఇవ్వుతోన్నాడు",
+      "She is forming / ఆమె ఆకారం ఇవ్వుతోంది",
+      "It is forming / అది ఆకారం ఇవ్వుతోంది",
+      "The work is forming / పని ఆకారం ఇవ్వుతోంది",
+      "People are forming / ప్రజలు ఆకారం ఇవ్వుతోన్నారు",
+      "Someone is forming / ఎవరో ఆకారం ఇవ్వుతోన్నారు",
+      "Nobody is forming / ఎవరూ ఆకారం ఇవ్వుడం లేదు",
+      "Everybody is forming / అందరూ ఆకారం ఇవ్వుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Forsake / వదిలేయు",
+    "forms": [
+      "I am forsakeing / నేను వదిలేయుతోన్నాను",
+      "You are forsakeing / నువ్వు వదిలేయుతోన్నావు",
+      "We are forsakeing / మేము వదిలేయుతోన్నాము",
+      "They are forsakeing / వారు వదిలేయుతోన్నారు",
+      "He is forsakeing / అతను వదిలేయుతోన్నాడు",
+      "She is forsakeing / ఆమె వదిలేయుతోంది",
+      "It is forsakeing / అది వదిలేయుతోంది",
+      "The work is forsakeing / పని వదిలేయుతోంది",
+      "People are forsakeing / ప్రజలు వదిలేయుతోన్నారు",
+      "Someone is forsakeing / ఎవరో వదిలేయుతోన్నారు",
+      "Nobody is forsakeing / ఎవరూ వదిలేయుడం లేదు",
+      "Everybody is forsakeing / అందరూ వదిలేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Found / స్థాపించు",
+    "forms": [
+      "I am founding / నేను స్థాపించుతోన్నాను",
+      "You are founding / నువ్వు స్థాపించుతోన్నావు",
+      "We are founding / మేము స్థాపించుతోన్నాము",
+      "They are founding / వారు స్థాపించుతోన్నారు",
+      "He is founding / అతను స్థాపించుతోన్నాడు",
+      "She is founding / ఆమె స్థాపించుతోంది",
+      "It is founding / అది స్థాపించుతోంది",
+      "The work is founding / పని స్థాపించుతోంది",
+      "People are founding / ప్రజలు స్థాపించుతోన్నారు",
+      "Someone is founding / ఎవరో స్థాపించుతోన్నారు",
+      "Nobody is founding / ఎవరూ స్థాపించుడం లేదు",
+      "Everybody is founding / అందరూ స్థాపించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Frame / చట్రం చేయు",
+    "forms": [
+      "I am frameing / నేను చట్రం చేయుతోన్నాను",
+      "You are frameing / నువ్వు చట్రం చేయుతోన్నావు",
+      "We are frameing / మేము చట్రం చేయుతోన్నాము",
+      "They are frameing / వారు చట్రం చేయుతోన్నారు",
+      "He is frameing / అతను చట్రం చేయుతోన్నాడు",
+      "She is frameing / ఆమె చట్రం చేయుతోంది",
+      "It is frameing / అది చట్రం చేయుతోంది",
+      "The work is frameing / పని చట్రం చేయుతోంది",
+      "People are frameing / ప్రజలు చట్రం చేయుతోన్నారు",
+      "Someone is frameing / ఎవరో చట్రం చేయుతోన్నారు",
+      "Nobody is frameing / ఎవరూ చట్రం చేయుడం లేదు",
+      "Everybody is frameing / అందరూ చట్రం చేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Free / విడుదల చేయు",
+    "forms": [
+      "I am freeing / నేను విడుదల చేయుతోన్నాను",
+      "You are freeing / నువ్వు విడుదల చేయుతోన్నావు",
+      "We are freeing / మేము విడుదల చేయుతోన్నాము",
+      "They are freeing / వారు విడుదల చేయుతోన్నారు",
+      "He is freeing / అతను విడుదల చేయుతోన్నాడు",
+      "She is freeing / ఆమె విడుదల చేయుతోంది",
+      "It is freeing / అది విడుదల చేయుతోంది",
+      "The work is freeing / పని విడుదల చేయుతోంది",
+      "People are freeing / ప్రజలు విడుదల చేయుతోన్నారు",
+      "Someone is freeing / ఎవరో విడుదల చేయుతోన్నారు",
+      "Nobody is freeing / ఎవరూ విడుదల చేయుడం లేదు",
+      "Everybody is freeing / అందరూ విడుదల చేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Freeze / గడ్డకట్టు",
+    "forms": [
+      "I am freezeing / నేను గడ్డకట్టుతోన్నాను",
+      "You are freezeing / నువ్వు గడ్డకట్టుతోన్నావు",
+      "We are freezeing / మేము గడ్డకట్టుతోన్నాము",
+      "They are freezeing / వారు గడ్డకట్టుతోన్నారు",
+      "He is freezeing / అతను గడ్డకట్టుతోన్నాడు",
+      "She is freezeing / ఆమె గడ్డకట్టుతోంది",
+      "It is freezeing / అది గడ్డకట్టుతోంది",
+      "The work is freezeing / పని గడ్డకట్టుతోంది",
+      "People are freezeing / ప్రజలు గడ్డకట్టుతోన్నారు",
+      "Someone is freezeing / ఎవరో గడ్డకట్టుతోన్నారు",
+      "Nobody is freezeing / ఎవరూ గడ్డకట్టుడం లేదు",
+      "Everybody is freezeing / అందరూ గడ్డకట్టుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Frighten / భయపెట్టు",
+    "forms": [
+      "I am frightening / నేను భయపెట్టుతోన్నాను",
+      "You are frightening / నువ్వు భయపెట్టుతోన్నావు",
+      "We are frightening / మేము భయపెట్టుతోన్నాము",
+      "They are frightening / వారు భయపెట్టుతోన్నారు",
+      "He is frightening / అతను భయపెట్టుతోన్నాడు",
+      "She is frightening / ఆమె భయపెట్టుతోంది",
+      "It is frightening / అది భయపెట్టుతోంది",
+      "The work is frightening / పని భయపెట్టుతోంది",
+      "People are frightening / ప్రజలు భయపెట్టుతోన్నారు",
+      "Someone is frightening / ఎవరో భయపెట్టుతోన్నారు",
+      "Nobody is frightening / ఎవరూ భయపెట్టుడం లేదు",
+      "Everybody is frightening / అందరూ భయపెట్టుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fry / వేపు",
+    "forms": [
+      "I am frying / నేను వేపుతోన్నాను",
+      "You are frying / నువ్వు వేపుతోన్నావు",
+      "We are frying / మేము వేపుతోన్నాము",
+      "They are frying / వారు వేపుతోన్నారు",
+      "He is frying / అతను వేపుతోన్నాడు",
+      "She is frying / ఆమె వేపుతోంది",
+      "It is frying / అది వేపుతోంది",
+      "The work is frying / పని వేపుతోంది",
+      "People are frying / ప్రజలు వేపుతోన్నారు",
+      "Someone is frying / ఎవరో వేపుతోన్నారు",
+      "Nobody is frying / ఎవరూ వేపుడం లేదు",
+      "Everybody is frying / అందరూ వేపుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Fulfil / నెరవేర్చు",
+    "forms": [
+      "I am fulfiling / నేను నెరవేర్చుతోన్నాను",
+      "You are fulfiling / నువ్వు నెరవేర్చుతోన్నావు",
+      "We are fulfiling / మేము నెరవేర్చుతోన్నాము",
+      "They are fulfiling / వారు నెరవేర్చుతోన్నారు",
+      "He is fulfiling / అతను నెరవేర్చుతోన్నాడు",
+      "She is fulfiling / ఆమె నెరవేర్చుతోంది",
+      "It is fulfiling / అది నెరవేర్చుతోంది",
+      "The work is fulfiling / పని నెరవేర్చుతోంది",
+      "People are fulfiling / ప్రజలు నెరవేర్చుతోన్నారు",
+      "Someone is fulfiling / ఎవరో నెరవేర్చుతోన్నారు",
+      "Nobody is fulfiling / ఎవరూ నెరవేర్చుడం లేదు",
+      "Everybody is fulfiling / అందరూ నెరవేర్చుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Gag / మూయించు",
+    "forms": [
+      "I am gaging / నేను మూయించుతోన్నాను",
+      "You are gaging / నువ్వు మూయించుతోన్నావు",
+      "We are gaging / మేము మూయించుతోన్నాము",
+      "They are gaging / వారు మూయించుతోన్నారు",
+      "He is gaging / అతను మూయించుతోన్నాడు",
+      "She is gaging / ఆమె మూయించుతోంది",
+      "It is gaging / అది మూయించుతోంది",
+      "The work is gaging / పని మూయించుతోంది",
+      "People are gaging / ప్రజలు మూయించుతోన్నారు",
+      "Someone is gaging / ఎవరో మూయించుతోన్నారు",
+      "Nobody is gaging / ఎవరూ మూయించుడం లేదు",
+      "Everybody is gaging / అందరూ మూయించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Gain / పొందు",
+    "forms": [
+      "I am gaining / నేను పొందుతోన్నాను",
+      "You are gaining / నువ్వు పొందుతోన్నావు",
+      "We are gaining / మేము పొందుతోన్నాము",
+      "They are gaining / వారు పొందుతోన్నారు",
+      "He is gaining / అతను పొందుతోన్నాడు",
+      "She is gaining / ఆమె పొందుతోంది",
+      "It is gaining / అది పొందుతోంది",
+      "The work is gaining / పని పొందుతోంది",
+      "People are gaining / ప్రజలు పొందుతోన్నారు",
+      "Someone is gaining / ఎవరో పొందుతోన్నారు",
+      "Nobody is gaining / ఎవరూ పొందుడం లేదు",
+      "Everybody is gaining / అందరూ పొందుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Gainsay / ఖండించు",
+    "forms": [
+      "I am gainsaying / నేను ఖండించుతోన్నాను",
+      "You are gainsaying / నువ్వు ఖండించుతోన్నావు",
+      "We are gainsaying / మేము ఖండించుతోన్నాము",
+      "They are gainsaying / వారు ఖండించుతోన్నారు",
+      "He is gainsaying / అతను ఖండించుతోన్నాడు",
+      "She is gainsaying / ఆమె ఖండించుతోంది",
+      "It is gainsaying / అది ఖండించుతోంది",
+      "The work is gainsaying / పని ఖండించుతోంది",
+      "People are gainsaying / ప్రజలు ఖండించుతోన్నారు",
+      "Someone is gainsaying / ఎవరో ఖండించుతోన్నారు",
+      "Nobody is gainsaying / ఎవరూ ఖండించుడం లేదు",
+      "Everybody is gainsaying / అందరూ ఖండించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Gash / కత్తితో కోయు",
+    "forms": [
+      "I am gashing / నేను కత్తితో కోయుతోన్నాను",
+      "You are gashing / నువ్వు కత్తితో కోయుతోన్నావు",
+      "We are gashing / మేము కత్తితో కోయుతోన్నాము",
+      "They are gashing / వారు కత్తితో కోయుతోన్నారు",
+      "He is gashing / అతను కత్తితో కోయుతోన్నాడు",
+      "She is gashing / ఆమె కత్తితో కోయుతోంది",
+      "It is gashing / అది కత్తితో కోయుతోంది",
+      "The work is gashing / పని కత్తితో కోయుతోంది",
+      "People are gashing / ప్రజలు కత్తితో కోయుతోన్నారు",
+      "Someone is gashing / ఎవరో కత్తితో కోయుతోన్నారు",
+      "Nobody is gashing / ఎవరూ కత్తితో కోయుడం లేదు",
+      "Everybody is gashing / అందరూ కత్తితో కోయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Gaze / తిట్టిగా చూడు",
+    "forms": [
+      "I am gazeing / నేను తిట్టిగా చూడుతోన్నాను",
+      "You are gazeing / నువ్వు తిట్టిగా చూడుతోన్నావు",
+      "We are gazeing / మేము తిట్టిగా చూడుతోన్నాము",
+      "They are gazeing / వారు తిట్టిగా చూడుతోన్నారు",
+      "He is gazeing / అతను తిట్టిగా చూడుతోన్నాడు",
+      "She is gazeing / ఆమె తిట్టిగా చూడుతోంది",
+      "It is gazeing / అది తిట్టిగా చూడుతోంది",
+      "The work is gazeing / పని తిట్టిగా చూడుతోంది",
+      "People are gazeing / ప్రజలు తిట్టిగా చూడుతోన్నారు",
+      "Someone is gazeing / ఎవరో తిట్టిగా చూడుతోన్నారు",
+      "Nobody is gazeing / ఎవరూ తిట్టిగా చూడుడం లేదు",
+      "Everybody is gazeing / అందరూ తిట్టిగా చూడుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Get / పొందు",
+    "forms": [
+      "I am geting / నేను పొందుతోన్నాను",
+      "You are geting / నువ్వు పొందుతోన్నావు",
+      "We are geting / మేము పొందుతోన్నాము",
+      "They are geting / వారు పొందుతోన్నారు",
+      "He is geting / అతను పొందుతోన్నాడు",
+      "She is geting / ఆమె పొందుతోంది",
+      "It is geting / అది పొందుతోంది",
+      "The work is geting / పని పొందుతోంది",
+      "People are geting / ప్రజలు పొందుతోన్నారు",
+      "Someone is geting / ఎవరో పొందుతోన్నారు",
+      "Nobody is geting / ఎవరూ పొందుడం లేదు",
+      "Everybody is geting / అందరూ పొందుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Give / ఇవ్వు",
+    "forms": [
+      "I am giveing / నేను ఇవ్వుతోన్నాను",
+      "You are giveing / నువ్వు ఇవ్వుతోన్నావు",
+      "We are giveing / మేము ఇవ్వుతోన్నాము",
+      "They are giveing / వారు ఇవ్వుతోన్నారు",
+      "He is giveing / అతను ఇవ్వుతోన్నాడు",
+      "She is giveing / ఆమె ఇవ్వుతోంది",
+      "It is giveing / అది ఇవ్వుతోంది",
+      "The work is giveing / పని ఇవ్వుతోంది",
+      "People are giveing / ప్రజలు ఇవ్వుతోన్నారు",
+      "Someone is giveing / ఎవరో ఇవ్వుతోన్నారు",
+      "Nobody is giveing / ఎవరూ ఇవ్వుడం లేదు",
+      "Everybody is giveing / అందరూ ఇవ్వుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Glance / ఒక్కసారిగా చూడు",
+    "forms": [
+      "I am glanceing / నేను ఒక్కసారిగా చూడుతోన్నాను",
+      "You are glanceing / నువ్వు ఒక్కసారిగా చూడుతోన్నావు",
+      "We are glanceing / మేము ఒక్కసారిగా చూడుతోన్నాము",
+      "They are glanceing / వారు ఒక్కసారిగా చూడుతోన్నారు",
+      "He is glanceing / అతను ఒక్కసారిగా చూడుతోన్నాడు",
+      "She is glanceing / ఆమె ఒక్కసారిగా చూడుతోంది",
+      "It is glanceing / అది ఒక్కసారిగా చూడుతోంది",
+      "The work is glanceing / పని ఒక్కసారిగా చూడుతోంది",
+      "People are glanceing / ప్రజలు ఒక్కసారిగా చూడుతోన్నారు",
+      "Someone is glanceing / ఎవరో ఒక్కసారిగా చూడుతోన్నారు",
+      "Nobody is glanceing / ఎవరూ ఒక్కసారిగా చూడుడం లేదు",
+      "Everybody is glanceing / అందరూ ఒక్కసారిగా చూడుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Glitter / మెరిసిపో",
+    "forms": [
+      "I am glittering / నేను మెరిసిపోతోన్నాను",
+      "You are glittering / నువ్వు మెరిసిపోతోన్నావు",
+      "We are glittering / మేము మెరిసిపోతోన్నాము",
+      "They are glittering / వారు మెరిసిపోతోన్నారు",
+      "He is glittering / అతను మెరిసిపోతోన్నాడు",
+      "She is glittering / ఆమె మెరిసిపోతోంది",
+      "It is glittering / అది మెరిసిపోతోంది",
+      "The work is glittering / పని మెరిసిపోతోంది",
+      "People are glittering / ప్రజలు మెరిసిపోతోన్నారు",
+      "Someone is glittering / ఎవరో మెరిసిపోతోన్నారు",
+      "Nobody is glittering / ఎవరూ మెరిసిపోడం లేదు",
+      "Everybody is glittering / అందరూ మెరిసిపోతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Glow / ప్రకాశించు",
+    "forms": [
+      "I am glowing / నేను ప్రకాశించుతోన్నాను",
+      "You are glowing / నువ్వు ప్రకాశించుతోన్నావు",
+      "We are glowing / మేము ప్రకాశించుతోన్నాము",
+      "They are glowing / వారు ప్రకాశించుతోన్నారు",
+      "He is glowing / అతను ప్రకాశించుతోన్నాడు",
+      "She is glowing / ఆమె ప్రకాశించుతోంది",
+      "It is glowing / అది ప్రకాశించుతోంది",
+      "The work is glowing / పని ప్రకాశించుతోంది",
+      "People are glowing / ప్రజలు ప్రకాశించుతోన్నారు",
+      "Someone is glowing / ఎవరో ప్రకాశించుతోన్నారు",
+      "Nobody is glowing / ఎవరూ ప్రకాశించుడం లేదు",
+      "Everybody is glowing / అందరూ ప్రకాశించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Go / వెళ్ళు",
+    "forms": [
+      "I am going / నేను వెళ్ళుతోన్నాను",
+      "You are going / నువ్వు వెళ్ళుతోన్నావు",
+      "We are going / మేము వెళ్ళుతోన్నాము",
+      "They are going / వారు వెళ్ళుతోన్నారు",
+      "He is going / అతను వెళ్ళుతోన్నాడు",
+      "She is going / ఆమె వెళ్ళుతోంది",
+      "It is going / అది వెళ్ళుతోంది",
+      "The work is going / పని వెళ్ళుతోంది",
+      "People are going / ప్రజలు వెళ్ళుతోన్నారు",
+      "Someone is going / ఎవరో వెళ్ళుతోన్నారు",
+      "Nobody is going / ఎవరూ వెళ్ళుడం లేదు",
+      "Everybody is going / అందరూ వెళ్ళుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Google / గూగుల్ లో వెతుకు",
+    "forms": [
+      "I am googleing / నేను గూగుల్ లో వెతుకుతోన్నాను",
+      "You are googleing / నువ్వు గూగుల్ లో వెతుకుతోన్నావు",
+      "We are googleing / మేము గూగుల్ లో వెతుకుతోన్నాము",
+      "They are googleing / వారు గూగుల్ లో వెతుకుతోన్నారు",
+      "He is googleing / అతను గూగుల్ లో వెతుకుతోన్నాడు",
+      "She is googleing / ఆమె గూగుల్ లో వెతుకుతోంది",
+      "It is googleing / అది గూగుల్ లో వెతుకుతోంది",
+      "The work is googleing / పని గూగుల్ లో వెతుకుతోంది",
+      "People are googleing / ప్రజలు గూగుల్ లో వెతుకుతోన్నారు",
+      "Someone is googleing / ఎవరో గూగుల్ లో వెతుకుతోన్నారు",
+      "Nobody is googleing / ఎవరూ గూగుల్ లో వెతుకుడం లేదు",
+      "Everybody is googleing / అందరూ గూగుల్ లో వెతుకుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Govern / పాలించు",
+    "forms": [
+      "I am governing / నేను పాలించుతోన్నాను",
+      "You are governing / నువ్వు పాలించుతోన్నావు",
+      "We are governing / మేము పాలించుతోన్నాము",
+      "They are governing / వారు పాలించుతోన్నారు",
+      "He is governing / అతను పాలించుతోన్నాడు",
+      "She is governing / ఆమె పాలించుతోంది",
+      "It is governing / అది పాలించుతోంది",
+      "The work is governing / పని పాలించుతోంది",
+      "People are governing / ప్రజలు పాలించుతోన్నారు",
+      "Someone is governing / ఎవరో పాలించుతోన్నారు",
+      "Nobody is governing / ఎవరూ పాలించుడం లేదు",
+      "Everybody is governing / అందరూ పాలించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Grab / గట్టిగా పట్టుకో",
+    "forms": [
+      "I am grabing / నేను గట్టిగా పట్టుకోతోన్నాను",
+      "You are grabing / నువ్వు గట్టిగా పట్టుకోతోన్నావు",
+      "We are grabing / మేము గట్టిగా పట్టుకోతోన్నాము",
+      "They are grabing / వారు గట్టిగా పట్టుకోతోన్నారు",
+      "He is grabing / అతను గట్టిగా పట్టుకోతోన్నాడు",
+      "She is grabing / ఆమె గట్టిగా పట్టుకోతోంది",
+      "It is grabing / అది గట్టిగా పట్టుకోతోంది",
+      "The work is grabing / పని గట్టిగా పట్టుకోతోంది",
+      "People are grabing / ప్రజలు గట్టిగా పట్టుకోతోన్నారు",
+      "Someone is grabing / ఎవరో గట్టిగా పట్టుకోతోన్నారు",
+      "Nobody is grabing / ఎవరూ గట్టిగా పట్టుకోడం లేదు",
+      "Everybody is grabing / అందరూ గట్టిగా పట్టుకోతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Grade / గ్రేడ్ వేయు",
+    "forms": [
+      "I am gradeing / నేను గ్రేడ్ వేయుతోన్నాను",
+      "You are gradeing / నువ్వు గ్రేడ్ వేయుతోన్నావు",
+      "We are gradeing / మేము గ్రేడ్ వేయుతోన్నాము",
+      "They are gradeing / వారు గ్రేడ్ వేయుతోన్నారు",
+      "He is gradeing / అతను గ్రేడ్ వేయుతోన్నాడు",
+      "She is gradeing / ఆమె గ్రేడ్ వేయుతోంది",
+      "It is gradeing / అది గ్రేడ్ వేయుతోంది",
+      "The work is gradeing / పని గ్రేడ్ వేయుతోంది",
+      "People are gradeing / ప్రజలు గ్రేడ్ వేయుతోన్నారు",
+      "Someone is gradeing / ఎవరో గ్రేడ్ వేయుతోన్నారు",
+      "Nobody is gradeing / ఎవరూ గ్రేడ్ వేయుడం లేదు",
+      "Everybody is gradeing / అందరూ గ్రేడ్ వేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Grant / మంజూరు చేయు",
+    "forms": [
+      "I am granting / నేను మంజూరు చేయుతోన్నాను",
+      "You are granting / నువ్వు మంజూరు చేయుతోన్నావు",
+      "We are granting / మేము మంజూరు చేయుతోన్నాము",
+      "They are granting / వారు మంజూరు చేయుతోన్నారు",
+      "He is granting / అతను మంజూరు చేయుతోన్నాడు",
+      "She is granting / ఆమె మంజూరు చేయుతోంది",
+      "It is granting / అది మంజూరు చేయుతోంది",
+      "The work is granting / పని మంజూరు చేయుతోంది",
+      "People are granting / ప్రజలు మంజూరు చేయుతోన్నారు",
+      "Someone is granting / ఎవరో మంజూరు చేయుతోన్నారు",
+      "Nobody is granting / ఎవరూ మంజూరు చేయుడం లేదు",
+      "Everybody is granting / అందరూ మంజూరు చేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Greet / వందనాలు చెప్పు",
+    "forms": [
+      "I am greeting / నేను వందనాలు చెప్పుతోన్నాను",
+      "You are greeting / నువ్వు వందనాలు చెప్పుతోన్నావు",
+      "We are greeting / మేము వందనాలు చెప్పుతోన్నాము",
+      "They are greeting / వారు వందనాలు చెప్పుతోన్నారు",
+      "He is greeting / అతను వందనాలు చెప్పుతోన్నాడు",
+      "She is greeting / ఆమె వందనాలు చెప్పుతోంది",
+      "It is greeting / అది వందనాలు చెప్పుతోంది",
+      "The work is greeting / పని వందనాలు చెప్పుతోంది",
+      "People are greeting / ప్రజలు వందనాలు చెప్పుతోన్నారు",
+      "Someone is greeting / ఎవరో వందనాలు చెప్పుతోన్నారు",
+      "Nobody is greeting / ఎవరూ వందనాలు చెప్పుడం లేదు",
+      "Everybody is greeting / అందరూ వందనాలు చెప్పుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Grind / రుబ్బు",
+    "forms": [
+      "I am grinding / నేను రుబ్బుతోన్నాను",
+      "You are grinding / నువ్వు రుబ్బుతోన్నావు",
+      "We are grinding / మేము రుబ్బుతోన్నాము",
+      "They are grinding / వారు రుబ్బుతోన్నారు",
+      "He is grinding / అతను రుబ్బుతోన్నాడు",
+      "She is grinding / ఆమె రుబ్బుతోంది",
+      "It is grinding / అది రుబ్బుతోంది",
+      "The work is grinding / పని రుబ్బుతోంది",
+      "People are grinding / ప్రజలు రుబ్బుతోన్నారు",
+      "Someone is grinding / ఎవరో రుబ్బుతోన్నారు",
+      "Nobody is grinding / ఎవరూ రుబ్బుడం లేదు",
+      "Everybody is grinding / అందరూ రుబ్బుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Grip / గట్టిగా పట్టుకో",
+    "forms": [
+      "I am griping / నేను గట్టిగా పట్టుకోతోన్నాను",
+      "You are griping / నువ్వు గట్టిగా పట్టుకోతోన్నావు",
+      "We are griping / మేము గట్టిగా పట్టుకోతోన్నాము",
+      "They are griping / వారు గట్టిగా పట్టుకోతోన్నారు",
+      "He is griping / అతను గట్టిగా పట్టుకోతోన్నాడు",
+      "She is griping / ఆమె గట్టిగా పట్టుకోతోంది",
+      "It is griping / అది గట్టిగా పట్టుకోతోంది",
+      "The work is griping / పని గట్టిగా పట్టుకోతోంది",
+      "People are griping / ప్రజలు గట్టిగా పట్టుకోతోన్నారు",
+      "Someone is griping / ఎవరో గట్టిగా పట్టుకోతోన్నారు",
+      "Nobody is griping / ఎవరూ గట్టిగా పట్టుకోడం లేదు",
+      "Everybody is griping / అందరూ గట్టిగా పట్టుకోతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Grow / పెరగు",
+    "forms": [
+      "I am growing / నేను పెరగుతోన్నాను",
+      "You are growing / నువ్వు పెరగుతోన్నావు",
+      "We are growing / మేము పెరగుతోన్నాము",
+      "They are growing / వారు పెరగుతోన్నారు",
+      "He is growing / అతను పెరగుతోన్నాడు",
+      "She is growing / ఆమె పెరగుతోంది",
+      "It is growing / అది పెరగుతోంది",
+      "The work is growing / పని పెరగుతోంది",
+      "People are growing / ప్రజలు పెరగుతోన్నారు",
+      "Someone is growing / ఎవరో పెరగుతోన్నారు",
+      "Nobody is growing / ఎవరూ పెరగుడం లేదు",
+      "Everybody is growing / అందరూ పెరగుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Guard / కాపాడు",
+    "forms": [
+      "I am guarding / నేను కాపాడుతోన్నాను",
+      "You are guarding / నువ్వు కాపాడుతోన్నావు",
+      "We are guarding / మేము కాపాడుతోన్నాము",
+      "They are guarding / వారు కాపాడుతోన్నారు",
+      "He is guarding / అతను కాపాడుతోన్నాడు",
+      "She is guarding / ఆమె కాపాడుతోంది",
+      "It is guarding / అది కాపాడుతోంది",
+      "The work is guarding / పని కాపాడుతోంది",
+      "People are guarding / ప్రజలు కాపాడుతోన్నారు",
+      "Someone is guarding / ఎవరో కాపాడుతోన్నారు",
+      "Nobody is guarding / ఎవరూ కాపాడుడం లేదు",
+      "Everybody is guarding / అందరూ కాపాడుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Guess / ఊహించు",
+    "forms": [
+      "I am guessing / నేను ఊహించుతోన్నాను",
+      "You are guessing / నువ్వు ఊహించుతోన్నావు",
+      "We are guessing / మేము ఊహించుతోన్నాము",
+      "They are guessing / వారు ఊహించుతోన్నారు",
+      "He is guessing / అతను ఊహించుతోన్నాడు",
+      "She is guessing / ఆమె ఊహించుతోంది",
+      "It is guessing / అది ఊహించుతోంది",
+      "The work is guessing / పని ఊహించుతోంది",
+      "People are guessing / ప్రజలు ఊహించుతోన్నారు",
+      "Someone is guessing / ఎవరో ఊహించుతోన్నారు",
+      "Nobody is guessing / ఎవరూ ఊహించుడం లేదు",
+      "Everybody is guessing / అందరూ ఊహించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Guide / మార్గనిర్దేశనం చేయు",
+    "forms": [
+      "I am guideing / నేను మార్గనిర్దేశనం చేయుతోన్నాను",
+      "You are guideing / నువ్వు మార్గనిర్దేశనం చేయుతోన్నావు",
+      "We are guideing / మేము మార్గనిర్దేశనం చేయుతోన్నాము",
+      "They are guideing / వారు మార్గనిర్దేశనం చేయుతోన్నారు",
+      "He is guideing / అతను మార్గనిర్దేశనం చేయుతోన్నాడు",
+      "She is guideing / ఆమె మార్గనిర్దేశనం చేయుతోంది",
+      "It is guideing / అది మార్గనిర్దేశనం చేయుతోంది",
+      "The work is guideing / పని మార్గనిర్దేశనం చేయుతోంది",
+      "People are guideing / ప్రజలు మార్గనిర్దేశనం చేయుతోన్నారు",
+      "Someone is guideing / ఎవరో మార్గనిర్దేశనం చేయుతోన్నారు",
+      "Nobody is guideing / ఎవరూ మార్గనిర్దేశనం చేయుడం లేదు",
+      "Everybody is guideing / అందరూ మార్గనిర్దేశనం చేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Handle / హ్యాండిల్ చేయు",
+    "forms": [
+      "I am handleing / నేను హ్యాండిల్ చేయుతోన్నాను",
+      "You are handleing / నువ్వు హ్యాండిల్ చేయుతోన్నావు",
+      "We are handleing / మేము హ్యాండిల్ చేయుతోన్నాము",
+      "They are handleing / వారు హ్యాండిల్ చేయుతోన్నారు",
+      "He is handleing / అతను హ్యాండిల్ చేయుతోన్నాడు",
+      "She is handleing / ఆమె హ్యాండిల్ చేయుతోంది",
+      "It is handleing / అది హ్యాండిల్ చేయుతోంది",
+      "The work is handleing / పని హ్యాండిల్ చేయుతోంది",
+      "People are handleing / ప్రజలు హ్యాండిల్ చేయుతోన్నారు",
+      "Someone is handleing / ఎవరో హ్యాండిల్ చేయుతోన్నారు",
+      "Nobody is handleing / ఎవరూ హ్యాండిల్ చేయుడం లేదు",
+      "Everybody is handleing / అందరూ హ్యాండిల్ చేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hang / వేసు",
+    "forms": [
+      "I am hanging / నేను వేసుతోన్నాను",
+      "You are hanging / నువ్వు వేసుతోన్నావు",
+      "We are hanging / మేము వేసుతోన్నాము",
+      "They are hanging / వారు వేసుతోన్నారు",
+      "He is hanging / అతను వేసుతోన్నాడు",
+      "She is hanging / ఆమె వేసుతోంది",
+      "It is hanging / అది వేసుతోంది",
+      "The work is hanging / పని వేసుతోంది",
+      "People are hanging / ప్రజలు వేసుతోన్నారు",
+      "Someone is hanging / ఎవరో వేసుతోన్నారు",
+      "Nobody is hanging / ఎవరూ వేసుడం లేదు",
+      "Everybody is hanging / అందరూ వేసుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Happen / జరుగు",
+    "forms": [
+      "I am happening / నేను జరుగుతోన్నాను",
+      "You are happening / నువ్వు జరుగుతోన్నావు",
+      "We are happening / మేము జరుగుతోన్నాము",
+      "They are happening / వారు జరుగుతోన్నారు",
+      "He is happening / అతను జరుగుతోన్నాడు",
+      "She is happening / ఆమె జరుగుతోంది",
+      "It is happening / అది జరుగుతోంది",
+      "The work is happening / పని జరుగుతోంది",
+      "People are happening / ప్రజలు జరుగుతోన్నారు",
+      "Someone is happening / ఎవరో జరుగుతోన్నారు",
+      "Nobody is happening / ఎవరూ జరుగుడం లేదు",
+      "Everybody is happening / అందరూ జరుగుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Harm / నష్టం కలిగించు",
+    "forms": [
+      "I am harming / నేను నష్టం కలిగించుతోన్నాను",
+      "You are harming / నువ్వు నష్టం కలిగించుతోన్నావు",
+      "We are harming / మేము నష్టం కలిగించుతోన్నాము",
+      "They are harming / వారు నష్టం కలిగించుతోన్నారు",
+      "He is harming / అతను నష్టం కలిగించుతోన్నాడు",
+      "She is harming / ఆమె నష్టం కలిగించుతోంది",
+      "It is harming / అది నష్టం కలిగించుతోంది",
+      "The work is harming / పని నష్టం కలిగించుతోంది",
+      "People are harming / ప్రజలు నష్టం కలిగించుతోన్నారు",
+      "Someone is harming / ఎవరో నష్టం కలిగించుతోన్నారు",
+      "Nobody is harming / ఎవరూ నష్టం కలిగించుడం లేదు",
+      "Everybody is harming / అందరూ నష్టం కలిగించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hatch / గుడ్డు పగలగొట్టు",
+    "forms": [
+      "I am hatching / నేను గుడ్డు పగలగొట్టుతోన్నాను",
+      "You are hatching / నువ్వు గుడ్డు పగలగొట్టుతోన్నావు",
+      "We are hatching / మేము గుడ్డు పగలగొట్టుతోన్నాము",
+      "They are hatching / వారు గుడ్డు పగలగొట్టుతోన్నారు",
+      "He is hatching / అతను గుడ్డు పగలగొట్టుతోన్నాడు",
+      "She is hatching / ఆమె గుడ్డు పగలగొట్టుతోంది",
+      "It is hatching / అది గుడ్డు పగలగొట్టుతోంది",
+      "The work is hatching / పని గుడ్డు పగలగొట్టుతోంది",
+      "People are hatching / ప్రజలు గుడ్డు పగలగొట్టుతోన్నారు",
+      "Someone is hatching / ఎవరో గుడ్డు పగలగొట్టుతోన్నారు",
+      "Nobody is hatching / ఎవరూ గుడ్డు పగలగొట్టుడం లేదు",
+      "Everybody is hatching / అందరూ గుడ్డు పగలగొట్టుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hate / ద్వేషించు",
+    "forms": [
+      "I am hateing / నేను ద్వేషించుతోన్నాను",
+      "You are hateing / నువ్వు ద్వేషించుతోన్నావు",
+      "We are hateing / మేము ద్వేషించుతోన్నాము",
+      "They are hateing / వారు ద్వేషించుతోన్నారు",
+      "He is hateing / అతను ద్వేషించుతోన్నాడు",
+      "She is hateing / ఆమె ద్వేషించుతోంది",
+      "It is hateing / అది ద్వేషించుతోంది",
+      "The work is hateing / పని ద్వేషించుతోంది",
+      "People are hateing / ప్రజలు ద్వేషించుతోన్నారు",
+      "Someone is hateing / ఎవరో ద్వేషించుతోన్నారు",
+      "Nobody is hateing / ఎవరూ ద్వేషించుడం లేదు",
+      "Everybody is hateing / అందరూ ద్వేషించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Have / కలిగి ఉండు",
+    "forms": [
+      "I am haveing / నేను కలిగి ఉండుతోన్నాను",
+      "You are haveing / నువ్వు కలిగి ఉండుతోన్నావు",
+      "We are haveing / మేము కలిగి ఉండుతోన్నాము",
+      "They are haveing / వారు కలిగి ఉండుతోన్నారు",
+      "He is haveing / అతను కలిగి ఉండుతోన్నాడు",
+      "She is haveing / ఆమె కలిగి ఉండుతోంది",
+      "It is haveing / అది కలిగి ఉండుతోంది",
+      "The work is haveing / పని కలిగి ఉండుతోంది",
+      "People are haveing / ప్రజలు కలిగి ఉండుతోన్నారు",
+      "Someone is haveing / ఎవరో కలిగి ఉండుతోన్నారు",
+      "Nobody is haveing / ఎవరూ కలిగి ఉండుడం లేదు",
+      "Everybody is haveing / అందరూ కలిగి ఉండుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Heal / చికిత్స చేయు",
+    "forms": [
+      "I am healing / నేను చికిత్స చేయుతోన్నాను",
+      "You are healing / నువ్వు చికిత్స చేయుతోన్నావు",
+      "We are healing / మేము చికిత్స చేయుతోన్నాము",
+      "They are healing / వారు చికిత్స చేయుతోన్నారు",
+      "He is healing / అతను చికిత్స చేయుతోన్నాడు",
+      "She is healing / ఆమె చికిత్స చేయుతోంది",
+      "It is healing / అది చికిత్స చేయుతోంది",
+      "The work is healing / పని చికిత్స చేయుతోంది",
+      "People are healing / ప్రజలు చికిత్స చేయుతోన్నారు",
+      "Someone is healing / ఎవరో చికిత్స చేయుతోన్నారు",
+      "Nobody is healing / ఎవరూ చికిత్స చేయుడం లేదు",
+      "Everybody is healing / అందరూ చికిత్స చేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hear / విని",
+    "forms": [
+      "I am hearing / నేను వినితోన్నాను",
+      "You are hearing / నువ్వు వినితోన్నావు",
+      "We are hearing / మేము వినితోన్నాము",
+      "They are hearing / వారు వినితోన్నారు",
+      "He is hearing / అతను వినితోన్నాడు",
+      "She is hearing / ఆమె వినితోంది",
+      "It is hearing / అది వినితోంది",
+      "The work is hearing / పని వినితోంది",
+      "People are hearing / ప్రజలు వినితోన్నారు",
+      "Someone is hearing / ఎవరో వినితోన్నారు",
+      "Nobody is hearing / ఎవరూ వినిడం లేదు",
+      "Everybody is hearing / అందరూ వినితోన్నారు"
+    ]
+  },
+  {
+    "verb": "Heave / ఎత్తి వేయు",
+    "forms": [
+      "I am heaveing / నేను ఎత్తి వేయుతోన్నాను",
+      "You are heaveing / నువ్వు ఎత్తి వేయుతోన్నావు",
+      "We are heaveing / మేము ఎత్తి వేయుతోన్నాము",
+      "They are heaveing / వారు ఎత్తి వేయుతోన్నారు",
+      "He is heaveing / అతను ఎత్తి వేయుతోన్నాడు",
+      "She is heaveing / ఆమె ఎత్తి వేయుతోంది",
+      "It is heaveing / అది ఎత్తి వేయుతోంది",
+      "The work is heaveing / పని ఎత్తి వేయుతోంది",
+      "People are heaveing / ప్రజలు ఎత్తి వేయుతోన్నారు",
+      "Someone is heaveing / ఎవరో ఎత్తి వేయుతోన్నారు",
+      "Nobody is heaveing / ఎవరూ ఎత్తి వేయుడం లేదు",
+      "Everybody is heaveing / అందరూ ఎత్తి వేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Help / సహాయం చేయు",
+    "forms": [
+      "I am helping / నేను సహాయం చేయుతోన్నాను",
+      "You are helping / నువ్వు సహాయం చేయుతోన్నావు",
+      "We are helping / మేము సహాయం చేయుతోన్నాము",
+      "They are helping / వారు సహాయం చేయుతోన్నారు",
+      "He is helping / అతను సహాయం చేయుతోన్నాడు",
+      "She is helping / ఆమె సహాయం చేయుతోంది",
+      "It is helping / అది సహాయం చేయుతోంది",
+      "The work is helping / పని సహాయం చేయుతోంది",
+      "People are helping / ప్రజలు సహాయం చేయుతోన్నారు",
+      "Someone is helping / ఎవరో సహాయం చేయుతోన్నారు",
+      "Nobody is helping / ఎవరూ సహాయం చేయుడం లేదు",
+      "Everybody is helping / అందరూ సహాయం చేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hew / కత్తిరించు",
+    "forms": [
+      "I am hewing / నేను కత్తిరించుతోన్నాను",
+      "You are hewing / నువ్వు కత్తిరించుతోన్నావు",
+      "We are hewing / మేము కత్తిరించుతోన్నాము",
+      "They are hewing / వారు కత్తిరించుతోన్నారు",
+      "He is hewing / అతను కత్తిరించుతోన్నాడు",
+      "She is hewing / ఆమె కత్తిరించుతోంది",
+      "It is hewing / అది కత్తిరించుతోంది",
+      "The work is hewing / పని కత్తిరించుతోంది",
+      "People are hewing / ప్రజలు కత్తిరించుతోన్నారు",
+      "Someone is hewing / ఎవరో కత్తిరించుతోన్నారు",
+      "Nobody is hewing / ఎవరూ కత్తిరించుడం లేదు",
+      "Everybody is hewing / అందరూ కత్తిరించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hide / దాచు",
+    "forms": [
+      "I am hideing / నేను దాచుతోన్నాను",
+      "You are hideing / నువ్వు దాచుతోన్నావు",
+      "We are hideing / మేము దాచుతోన్నాము",
+      "They are hideing / వారు దాచుతోన్నారు",
+      "He is hideing / అతను దాచుతోన్నాడు",
+      "She is hideing / ఆమె దాచుతోంది",
+      "It is hideing / అది దాచుతోంది",
+      "The work is hideing / పని దాచుతోంది",
+      "People are hideing / ప్రజలు దాచుతోన్నారు",
+      "Someone is hideing / ఎవరో దాచుతోన్నారు",
+      "Nobody is hideing / ఎవరూ దాచుడం లేదు",
+      "Everybody is hideing / అందరూ దాచుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hinder / అడ్డుకో",
+    "forms": [
+      "I am hindering / నేను అడ్డుకోతోన్నాను",
+      "You are hindering / నువ్వు అడ్డుకోతోన్నావు",
+      "We are hindering / మేము అడ్డుకోతోన్నాము",
+      "They are hindering / వారు అడ్డుకోతోన్నారు",
+      "He is hindering / అతను అడ్డుకోతోన్నాడు",
+      "She is hindering / ఆమె అడ్డుకోతోంది",
+      "It is hindering / అది అడ్డుకోతోంది",
+      "The work is hindering / పని అడ్డుకోతోంది",
+      "People are hindering / ప్రజలు అడ్డుకోతోన్నారు",
+      "Someone is hindering / ఎవరో అడ్డుకోతోన్నారు",
+      "Nobody is hindering / ఎవరూ అడ్డుకోడం లేదు",
+      "Everybody is hindering / అందరూ అడ్డుకోతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hiss / శబ్దం చేయు",
+    "forms": [
+      "I am hissing / నేను శబ్దం చేయుతోన్నాను",
+      "You are hissing / నువ్వు శబ్దం చేయుతోన్నావు",
+      "We are hissing / మేము శబ్దం చేయుతోన్నాము",
+      "They are hissing / వారు శబ్దం చేయుతోన్నారు",
+      "He is hissing / అతను శబ్దం చేయుతోన్నాడు",
+      "She is hissing / ఆమె శబ్దం చేయుతోంది",
+      "It is hissing / అది శబ్దం చేయుతోంది",
+      "The work is hissing / పని శబ్దం చేయుతోంది",
+      "People are hissing / ప్రజలు శబ్దం చేయుతోన్నారు",
+      "Someone is hissing / ఎవరో శబ్దం చేయుతోన్నారు",
+      "Nobody is hissing / ఎవరూ శబ్దం చేయుడం లేదు",
+      "Everybody is hissing / అందరూ శబ్దం చేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hit / కొట్టు",
+    "forms": [
+      "I am hiting / నేను కొట్టుతోన్నాను",
+      "You are hiting / నువ్వు కొట్టుతోన్నావు",
+      "We are hiting / మేము కొట్టుతోన్నాము",
+      "They are hiting / వారు కొట్టుతోన్నారు",
+      "He is hiting / అతను కొట్టుతోన్నాడు",
+      "She is hiting / ఆమె కొట్టుతోంది",
+      "It is hiting / అది కొట్టుతోంది",
+      "The work is hiting / పని కొట్టుతోంది",
+      "People are hiting / ప్రజలు కొట్టుతోన్నారు",
+      "Someone is hiting / ఎవరో కొట్టుతోన్నారు",
+      "Nobody is hiting / ఎవరూ కొట్టుడం లేదు",
+      "Everybody is hiting / అందరూ కొట్టుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hoax / మోసం చేయు",
+    "forms": [
+      "I am hoaxing / నేను మోసం చేయుతోన్నాను",
+      "You are hoaxing / నువ్వు మోసం చేయుతోన్నావు",
+      "We are hoaxing / మేము మోసం చేయుతోన్నాము",
+      "They are hoaxing / వారు మోసం చేయుతోన్నారు",
+      "He is hoaxing / అతను మోసం చేయుతోన్నాడు",
+      "She is hoaxing / ఆమె మోసం చేయుతోంది",
+      "It is hoaxing / అది మోసం చేయుతోంది",
+      "The work is hoaxing / పని మోసం చేయుతోంది",
+      "People are hoaxing / ప్రజలు మోసం చేయుతోన్నారు",
+      "Someone is hoaxing / ఎవరో మోసం చేయుతోన్నారు",
+      "Nobody is hoaxing / ఎవరూ మోసం చేయుడం లేదు",
+      "Everybody is hoaxing / అందరూ మోసం చేయుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hold / పట్టుకో",
+    "forms": [
+      "I am holding / నేను పట్టుకోతోన్నాను",
+      "You are holding / నువ్వు పట్టుకోతోన్నావు",
+      "We are holding / మేము పట్టుకోతోన్నాము",
+      "They are holding / వారు పట్టుకోతోన్నారు",
+      "He is holding / అతను పట్టుకోతోన్నాడు",
+      "She is holding / ఆమె పట్టుకోతోంది",
+      "It is holding / అది పట్టుకోతోంది",
+      "The work is holding / పని పట్టుకోతోంది",
+      "People are holding / ప్రజలు పట్టుకోతోన్నారు",
+      "Someone is holding / ఎవరో పట్టుకోతోన్నారు",
+      "Nobody is holding / ఎవరూ పట్టుకోడం లేదు",
+      "Everybody is holding / అందరూ పట్టుకోతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hop / గెంతు",
+    "forms": [
+      "I am hoping / నేను గెంతుతోన్నాను",
+      "You are hoping / నువ్వు గెంతుతోన్నావు",
+      "We are hoping / మేము గెంతుతోన్నాము",
+      "They are hoping / వారు గెంతుతోన్నారు",
+      "He is hoping / అతను గెంతుతోన్నాడు",
+      "She is hoping / ఆమె గెంతుతోంది",
+      "It is hoping / అది గెంతుతోంది",
+      "The work is hoping / పని గెంతుతోంది",
+      "People are hoping / ప్రజలు గెంతుతోన్నారు",
+      "Someone is hoping / ఎవరో గెంతుతోన్నారు",
+      "Nobody is hoping / ఎవరూ గెంతుడం లేదు",
+      "Everybody is hoping / అందరూ గెంతుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hope / ఆశించు",
+    "forms": [
+      "I am hopeing / నేను ఆశించుతోన్నాను",
+      "You are hopeing / నువ్వు ఆశించుతోన్నావు",
+      "We are hopeing / మేము ఆశించుతోన్నాము",
+      "They are hopeing / వారు ఆశించుతోన్నారు",
+      "He is hopeing / అతను ఆశించుతోన్నాడు",
+      "She is hopeing / ఆమె ఆశించుతోంది",
+      "It is hopeing / అది ఆశించుతోంది",
+      "The work is hopeing / పని ఆశించుతోంది",
+      "People are hopeing / ప్రజలు ఆశించుతోన్నారు",
+      "Someone is hopeing / ఎవరో ఆశించుతోన్నారు",
+      "Nobody is hopeing / ఎవరూ ఆశించుడం లేదు",
+      "Everybody is hopeing / అందరూ ఆశించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Horrify / భయపెట్టు",
+    "forms": [
+      "I am horrifying / నేను భయపెట్టుతోన్నాను",
+      "You are horrifying / నువ్వు భయపెట్టుతోన్నావు",
+      "We are horrifying / మేము భయపెట్టుతోన్నాము",
+      "They are horrifying / వారు భయపెట్టుతోన్నారు",
+      "He is horrifying / అతను భయపెట్టుతోన్నాడు",
+      "She is horrifying / ఆమె భయపెట్టుతోంది",
+      "It is horrifying / అది భయపెట్టుతోంది",
+      "The work is horrifying / పని భయపెట్టుతోంది",
+      "People are horrifying / ప్రజలు భయపెట్టుతోన్నారు",
+      "Someone is horrifying / ఎవరో భయపెట్టుతోన్నారు",
+      "Nobody is horrifying / ఎవరూ భయపెట్టుడం లేదు",
+      "Everybody is horrifying / అందరూ భయపెట్టుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hug / అరచేతుల్లోకి తీసుకో",
+    "forms": [
+      "I am huging / నేను అరచేతుల్లోకి తీసుకోతోన్నాను",
+      "You are huging / నువ్వు అరచేతుల్లోకి తీసుకోతోన్నావు",
+      "We are huging / మేము అరచేతుల్లోకి తీసుకోతోన్నాము",
+      "They are huging / వారు అరచేతుల్లోకి తీసుకోతోన్నారు",
+      "He is huging / అతను అరచేతుల్లోకి తీసుకోతోన్నాడు",
+      "She is huging / ఆమె అరచేతుల్లోకి తీసుకోతోంది",
+      "It is huging / అది అరచేతుల్లోకి తీసుకోతోంది",
+      "The work is huging / పని అరచేతుల్లోకి తీసుకోతోంది",
+      "People are huging / ప్రజలు అరచేతుల్లోకి తీసుకోతోన్నారు",
+      "Someone is huging / ఎవరో అరచేతుల్లోకి తీసుకోతోన్నారు",
+      "Nobody is huging / ఎవరూ అరచేతుల్లోకి తీసుకోడం లేదు",
+      "Everybody is huging / అందరూ అరచేతుల్లోకి తీసుకోతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hum / గూంగూం మను",
+    "forms": [
+      "I am huming / నేను గూంగూం మనుతోన్నాను",
+      "You are huming / నువ్వు గూంగూం మనుతోన్నావు",
+      "We are huming / మేము గూంగూం మనుతోన్నాము",
+      "They are huming / వారు గూంగూం మనుతోన్నారు",
+      "He is huming / అతను గూంగూం మనుతోన్నాడు",
+      "She is huming / ఆమె గూంగూం మనుతోంది",
+      "It is huming / అది గూంగూం మనుతోంది",
+      "The work is huming / పని గూంగూం మనుతోంది",
+      "People are huming / ప్రజలు గూంగూం మనుతోన్నారు",
+      "Someone is huming / ఎవరో గూంగూం మనుతోన్నారు",
+      "Nobody is huming / ఎవరూ గూంగూం మనుడం లేదు",
+      "Everybody is huming / అందరూ గూంగూం మనుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Humiliate / అవమానించు",
+    "forms": [
+      "I am humiliateing / నేను అవమానించుతోన్నాను",
+      "You are humiliateing / నువ్వు అవమానించుతోన్నావు",
+      "We are humiliateing / మేము అవమానించుతోన్నాము",
+      "They are humiliateing / వారు అవమానించుతోన్నారు",
+      "He is humiliateing / అతను అవమానించుతోన్నాడు",
+      "She is humiliateing / ఆమె అవమానించుతోంది",
+      "It is humiliateing / అది అవమానించుతోంది",
+      "The work is humiliateing / పని అవమానించుతోంది",
+      "People are humiliateing / ప్రజలు అవమానించుతోన్నారు",
+      "Someone is humiliateing / ఎవరో అవమానించుతోన్నారు",
+      "Nobody is humiliateing / ఎవరూ అవమానించుడం లేదు",
+      "Everybody is humiliateing / అందరూ అవమానించుతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hunt / వేటాడి పట్టుకో",
+    "forms": [
+      "I am hunting / నేను వేటాడి పట్టుకోతోన్నాను",
+      "You are hunting / నువ్వు వేటాడి పట్టుకోతోన్నావు",
+      "We are hunting / మేము వేటాడి పట్టుకోతోన్నాము",
+      "They are hunting / వారు వేటాడి పట్టుకోతోన్నారు",
+      "He is hunting / అతను వేటాడి పట్టుకోతోన్నాడు",
+      "She is hunting / ఆమె వేటాడి పట్టుకోతోంది",
+      "It is hunting / అది వేటాడి పట్టుకోతోంది",
+      "The work is hunting / పని వేటాడి పట్టుకోతోంది",
+      "People are hunting / ప్రజలు వేటాడి పట్టుకోతోన్నారు",
+      "Someone is hunting / ఎవరో వేటాడి పట్టుకోతోన్నారు",
+      "Nobody is hunting / ఎవరూ వేటాడి పట్టుకోడం లేదు",
+      "Everybody is hunting / అందరూ వేటాడి పట్టుకోతోన్నారు"
+    ]
+  },
+  {
+    "verb": "Hurl / ఎగరేయు",
+    "forms": [
+      "I am hurling / నేను ఎగరేయుతోన్నాను",
+      "You are hurling / నువ్వు ఎగరేయుతోన్నావు",
+      "We are hurling / మేము ఎగరేయుతోన్నాము",
+      "They are hurling / వారు ఎగరేయుతోన్నారు",
+      "He is hurling / అతను ఎగరేయుతోన్నాడు",
+      "She is hurling / ఆమె ఎగరేయుతోంది",
+      "It is hurling / అది ఎగరేయుతోంది",
+      "The work is hurling / పని ఎగరేయుతోంది",
+      "People are hurling / ప్రజలు ఎగరేయుతోన్నారు",
+      "Someone is hurling / ఎవరో ఎగరేయుతోన్నారు",
+      "Nobody is hurling / ఎవరూ ఎగరేయుడం లేదు",
+      "Everybody is hurling / అందరూ ఎగరేయుతోన్నారు"
+    ]
   }
 ]
