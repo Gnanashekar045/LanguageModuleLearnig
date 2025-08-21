@@ -20,7 +20,7 @@ export default function PresentContinuous() {
   const l = (lang || "english").toLowerCase();
   return (
     <div>
-      <h3 className="text-xl font-medium mb-2">Present Tense</h3>
+      <h3 className="text-xl font-medium mb-2">Present Continuous</h3>
       <h6>{texts[l]}</h6>
     </div>
   );
